@@ -67,10 +67,11 @@
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/models/contact_spec.rb" timestamp="1477553762917">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/.gitignore" timestamp="1477576881333">
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/.gitignore" timestamp="1477579618712">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
+        <mark key="^" line="15" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -152,28 +153,28 @@
         <text encoding="base64">LmlkZWEvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">LmlkZWEvCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">LmlkZWEvCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">LmlkZWEgLmlkZWEK</text>
       </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">LmlkZWEvCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBpdCAicmVuZGVycyB0aGUgOnNob3cgdGVtcGxhdGUgZm9yIHRoZSBwaG9uZSIgZG8KICAgICAgY29udGFjdCA9IGNyZWF0ZSg6Y29udGFjdCkKICAgICAgcGhvbmUgPSBjcmVhdGUoOnBob25lLCBjb250YWN0OiBjb250YWN0KQogICAgICBnZXQgOnNob3csIGlkOiBwaG9uZSwgY29udGFjdF9pZDogY29udGFjdC5pZAogICAgICBleHBlY3QocmVzcG9uc2UpLnRvIHJlbmRlcl90ZW1wbGF0ZSA6c2hvdwogICAgZW5k</text>
+      <register name="6" type="2">
+        <text encoding="base64">LmlkZWEvCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">LmlkZWEvCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">LmlkZWEgLmlkZWEK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
