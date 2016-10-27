@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" timestamp="1477555233138">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="36" column="51" />
-        <mark key="]" line="31" column="5" />
-        <mark key="^" line="31" column="5" />
-        <mark key="." line="31" column="5" />
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" timestamp="1477559944008">
+        <mark key="'" line="65" column="20" />
+        <mark key="[" line="65" column="22" />
+        <mark key="]" line="65" column="45" />
+        <mark key="." line="65" column="45" />
+        <mark key="^" line="65" column="45" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/models/phone_spec.rb" timestamp="1477542517402">
         <mark key="[" line="36" column="39" />
@@ -54,12 +54,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/factories/contacts.rb" timestamp="1477553891499">
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/factories/contacts.rb" timestamp="1477556288664">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="35" />
-        <mark key="]" line="5" column="3" />
-        <mark key="." line="5" column="3" />
-        <mark key="^" line="5" column="3" />
+        <mark key="[" line="13" column="7" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/factories/phones.rb" timestamp="1477552379743">
         <mark key="[" line="3" column="10" />
@@ -127,66 +127,86 @@
       <jump line="48" column="4" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
       <jump line="4" column="4" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
       <jump line="50" column="4" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
+      <jump line="96" column="46" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
+      <jump line="103" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
+      <jump line="94" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
+      <jump line="113" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
+      <jump line="144" column="5" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
+      <jump line="186" column="22" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
+      <jump line="56" column="49" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
+      <jump line="11" column="55" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
+      <jump line="65" column="20" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">IyA=</text>
+        <text>without</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcGhvbmVfdHlwZSAnd29yaycK</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QoYXNzaWducyg6Y29udGVudHMpKS50byBtYXRjaF9hcnJheShbc21pdGhdKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICBpdCAicmVuZGVycyB0aGUgOnNob3cgdGVtcGxhdGUgZm9yIHRoZSBwaG9uZSIgZG8KICAgICAgY29udGFjdCA9IGNyZWF0ZSg6Y29udGFjdCkKICAgICAgcGhvbmUgPSBjcmVhdGUoOnBob25lLCBjb250YWN0OiBjb250YWN0KQogICAgICBnZXQgOnNob3csIGlkOiBwaG9uZSwgY29udGFjdF9pZDogY29udGFjdC5pZAogICAgICBleHBlY3QocmVzcG9uc2UpLnRvIHJlbmRlcl90ZW1wbGF0ZSA6c2hvdwogICAgZW5k</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICBzbWl0aCA9IGNyZWF0ZSg6Y29udGFjdCwgbGFzdG5hbWU6ICdTbWl0aCcpCiAgICAgICAgam9uZXMgPSBjcmVhdGUoOmNvbnRhY3QsIGxhc3RuYW1lOiAnSm9uZXMnKQogICAgICAgIGdldCA6aW5kZXgKICAgICAgICBleHBlY3QoYXNzaWducyg6Y29udGFjdHMpKS50byBtYXRjaF9hcnJheShbc21pdGgsIGpvbmVzXSkK</text>
       </register>
       <register name="5" type="4">
-        <text>Contact.create(
-          firstname: 'John',
-          lastname: 'Smith',
-          email: 'jsmith@example.com'
-      )</text>
+        <text encoding="base64">CiAgICAgICAgc21pdGggPSBjcmVhdGUoOmNvbnRhY3QsIGxhc3RuYW1lOiAnU21pdGgnKQogICAgICAgIGpvbmVzID0gY3JlYXRlKDpjb250YWN0LCBsYXN0bmFtZTogJ0pvbmVzJykKICAgICAgICBnZXQgOmluZGV4LCBsZXR0ZXI6ICdTJwogICAgICAgIGV4cGVjdChhc3NpZ25zKDpjb250ZW50cykpLnRvIG1hdGNoX2FycmF5KFtzbWl0aF0p</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzbWl0aCA9IGNyZWF0ZSg6Y29udGFjdCwgbGFzdG5hbWU6ICdTbWl0aCcpCiAgICAgICAgam9uZXMgPSBjcmVhdGUoOmNvbnRhY3QsIGxhc3RuYW1lOiAnSm9uZXMnKQogICAgICAgIGdldCA6aW5kZXgsIGxldHRlcjogJ1MnCiAgICAgICAgZXhwZWN0KGFzc2lnbnMoOmNvbnRlbnRzKSkudG8gbWF0Y2hfYXJyYXkoW3NtaXRoXSkK</text>
       </register>
-      <register name="7" type="4">
-        <text>contact = Contact.new(
-        firstname: 'Aaron',
-        lastname: 'Sumner',
-        email: 'tester@example.com')</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBqb25lcyA9IGNyZWF0ZSg6Y29udGFjdCwgbGFzdG5hbWU6ICdKb25lcycpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhZnRlcig6YnVpbGQpIGRvIHxjb250YWN0fAogICAgWzpob21lX3Bob25lLCA6d29ya19waG9uZSwgOm1vYmlsZV9waG9uZV0uZWFjaCBkbyB8cGhvbmV8CiAgICAgIGNvbnRhY3QucGhvbmVzIDw8IEZhY3RvcnlHaXJsLmJ1aWxkKDpwaG9uZSwgcGhvbmVfdHlwZTogcGhvbmUsIGNvbnRhY3Q6IGNvbnRhY3QpCiAgICBlbmQKICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QocmVzcG9uc2UpCg==</text>
       </register>
       <register name="9" type="4">
-        <text>contact.phones.build(
-      phone_type: 'mobile',
-      phone: '785-555-1234'
-    )</text>
+        <text># 有効な属性の場合
+    context &quot;with valid attributes&quot; do
+      # データベースの連絡先を更新すること
+      it &quot;updates the contact in the database&quot; do
+        patch :update, id: @contact, contact: attributes_for(:contact)
+        expect(assigns(:contact)).to eq @contact
+      end
+
+      # 更新した連絡先のページへリダイレクトすること
+      it &quot;redirects to the contact&quot; do
+
+      end
+    end
+
+    # 無効な属性の場合
+    context &quot;with invalid attributes&quot; do
+      # 連絡先を更新しないこと
+      it &quot;does not update the contact&quot;
+      # :edit テンプレートを再表示すること
+      it &quot;re-renders the :edit template&quot;
+    end
+  end</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">IyA=</last-search>
+      <last-search>without</last-search>
       <last-offset />
-      <last-pattern encoding="base64">IyA=</last-pattern>
+      <last-pattern>without</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -196,6 +216,7 @@
         <entry>&quot;</entry>
         <entry encoding="base64">XDxhdHRyaWJ1dGVzXD4=</entry>
         <entry encoding="base64">IyA=</entry>
+        <entry>without</entry>
       </history-search>
       <history-cmd>
         <entry>action FindNext</entry>
@@ -228,6 +249,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
