@@ -9,6 +9,15 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/models/phone_spec.rb" timestamp="1477542517402">
+        <mark key="[" line="36" column="39" />
+        <mark key="]" line="37" column="4" />
+        <mark key="^" line="37" column="4" />
+        <mark key="." line="37" column="4" />
+      </file>
+      <file name="/Ruby Console" timestamp="1477543666269">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/Gemfile" timestamp="1477538831343">
         <mark key="]" line="53" column="3" />
         <mark key="^" line="53" column="3" />
@@ -19,33 +28,97 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" timestamp="1477544369254">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="3" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
+      <jump line="9" column="47" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
+      <jump line="2" column="17" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
+      <jump line="5" column="36" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
+      <jump line="6" column="35" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
+      <jump line="7" column="41" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
+      <jump line="8" column="5" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
+      <jump line="20" column="47" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
+      <jump line="4" column="51" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
+      <jump line="12" column="36" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
+      <jump line="15" column="65" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
+      <jump line="17" column="35" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
+      <jump line="18" column="41" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
+      <jump line="19" column="5" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
+      <jump line="64" column="29" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
+      <jump line="52" column="25" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
+      <jump line="83" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
+    </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">c3BlYy8K</text>
-      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">c3BlYy8K</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
+        <text>lastname</text>
+      </register>
+      <register name="/" type="4">
         <text>&quot;</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnRhY3QgPSBDb250YWN0Lm5ldyhsYXN0bmFtZTogbmlsKQogICAgY29udGFjdC52YWxpZD8KICAgIGV4cGVjdChjb250YWN0LmVycm9yc1s6bGFzdG5hbWVdKS50byBpbmNsdWRlKCJjYW4ndCBiZSBibGFuayIpCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgZXhwZWN0KENvbnRhY3QuYnlfbGV0dGVyKCJKIikpLm5vdF90byBpbmNsdWRlIEBzbWl0aAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgaXQgIm9taXRzIHJlc3VsdHMgdGhhdCBkbyBub3QgbWF0Y2giIGRvCiAgICBlbmQK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzbWl0aCA9IENvbnRhY3QuY3JlYXRlKAogICAgICAgICAgICBmaXJzdG5hbWU6ICdKb2huJywKICAgICAgICAgICAgbGFzdG5hbWU6ICdTbWl0aCcsCiAgICAgICAgICAgIGVtYWlsOiAnanNtaXRoQGV4YW1wbGUuY29tJwogICAgICAgICkKICAgICAgICBqb25lcyA9IENvbnRhY3QuY3JlYXRlKAogICAgICAgICAgICBmaXJzdG5hbWU6ICdUaW0nLAogICAgICAgICAgICBsYXN0bmFtZTogJ0pvbmVzJywKICAgICAgICAgICAgZW1haWw6ICd0am9uZXNAZXhhbXBsZS5jb20nCiAgICAgICAgKQogICAgICAgIGpvaG5zb24gPSBDb250YWN0LmNyZWF0ZSgKICAgICAgICAgICAgZmlyc3RuYW1lOiAnSm9obicsCiAgICAgICAgICAgIGxhc3RuYW1lOiAnSm9obnNvbicsCiAgICAgICAgICAgIGVtYWlsOiAnampvaG5zb25AZXhhbXBsZS5jb20nCiAgICAgICAgKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBleHBlY3QoQ29udGFjdC5ieV9sZXR0ZXIoIkoiKSkubm90X3RvIGluY2x1ZGUgc21pdGggZW5kCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgc21pdGggPSBDb250YWN0LmNyZWF0ZSgKICAgICAgICAgIGZpcnN0bmFtZTogJ0pvaG4nLAogICAgICAgICAgbGFzdG5hbWU6ICdTbWl0aCcsCiAgICAgICAgICBlbWFpbDogJ2pzbWl0aEBleGFtcGxlLmNvbScKICAgICAgKQogICAgICBqb25lcyA9IENvbnRhY3QuY3JlYXRlKAogICAgICAgICAgZmlyc3RuYW1lOiAnVGltJywKICAgICAgICAgIGxhc3RuYW1lOiAnSm9uZXMnLAogICAgICAgICAgZW1haWw6ICd0am9uZXNAZXhhbXBsZS5jb20nCiAgICAgICkKICAgICAgam9obnNvbiA9IENvbnRhY3QuY3JlYXRlKAogICAgICAgICAgZmlyc3RuYW1lOiAnSm9obicsCiAgICAgICAgICBsYXN0bmFtZTogJ0pvaG5zb24nLAogICAgICAgICAgZW1haWw6ICdqam9obnNvbkBleGFtcGxlLmNvbScKICAgICAgKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgc21pdGggPSBDb250YWN0LmNyZWF0ZSgKICAgICAgICAgIGZpcnN0bmFtZTogJ0pvaG4nLAogICAgICAgICAgbGFzdG5hbWU6ICdTbWl0aCcsCiAgICAgICAgICBlbWFpbDogJ2pzbWl0aEBleGFtcGxlLmNvbScKICAgICAgKQogICAgICBqb25lcyA9IENvbnRhY3QuY3JlYXRlKAogICAgICAgICAgZmlyc3RuYW1lOiAnVGltJywKICAgICAgICAgIGxhc3RuYW1lOiAnSm9uZXMnLAogICAgICAgICAgZW1haWw6ICd0am9uZXNAZXhhbXBsZS5jb20nCiAgICAgICkKICAgICAgam9obnNvbiA9IENvbnRhY3QuY3JlYXRlKAogICAgICAgICAgZmlyc3RuYW1lOiAnSm9obicsCiAgICAgICAgICBsYXN0bmFtZTogJ0pvaG5zb24nLAogICAgICAgICAgZW1haWw6ICdqam9obnNvbkBleGFtcGxlLmNvbScKICAgICAgKQo=</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>&quot;</last-search>
+      <last-offset />
+      <last-pattern>&quot;</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>,</entry>
+        <entry>&quot;</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
     </editor>
