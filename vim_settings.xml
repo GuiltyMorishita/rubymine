@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" timestamp="1477559944008">
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" timestamp="1477576704851">
         <mark key="'" line="65" column="20" />
         <mark key="[" line="65" column="22" />
         <mark key="]" line="65" column="45" />
@@ -57,9 +57,6 @@
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/factories/contacts.rb" timestamp="1477556288664">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="13" column="7" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/factories/phones.rb" timestamp="1477552379743">
         <mark key="[" line="3" column="10" />
@@ -70,10 +67,10 @@
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/models/contact_spec.rb" timestamp="1477553762917">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/.gitignore" timestamp="1477539433494">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/.gitignore" timestamp="1477576881333">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -143,7 +140,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IGlkZWEv</text>
       </register>
       <register name="/" type="4">
         <text>without</text>
@@ -152,52 +149,31 @@
         <text encoding="base64">ICAgICAgICBleHBlY3QoYXNzaWducyg6Y29udGVudHMpKS50byBtYXRjaF9hcnJheShbc21pdGhdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LmlkZWEvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBpdCAicmVuZGVycyB0aGUgOnNob3cgdGVtcGxhdGUgZm9yIHRoZSBwaG9uZSIgZG8KICAgICAgY29udGFjdCA9IGNyZWF0ZSg6Y29udGFjdCkKICAgICAgcGhvbmUgPSBjcmVhdGUoOnBob25lLCBjb250YWN0OiBjb250YWN0KQogICAgICBnZXQgOnNob3csIGlkOiBwaG9uZSwgY29udGFjdF9pZDogY29udGFjdC5pZAogICAgICBleHBlY3QocmVzcG9uc2UpLnRvIHJlbmRlcl90ZW1wbGF0ZSA6c2hvdwogICAgZW5k</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzbWl0aCA9IGNyZWF0ZSg6Y29udGFjdCwgbGFzdG5hbWU6ICdTbWl0aCcpCiAgICAgICAgam9uZXMgPSBjcmVhdGUoOmNvbnRhY3QsIGxhc3RuYW1lOiAnSm9uZXMnKQogICAgICAgIGdldCA6aW5kZXgKICAgICAgICBleHBlY3QoYXNzaWducyg6Y29udGFjdHMpKS50byBtYXRjaF9hcnJheShbc21pdGgsIGpvbmVzXSkK</text>
+        <text encoding="base64">LmlkZWEvCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgc21pdGggPSBjcmVhdGUoOmNvbnRhY3QsIGxhc3RuYW1lOiAnU21pdGgnKQogICAgICAgIGpvbmVzID0gY3JlYXRlKDpjb250YWN0LCBsYXN0bmFtZTogJ0pvbmVzJykKICAgICAgICBnZXQgOmluZGV4LCBsZXR0ZXI6ICdTJwogICAgICAgIGV4cGVjdChhc3NpZ25zKDpjb250ZW50cykpLnRvIG1hdGNoX2FycmF5KFtzbWl0aF0p</text>
+      <register name="5" type="2">
+        <text encoding="base64">LmlkZWEvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzbWl0aCA9IGNyZWF0ZSg6Y29udGFjdCwgbGFzdG5hbWU6ICdTbWl0aCcpCiAgICAgICAgam9uZXMgPSBjcmVhdGUoOmNvbnRhY3QsIGxhc3RuYW1lOiAnSm9uZXMnKQogICAgICAgIGdldCA6aW5kZXgsIGxldHRlcjogJ1MnCiAgICAgICAgZXhwZWN0KGFzc2lnbnMoOmNvbnRlbnRzKSkudG8gbWF0Y2hfYXJyYXkoW3NtaXRoXSkK</text>
+        <text encoding="base64">LmlkZWEgLmlkZWEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBqb25lcyA9IGNyZWF0ZSg6Y29udGFjdCwgbGFzdG5hbWU6ICdKb25lcycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QocmVzcG9uc2UpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="4">
-        <text># 有効な属性の場合
-    context &quot;with valid attributes&quot; do
-      # データベースの連絡先を更新すること
-      it &quot;updates the contact in the database&quot; do
-        patch :update, id: @contact, contact: attributes_for(:contact)
-        expect(assigns(:contact)).to eq @contact
-      end
-
-      # 更新した連絡先のページへリダイレクトすること
-      it &quot;redirects to the contact&quot; do
-
-      end
-    end
-
-    # 無効な属性の場合
-    context &quot;with invalid attributes&quot; do
-      # 連絡先を更新しないこと
-      it &quot;does not update the contact&quot;
-      # :edit テンプレートを再表示すること
-      it &quot;re-renders the :edit template&quot;
-    end
-  end</text>
+        <text encoding="base64">ICBpdCAicmVuZGVycyB0aGUgOnNob3cgdGVtcGxhdGUgZm9yIHRoZSBwaG9uZSIgZG8KICAgICAgY29udGFjdCA9IGNyZWF0ZSg6Y29udGFjdCkKICAgICAgcGhvbmUgPSBjcmVhdGUoOnBob25lLCBjb250YWN0OiBjb250YWN0KQogICAgICBnZXQgOnNob3csIGlkOiBwaG9uZSwgY29udGFjdF9pZDogY29udGFjdC5pZAogICAgICBleHBlY3QocmVzcG9uc2UpLnRvIHJlbmRlcl90ZW1wbGF0ZSA6c2hvdwogICAgZW5k</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
