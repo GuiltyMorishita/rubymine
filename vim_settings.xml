@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/.rspec" timestamp="1477539401021">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="21" />
-        <mark key="^" line="2" column="21" />
-        <mark key="." line="2" column="21" />
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" timestamp="1477554774076">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="4" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="33" column="4" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/models/phone_spec.rb" timestamp="1477542517402">
         <mark key="[" line="36" column="39" />
@@ -18,29 +19,11 @@
       <file name="/Ruby Console" timestamp="1477543666269">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/factories/contacts.rb" timestamp="1477550190953">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="2" />
-        <mark key="]" line="6" column="3" />
-        <mark key="^" line="4" column="18" />
-        <mark key="." line="6" column="3" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/models/contact_spec.rb" timestamp="1477550153345">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="80" column="0" />
-      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/log/test.log" timestamp="1477552290965" />
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/Gemfile" timestamp="1477538831343">
         <mark key="]" line="53" column="3" />
         <mark key="^" line="53" column="3" />
         <mark key="." line="53" column="3" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/.gitignore" timestamp="1477539433494">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" timestamp="1477546598309">
         <mark key="'" line="91" column="0" />
@@ -48,6 +31,50 @@
         <mark key="]" line="13" column="42" />
         <mark key="." line="13" column="42" />
         <mark key="^" line="13" column="42" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/models/contact.rb" timestamp="1477553387980">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="6" column="36" />
+        <mark key="^" line="6" column="36" />
+        <mark key="." line="6" column="36" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/rails_helper.rb" timestamp="1477551606417">
+        <mark key="[" line="41" column="44" />
+        <mark key="]" line="43" column="44" />
+        <mark key="^" line="43" column="44" />
+        <mark key="." line="43" column="44" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/.rspec" timestamp="1477539401021">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="21" />
+        <mark key="^" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/spec_helper.rb" timestamp="1477551597191">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/factories/contacts.rb" timestamp="1477553891499">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+        <mark key="^" line="5" column="3" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/factories/phones.rb" timestamp="1477552379743">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="43" />
+        <mark key="." line="3" column="43" />
+        <mark key="^" line="3" column="43" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/models/contact_spec.rb" timestamp="1477553762917">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/.gitignore" timestamp="1477539433494">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -76,52 +103,64 @@
       <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/models/contact_spec.rb" />
       <jump line="6" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/factories/contacts.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/factories/contacts.rb" />
+      <jump line="14" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
+      <jump line="1" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
+      <jump line="53" column="1" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
+      <jump line="10" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnRhY3QgPSBGYWN0b3J5R2lybC5idWlsZCg6Y29udGFjdCwgbGFzdG5hbWU6IG5pbCkK</text>
+        <text encoding="base64">ICAgICAgcGhvbmVfdHlwZSAnd29yaycK</text>
       </register>
-      <register name="1" type="4">
-        <text>Contact.new(
-      firstname: 'Jane', lastname: 'Tester',
-      email: 'tester@example.com'
-    )</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIENvbnRhY3QuY3JlYXRlKAogICAgICBmaXJzdG5hbWU6ICdKb2UnLCBsYXN0bmFtZTogJ1Rlc3RlcicsCiAgICAgIGVtYWlsOiAndGVzdGVyQGV4YW1wbGUuY29tJwogICAgKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnRhY3QgPSBDb250YWN0Lm5ldyhlbWFpbDogbmlsKQo=</text>
-      </register>
-      <register name="4" type="2">
+      <register name="1" type="2">
         <text encoding="base64">ICBlbmQK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBkZXNjcmliZSBDb250YWN0IGRvCg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZW5kCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>Contact.create(
+          firstname: 'John',
+          lastname: 'Smith',
+          email: 'jsmith@example.com'
+      )</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="4">
+        <text>contact = Contact.new(
+        firstname: 'Aaron',
+        lastname: 'Sumner',
+        email: 'tester@example.com')</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZXNjcmliZSBDb250YWN0IGRvCiAgICBpdCAiaGFzIGEgdmFsaWQgZmFjdG9yeSIgZG8KICAgICAgZXhwZWN0KEZhY3RvcnlHaXJsLmJ1aWxkKDpjb250YWN0KSkudG8gYmVfdmFsaWQKICAgIGVuZAogIGVuZAo=</text>
+        <text encoding="base64">ICBhZnRlcig6YnVpbGQpIGRvIHxjb250YWN0fAogICAgWzpob21lX3Bob25lLCA6d29ya19waG9uZSwgOm1vYmlsZV9waG9uZV0uZWFjaCBkbyB8cGhvbmV8CiAgICAgIGNvbnRhY3QucGhvbmVzIDw8IEZhY3RvcnlHaXJsLmJ1aWxkKDpwaG9uZSwgcGhvbmVfdHlwZTogcGhvbmUsIGNvbnRhY3Q6IGNvbnRhY3QpCiAgICBlbmQKICBlbmQK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>contact.phones.build(
+      phone_type: 'mobile',
+      phone: '785-555-1234'
+    )</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KENvbnRhY3QuYnlfbGV0dGVyKCJKIikpLm5vdF90byBpbmNsdWRlIEBzbWl0aAo=</text>
+        <text encoding="base64">ICAgICAgcGhvbmVfdHlwZTogJ2hvbWUnLAogICAgICBwaG9uZTogJzc4NS01NTUtMTIzNCcKICAgICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnRhY3QucGhvbmVzLmNyZWF0ZSgK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -137,17 +176,17 @@
         <entry>&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>action Find</entry>
         <entry>action FindNext</entry>
         <entry>action FindPrevious</entry>
         <entry>action AceJumpAction</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action QuickJavaDoc</entry>
-        <entry>action CloseContent</entry>
-        <entry>source ~/.ideavimrc</entry>
-        <entry>action RecentFiles</entry>
         <entry>action GotoClass</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action CloseContent</entry>
         <entry>action GotoFile</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
