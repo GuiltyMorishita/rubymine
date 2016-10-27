@@ -18,18 +18,19 @@
       <file name="/Ruby Console" timestamp="1477543666269">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/factories/contacts.rb" timestamp="1477548670836">
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="18" />
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/factories/contacts.rb" timestamp="1477550190953">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="6" column="2" />
+        <mark key="]" line="6" column="3" />
         <mark key="^" line="4" column="18" />
-        <mark key="." line="4" column="18" />
+        <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/models/contact_spec.rb" timestamp="1477549515575">
-        <mark key="'" line="80" column="0" />
-        <mark key="[" line="39" column="16" />
-        <mark key="]" line="39" column="16" />
-        <mark key="." line="39" column="16" />
-        <mark key="^" line="39" column="16" />
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/models/contact_spec.rb" timestamp="1477550153345">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="80" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/Gemfile" timestamp="1477538831343">
         <mark key="]" line="53" column="3" />
@@ -48,7 +49,6 @@
         <mark key="." line="13" column="42" />
         <mark key="^" line="13" column="42" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/models/contact.rb" timestamp="1477546922940" />
     </filemarks>
     <jumps>
       <jump line="3" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
@@ -70,13 +70,19 @@
       <jump line="83" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
       <jump line="72" column="4" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/models/contact_spec.rb" />
       <jump line="83" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/models/contact_spec.rb" />
+      <jump line="25" column="3" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/models/contact_spec.rb" />
+      <jump line="32" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/models/contact_spec.rb" />
+      <jump line="80" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/models/contact_spec.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/models/contact_spec.rb" />
+      <jump line="6" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/factories/contacts.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/factories/contacts.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>contact</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>contact</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -114,6 +120,9 @@
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name=":" type="4">
+        <text>action GotoFile</text>
+      </register>
     </registers>
     <search>
       <last-search>&quot;</last-search>
@@ -127,7 +136,19 @@
         <entry>,</entry>
         <entry>&quot;</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>action Find</entry>
+        <entry>action FindNext</entry>
+        <entry>action FindPrevious</entry>
+        <entry>action AceJumpAction</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action QuickJavaDoc</entry>
+        <entry>action CloseContent</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action GotoClass</entry>
+        <entry>action GotoFile</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
@@ -137,6 +158,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
