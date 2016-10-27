@@ -18,6 +18,19 @@
       <file name="/Ruby Console" timestamp="1477543666269">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/factories/contacts.rb" timestamp="1477548670836">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="18" />
+        <mark key="^" line="4" column="18" />
+        <mark key="." line="4" column="18" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/models/contact_spec.rb" timestamp="1477549515575">
+        <mark key="'" line="80" column="0" />
+        <mark key="[" line="39" column="16" />
+        <mark key="]" line="39" column="16" />
+        <mark key="." line="39" column="16" />
+        <mark key="^" line="39" column="16" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/Gemfile" timestamp="1477538831343">
         <mark key="]" line="53" column="3" />
         <mark key="^" line="53" column="3" />
@@ -55,46 +68,51 @@
       <jump line="64" column="29" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
       <jump line="52" column="25" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
       <jump line="83" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
+      <jump line="72" column="4" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/models/contact_spec.rb" />
+      <jump line="83" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/models/contact_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>nil</text>
+        <text>contact</text>
       </register>
       <register name="-" type="4">
-        <text>nil</text>
+        <text>contact</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnRhY3QgPSBDb250YWN0Lm5ldyhsYXN0bmFtZTogbmlsKQogICAgY29udGFjdC52YWxpZD8KICAgIGV4cGVjdChjb250YWN0LmVycm9yc1s6bGFzdG5hbWVdKS50byBpbmNsdWRlKCJjYW4ndCBiZSBibGFuayIpCg==</text>
+        <text encoding="base64">ICAgIGNvbnRhY3QgPSBGYWN0b3J5R2lybC5idWlsZCg6Y29udGFjdCwgbGFzdG5hbWU6IG5pbCkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>Contact.new(
+      firstname: 'Jane', lastname: 'Tester',
+      email: 'tester@example.com'
+    )</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KENvbnRhY3QuYnlfbGV0dGVyKCJKIikpLm5vdF90byBpbmNsdWRlIEBzbWl0aAo=</text>
+        <text encoding="base64">ICAgIENvbnRhY3QuY3JlYXRlKAogICAgICBmaXJzdG5hbWU6ICdKb2UnLCBsYXN0bmFtZTogJ1Rlc3RlcicsCiAgICAgIGVtYWlsOiAndGVzdGVyQGV4YW1wbGUuY29tJwogICAgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnRhY3QgPSBDb250YWN0Lm5ldyhlbWFpbDogbmlsKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaXQgIm9taXRzIHJlc3VsdHMgdGhhdCBkbyBub3QgbWF0Y2giIGRvCiAgICBlbmQK</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZXNjcmliZSBDb250YWN0IGRvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzbWl0aCA9IENvbnRhY3QuY3JlYXRlKAogICAgICAgICAgICBmaXJzdG5hbWU6ICdKb2huJywKICAgICAgICAgICAgbGFzdG5hbWU6ICdTbWl0aCcsCiAgICAgICAgICAgIGVtYWlsOiAnanNtaXRoQGV4YW1wbGUuY29tJwogICAgICAgICkKICAgICAgICBqb25lcyA9IENvbnRhY3QuY3JlYXRlKAogICAgICAgICAgICBmaXJzdG5hbWU6ICdUaW0nLAogICAgICAgICAgICBsYXN0bmFtZTogJ0pvbmVzJywKICAgICAgICAgICAgZW1haWw6ICd0am9uZXNAZXhhbXBsZS5jb20nCiAgICAgICAgKQogICAgICAgIGpvaG5zb24gPSBDb250YWN0LmNyZWF0ZSgKICAgICAgICAgICAgZmlyc3RuYW1lOiAnSm9obicsCiAgICAgICAgICAgIGxhc3RuYW1lOiAnSm9obnNvbicsCiAgICAgICAgICAgIGVtYWlsOiAnampvaG5zb25AZXhhbXBsZS5jb20nCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICBkZXNjcmliZSBDb250YWN0IGRvCiAgICBpdCAiaGFzIGEgdmFsaWQgZmFjdG9yeSIgZG8KICAgICAgZXhwZWN0KEZhY3RvcnlHaXJsLmJ1aWxkKDpjb250YWN0KSkudG8gYmVfdmFsaWQKICAgIGVuZAogIGVuZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QoQ29udGFjdC5ieV9sZXR0ZXIoIkoiKSkubm90X3RvIGluY2x1ZGUgc21pdGggZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc21pdGggPSBDb250YWN0LmNyZWF0ZSgKICAgICAgICAgIGZpcnN0bmFtZTogJ0pvaG4nLAogICAgICAgICAgbGFzdG5hbWU6ICdTbWl0aCcsCiAgICAgICAgICBlbWFpbDogJ2pzbWl0aEBleGFtcGxlLmNvbScKICAgICAgKQogICAgICBqb25lcyA9IENvbnRhY3QuY3JlYXRlKAogICAgICAgICAgZmlyc3RuYW1lOiAnVGltJywKICAgICAgICAgIGxhc3RuYW1lOiAnSm9uZXMnLAogICAgICAgICAgZW1haWw6ICd0am9uZXNAZXhhbXBsZS5jb20nCiAgICAgICkKICAgICAgam9obnNvbiA9IENvbnRhY3QuY3JlYXRlKAogICAgICAgICAgZmlyc3RuYW1lOiAnSm9obicsCiAgICAgICAgICBsYXN0bmFtZTogJ0pvaG5zb24nLAogICAgICAgICAgZW1haWw6ICdqam9obnNvbkBleGFtcGxlLmNvbScKICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KENvbnRhY3QuYnlfbGV0dGVyKCJKIikpLm5vdF90byBpbmNsdWRlIEBzbWl0aAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc21pdGggPSBDb250YWN0LmNyZWF0ZSgKICAgICAgICAgIGZpcnN0bmFtZTogJ0pvaG4nLAogICAgICAgICAgbGFzdG5hbWU6ICdTbWl0aCcsCiAgICAgICAgICBlbWFpbDogJ2pzbWl0aEBleGFtcGxlLmNvbScKICAgICAgKQogICAgICBqb25lcyA9IENvbnRhY3QuY3JlYXRlKAogICAgICAgICAgZmlyc3RuYW1lOiAnVGltJywKICAgICAgICAgIGxhc3RuYW1lOiAnSm9uZXMnLAogICAgICAgICAgZW1haWw6ICd0am9uZXNAZXhhbXBsZS5jb20nCiAgICAgICkKICAgICAgam9obnNvbiA9IENvbnRhY3QuY3JlYXRlKAogICAgICAgICAgZmlyc3RuYW1lOiAnSm9obicsCiAgICAgICAgICBsYXN0bmFtZTogJ0pvaG5zb24nLAogICAgICAgICAgZW1haWw6ICdqam9obnNvbkBleGFtcGxlLmNvbScKICAgICAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
