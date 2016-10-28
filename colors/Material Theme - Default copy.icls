@@ -1459,7 +1459,7 @@
     </option>
     <option name="RUBY_IVAR">
       <value>
-        <option name="FOREGROUND" value="ff4d5d" />
+        <option name="FOREGROUND" value="ff5c6f" />
       </value>
     </option>
     <option name="RUBY_KEYWORD">
@@ -1474,7 +1474,7 @@
     </option>
     <option name="RUBY_LOCAL_VAR_ID">
       <value>
-        <option name="FOREGROUND" value="eeffff" />
+        <option name="FOREGROUND" value="b0ffe0" />
       </value>
     </option>
     <option name="RUBY_METHOD_NAME">
@@ -1500,7 +1500,7 @@
     </option>
     <option name="RUBY_PARAMETER_ID">
       <value>
-        <option name="FOREGROUND" value="f762c5" />
+        <option name="FOREGROUND" value="f79abf" />
       </value>
     </option>
     <option name="RUBY_REGEXP">
