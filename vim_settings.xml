@@ -7,12 +7,11 @@
         <mark key="[" line="2" column="29" />
         <mark key="]" line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/users_spec.rb" timestamp="1477625529659">
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/users_spec.rb" timestamp="1477626905086">
         <mark key="'" line="3" column="2" />
-        <mark key="[" line="17" column="35" />
-        <mark key="]" line="19" column="21" />
-        <mark key="^" line="19" column="21" />
-        <mark key="." line="19" column="21" />
+        <mark key="]" line="3" column="21" />
+        <mark key="^" line="3" column="21" />
+        <mark key="." line="3" column="21" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/support/login_macros.rb" timestamp="1477626122801">
         <mark key="'" line="8" column="4" />
@@ -67,6 +66,7 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/controllers/contacts_controller.rb" timestamp="1477626830741" />
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/spec_helper.rb" timestamp="1477551597191">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -82,7 +82,7 @@
         <mark key="." line="3" column="43" />
         <mark key="^" line="3" column="43" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/factories/users.rb" timestamp="1477582171853">
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/factories/users.rb" timestamp="1477627379608">
         <mark key="'" line="4" column="32" />
         <mark key="[" line="4" column="34" />
         <mark key="]" line="7" column="15" />
