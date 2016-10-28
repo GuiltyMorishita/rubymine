@@ -13,13 +13,6 @@
         <mark key="^" line="3" column="21" />
         <mark key="." line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/support/login_macros.rb" timestamp="1477626122801">
-        <mark key="'" line="8" column="4" />
-        <mark key="[" line="10" column="25" />
-        <mark key="]" line="8" column="4" />
-        <mark key="^" line="7" column="3" />
-        <mark key="." line="8" column="4" />
-      </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/models/phone_spec.rb" timestamp="1477542517402">
         <mark key="[" line="36" column="39" />
         <mark key="]" line="37" column="4" />
@@ -66,7 +59,6 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/controllers/contacts_controller.rb" timestamp="1477626830741" />
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/spec_helper.rb" timestamp="1477551597191">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
