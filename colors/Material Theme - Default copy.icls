@@ -1,11 +1,4 @@
 <scheme name="Material Theme - Default copy" version="142" parent_scheme="Default">
-  <metaInfo>
-    <property name="created">2016-10-26T15:05:59</property>
-    <property name="ide">Ruby</property>
-    <property name="ideVersion">2016.2.4.0.0</property>
-    <property name="modified">2016-10-27T15:07:10</property>
-    <property name="originalScheme">Material Theme - Default</property>
-  </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Ricty Diminished Discord" />
@@ -1400,12 +1393,12 @@
     </option>
     <option name="RUBY_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="ffc168" />
+        <option name="FOREGROUND" value="ffb852" />
       </value>
     </option>
     <option name="RUBY_CONSTANT_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="ffcb6b" />
+        <option name="FOREGROUND" value="fff43b" />
       </value>
     </option>
     <option name="RUBY_CVAR">
@@ -1466,12 +1459,12 @@
     </option>
     <option name="RUBY_IVAR">
       <value>
-        <option name="FOREGROUND" value="ff6970" />
+        <option name="FOREGROUND" value="ff4d5d" />
       </value>
     </option>
     <option name="RUBY_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="c792ea" />
+        <option name="FOREGROUND" value="b58fea" />
       </value>
     </option>
     <option name="RUBY_LINE_CONTINUATION">
@@ -1507,7 +1500,7 @@
     </option>
     <option name="RUBY_PARAMETER_ID">
       <value>
-        <option name="FOREGROUND" value="f78c6c" />
+        <option name="FOREGROUND" value="f762c5" />
       </value>
     </option>
     <option name="RUBY_REGEXP">

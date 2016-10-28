@@ -7,8 +7,19 @@
         <mark key="[" line="2" column="29" />
         <mark key="]" line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/users_spec.rb" timestamp="1477623487075">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/users_spec.rb" timestamp="1477625529659">
+        <mark key="'" line="3" column="2" />
+        <mark key="[" line="17" column="35" />
+        <mark key="]" line="19" column="21" />
+        <mark key="^" line="19" column="21" />
+        <mark key="." line="19" column="21" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/support/login_macros.rb" timestamp="1477625682117">
+        <mark key="'" line="8" column="4" />
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="4" />
+        <mark key="^" line="7" column="3" />
+        <mark key="." line="8" column="4" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/models/phone_spec.rb" timestamp="1477542517402">
         <mark key="[" line="36" column="39" />
@@ -178,6 +189,17 @@
       <jump line="32" column="2" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/users_controller_spec.rb" />
       <jump line="30" column="8" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/users_controller_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/users_controller_spec.rb" />
+      <jump line="24" column="13" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/users_spec.rb" />
+      <jump line="25" column="16" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/users_spec.rb" />
+      <jump line="19" column="34" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/users_spec.rb" />
+      <jump line="11" column="18" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/users_spec.rb" />
+      <jump line="5" column="12" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/users_spec.rb" />
+      <jump line="4" column="4" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/users_spec.rb" />
+      <jump line="8" column="4" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/users_spec.rb" />
+      <jump line="9" column="4" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/users_spec.rb" />
+      <jump line="3" column="2" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/users_spec.rb" />
+      <jump line="9" column="4" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/support/login_macros.rb" />
+      <jump line="8" column="4" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/support/login_macros.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -187,46 +209,46 @@
         <text encoding="base64">IGlkZWEv</text>
       </register>
       <register name="/" type="4">
-        <text>without</text>
+        <text encoding="base64">XDxmaWxsX2luXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVzY3JpYmUgQ29udGFjdHNDb250cm9sbGVyIGRvCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+      <register name="1" type="8">
+        <text encoding="base64">NyAKOCAKOSA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZXNjcmliZSAidXNlciBhY2Nlc3MiIGRvCiAgICBiZWZvcmUgOmVhY2ggZG8KICAgICAgQHVzZXIgPSBjcmVhdGUoOnVzZXIpCiAgICAgIHNlc3Npb25bOnVzZXJfaWRdID0gQHVzZXIuaWQKICAgIGVuZAoKICAgIGRlc2NyaWJlICJHRVQgI2luZGV4IiBkbwogICAgICBpdCAiY29sbGVjdHMgdXNlcnMgaW50byBAdXNlcnMiIGRvCiAgICAgICAgdXNlciA9IGNyZWF0ZSg6dXNlcikKICAgICAgICBnZXQgOmluZGV4CiAgICAgICAgZXhwZWN0KGFzc2lnbnMoOnVzZXJzKSkudG8gbWF0Y2hfYXJyYXkoQHVzZXIsIHVzZXIpCiAgICAgIGVuZAogICAgZW5kCgogIGVuZAoK</text>
+        <text encoding="base64">ICAgIGV4cGVjdChjdXJyZW50X3BhdGgpLnRvIGVxIHVzZXJzX3BhdGgKICAgIGV4cGVjdChwYWdlKS50byBoYXZlX2NvbnRlbnQgJ05ldyB1c2VyIGNyZWF0ZWQnCiAgICB3aXRoaW4gJ2gxJyBkbwogICAgICBleHBlY3QocGFnZSkudG8gaGF2ZV9jb250ZW50ICdVc2VycycKICAgIGVuZAogICAgZXhwZWN0KHBhZ2UpLnRvIGhhdmVfY29udGVudCAnbmV3dXNlckBleGFtcGxlLmNvbScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIHZpc2l0IHJvb3RfcGF0aAogICAgY2xpY2tfbGluayAnTG9nIEluJwogICAgZmlsbF9pbiAnRW1haWwnLCB3aXRoOiBhZG1pbi5lbWFpbAogICAgZmlsbF9pbiAnUGFzc3dvcmQnLCB3aXRoOiBhZG1pbi5wYXNzd29yZAogICAgY2xpY2tfYnV0dG9uICdMb2cgSW4nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBkZXNjcmliZSAidXNlciBhY2Nlc3MiIGRvCiAgICBiZWZvcmUgOmVhY2ggZG8KICAgICAgQHVzZXIgPSBjcmVhdGUoOnVzZXIpCiAgICAgIHNlc3Npb25bOnVzZXJfaWRdID0gQHVzZXIuaWQKICAgIGVuZAoKICAgIGRlc2NyaWJlICJHRVQgI2luZGV4IiBkbwogICAgICBpdCAiY29sbGVjdHMgdXNlcnMgaW50byBAdXNlcnMiIGRvCiAgICAgICAgdXNlciA9IGNyZWF0ZSg6dXNlcikKICAgICAgICBnZXQgOmluZGV4CiAgICAgICAgZXhwZWN0KGFzc2lnbnMoOnVzZXJzKSkudG8gbWF0Y2hfYXJyYXkoQHVzZXIsIHVzZXIpCiAgICAgIGVuZAogICAgZW5kCgogIGVuZAoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LmlkZWEvCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LmlkZWEgLmlkZWEK</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LmlkZWEvCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LmlkZWEvCg==</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
       </register>
     </registers>
     <search>
-      <last-search>without</last-search>
+      <last-search encoding="base64">XDxmaWxsX2luXD4=</last-search>
       <last-offset />
-      <last-pattern>without</last-pattern>
+      <last-pattern encoding="base64">XDxmaWxsX2luXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -237,6 +259,14 @@
         <entry encoding="base64">XDxhdHRyaWJ1dGVzXD4=</entry>
         <entry encoding="base64">IyA=</entry>
         <entry>without</entry>
+        <entry encoding="base64">XDxuZXdcPg==</entry>
+        <entry encoding="base64">XDxOZXdcPg==</entry>
+        <entry encoding="base64">XDxhZG1pblw+</entry>
+        <entry encoding="base64">XDxyb290X3BhdGhcPg==</entry>
+        <entry encoding="base64">XDx2aXNpdFw+</entry>
+        <entry encoding="base64">XDxleHBlY3RcPg==</entry>
+        <entry encoding="base64">XDxzY2VuYXJpb1w+</entry>
+        <entry encoding="base64">XDxmaWxsX2luXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action FindNext</entry>
@@ -272,6 +302,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
