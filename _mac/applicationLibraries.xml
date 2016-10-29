@@ -74,6 +74,14 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/addressable-2.4.0/tasks" />
       </SOURCES>
     </library>
+    <library name="archive-zip (v0.7.0, rbenv: 2.1.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/archive-zip-0.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/archive-zip-0.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="arel (v5.0.1.20140414130214, rbenv: 2.1.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/arel-5.0.1.20140414130214/lib" />
@@ -166,6 +174,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/childprocess-0.5.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="chromedriver-helper (v1.0.0, rbenv: 2.1.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/chromedriver-helper-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/chromedriver-helper-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/chromedriver-helper-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/chromedriver-helper-1.0.0/lib" />
       </SOURCES>
     </library>
     <library name="coderay (v1.1.0, rbenv: 2.1.1) [gem]">
@@ -518,6 +536,14 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.1/lib/ruby/2.3.0/bigdecimal" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.1/lib/ruby/2.3.0/x86_64-darwin15" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.1/lib/ruby/2.3.0/unicode_normalize" />
+      </SOURCES>
+    </library>
+    <library name="io-like (v0.3.0, rbenv: 2.1.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/io-like-0.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/io-like-0.3.0/lib" />
       </SOURCES>
     </library>
     <library name="jbuilder (v2.0.7, rbenv: 2.1.1) [gem]">
@@ -952,6 +978,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/selenium-webdriver-2.43.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="selenium-webdriver (v3.0.0, rbenv: 2.1.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/selenium-webdriver-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/selenium-webdriver-3.0.0/lib" />
       </SOURCES>
     </library>
     <library name="slop (v3.6.0, rbenv: 2.1.1) [gem]">
