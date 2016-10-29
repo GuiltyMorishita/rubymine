@@ -3,18 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/support/shared_db_connection.rb" timestamp="1477748463334">
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="9" column="18" />
-        <mark key="^" line="9" column="18" />
-        <mark key="." line="9" column="18" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/users_spec.rb" timestamp="1477752446543">
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/users_spec.rb" timestamp="1477753764223">
         <mark key="'" line="3" column="2" />
         <mark key="[" line="3" column="41" />
-        <mark key="]" line="3" column="5" />
-        <mark key="^" line="3" column="5" />
-        <mark key="." line="3" column="5" />
+        <mark key="]" line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/factories/news_releases.rb" timestamp="1477755887646">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="0" column="13" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/models/phone_spec.rb" timestamp="1477542517402">
         <mark key="[" line="36" column="39" />
@@ -22,14 +22,66 @@
         <mark key="^" line="37" column="4" />
         <mark key="." line="37" column="4" />
       </file>
-      <file name="/Ruby Console" timestamp="1477543666269">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/models/news_release.rb" timestamp="1477755259852">
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="2" column="50" />
+        <mark key="^" line="2" column="50" />
+        <mark key="." line="2" column="50" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/about_us_spec.rb" timestamp="1477752432720">
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/views/layouts/application.html.erb" timestamp="1477754217898">
+        <mark key="[" line="32" column="49" />
+        <mark key="]" line="33" column="57" />
+        <mark key="^" line="33" column="57" />
+        <mark key="." line="33" column="57" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/models/news_release_spec.rb" timestamp="1477756999187">
+        <mark key="[" line="2" column="34" />
+        <mark key="]" line="2" column="46" />
+        <mark key="." line="2" column="46" />
+        <mark key="^" line="2" column="46" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/news_releases_spec.rb" timestamp="1477754388861">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="36" />
+        <mark key="^" line="2" column="36" />
+        <mark key="." line="2" column="36" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/factories/users.rb" timestamp="1477627379608">
+        <mark key="'" line="4" column="32" />
+        <mark key="[" line="4" column="34" />
+        <mark key="]" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+        <mark key="^" line="7" column="15" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/views/news_releases/_form.html.erb" timestamp="1477754720213">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/news_releases_controller_spec.rb" timestamp="1477756357399">
+        <mark key="[" line="2" column="46" />
+        <mark key="]" line="2" column="47" />
+        <mark key="^" line="2" column="47" />
+        <mark key="." line="2" column="47" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/support/shared_db_connection.rb" timestamp="1477748463334">
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="9" column="18" />
+        <mark key="^" line="9" column="18" />
+        <mark key="." line="9" column="18" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/views/news_releases/index.html.erb" timestamp="1477755397088">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="4" column="49" />
+        <mark key="]" line="4" column="44" />
+        <mark key="." line="4" column="44" />
+        <mark key="^" line="4" column="44" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/about_us_spec.rb" timestamp="1477753771751">
         <mark key="[" line="3" column="68" />
-        <mark key="]" line="3" column="5" />
-        <mark key="." line="3" column="5" />
-        <mark key="^" line="3" column="5" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="6" column="24" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/users_controller_spec.rb" timestamp="1477583488454">
         <mark key="'" line="0" column="0" />
@@ -38,11 +90,11 @@
         <mark key="^" line="13" column="59" />
         <mark key="." line="13" column="59" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/Gemfile" timestamp="1477747152655">
-        <mark key="[" line="52" column="36" />
-        <mark key="]" line="53" column="26" />
-        <mark key="." line="53" column="26" />
-        <mark key="^" line="53" column="26" />
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/Gemfile" timestamp="1477753721258">
+        <mark key="[" line="55" column="36" />
+        <mark key="]" line="56" column="26" />
+        <mark key="." line="56" column="26" />
+        <mark key="^" line="56" column="26" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" timestamp="1477546598309">
         <mark key="'" line="91" column="0" />
@@ -57,11 +109,14 @@
         <mark key="^" line="6" column="36" />
         <mark key="." line="6" column="36" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/rails_helper.rb" timestamp="1477749907640">
-        <mark key="[" line="43" column="5" />
-        <mark key="]" line="43" column="4" />
-        <mark key="^" line="43" column="4" />
-        <mark key="." line="43" column="4" />
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/rails_helper.rb" timestamp="1477756854942">
+        <mark key="[" line="65" column="44" />
+        <mark key="]" line="59" column="51" />
+        <mark key="^" line="59" column="51" />
+        <mark key="." line="59" column="51" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/controllers/news_releases_controller.rb" timestamp="1477754819402">
+        <mark key="[" line="30" column="47" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/.rspec" timestamp="1477539401021">
         <mark key="[" line="2" column="0" />
@@ -69,12 +124,10 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/spec_helper.rb" timestamp="1477747200677">
-        <mark key="[" line="15" column="66" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/factories/contacts.rb" timestamp="1477556288664">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="13" column="7" />
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/spec_helper.rb" timestamp="1477754340471">
+        <mark key="]" line="16" column="30" />
+        <mark key="." line="16" column="30" />
+        <mark key="^" line="16" column="30" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/factories/phones.rb" timestamp="1477552379743">
         <mark key="[" line="3" column="10" />
@@ -82,18 +135,11 @@
         <mark key="." line="3" column="43" />
         <mark key="^" line="3" column="43" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/factories/users.rb" timestamp="1477627379608">
-        <mark key="'" line="4" column="32" />
-        <mark key="[" line="4" column="34" />
-        <mark key="]" line="7" column="15" />
-        <mark key="." line="7" column="15" />
-        <mark key="^" line="7" column="15" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/models/contact_spec.rb" timestamp="1477553762917">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/.ruby-version" timestamp="1477752006555">
-        <mark key="[" line="0" column="3" />
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/.ruby-version" timestamp="1477756678891">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/.gitignore" timestamp="1477579618712">
         <mark key="[" line="16" column="0" />
@@ -103,13 +149,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
-      <jump line="9" column="47" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
-      <jump line="2" column="17" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
-      <jump line="5" column="36" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
-      <jump line="6" column="35" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
-      <jump line="7" column="41" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
-      <jump line="8" column="5" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
       <jump line="20" column="47" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
       <jump line="4" column="51" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
       <jump line="12" column="36" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
@@ -203,55 +242,69 @@
       <jump line="3" column="2" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/users_spec.rb" />
       <jump line="9" column="4" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/support/login_macros.rb" />
       <jump line="8" column="4" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/support/login_macros.rb" />
+      <jump line="23" column="28" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/spec_helper.rb" />
+      <jump line="23" column="9" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/views/news_releases/index.html.erb" />
+      <jump line="28" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/views/news_releases/index.html.erb" />
+      <jump line="12" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/views/news_releases/index.html.erb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/views/news_releases/index.html.erb" />
+      <jump line="6" column="28" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/news_releases_controller_spec.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/news_releases_controller_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>scenario</text>
+        <text>MyString</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaWxsX2luXD4=</text>
+        <text encoding="base64">XDx9XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICBleHBlY3QocGFnZSkubm90X3RvIGhhdmVfY29udGVudCAnQWJvdXQgQmlnQ28nCiAgICAgZXhwZWN0KHBhZ2UpLm5vdF90byBoYXZlX2NvbnRlbnQgJ0JpZ0NvIHByb2R1Y2VzIHRoZSBmaW5lc3Qgd2lkZ2V0cyBpbiBhbGwgdGhlIGxhbmQnCg==</text>
+        <text encoding="base64">ICBpdCB7IHNob3VsZCB2YWxpZGF0ZV9wcmVzZW5jZV9vZiA6IH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQgOnNob3csIGlkOiBjb250YWN0Cg==</text>
+        <text encoding="base64">IyBSZWFkIGFib3V0IGZhY3RvcmllcyBhdCBodHRwczovL2dpdGh1Yi5jb20vdGhvdWdodGJvdC9mYWN0b3J5X2dpcmwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb250YWN0ID0gY3JlYXRlKDpjb250YWN0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQgOnNob3csIGlkOiBjb250YWN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb250YWN0Cg==</text>
+      <register name="4" type="4">
+        <text>describe NewsReleasesController, focus: true do
+  describe 'GET #new' do
+    # ログインを要求すること it &quot;requires login&quot; do
+    get :new
+    expect(response).to require_login
+  end
+end</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb250YWN0Cg==</text>
+        <text encoding="base64">cmVxdWlyZSAncmFpbHNfaGVscGVyJwoKIyBUaGlzIHNwZWMgd2FzIGdlbmVyYXRlZCBieSByc3BlYy1yYWlscyB3aGVuIHlvdSByYW4gdGhlIHNjYWZmb2xkIGdlbmVyYXRvci4KIyBJdCBkZW1vbnN0cmF0ZXMgaG93IG9uZSBtaWdodCB1c2UgUlNwZWMgdG8gc3BlY2lmeSB0aGUgY29udHJvbGxlciBjb2RlIHRoYXQKIyB3YXMgZ2VuZXJhdGVkIGJ5IFJhaWxzIHdoZW4geW91IHJhbiB0aGUgc2NhZmZvbGQgZ2VuZXJhdG9yLgojCiMgSXQgYXNzdW1lcyB0aGF0IHRoZSBpbXBsZW1lbnRhdGlvbiBjb2RlIGlzIGdlbmVyYXRlZCBieSB0aGUgcmFpbHMgc2NhZmZvbGQKIyBnZW5lcmF0b3IuICBJZiB5b3UgYXJlIHVzaW5nIGFueSBleHRlbnNpb24gbGlicmFyaWVzIHRvIGdlbmVyYXRlIGRpZmZlcmVudAojIGNvbnRyb2xsZXIgY29kZSwgdGhpcyBnZW5lcmF0ZWQgc3BlYyBtYXkgb3IgbWF5IG5vdCBwYXNzLgojCiMgSXQgb25seSB1c2VzIEFQSXMgYXZhaWxhYmxlIGluIHJhaWxzIGFuZC9vciByc3BlYy1yYWlscy4gIFRoZXJlIGFyZSBhIG51bWJlcgojIG9mIHRvb2xzIHlvdSBjYW4gdXNlIHRvIG1ha2UgdGhlc2Ugc3BlY3MgZXZlbiBtb3JlIGV4cHJlc3NpdmUsIGJ1dCB3ZSdyZQojIHN0aWNraW5nIHRvIHJhaWxzIGFuZCByc3BlYy1yYWlscyBBUElzIHRvIGtlZXAgdGhpbmdzIHNpbXBsZSBhbmQgc3RhYmxlLgojCiMgQ29tcGFyZWQgdG8gZWFybGllciB2ZXJzaW9ucyBvZiB0aGlzIGdlbmVyYXRvciwgdGhlcmUgaXMgdmVyeSBsaW1pdGVkIHVzZSBvZgojIHN0dWJzIGFuZCBtZXNzYWdlIGV4cGVjdGF0aW9ucyBpbiB0aGlzIHNwZWMuICBTdHVicyBhcmUgb25seSB1c2VkIHdoZW4gdGhlcmUKIyBpcyBubyBzaW1wbGVyIHdheSB0byBnZXQgYSBoYW5kbGUgb24gdGhlIG9iamVjdCBuZWVkZWQgZm9yIHRoZSBleGFtcGxlLgojIE1lc3NhZ2UgZXhwZWN0YXRpb25zIGFyZSBvbmx5IHVzZWQgd2hlbiB0aGVyZSBpcyBubyBzaW1wbGVyIHdheSB0byBzcGVjaWZ5CiMgdGhhdCBhbiBpbnN0YW5jZSBpcyByZWNlaXZpbmcgYSBzcGVjaWZpYyBtZXNzYWdlLgoKUlNwZWMuZGVzY3JpYmUgTmV3c1JlbGVhc2VzQ29udHJvbGxlciwgOnR5cGUgPT4gOmNvbnRyb2xsZXIgZG8KCiAgIyBUaGlzIHNob3VsZCByZXR1cm4gdGhlIG1pbmltYWwgc2V0IG9mIGF0dHJpYnV0ZXMgcmVxdWlyZWQgdG8gY3JlYXRlIGEgdmFsaWQKICAjIE5ld3NSZWxlYXNlLiBBcyB5b3UgYWRkIHZhbGlkYXRpb25zIHRvIE5ld3NSZWxlYXNlLCBiZSBzdXJlIHRvCiAgIyBhZGp1c3QgdGhlIGF0dHJpYnV0ZXMgaGVyZSBhcyB3ZWxsLgogIGxldCg6dmFsaWRfYXR0cmlidXRlcykgewogICAgc2tpcCgiQWRkIGEgaGFzaCBvZiBhdHRyaWJ1dGVzIHZhbGlkIGZvciB5b3VyIG1vZGVsIikKICB9CgogIGxldCg6aW52YWxpZF9hdHRyaWJ1dGVzKSB7CiAgICBza2lwKCJBZGQgYSBoYXNoIG9mIGF0dHJpYnV0ZXMgaW52YWxpZCBmb3IgeW91ciBtb2RlbCIpCiAgfQoKICAjIFRoaXMgc2hvdWxkIHJldHVybiB0aGUgbWluaW1hbCBzZXQgb2YgdmFsdWVzIHRoYXQgc2hvdWxkIGJlIGluIHRoZSBzZXNzaW9uCiAgIyBpbiBvcmRlciB0byBwYXNzIGFueSBmaWx0ZXJzIChlLmcuIGF1dGhlbnRpY2F0aW9uKSBkZWZpbmVkIGluCiAgIyBOZXdzUmVsZWFzZXNDb250cm9sbGVyLiBCZSBzdXJlIHRvIGtlZXAgdGhpcyB1cGRhdGVkIHRvby4KICBsZXQoOnZhbGlkX3Nlc3Npb24pIHsge30gfQoKICBkZXNjcmliZSAiR0VUIGluZGV4IiBkbwogICAgaXQgImFzc2lnbnMgYWxsIG5ld3NfcmVsZWFzZXMgYXMgQG5ld3NfcmVsZWFzZXMiIGRvCiAgICAgIG5ld3NfcmVsZWFzZSA9IE5ld3NSZWxlYXNlLmNyZWF0ZSEgdmFsaWRfYXR0cmlidXRlcwogICAgICBnZXQgOmluZGV4LCB7fSwgdmFsaWRfc2Vzc2lvbgogICAgICBleHBlY3QoYXNzaWducyg6bmV3c19yZWxlYXNlcykpLnRvIGVxKFtuZXdzX3JlbGVhc2VdKQogICAgZW5kCiAgZW5kCgogIGRlc2NyaWJlICJHRVQgc2hvdyIgZG8KICAgIGl0ICJhc3NpZ25zIHRoZSByZXF1ZXN0ZWQgbmV3c19yZWxlYXNlIGFzIEBuZXdzX3JlbGVhc2UiIGRvCiAgICAgIG5ld3NfcmVsZWFzZSA9IE5ld3NSZWxlYXNlLmNyZWF0ZSEgdmFsaWRfYXR0cmlidXRlcwogICAgICBnZXQgOnNob3csIHs6aWQgPT4gbmV3c19yZWxlYXNlLnRvX3BhcmFtfSwgdmFsaWRfc2Vzc2lvbgogICAgICBleHBlY3QoYXNzaWducyg6bmV3c19yZWxlYXNlKSkudG8gZXEobmV3c19yZWxlYXNlKQogICAgZW5kCiAgZW5kCgogIGRlc2NyaWJlICJHRVQgbmV3IiBkbwogICAgaXQgImFzc2lnbnMgYSBuZXcgbmV3c19yZWxlYXNlIGFzIEBuZXdzX3JlbGVhc2UiIGRvCiAgICAgIGdldCA6bmV3LCB7fSwgdmFsaWRfc2Vzc2lvbgogICAgICBleHBlY3QoYXNzaWducyg6bmV3c19yZWxlYXNlKSkudG8gYmVfYV9uZXcoTmV3c1JlbGVhc2UpCiAgICBlbmQKICBlbmQKCiAgZGVzY3JpYmUgIkdFVCBlZGl0IiBkbwogICAgaXQgImFzc2lnbnMgdGhlIHJlcXVlc3RlZCBuZXdzX3JlbGVhc2UgYXMgQG5ld3NfcmVsZWFzZSIgZG8KICAgICAgbmV3c19yZWxlYXNlID0gTmV3c1JlbGVhc2UuY3JlYXRlISB2YWxpZF9hdHRyaWJ1dGVzCiAgICAgIGdldCA6ZWRpdCwgezppZCA9PiBuZXdzX3JlbGVhc2UudG9fcGFyYW19LCB2YWxpZF9zZXNzaW9uCiAgICAgIGV4cGVjdChhc3NpZ25zKDpuZXdzX3JlbGVhc2UpKS50byBlcShuZXdzX3JlbGVhc2UpCiAgICBlbmQKICBlbmQKCiAgZGVzY3JpYmUgIlBPU1QgY3JlYXRlIiBkbwogICAgZGVzY3JpYmUgIndpdGggdmFsaWQgcGFyYW1zIiBkbwogICAgICBpdCAiY3JlYXRlcyBhIG5ldyBOZXdzUmVsZWFzZSIgZG8KICAgICAgICBleHBlY3QgewogICAgICAgICAgcG9zdCA6Y3JlYXRlLCB7Om5ld3NfcmVsZWFzZSA9PiB2YWxpZF9hdHRyaWJ1dGVzfSwgdmFsaWRfc2Vzc2lvbgogICAgICAgIH0udG8gY2hhbmdlKE5ld3NSZWxlYXNlLCA6Y291bnQpLmJ5KDEpCiAgICAgIGVuZAoKICAgICAgaXQgImFzc2lnbnMgYSBuZXdseSBjcmVhdGVkIG5ld3NfcmVsZWFzZSBhcyBAbmV3c19yZWxlYXNlIiBkbwogICAgICAgIHBvc3QgOmNyZWF0ZSwgezpuZXdzX3JlbGVhc2UgPT4gdmFsaWRfYXR0cmlidXRlc30sIHZhbGlkX3Nlc3Npb24KICAgICAgICBleHBlY3QoYXNzaWducyg6bmV3c19yZWxlYXNlKSkudG8gYmVfYShOZXdzUmVsZWFzZSkKICAgICAgICBleHBlY3QoYXNzaWducyg6bmV3c19yZWxlYXNlKSkudG8gYmVfcGVyc2lzdGVkCiAgICAgIGVuZAoKICAgICAgaXQgInJlZGlyZWN0cyB0byB0aGUgY3JlYXRlZCBuZXdzX3JlbGVhc2UiIGRvCiAgICAgICAgcG9zdCA6Y3JlYXRlLCB7Om5ld3NfcmVsZWFzZSA9PiB2YWxpZF9hdHRyaWJ1dGVzfSwgdmFsaWRfc2Vzc2lvbgogICAgICAgIGV4cGVjdChyZXNwb25zZSkudG8gcmVkaXJlY3RfdG8oTmV3c1JlbGVhc2UubGFzdCkKICAgICAgZW5kCiAgICBlbmQKCiAgICBkZXNjcmliZSAid2l0aCBpbnZhbGlkIHBhcmFtcyIgZG8KICAgICAgaXQgImFzc2lnbnMgYSBuZXdseSBjcmVhdGVkIGJ1dCB1bnNhdmVkIG5ld3NfcmVsZWFzZSBhcyBAbmV3c19yZWxlYXNlIiBkbwogICAgICAgIHBvc3QgOmNyZWF0ZSwgezpuZXdzX3JlbGVhc2UgPT4gaW52YWxpZF9hdHRyaWJ1dGVzfSwgdmFsaWRfc2Vzc2lvbgogICAgICAgIGV4cGVjdChhc3NpZ25zKDpuZXdzX3JlbGVhc2UpKS50byBiZV9hX25ldyhOZXdzUmVsZWFzZSkKICAgICAgZW5kCgogICAgICBpdCAicmUtcmVuZGVycyB0aGUgJ25ldycgdGVtcGxhdGUiIGRvCiAgICAgICAgcG9zdCA6Y3JlYXRlLCB7Om5ld3NfcmVsZWFzZSA9PiBpbnZhbGlkX2F0dHJpYnV0ZXN9LCB2YWxpZF9zZXNzaW9uCiAgICAgICAgZXhwZWN0KHJlc3BvbnNlKS50byByZW5kZXJfdGVtcGxhdGUoIm5ldyIpCiAgICAgIGVuZAogICAgZW5kCiAgZW5kCgogIGRlc2NyaWJlICJQVVQgdXBkYXRlIiBkbwogICAgZGVzY3JpYmUgIndpdGggdmFsaWQgcGFyYW1zIiBkbwogICAgICBsZXQoOm5ld19hdHRyaWJ1dGVzKSB7CiAgICAgICAgc2tpcCgiQWRkIGEgaGFzaCBvZiBhdHRyaWJ1dGVzIHZhbGlkIGZvciB5b3VyIG1vZGVsIikKICAgICAgfQoKICAgICAgaXQgInVwZGF0ZXMgdGhlIHJlcXVlc3RlZCBuZXdzX3JlbGVhc2UiIGRvCiAgICAgICAgbmV3c19yZWxlYXNlID0gTmV3c1JlbGVhc2UuY3JlYXRlISB2YWxpZF9hdHRyaWJ1dGVzCiAgICAgICAgcHV0IDp1cGRhdGUsIHs6aWQgPT4gbmV3c19yZWxlYXNlLnRvX3BhcmFtLCA6bmV3c19yZWxlYXNlID0+IG5ld19hdHRyaWJ1dGVzfSwgdmFsaWRfc2Vzc2lvbgogICAgICAgIG5ld3NfcmVsZWFzZS5yZWxvYWQKICAgICAgICBza2lwKCJBZGQgYXNzZXJ0aW9ucyBmb3IgdXBkYXRlZCBzdGF0ZSIpCiAgICAgIGVuZAoKICAgICAgaXQgImFzc2lnbnMgdGhlIHJlcXVlc3RlZCBuZXdzX3JlbGVhc2UgYXMgQG5ld3NfcmVsZWFzZSIgZG8KICAgICAgICBuZXdzX3JlbGVhc2UgPSBOZXdzUmVsZWFzZS5jcmVhdGUhIHZhbGlkX2F0dHJpYnV0ZXMKICAgICAgICBwdXQgOnVwZGF0ZSwgezppZCA9PiBuZXdzX3JlbGVhc2UudG9fcGFyYW0sIDpuZXdzX3JlbGVhc2UgPT4gdmFsaWRfYXR0cmlidXRlc30sIHZhbGlkX3Nlc3Npb24KICAgICAgICBleHBlY3QoYXNzaWducyg6bmV3c19yZWxlYXNlKSkudG8gZXEobmV3c19yZWxlYXNlKQogICAgICBlbmQKCiAgICAgIGl0ICJyZWRpcmVjdHMgdG8gdGhlIG5ld3NfcmVsZWFzZSIgZG8KICAgICAgICBuZXdzX3JlbGVhc2UgPSBOZXdzUmVsZWFzZS5jcmVhdGUhIHZhbGlkX2F0dHJpYnV0ZXMKICAgICAgICBwdXQgOnVwZGF0ZSwgezppZCA9PiBuZXdzX3JlbGVhc2UudG9fcGFyYW0sIDpuZXdzX3JlbGVhc2UgPT4gdmFsaWRfYXR0cmlidXRlc30sIHZhbGlkX3Nlc3Npb24KICAgICAgICBleHBlY3QocmVzcG9uc2UpLnRvIHJlZGlyZWN0X3RvKG5ld3NfcmVsZWFzZSkKICAgICAgZW5kCiAgICBlbmQKCiAgICBkZXNjcmliZSAid2l0aCBpbnZhbGlkIHBhcmFtcyIgZG8KICAgICAgaXQgImFzc2lnbnMgdGhlIG5ld3NfcmVsZWFzZSBhcyBAbmV3c19yZWxlYXNlIiBkbwogICAgICAgIG5ld3NfcmVsZWFzZSA9IE5ld3NSZWxlYXNlLmNyZWF0ZSEgdmFsaWRfYXR0cmlidXRlcwogICAgICAgIHB1dCA6dXBkYXRlLCB7OmlkID0+IG5ld3NfcmVsZWFzZS50b19wYXJhbSwgOm5ld3NfcmVsZWFzZSA9PiBpbnZhbGlkX2F0dHJpYnV0ZXN9LCB2YWxpZF9zZXNzaW9uCiAgICAgICAgZXhwZWN0KGFzc2lnbnMoOm5ld3NfcmVsZWFzZSkpLnRvIGVxKG5ld3NfcmVsZWFzZSkKICAgICAgZW5kCgogICAgICBpdCAicmUtcmVuZGVycyB0aGUgJ2VkaXQnIHRlbXBsYXRlIiBkbwogICAgICAgIG5ld3NfcmVsZWFzZSA9IE5ld3NSZWxlYXNlLmNyZWF0ZSEgdmFsaWRfYXR0cmlidXRlcwogICAgICAgIHB1dCA6dXBkYXRlLCB7OmlkID0+IG5ld3NfcmVsZWFzZS50b19wYXJhbSwgOm5ld3NfcmVsZWFzZSA9PiBpbnZhbGlkX2F0dHJpYnV0ZXN9LCB2YWxpZF9zZXNzaW9uCiAgICAgICAgZXhwZWN0KHJlc3BvbnNlKS50byByZW5kZXJfdGVtcGxhdGUoImVkaXQiKQogICAgICBlbmQKICAgIGVuZAogIGVuZAoKICBkZXNjcmliZSAiREVMRVRFIGRlc3Ryb3kiIGRvCiAgICBpdCAiZGVzdHJveXMgdGhlIHJlcXVlc3RlZCBuZXdzX3JlbGVhc2UiIGRvCiAgICAgIG5ld3NfcmVsZWFzZSA9IE5ld3NSZWxlYXNlLmNyZWF0ZSEgdmFsaWRfYXR0cmlidXRlcwogICAgICBleHBlY3QgewogICAgICAgIGRlbGV0ZSA6ZGVzdHJveSwgezppZCA9PiBuZXdzX3JlbGVhc2UudG9fcGFyYW19LCB2YWxpZF9zZXNzaW9uCiAgICAgIH0udG8gY2hhbmdlKE5ld3NSZWxlYXNlLCA6Y291bnQpLmJ5KC0xKQogICAgZW5kCgogICAgaXQgInJlZGlyZWN0cyB0byB0aGUgbmV3c19yZWxlYXNlcyBsaXN0IiBkbwogICAgICBuZXdzX3JlbGVhc2UgPSBOZXdzUmVsZWFzZS5jcmVhdGUhIHZhbGlkX2F0dHJpYnV0ZXMKICAgICAgZGVsZXRlIDpkZXN0cm95LCB7OmlkID0+IG5ld3NfcmVsZWFzZS50b19wYXJhbX0sIHZhbGlkX3Nlc3Npb24KICAgICAgZXhwZWN0KHJlc3BvbnNlKS50byByZWRpcmVjdF90byhuZXdzX3JlbGVhc2VzX3VybCkKICAgIGVuZAogIGVuZAoKZW5kCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>released_on.strftime('%Y-%m-%d')}:
+        #{news_release.title}&quot;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaXQgImRlbGV0ZXMgdGhlIGNvbnRhY3QiIGRvCiAgICAgICAgY29udGFjdAogICAgICAgIGV4cGVjdHsKICAgICAgICAgIGRlbGV0ZSA6ZGVzdHJveSwgaWQ6IGNvbnRhY3QKICAgICAgICB9LnRvIGNoYW5nZShDb250YWN0LCA6Y291bnQpLmJ5KC0xKQogICAgICBlbmQK</text>
+        <text encoding="base64">ICBwZW5kaW5nICJhZGQgc29tZSBleGFtcGxlcyB0byAob3IgZGVsZXRlKSAje19fRklMRV9ffSIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb250YWN0ID0gY3JlYXRlKDpjb250YWN0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGgxPkxpc3RpbmcgbmV3c19yZWxlYXNlczwvaDE+Cgo8dGFibGU+CiAgPHRoZWFkPgogICAgPHRyPgogICAgICA8dGg+VGl0bGU8L3RoPgogICAgICA8dGg+UmVsZWFzZWQgb248L3RoPgogICAgICA8dGg+Qm9keTwvdGg+CiAgICAgIDx0aCBjb2xzcGFuPSIzIj48L3RoPgogICAgPC90cj4KICA8L3RoZWFkPgoKICA8dGJvZHk+CiAgICA8JSBAbmV3c19yZWxlYXNlcy5lYWNoIGRvIHxuZXdzX3JlbGVhc2V8ICU+CiAgICAgIDx0cj4KICAgICAgICA8dGQ+PCU9IG5ld3NfcmVsZWFzZS50aXRsZSAlPjwvdGQ+CiAgICAgICAgPHRkPjwlPSBuZXdzX3JlbGVhc2UucmVsZWFzZWRfb24gJT48L3RkPgogICAgICAgIDx0ZD48JT0gbmV3c19yZWxlYXNlLmJvZHkgJT48L3RkPgogICAgICAgIDx0ZD48JT0gbGlua190byAnU2hvdycsIG5ld3NfcmVsZWFzZSAlPjwvdGQ+CiAgICAgICAgPHRkPjwlPSBsaW5rX3RvICdFZGl0JywgZWRpdF9uZXdzX3JlbGVhc2VfcGF0aChuZXdzX3JlbGVhc2UpICU+PC90ZD4KICAgICAgICA8dGQ+PCU9IGxpbmtfdG8gJ0Rlc3Ryb3knLCBuZXdzX3JlbGVhc2UsIG1ldGhvZDogOmRlbGV0ZSwgZGF0YTogeyBjb25maXJtOiAnQXJlIHlvdSBzdXJlPycgfSAlPjwvdGQ+CiAgICAgIDwvdHI+CiAgICA8JSBlbmQgJT4KICA8L3Rib2R5Pgo8L3RhYmxlPgoKPGJyPgoKPCU9IGxpbmtfdG8gJ0FkZCBOZXdzIFJlbGVhc2UnLCBuZXdfbmV3c19yZWxlYXNlX3BhdGgsIGNsYXNzOiAnYnRuIGJ0bi1wcmltYXJ5JyAlPgo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoClass</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaWxsX2luXD4=</last-search>
+      <last-search encoding="base64">XDx9XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaWxsX2luXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx9XD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -270,6 +323,7 @@
         <entry encoding="base64">XDxleHBlY3RcPg==</entry>
         <entry encoding="base64">XDxzY2VuYXJpb1w+</entry>
         <entry encoding="base64">XDxmaWxsX2luXD4=</entry>
+        <entry encoding="base64">XDx9XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action FindNext</entry>
@@ -277,11 +331,11 @@
         <entry>action AceJumpAction</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action QuickJavaDoc</entry>
-        <entry>action RecentFiles</entry>
         <entry>action Find</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action CloseContent</entry>
         <entry>action GotoFile</entry>
+        <entry>action CloseContent</entry>
+        <entry>action RecentFiles</entry>
         <entry>action GotoClass</entry>
       </history-cmd>
       <history-expr />
