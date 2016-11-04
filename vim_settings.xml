@@ -28,6 +28,12 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="22" />
       </file>
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/README.md" timestamp="1478267416697">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="1" column="15" />
+        <mark key="." line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/models/news_release.rb" timestamp="1477755259852">
         <mark key="[" line="0" column="38" />
         <mark key="]" line="2" column="50" />
@@ -285,7 +291,37 @@
       <register name="0" type="2">
         <text encoding="base64">QWN0aXZlUmVjb3JkOjpTY2hlbWEuZGVmaW5lKHZlcnNpb246IDIwMTYxMDMwMTMyNjQ3KSBkbwoKICBjcmVhdGVfdGFibGUgImNhcnRfaXRlbXMiLCBmb3JjZTogOmNhc2NhZGUgZG8gfHR8CiAgICB0LmludGVnZXIgICJ1c2VyX2lkIiwgICAgIGxpbWl0OiA0LCAgICAgICAgICAgICBudWxsOiBmYWxzZQogICAgdC5pbnRlZ2VyICAiaXRlbV9pZCIsICAgICBsaW1pdDogNCwgICAgICAgICAgICAgbnVsbDogZmFsc2UKICAgIHQuaW50ZWdlciAgImNvdW50IiwgICAgICAgbGltaXQ6IDQsIGRlZmF1bHQ6IDEsIG51bGw6IGZhbHNlCiAgICB0LmludGVnZXIgICJ0b3RhbF9wcmljZSIsIGxpbWl0OiA0LCAgICAgICAgICAgICBudWxsOiBmYWxzZQogICAgdC5kYXRldGltZSAiY3JlYXRlZF9hdCIsICAgICAgICAgICAgICAgICAgICAgICAgbnVsbDogZmFsc2UKICAgIHQuZGF0ZXRpbWUgInVwZGF0ZWRfYXQiLCAgICAgICAgICAgICAgICAgICAgICAgIG51bGw6IGZhbHNlCiAgZW5kCgogIGFkZF9pbmRleCAiY2FydF9pdGVtcyIsIFsidXNlcl9pZCIsICJpdGVtX2lkIl0sIG5hbWU6ICJpbmRleF9jYXJ0X2l0ZW1zX29uX3VzZXJfaWRfYW5kX2l0ZW1faWQiLCB1bmlxdWU6IHRydWUsIHVzaW5nOiA6YnRyZWUKCiAgY3JlYXRlX3RhYmxlICJpdGVtcyIsIGZvcmNlOiA6Y2FzY2FkZSBkbyB8dHwKICAgIHQuc3RyaW5nICAgIm5hbWUiLCAgICAgICAgbGltaXQ6IDUwLCAgICBudWxsOiBmYWxzZQogICAgdC5pbnRlZ2VyICAicHJpY2UiLCAgICAgICBsaW1pdDogNCwgICAgIG51bGw6IGZhbHNlCiAgICB0LmludGVnZXIgICJzdG9jayIsICAgICAgIGxpbWl0OiA0LCAgICAgbnVsbDogZmFsc2UKICAgIHQudGV4dCAgICAgImRlc2NyaXB0aW9uIiwgbGltaXQ6IDY1NTM1LCBudWxsOiBmYWxzZQogICAgdC5zdHJpbmcgICAiaW1hZ2VfdXJsIiwgICBsaW1pdDogMjU1LCAgIG51bGw6IGZhbHNlCiAgICB0LmRhdGV0aW1lICJjcmVhdGVkX2F0IiwgICAgICAgICAgICAgICAgbnVsbDogZmFsc2UKICAgIHQuZGF0ZXRpbWUgInVwZGF0ZWRfYXQiLCAgICAgICAgICAgICAgICBudWxsOiBmYWxzZQogIGVuZAoKICBjcmVhdGVfdGFibGUgInVzZXJzIiwgZm9yY2U6IDpjYXNjYWRlIGRvIHx0fAogICAgdC5zdHJpbmcgICAibmFtZSIsICAgICAgICAgICAgICAgbGltaXQ6IDY0LCAgbnVsbDogZmFsc2UKICAgIHQuc3RyaW5nICAgImVtYWlsIiwgICAgICAgICAgICAgIGxpbWl0OiAyNTUsIG51bGw6IGZhbHNlCiAgICB0LnN0cmluZyAgICJlbmNyeXB0ZWRfcGFzc3dvcmQiLCBsaW1pdDogMjU1LCBudWxsOiBmYWxzZQogICAgdC5kYXRldGltZSAiY3JlYXRlZF9hdCIsICAgICAgICAgICAgICAgICAgICAgbnVsbDogZmFsc2UKICAgIHQuZGF0ZXRpbWUgInVwZGF0ZWRfYXQiLCAgICAgICAgICAgICAgICAgICAgIG51bGw6IGZhbHNlCiAgZW5kCgogIGFkZF9pbmRleCAidXNlcnMiLCBbImVtYWlsIl0sIG5hbWU6ICJpbmRleF91c2Vyc19vbl9lbWFpbCIsIHVuaXF1ZTogdHJ1ZSwgdXNpbmc6IDpidHJlZQoKZW5kCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...</text>
+      </register>
+      <register name="4" type="4">
         <text>spec/controllers/contacts_controller_spec.rb
 describe'DELETE#destroy'do
   before :each do
@@ -304,32 +340,23 @@ describe'DELETE#destroy'do
   end
 end</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CmJlZm9yZSA6ZWFjaCBkbwogIEBjb250YWN0ID0gY3JlYXRlKDpjb250YWN0KQplbmQK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyDpgKPntaHlhYjjgpLliYrpmaTjgZnjgovjgZPjgagKaXQgImRlbGV0ZXMgdGhlIGNvbnRhY3QiIGRvCiAgZXhwZWN0ewogICAgZGVsZXRlIDpkZXN0cm95LCBpZDogQGNvbnRhY3QK</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgMQogIDIKICAzCiAgNAogIDUKICA2IDdd</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">cmVxdWlyZSdyYWlsc19oZWxwZXInCmRlc2NyaWJlIENvbnRhY3QgZG8KICAjIOacieWKueOBquODleOCoeOCr+ODiOODquOCkuaMgeOBpOOBk+OBqAogIGl0ICJoYXMgYSB2YWxpZCBmYWN0b3J5IiBkbwogICAgZXhwZWN0KEZhY3RvcnlHaXJsLmJ1aWxkKDpjb250YWN0KSkudG8gYmVfdmFsaWQKICBlbmQKIyDjgZ3jga7ku5bjga7jgrnjg5rjg4Pjgq8KZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBSZWFkIGFib3V0IGZhY3RvcmllcyBhdCBodHRwczovL2dpdGh1Yi5jb20vdGhvdWdodGJvdC9mYWN0b3J5X2dpcmwK</text>
+        <text encoding="base64">IyDpgKPntaHlhYjjgpLliYrpmaTjgZnjgovjgZPjgagKaXQgImRlbGV0ZXMgdGhlIGNvbnRhY3QiIGRvCiAgZXhwZWN0ewogICAgZGVsZXRlIDpkZXN0cm95LCBpZDogQGNvbnRhY3QK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgMQogIDIKICAzCiAgNAogIDUKICA2IDdd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVxdWlyZSdyYWlsc19oZWxwZXInCmRlc2NyaWJlIENvbnRhY3QgZG8KICAjIOacieWKueOBquODleOCoeOCr+ODiOODquOCkuaMgeOBpOOBk+OBqAogIGl0ICJoYXMgYSB2YWxpZCBmYWN0b3J5IiBkbwogICAgZXhwZWN0KEZhY3RvcnlHaXJsLmJ1aWxkKDpjb250YWN0KSkudG8gYmVfdmFsaWQKICBlbmQKIyDjgZ3jga7ku5bjga7jgrnjg5rjg4Pjgq8KZW5kCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoClass</text>
+        <text>action CloseContent</text>
       </register>
     </registers>
     <search>
@@ -365,9 +392,9 @@ end</text>
         <entry>action Find</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action GotoFile</entry>
-        <entry>action CloseContent</entry>
         <entry>action RecentFiles</entry>
         <entry>action GotoClass</entry>
+        <entry>action CloseContent</entry>
       </history-cmd>
       <history-expr />
       <history-input />
