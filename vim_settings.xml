@@ -22,6 +22,9 @@
         <mark key="^" line="37" column="4" />
         <mark key="." line="37" column="4" />
       </file>
+      <file name="/Ruby Console" timestamp="1478323749368">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/migrate/20161030132014_create_users.rb" timestamp="1477835218091">
         <mark key="[" line="3" column="22" />
         <mark key="]" line="4" column="22" />
@@ -83,14 +86,15 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/api/routes_controller.rb" timestamp="1478321342402">
+      <file name="restClient/response56.json" timestamp="1478322428215" />
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/api/routes_controller.rb" timestamp="1478325043599">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="16" column="5" />
+        <mark key="[" line="1" column="48" />
+        <mark key="]" line="19" column="32" />
+        <mark key="." line="19" column="32" />
+        <mark key="^" line="19" column="32" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/api/locations_controller.rb" timestamp="1478319162885">
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/api/locations_controller.rb" timestamp="1478324165363">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -121,6 +125,9 @@
         <mark key="]" line="4" column="44" />
         <mark key="." line="4" column="44" />
         <mark key="^" line="4" column="44" />
+      </file>
+      <file name="/fragment.rb" timestamp="1478324490355">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/about_us_spec.rb" timestamp="1477753771751">
         <mark key="[" line="3" column="68" />
@@ -163,6 +170,9 @@
         <mark key="^" line="59" column="51" />
         <mark key="." line="59" column="51" />
       </file>
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/controllers/news_releases_controller.rb" timestamp="1477754819402">
+        <mark key="[" line="30" column="47" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/.rspec" timestamp="1477539401021">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="21" />
@@ -175,8 +185,8 @@
         <mark key="." line="3" column="43" />
         <mark key="^" line="3" column="43" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/config/routes.rb" timestamp="1478319196621">
-        <mark key="[" line="2" column="24" />
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/config/routes.rb" timestamp="1478323857142">
+        <mark key="[" line="3" column="13" />
         <mark key="]" line="3" column="20" />
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
@@ -312,7 +322,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Add your key here</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
