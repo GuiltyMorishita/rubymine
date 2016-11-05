@@ -854,6 +854,16 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/columnize-0.9.0/lib" />
       </SOURCES>
     </library>
+    <library name="committee (v1.15.0, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/committee-1.15.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/committee-1.15.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/committee-1.15.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/committee-1.15.0/lib" />
+      </SOURCES>
+    </library>
     <library name="concurrent-ruby (v1.0.2, rbenv: 2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/concurrent-ruby-1.0.2/lib" />
@@ -1960,6 +1970,18 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/json-1.8.3/tests" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/json-1.8.3/tools" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/json-1.8.3/diagrams" />
+      </SOURCES>
+    </library>
+    <library name="json_schema (v0.14.3, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/json_schema-0.14.3/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/json_schema-0.14.3/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/json_schema-0.14.3/schemas" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/json_schema-0.14.3/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/json_schema-0.14.3/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/json_schema-0.14.3/schemas" />
       </SOURCES>
     </library>
     <library name="launchy (v2.4.2, rbenv: 2.1.1) [gem]">

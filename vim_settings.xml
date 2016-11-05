@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/users_spec.rb" timestamp="1477764125901">
-        <mark key="'" line="3" column="2" />
-        <mark key="[" line="3" column="41" />
-        <mark key="]" line="4" column="16" />
-        <mark key="^" line="4" column="16" />
-        <mark key="." line="4" column="16" />
-      </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/factories/news_releases.rb" timestamp="1477755887646">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
@@ -22,7 +15,7 @@
         <mark key="^" line="37" column="4" />
         <mark key="." line="37" column="4" />
       </file>
-      <file name="/Ruby Console" timestamp="1478323749368">
+      <file name="/Ruby Console" timestamp="1478335923159">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/migrate/20161030132014_create_users.rb" timestamp="1477835218091">
@@ -43,6 +36,12 @@
         <mark key="]" line="2" column="50" />
         <mark key="^" line="2" column="50" />
         <mark key="." line="2" column="50" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/Gemfile" timestamp="1478330576225">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" timestamp="1478314617817">
         <mark key="[" line="22" column="0" />
@@ -74,32 +73,24 @@
         <mark key="." line="2" column="36" />
       </file>
       <file name="restClient/response1.json" timestamp="1478312574839" />
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/factories/users.rb" timestamp="1477627379608">
-        <mark key="'" line="4" column="32" />
-        <mark key="[" line="4" column="34" />
-        <mark key="]" line="7" column="15" />
-        <mark key="." line="7" column="15" />
-        <mark key="^" line="7" column="15" />
-      </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/views/news_releases/_form.html.erb" timestamp="1477754720213">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
       <file name="restClient/response56.json" timestamp="1478322428215" />
-      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/api/routes_controller.rb" timestamp="1478325496329">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="48" />
-        <mark key="]" line="19" column="32" />
-        <mark key="." line="19" column="32" />
-        <mark key="^" line="19" column="32" />
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/api/routes_controller.rb" timestamp="1478335921515">
+        <mark key="[" line="18" column="38" />
+        <mark key="]" line="20" column="25" />
+        <mark key="^" line="20" column="25" />
+        <mark key="." line="20" column="25" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/api/locations_controller.rb" timestamp="1478324165363">
-        <mark key="'" line="5" column="0" />
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/api/locations_controller.rb" timestamp="1478333407084">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="1" column="51" />
+        <mark key="]" line="52" column="2" />
+        <mark key="." line="52" column="2" />
+        <mark key="^" line="52" column="2" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/news_releases_controller_spec.rb" timestamp="1477756357399">
         <mark key="[" line="2" column="46" />
@@ -119,14 +110,10 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/views/news_releases/index.html.erb" timestamp="1477755397088">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="49" />
-        <mark key="]" line="4" column="44" />
-        <mark key="." line="4" column="44" />
-        <mark key="^" line="4" column="44" />
+      <file name="/Dummy.txt" timestamp="1478333745499">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.rb" timestamp="1478324490355">
+      <file name="/fragment.rb" timestamp="1478334300582">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/about_us_spec.rb" timestamp="1477753771751">
@@ -136,13 +123,6 @@
         <mark key="^" line="6" column="24" />
       </file>
       <file name="restClient/response23.json" timestamp="1478318966902" />
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/users_controller_spec.rb" timestamp="1477583488454">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="13" column="47" />
-        <mark key="]" line="13" column="59" />
-        <mark key="^" line="13" column="59" />
-        <mark key="." line="13" column="59" />
-      </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/Gemfile" timestamp="1477762099234">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
@@ -151,12 +131,11 @@
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/schema.rb" timestamp="1478312193720">
         <mark key="'" line="24" column="2" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" timestamp="1477546598309">
-        <mark key="'" line="91" column="0" />
-        <mark key="[" line="13" column="37" />
-        <mark key="]" line="13" column="42" />
-        <mark key="." line="13" column="42" />
-        <mark key="^" line="13" column="42" />
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/application_controller.rb" timestamp="1478331379158">
+        <mark key="[" line="0" column="50" />
+        <mark key="]" line="0" column="51" />
+        <mark key="^" line="0" column="51" />
+        <mark key="." line="0" column="51" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/models/contact.rb" timestamp="1477553387980">
         <mark key="[" line="7" column="35" />
@@ -179,17 +158,22 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/config/application.rb" timestamp="1478330579191">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/factories/phones.rb" timestamp="1477552379743">
         <mark key="[" line="3" column="10" />
         <mark key="]" line="3" column="43" />
         <mark key="." line="3" column="43" />
         <mark key="^" line="3" column="43" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/config/routes.rb" timestamp="1478323857142">
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="3" column="20" />
-        <mark key="." line="3" column="20" />
-        <mark key="^" line="3" column="20" />
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/config/routes.rb" timestamp="1478333803880">
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="2" column="8" />
+        <mark key="." line="2" column="8" />
+        <mark key="^" line="2" column="8" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/schema.rb" timestamp="1477835509690">
         <mark key="'" line="13" column="0" />
@@ -216,9 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
-      <jump line="72" column="4" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/models/contact_spec.rb" />
-      <jump line="83" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/models/contact_spec.rb" />
       <jump line="25" column="3" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/models/contact_spec.rb" />
       <jump line="32" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/models/contact_spec.rb" />
       <jump line="80" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/models/contact_spec.rb" />
@@ -316,13 +297,16 @@
       <jump line="6" column="0" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/api/locations_controller.rb" />
       <jump line="21" column="0" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/api/routes_controller.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/api/routes_controller.rb" />
+      <jump line="50" column="2" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/api/locations_controller.rb" />
+      <jump line="52" column="2" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/api/locations_controller.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/api/locations_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.(0, :geoList)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
@@ -331,42 +315,31 @@
         <text>AIzaSyBlTfiKHGbtgsNKJ11ef0GMTNEv75TX6PM</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgQUl6YVN5QmxUZmlLSEdidGdzTktKMTFlZjBHTVRORXY3NVRYNlBNCg==</text>
+        <text encoding="base64">ICAgICAgIyBqc29uX3JlcXVlc3QgPSBKU09OLnBhcnNlKHJlcXVlc3QuYm9keS5yZWFkKQogICAgICAjCiAgICAgICMgaWYgIWpzb25fcmVxdWVzdC5ibGFuaz8KICAgICAgIyAgIHBlcnNvbmFsID0ganNvbl9yZXF1ZXN0CiAgICAgICMgZWxzZQogICAgICAjICAgcGVyc29uYWwgPSB7J3N0YXR1cycgPT4gNTAwfQogICAgICAjIGVuZAogICAgICAjCiAgICAgICMgcCBwZXJzb25hbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgc2tpcF9iZWZvcmVfYWN0aW9uIDp2ZXJpZnlfYXV0aGVudGljaXR5X3Rva2VuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgYmVmb3JlX2FjdGlvbiA6anNvbl9yZXF1ZXN0LCBvbmx5Ols6Z2V0X3JvdXRlc10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAjIEZvciBkZXRhaWxzIG9uIHRoZSBEU0wgYXZhaWxhYmxlIHdpdGhpbiB0aGlzIGZpbGUsIHNlZSBodHRwOi8vZ3VpZGVzLnJ1YnlvbnJhaWxzLm9yZy9yb3V0aW5nLmh0bWwK</text>
+        <text encoding="base64">ICAgIGNvbmZpZy5taWRkbGV3YXJlLmluc2VydF9iZWZvcmUgQWN0aW9uRGlzcGF0Y2g6OlBhcmFtc1BhcnNlciwgQ29tbWl0dGVlOjpNaWRkbGV3YXJlOjpSZXF1ZXN0VmFsaWRhdGlvbiwgc2NoZW1hOiBKU09OLnBhcnNlKEZpbGUucmVhZChzY2hlbWFfZmlsZSkpCiAgICBjb25maWcubWlkZGxld2FyZS5pbnNlcnRfYmVmb3JlIEFjdGlvbkRpc3BhdGNoOjpQYXJhbXNQYXJzZXIsIENvbW1pdHRlZTo6TWlkZGxld2FyZTo6UmVzcG9uc2VWYWxpZGF0aW9uLCBzY2hlbWE6IEpTT04ucGFyc2UoRmlsZS5yZWFkKHNjaGVtYV9maWxlKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z2VtICdjb21taXR0ZWUnCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>Location.create(name: '清水寺', latitude: '34.994856', longitude: '135.785046', description: '京都府京都市東山区清水にある寺院。山号は音羽山。本尊は千手観音、開基（創立者）は延鎮である。もとは法相宗に属したが、現在は独立して北法相宗大本山を名乗る。西国三十三所観音霊場の第16番札所である。', imageUrl: 'http://arounddeglobe.com/wp-content/uploads/2016/04/Kiyomizu-Dera-Kyoto-Japan.jpg', kind: '神社仏閣', requiredTime: '0.75')
-Location.create(name: '金閣寺', latitude: '35.03937', longitude: '135.729243', description: '臨済宗相国寺派の寺院で、山号は北山。本尊は聖観世音菩薩 (方丈安置)。現在の舎利殿は昭和30年 (1955年) 再建のもので、1950年の放火で一度全焼しているため国宝指定ではない。この金閣寺の失火は三島由紀夫の「金閣寺」や水上勉の「金閣炎上」など文芸作品の題材にもなっていて有名。', imageUrl: 'https://gaijinpot.scdn2.secure.raxcdn.com/wp-content/uploads/sites/4/2014/06/golden_temple-1.jpg.jpg', kind: '神社仏閣', requiredTime: '0.5')
-Location.create(name: '伏見稲荷神社', latitude: '34.881833', longitude: '137.003132', description: '京都市伏見区にある神社。旧称は稲荷神社。式内社（名神大社）、二十二社（上七社）の一社。旧社格は官幣大社で、現在は神社本庁に属さない単立神社。稲荷山の麓に本殿があり、稲荷山全体を神域とする。', imageUrl: 'http://komekami.sakura.ne.jp/wp-content/uploads/p8256849.jpg', kind: '神社仏閣', requiredTime: '0.5')
-Location.create(name: '本家 第一旭 たかばし本店', latitude: '34.98675', longitude: '135.76248', description: '当店のみ。創業は1953年という老舗であり、当時は「旭食堂」という洋食屋であったが、1956年からラーメン専門店となった。豚骨をダシとしてタマネギを加え、醤油で調味したラーメン。なお、本家第一旭の店舗展開などは行っておらず、大規模に展開しているのは関係者が経営している全くの別組織である。『さすがといわせる京都選抜グルメ 2014』によれば、2013年時点で京都屈指の人気店であるとのこと。', imageUrl: 'http://blog-imgs-82.fc2.com/t/o/r/torimen365/20150928225023776.jpg', kind: '飲食店', requiredTime: '0.75')
-Location.create(name: '貴船神社', latitude: '35.61553', longitude: '139.726275', description: '室町時代に書かれた恋物語『貴船の物語』にも登場する「貴船神社」。境内の水に浸すと文字が浮かび上がりおみくじの内容を読むことができるという｢水占いみくじ｣はその方法がより神秘的な雰囲気を感じさせてくれます。  こちらの本宮のご祭神は、水をつかさどる神、高龗神（たかおかみのかみ）です。水の神様だから、水のおみくじがあるのですね。お参りも忘れずにしたいところです。水占みくじは、本宮のところにある社務所にあります。  貴船神社は、神の乗り物であったとされる「船」とも縁が深く、船の形をした岩などもあります。境内を歩くのも、楽しいですよ。', imageUrl: 'http://photo53.com/img/kibunejinja1.jpg', kind: '神社仏閣', requiredTime: '1')
-Location.create(name: '福栄堂', latitude: '35.004045', longitude: '135.77319', description: '四条通り沿いの交差点の角地にある創業80年の老舗の鏡和菓子屋さんです。 看板商品は、京都花街・祇園の名物お団子として知れれる「祇園の月」です。花街の夜霞に見えるほのかな月をイメージしたお菓子で、 福栄堂の開店以来、祇園で愛され続けている看板商品です。ちまきのように笹の葉に包まれた和菓子「くずの笹」も人気です。こし餡と栗が道明寺粉で包まれ、見た目もとても涼しげで風流なお菓子です。甘さも程よく、お土産にも喜ばれることうけあいですよ。', imageUrl: 'http://www.gion.or.jp/wp-content/uploads/2013/04/e1b81ca1084466c0170cd00c98e85b291.jpg', kind: '飲食店', requiredTime: '0.5')
-Location.create(name: 'ゲストハウス金魚家', latitude: '35.034481', longitude: '135.745417', description: '金魚家は、とても大事にされてきた京都西陣の町家を改修した小さなお宿です。 自家製米を使った朝食付か、素泊りのご宿泊を選んで頂けます。 玄関をくぐると、通り庭、台所、井戸が続き、奥には四季を感じられる庭、裏庭には蔵が残っており、昔ながらの町家の暮らしを感じて頂けます。', imageUrl: 'https://image-kinarino.ssl.k-img.com/system/press_eye_catches/000/011/914/0baf867a9c3f9b678556ac2f34144abdbb320a33.jpg?1427078575', kind: '宿泊', requiredTime: '0')
-Location.create(name: '嵐山', latitude: '35.015048', longitude: '135.678004', description: '京都の中でも大人気の旅行先です。春は桜、秋は紅葉が美しいことでよく知られています。市内からは少し離れていますが、その分雄大な自然を感じることができます。願い事が1つだけ叶うと言われる鈴虫寺や、有名なポスターにもなった常寂光寺、見る者を圧倒する幻想的な竹林、シンボルの渡月橋など、訪れたい場所は数え切れません。トロッコ列車や川下りなども心ひかれますよね。', imageUrl: 'http://find-travel.cdn-dena.com/picture/articlebody/147604', kind: '土地', requiredTime: '1.5')
-Location.create(name: '花見小路通', latitude: '35.005115', longitude: '135.775185', description: '祇園町の中心の通りである花見小路通。石畳が続く通りに料亭やお茶屋が立ち並んでいて、まさに京都！という雰囲気を楽しめるスポット。繁華街近くでありながら、ゆっくりと時が流れるような風情があります。 三条通りから建仁寺前までを南北にのびる1kmほどの小路を花見小路通と呼びます。由緒あるお茶屋や料理屋などが軒を連ねていて、夕方になると、お茶屋に出勤される舞妓さんや芸妓さんが、歩く姿を見ることができますよ♪', imageUrl: 'https://farm4.staticflickr.com/3185/2871460347_18aeedb912_b.jpg', kind: '土地', requiredTime: '0.5')
-Location.create(name: 'つけめん　恵那く', latitude: '35.044263', longitude: '135.785832', description: '麺はもっちりとしてコシがあり、スープも長時間煮込んだ鳥やゲンコツ、豚などにサバ節や鰹節をバランスよく合わせています。つけ麺のスープ割も昆布と煮干しを使用して最後の一滴まで飲み干したくなります。麺もスープに絡み美味しいです！  どちらかと言うと「たけ井」ラーメン系統に似たつけ麺で、魚介ベースのスープが香るつけ麺。味玉一個とかいわれが入っています。麺も艶とコシのあるラーメン。一乗寺高槻町にあるラーメン屋さんで、一乗寺駅からは徒歩3分です。', imageUrl: 'http://find-travel.cdn-dena.com/picture/articlebody/63616', kind: '飲食店', requiredTime: '0.45')
-Location.create(name: '南禅寺で湯豆腐', latitude: '35.011245', longitude: '135.793803', description: '室町時代に建てられたお寺、南禅寺。春は桜・秋は紅葉の名所として地元の方から愛されている場所ですが、敷地内を通る水路橋や四季折々の庭の景観が美しい天授庵なども有名な観光スポットです。そんな南禅寺の中を楽しんだあとは、お寺周辺に軒を連ねる湯豆腐やさんで食事を楽しんでみるのがおすすめです。 南禅寺前にある人気店「南禅寺 順正」でも、湯豆腐をいただくことができます。湯豆腐のコースには、メインの湯豆腐のほかに、ごまどうふや、豆腐田楽、野菜天ぷら、海老、茄子、南瓜、フキなどが入った炊合せなども入っていますよ。', imageUrl: 'http://find-travel.cdn-dena.com/picture/articlebody/17081', kind: '飲食', requiredTime: '1')
-Location.create(name: '京都タワー', latitude: '34.987563', longitude: '135.759344', description: '京都駅から出たら、道を挟んで目の前にあるのが大きくそびえる京都タワーです。京都タワーは京都のシンボルとして街を京都市街から山々の風景まで一望できるようになっています。京都に来たんだ！と実感するためにも景色を見渡せる最上階まで行くのがおすすめです♪ ', imageUrl: 'http://photo53.com/img/tower1.jpg', kind: '建築物', requiredTime: '1')</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUKICAgIGRlZiBqc29uX3JlcXVlc3QKICAgIGVuZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgSlNPTi5wYXJzZShyZXF1ZXN0LmJvZHkucmVhZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TG9jYXRpb24uY3JlYXRlKG5hbWU6IOa4heawtOWvuiwgbGF0aXR1ZGU6IDM0Ljk5NDg1NiwgbG9uZ2l0dWRlOiAxMzUuNzg1MDQ2LCBkZXNjcmlwdGlvbjog5Lqs6YO95bqc5Lqs6YO95biC5p2x5bGx5Yy65riF5rC044Gr44GC44KL5a+66Zmi44CC5bGx5Y+344Gv6Z+z57695bGx44CC5pys5bCK44Gv5Y2D5omL6Kaz6Z+z44CB6ZaL5Z+677yI5Ym156uL6ICF77yJ44Gv5bu26Y6u44Gn44GC44KL44CC44KC44Go44Gv5rOV55u45a6X44Gr5bGe44GX44Gf44GM44CB54++5Zyo44Gv54us56uL44GX44Gm5YyX5rOV55u45a6X5aSn5pys5bGx44KS5ZCN5LmX44KL44CC6KW/5Zu95LiJ5Y2B5LiJ5omA6Kaz6Z+z6ZyK5aC044Gu56ysMTbnlarmnK3miYDjgafjgYLjgovjgIIsIGltYWdlVXJsOiBodHRwOi8vYXJvdW5kZGVnbG9iZS5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTYvMDQvS2l5b21penUtRGVyYS1LeW90by1KYXBhbi5qcGcsIGtpbmQ6IOelnuekvuS7j+mWoywgcmVxdWlyZWRUaW1lOiAwLjc1KQpMb2NhdGlvbi5jcmVhdGUobmFtZTog6YeR6Zaj5a+6LCBsYXRpdHVkZTogMzUuMDM5MzcsIGxvbmdpdHVkZTogMTM1LjcyOTI0MywgZGVzY3JpcHRpb246IOiHqOa4iOWul+ebuOWbveWvuua0vuOBruWvuumZouOBp+OAgeWxseWPt+OBr+WMl+WxseOAguacrOWwiuOBr+iBluims+S4lumfs+iPqeiWqSAo5pa55LiI5a6J572uKeOAguePvuWcqOOBruiIjuWIqeauv+OBr+aYreWSjDMw5bm0ICgxOTU15bm0KSDlho3lu7rjga7jgoLjga7jgafjgIExOTUw5bm044Gu5pS+54Gr44Gn5LiA5bqm5YWo54S844GX44Gm44GE44KL44Gf44KB5Zu95a6d5oyH5a6a44Gn44Gv44Gq44GE44CC44GT44Gu6YeR6Zaj5a+644Gu5aSx54Gr44Gv5LiJ5bO255Sx57SA5aSr44Gu44CM6YeR6Zaj5a+644CN44KE5rC05LiK5YuJ44Gu44CM6YeR6Zaj54KO5LiK44CN44Gq44Gp5paH6Iq45L2c5ZOB44Gu6aGM5p2Q44Gr44KC44Gq44Gj44Gm44GE44Gm5pyJ5ZCN44CCLCBpbWFnZVVybDogaHR0cHM6Ly9nYWlqaW5wb3Quc2NkbjIuc2VjdXJlLnJheGNkbi5jb20vd3AtY29udGVudC91cGxvYWRzL3NpdGVzLzQvMjAxNC8wNi9nb2xkZW5fdGVtcGxlLTEuanBnLmpwZywga2luZDog56We56S+5LuP6ZajLCByZXF1aXJlZFRpbWU6IDAuNSkKTG9jYXRpb24uY3JlYXRlKG5hbWU6IOS8j+imi+eosuiNt+elnuekviwgbGF0aXR1ZGU6IDM0Ljg4MTgzMywgbG9uZ2l0dWRlOiAxMzcuMDAzMTMyLCBkZXNjcmlwdGlvbjog5Lqs6YO95biC5LyP6KaL5Yy644Gr44GC44KL56We56S+44CC5pen56ew44Gv56iy6I2356We56S+44CC5byP5YaF56S+77yI5ZCN56We5aSn56S+77yJ44CB5LqM5Y2B5LqM56S+77yI5LiK5LiD56S+77yJ44Gu5LiA56S+44CC5pen56S+5qC844Gv5a6Y5bmj5aSn56S+44Gn44CB54++5Zyo44Gv56We56S+5pys5bqB44Gr5bGe44GV44Gq44GE5Y2Y56uL56We56S+44CC56iy6I235bGx44Gu6bqT44Gr5pys5q6/44GM44GC44KK44CB56iy6I235bGx5YWo5L2T44KS56We5Z+f44Go44GZ44KL44CCLCBpbWFnZVVybDogaHR0cDovL2tvbWVrYW1pLnNha3VyYS5uZS5qcC93cC1jb250ZW50L3VwbG9hZHMvcDgyNTY4NDkuanBnLCBraW5kOiDnpZ7npL7ku4/plqMsIHJlcXVpcmVkVGltZTogMC41KQpMb2NhdGlvbi5jcmVhdGUobmFtZTog5pys5a62IOesrOS4gOaXrSDjgZ/jgYvjgbDjgZfmnKzlupcsIGxhdGl0dWRlOiAzNC45ODY3NSwgbG9uZ2l0dWRlOiAxMzUuNzYyNDgsIGRlc2NyaXB0aW9uOiDlvZPlupfjga7jgb/jgILlibXmpa3jga8xOTUz5bm044Go44GE44GG6ICB6IiX44Gn44GC44KK44CB5b2T5pmC44Gv44CM5pet6aOf5aCC44CN44Go44GE44GG5rSL6aOf5bGL44Gn44GC44Gj44Gf44GM44CBMTk1NuW5tOOBi+OCieODqeODvOODoeODs+WwgumWgOW6l+OBqOOBquOBo+OBn+OAguixmumqqOOCkuODgOOCt+OBqOOBl+OBpuOCv+ODnuODjeOCruOCkuWKoOOBiOOAgemGpOayueOBp+iqv+WRs+OBl+OBn+ODqeODvOODoeODs+OAguOBquOBiuOAgeacrOWutuesrOS4gOaXreOBruW6l+iIl+WxlemWi+OBquOBqeOBr+ihjOOBo+OBpuOBiuOCieOBmuOAgeWkp+imj+aooeOBq+WxlemWi+OBl+OBpuOBhOOCi+OBruOBr+mWouS/guiAheOBjOe1jOWWtuOBl+OBpuOBhOOCi+WFqOOBj+OBruWIpee1hOe5lOOBp+OBguOCi+OAguOAjuOBleOBmeOBjOOBqOOBhOOCj+OBm+OCi+S6rOmDvemBuOaKnOOCsOODq+ODoSAyMDE044CP44Gr44KI44KM44Gw44CBMjAxM+W5tOaZgueCueOBp+S6rOmDveWxiOaMh+OBruS6uuawl+W6l+OBp+OBguOCi+OBqOOBruOBk+OBqOOAgiwgaW1hZ2VVcmw6IGh0dHA6Ly9ibG9nLWltZ3MtODIuZmMyLmNvbS90L28vci90b3JpbWVuMzY1LzIwMTUwOTI4MjI1MDIzNzc2LmpwZywga2luZDog6aOy6aOf5bqXLCByZXF1aXJlZFRpbWU6IDAuNzUpCkxvY2F0aW9uLmNyZWF0ZShuYW1lOiDosrToiLnnpZ7npL4sIGxhdGl0dWRlOiAzNS42MTU1MywgbG9uZ2l0dWRlOiAxMzkuNzI2Mjc1LCBkZXNjcmlwdGlvbjog5a6k55S65pmC5Luj44Gr5pu444GL44KM44Gf5oGL54mp6Kqe44CO6LK06Ii544Gu54mp6Kqe44CP44Gr44KC55m75aC044GZ44KL44CM6LK06Ii556We56S+44CN44CC5aKD5YaF44Gu5rC044Gr5rW444GZ44Go5paH5a2X44GM5rWu44GL44Gz5LiK44GM44KK44GK44G/44GP44GY44Gu5YaF5a6544KS6Kqt44KA44GT44Go44GM44Gn44GN44KL44Go44GE44GG772i5rC05Y2g44GE44G/44GP44GY772j44Gv44Gd44Gu5pa55rOV44GM44KI44KK56We56eY55qE44Gq6Zuw5Zuy5rCX44KS5oSf44GY44GV44Gb44Gm44GP44KM44G+44GZ44CCICDjgZPjgaHjgonjga7mnKzlrq7jga7jgZTnpa3npZ7jga/jgIHmsLTjgpLjgaTjgYvjgZXjganjgovnpZ7jgIHpq5jpvpfnpZ7vvIjjgZ/jgYvjgYrjgYvjgb/jga7jgYvjgb/vvInjgafjgZnjgILmsLTjga7npZ7mp5jjgaDjgYvjgonjgIHmsLTjga7jgYrjgb/jgY/jgZjjgYzjgYLjgovjga7jgafjgZnjga3jgILjgYrlj4LjgorjgoLlv5jjgozjgZrjgavjgZfjgZ/jgYTjgajjgZPjgo3jgafjgZnjgILmsLTljaDjgb/jgY/jgZjjga/jgIHmnKzlrq7jga7jgajjgZPjgo3jgavjgYLjgovnpL7li5nmiYDjgavjgYLjgorjgb7jgZnjgIIgIOiytOiIueelnuekvuOBr+OAgeelnuOBruS5l+OCiueJqeOBp+OBguOBo+OBn+OBqOOBleOCjOOCi+OAjOiIueOAjeOBqOOCgue4geOBjOa3seOBj+OAgeiIueOBruW9ouOCkuOBl+OBn+WyqeOBquOBqeOCguOBguOCiuOBvuOBmeOAguWig+WGheOCkuatqeOBj+OBruOCguOAgealveOBl+OBhOOBp+OBmeOCiOOAgiwgaW1hZ2VVcmw6IGh0dHA6Ly9waG90bzUzLmNvbS9pbWcva2lidW5lamluamExLmpwZywga2luZDog56We56S+5LuP6ZajLCByZXF1aXJlZFRpbWU6IDEpCkxvY2F0aW9uLmNyZWF0ZShuYW1lOiDnpo/moITloIIsIGxhdGl0dWRlOiAzNS4wMDQwNDUsIGxvbmdpdHVkZTogMTM1Ljc3MzE5LCBkZXNjcmlwdGlvbjog5Zub5p2h6YCa44KK5rK/44GE44Gu5Lqk5beu54K544Gu6KeS5Zyw44Gr44GC44KL5Ym15qWtODDlubTjga7ogIHoiJfjga7pj6Hlkozoj5PlrZDlsYvjgZXjgpPjgafjgZnjgIIg55yL5p2/5ZWG5ZOB44Gv44CB5Lqs6YO96Iqx6KGX44O756WH5ZyS44Gu5ZCN54mp44GK5Zuj5a2Q44Go44GX44Gm55+l44KM44KM44KL44CM56WH5ZyS44Gu5pyI44CN44Gn44GZ44CC6Iqx6KGX44Gu5aSc6Zye44Gr6KaL44GI44KL44G744Gu44GL44Gq5pyI44KS44Kk44Oh44O844K444GX44Gf44GK6I+T5a2Q44Gn44CBIOemj+aghOWgguOBrumWi+W6l+S7peadpeOAgeelh+WckuOBp+aEm+OBleOCjOe2muOBkeOBpuOBhOOCi+eci+adv+WVhuWTgeOBp+OBmeOAguOBoeOBvuOBjeOBruOCiOOBhuOBq+esueOBruiRieOBq+WMheOBvuOCjOOBn+WSjOiPk+WtkOOAjOOBj+OBmuOBruesueOAjeOCguS6uuawl+OBp+OBmeOAguOBk+OBl+mkoeOBqOagl+OBjOmBk+aYjuWvuueyieOBp+WMheOBvuOCjOOAgeimi+OBn+ebruOCguOBqOOBpuOCgua2vOOBl+OBkuOBp+miqOa1geOBquOBiuiPk+WtkOOBp+OBmeOAgueUmOOBleOCgueoi+OCiOOBj+OAgeOBiuWcn+eUo+OBq+OCguWWnOOBsOOCjOOCi+OBk+OBqOOBhuOBkeOBguOBhOOBp+OBmeOCiOOAgiwgaW1hZ2VVcmw6IGh0dHA6Ly93d3cuZ2lvbi5vci5qcC93cC1jb250ZW50L3VwbG9hZHMvMjAxMy8wNC9lMWI4MWNhMTA4NDQ2NmMwMTcwY2QwMGM5OGU4NWIyOTEuanBnLCBraW5kOiDpo7Lpo5/lupcsIHJlcXVpcmVkVGltZTogMC41KQpMb2NhdGlvbi5jcmVhdGUobmFtZTog44Ky44K544OI44OP44Km44K56YeR6a2a5a62LCBsYXRpdHVkZTogMzUuMDM0NDgxLCBsb25naXR1ZGU6IDEzNS43NDU0MTcsIGRlc2NyaXB0aW9uOiDph5HprZrlrrbjga/jgIHjgajjgabjgoLlpKfkuovjgavjgZXjgozjgabjgY3jgZ/kuqzpg73opb/pmaPjga7nlLrlrrbjgpLmlLnkv67jgZfjgZ/lsI/jgZXjgarjgYrlrr/jgafjgZnjgIIg6Ieq5a626KO957Gz44KS5L2/44Gj44Gf5pyd6aOf5LuY44GL44CB57Sg5rOK44KK44Gu44GU5a6/5rOK44KS6YG444KT44Gn6aCC44GR44G+44GZ44CCIOeOhOmWouOCkuOBj+OBkOOCi+OBqOOAgemAmuOCiuW6reOAgeWPsOaJgOOAgeS6leaIuOOBjOe2muOBjeOAgeWlpeOBq+OBr+Wbm+Wto+OCkuaEn+OBmOOCieOCjOOCi+W6reOAgeijj+W6reOBq+OBr+iUteOBjOaui+OBo+OBpuOBiuOCiuOAgeaYlOOBquOBjOOCieOBrueUuuWutuOBruaaruOCieOBl+OCkuaEn+OBmOOBpumgguOBkeOBvuOBmeOAgiwgaW1hZ2VVcmw6IGh0dHBzOi8vaW1hZ2Uta2luYXJpbm8uc3NsLmstaW1nLmNvbS9zeXN0ZW0vcHJlc3NfZXllX2NhdGNoZXMvMDAwLzAxMS85MTQvMGJhZjg2N2E5YzNmOWI2Nzg1NTZhYzJmMzQxNDRhYmRiYjMyMGEzMy5qcGc/MTQyNzA3ODU3NSwga2luZDog44Ky44K544OI44OP44Km44K5LCByZXF1aXJlZFRpbWU6IG5vbmUpCkxvY2F0aW9uLmNyZWF0ZShuYW1lOiDltZDlsbEsIGxhdGl0dWRlOiAzNS4wMTUwNDgsIGxvbmdpdHVkZTogMTM1LjY3ODAwNCwgZGVzY3JpcHRpb246IOS6rOmDveOBruS4reOBp+OCguWkp+S6uuawl+OBruaXheihjOWFiOOBp+OBmeOAguaYpeOBr+ahnOOAgeeni+OBr+e0heiRieOBjOe+juOBl+OBhOOBk+OBqOOBp+OCiOOBj+efpeOCieOCjOOBpuOBhOOBvuOBmeOAguW4guWGheOBi+OCieOBr+WwkeOBl+mbouOCjOOBpuOBhOOBvuOBmeOBjOOAgeOBneOBruWIhumbhOWkp+OBquiHqueEtuOCkuaEn+OBmOOCi+OBk+OBqOOBjOOBp+OBjeOBvuOBmeOAgumhmOOBhOS6i+OBjDHjgaTjgaDjgZHlj7bjgYbjgajoqIDjgo/jgozjgovpiLTomavlr7rjgoTjgIHmnInlkI3jgarjg53jgrnjgr/jg7zjgavjgoLjgarjgaPjgZ/luLjlr4LlhYnlr7rjgIHopovjgovogIXjgpLlnKflgJLjgZnjgovlubvmg7PnmoTjgarnq7nmnpfjgIHjgrfjg7Pjg5zjg6vjga7muKHmnIjmqYvjgarjganjgIHoqKrjgozjgZ/jgYTloLTmiYDjga/mlbDjgYjliIfjgozjgb7jgZvjgpPjgILjg4jjg63jg4PjgrPliJfou4rjgoTlt53kuIvjgorjgarjganjgoLlv4PjgbLjgYvjgozjgb7jgZnjgojjga3jgIIsIGltYWdlVXJsOiBodHRwOi8vZmluZC10cmF2ZWwuY2RuLWRlbmEuY29tL3BpY3R1cmUvYXJ0aWNsZWJvZHkvMTQ3NjA0LCBraW5kOiDlnJ/lnLAsIHJlcXVpcmVkVGltZTogMS41KQpMb2NhdGlvbi5jcmVhdGUobmFtZTog6Iqx6KaL5bCP6Lev6YCaLCBsYXRpdHVkZTogMzUuMDA1MTE1LCBsb25naXR1ZGU6IDEzNS43NzUxODUsIGRlc2NyaXB0aW9uOiDnpYflnJLnlLrjga7kuK3lv4Pjga7pgJrjgorjgafjgYLjgovoirHopovlsI/ot6/pgJrjgILnn7PnlbPjgYzntprjgY/pgJrjgorjgavmlpnkuq3jgoTjgYrojLblsYvjgYznq4vjgaHkuKbjgpPjgafjgYTjgabjgIHjgb7jgZXjgavkuqzpg73vvIHjgajjgYTjgYbpm7Dlm7LmsJfjgpLmpb3jgZfjgoHjgovjgrnjg53jg4Pjg4jjgILnuYHoj6/ooZfov5HjgY/jgafjgYLjgorjgarjgYzjgonjgIHjgobjgaPjgY/jgorjgajmmYLjgYzmtYHjgozjgovjgojjgYbjgarpoqjmg4XjgYzjgYLjgorjgb7jgZnjgIIg5LiJ5p2h6YCa44KK44GL44KJ5bu65LuB5a+65YmN44G+44Gn44KS5Y2X5YyX44Gr44Gu44Gz44KLMWtt44G744Gp44Gu5bCP6Lev44KS6Iqx6KaL5bCP6Lev6YCa44Go5ZG844Gz44G+44GZ44CC55Sx57eS44GC44KL44GK6Iy25bGL44KE5paZ55CG5bGL44Gq44Gp44GM6LuS44KS6YCj44Gt44Gm44GE44Gm44CB5aSV5pa544Gr44Gq44KL44Go44CB44GK6Iy25bGL44Gr5Ye65Yuk44GV44KM44KL6Iie5aaT44GV44KT44KE6Iq45aaT44GV44KT44GM44CB5q2p44GP5ae/44KS6KaL44KL44GT44Go44GM44Gn44GN44G+44GZ44KI4pmqLCBpbWFnZVVybDogaHR0cHM6Ly9mYXJtNC5zdGF0aWNmbGlja3IuY29tLzMxODUvMjg3MTQ2MDM0N18xOGFlZWRiOTEyX2IuanBnLCBraW5kOiDlnJ/lnLAsIHJlcXVpcmVkVGltZTogMC41KQpMb2NhdGlvbi5jcmVhdGUobmFtZTog44Gk44GR44KB44KT44CA5oG16YKj44GPLCBsYXRpdHVkZTogMzUuMDQ0MjYzLCBsb25naXR1ZGU6IDEzNS43ODU4MzIsIGRlc2NyaXB0aW9uOiDpurrjga/jgoLjgaPjgaHjgorjgajjgZfjgabjgrPjgrfjgYzjgYLjgorjgIHjgrnjg7zjg5fjgoLplbfmmYLplpPnha7ovrzjgpPjgaDps6XjgoTjgrLjg7PjgrPjg4TjgIHosZrjgarjganjgavjgrXjg5Dnr4DjgoTpsLnnr4DjgpLjg5Djg6njg7PjgrnjgojjgY/lkIjjgo/jgZvjgabjgYTjgb7jgZnjgILjgaTjgZHpurrjga7jgrnjg7zjg5flibLjgoLmmIbluIPjgajnha7lubLjgZfjgpLkvb/nlKjjgZfjgabmnIDlvozjga7kuIDmu7Tjgb7jgafpo7Ljgb/lubLjgZfjgZ/jgY/jgarjgorjgb7jgZnjgILpurrjgoLjgrnjg7zjg5fjgavntaHjgb/nvo7lkbPjgZfjgYTjgafjgZnvvIEgIOOBqeOBoeOCieOBi+OBqOiogOOBhuOBqOOAjOOBn+OBkeS6leOAjeODqeODvOODoeODs+ezu+e1seOBq+S8vOOBn+OBpOOBkem6uuOBp+OAgemtmuS7i+ODmeODvOOCueOBruOCueODvOODl+OBjOmmmeOCi+OBpOOBkem6uuOAguWRs+eOieS4gOWAi+OBqOOBi+OBhOOCj+OCjOOBjOWFpeOBo+OBpuOBhOOBvuOBmeOAgum6uuOCguiJtuOBqOOCs+OCt+OBruOBguOCi+ODqeODvOODoeODs+OAguS4gOS5l+WvuumrmOanu+eUuuOBq+OBguOCi+ODqeODvOODoeODs+Wxi+OBleOCk+OBp+OAgeS4gOS5l+WvuumnheOBi+OCieOBr+W+kuatqTPliIbjgafjgZnjgIIsIGltYWdlVXJsOiBodHRwOi8vZmluZC10cmF2ZWwuY2RuLWRlbmEuY29tL3BpY3R1cmUvYXJ0aWNsZWJvZHkvNjM2MTYsIGtpbmQ6IOmjsumjn+W6lywgcmVxdWlyZWRUaW1lOiAwLjQ1KQpMb2NhdGlvbi5jcmVhdGUobmFtZTog5Y2X56aF5a+644Gn5rmv6LGG6IWQLCBsYXRpdHVkZTogMzUuMDExMjQ1LCBsb25naXR1ZGU6IDEzNS43OTM4MDMsIGRlc2NyaXB0aW9uOiDlrqTnlLrmmYLku6Pjgavlu7rjgabjgonjgozjgZ/jgYrlr7rjgIHljZfnpoXlr7rjgILmmKXjga/moZzjg7vnp4vjga/ntIXokYnjga7lkI3miYDjgajjgZfjgablnLDlhYPjga7mlrnjgYvjgonmhJvjgZXjgozjgabjgYTjgovloLTmiYDjgafjgZnjgYzjgIHmlbflnLDlhoXjgpLpgJrjgovmsLTot6/mqYvjgoTlm5vlraPmipjjgIXjga7luq3jga7mma/oprPjgYznvo7jgZfjgYTlpKnmjojlurXjgarjganjgoLmnInlkI3jgaroprPlhYnjgrnjg53jg4Pjg4jjgafjgZnjgILjgZ3jgpPjgarljZfnpoXlr7rjga7kuK3jgpLmpb3jgZfjgpPjgaDjgYLjgajjga/jgIHjgYrlr7rlkajovrrjgavou5LjgpLpgKPjga3jgovmua/osYbohZDjgoTjgZXjgpPjgafpo5/kuovjgpLmpb3jgZfjgpPjgafjgb/jgovjga7jgYzjgYrjgZnjgZnjgoHjgafjgZnjgIIg5Y2X56aF5a+65YmN44Gr44GC44KL5Lq65rCX5bqX44CM5Y2X56aF5a+6IOmghuato+OAjeOBp+OCguOAgea5r+ixhuiFkOOCkuOBhOOBn+OBoOOBj+OBk+OBqOOBjOOBp+OBjeOBvuOBmeOAgua5r+ixhuiFkOOBruOCs+ODvOOCueOBq+OBr+OAgeODoeOCpOODs+OBrua5r+ixhuiFkOOBruOBu+OBi+OBq+OAgeOBlOOBvuOBqeOBhuOBteOChOOAgeixhuiFkOeUsOalveOAgemHjuiPnOWkqeOBt+OCieOAgea1t+iAgeOAgeiMhOWtkOOAgeWNl+eTnOOAgeODleOCreOBquOBqeOBjOWFpeOBo+OBn+eCiuWQiOOBm+OBquOBqeOCguWFpeOBo+OBpuOBhOOBvuOBmeOCiOOAgiwgaW1hZ2VVcmw6IGh0dHA6Ly9maW5kLXRyYXZlbC5jZG4tZGVuYS5jb20vcGljdHVyZS9hcnRpY2xlYm9keS8xNzA4MSwga2luZDog6aOy6aOfLCByZXF1aXJlZFRpbWU6IDEpCkxvY2F0aW9uLmNyZWF0ZShuYW1lOiDkuqzpg73jgr/jg6/jg7wsIGxhdGl0dWRlOiAzNC45ODc1NjMsIGxvbmdpdHVkZTogMTM1Ljc1OTM0NCwgZGVzY3JpcHRpb246IOS6rOmDvemnheOBi+OCieWHuuOBn+OCieOAgemBk+OCkuaMn+OCk+OBp+ebruOBruWJjeOBq+OBguOCi+OBruOBjOWkp+OBjeOBj+OBneOBs+OBiOOCi+S6rOmDveOCv+ODr+ODvOOBp+OBmeOAguS6rOmDveOCv+ODr+ODvOOBr+S6rOmDveOBruOCt+ODs+ODnOODq+OBqOOBl+OBpuihl+OCkuS6rOmDveW4guihl+OBi+OCieWxseOAheOBrumiqOaZr+OBvuOBp+S4gOacm+OBp+OBjeOCi+OCiOOBhuOBq+OBquOBo+OBpuOBhOOBvuOBmeOAguS6rOmDveOBq+adpeOBn+OCk+OBoO+8geOBqOWun+aEn+OBmeOCi+OBn+OCgeOBq+OCguaZr+iJsuOCkuimi+a4oeOBm+OCi+acgOS4iumajuOBvuOBp+ihjOOBj+OBruOBjOOBiuOBmeOBmeOCgeOBp+OBmeKZqiAsIGltYWdlVXJsOiBodHRwOi8vcGhvdG81My5jb20vaW1nL3Rvd2VyMS5qcGcsIGtpbmQ6IOW7uuevieeJqSwgcmVxdWlyZWRUaW1lOiAxKQoK</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
