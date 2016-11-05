@@ -3,26 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/users_spec.rb" timestamp="1477764125901">
+        <mark key="'" line="3" column="2" />
+        <mark key="[" line="3" column="41" />
+        <mark key="]" line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/factories/news_releases.rb" timestamp="1477755887646">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="13" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/models/phone_spec.rb" timestamp="1477542517402">
-        <mark key="[" line="36" column="39" />
-        <mark key="]" line="37" column="4" />
-        <mark key="^" line="37" column="4" />
-        <mark key="." line="37" column="4" />
-      </file>
-      <file name="/Ruby Console" timestamp="1478335923159">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/migrate/20161030132014_create_users.rb" timestamp="1477835218091">
-        <mark key="[" line="3" column="22" />
-        <mark key="]" line="4" column="22" />
-        <mark key="^" line="4" column="22" />
-        <mark key="." line="4" column="22" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/README.md" timestamp="1478267416697">
         <mark key="[" line="0" column="8" />
@@ -30,23 +22,17 @@
         <mark key="." line="1" column="15" />
         <mark key="^" line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/locations_controller.rb" timestamp="1478305429267" />
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/models/news_release.rb" timestamp="1477755259852">
-        <mark key="[" line="0" column="38" />
-        <mark key="]" line="2" column="50" />
-        <mark key="^" line="2" column="50" />
-        <mark key="." line="2" column="50" />
-      </file>
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/Gemfile" timestamp="1478330576225">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="2" column="13" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" timestamp="1478314617817">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="31" column="556" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/migrate/20161105091846_create_regions.rb" timestamp="1478338361750">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="4" column="33" />
+        <mark key="^" line="4" column="33" />
+        <mark key="." line="4" column="33" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/views/layouts/application.html.erb" timestamp="1477754217898">
         <mark key="[" line="32" column="49" />
@@ -54,31 +40,11 @@
         <mark key="^" line="33" column="57" />
         <mark key="." line="33" column="57" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/models/news_release_spec.rb" timestamp="1477756999187">
-        <mark key="[" line="2" column="34" />
-        <mark key="]" line="2" column="46" />
-        <mark key="." line="2" column="46" />
-        <mark key="^" line="2" column="46" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/migrate/20161030132539_create_items.rb" timestamp="1477834565199">
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="7" column="38" />
-        <mark key="^" line="5" column="21" />
-        <mark key="." line="7" column="25" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/news_releases_spec.rb" timestamp="1477754388861">
-        <mark key="[" line="2" column="23" />
-        <mark key="]" line="2" column="36" />
-        <mark key="^" line="2" column="36" />
-        <mark key="." line="2" column="36" />
-      </file>
-      <file name="restClient/response1.json" timestamp="1478312574839" />
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/views/news_releases/_form.html.erb" timestamp="1477754720213">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="restClient/response56.json" timestamp="1478322428215" />
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/api/routes_controller.rb" timestamp="1478335921515">
         <mark key="[" line="18" column="38" />
         <mark key="]" line="20" column="25" />
@@ -110,26 +76,18 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1478333745499">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.rb" timestamp="1478334300582">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/about_us_spec.rb" timestamp="1477753771751">
-        <mark key="[" line="3" column="68" />
-        <mark key="]" line="6" column="24" />
-        <mark key="." line="6" column="24" />
-        <mark key="^" line="6" column="24" />
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/views/news_releases/index.html.erb" timestamp="1477755397088">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="4" column="49" />
+        <mark key="]" line="4" column="44" />
+        <mark key="." line="4" column="44" />
+        <mark key="^" line="4" column="44" />
       </file>
       <file name="restClient/response23.json" timestamp="1478318966902" />
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/Gemfile" timestamp="1477762099234">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/schema.rb" timestamp="1478312193720">
-        <mark key="'" line="24" column="2" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/application_controller.rb" timestamp="1478331379158">
         <mark key="[" line="0" column="50" />
@@ -143,20 +101,18 @@
         <mark key="^" line="6" column="36" />
         <mark key="." line="6" column="36" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/rails_helper.rb" timestamp="1477756854942">
-        <mark key="[" line="65" column="44" />
-        <mark key="]" line="59" column="51" />
-        <mark key="^" line="59" column="51" />
-        <mark key="." line="59" column="51" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/controllers/news_releases_controller.rb" timestamp="1477754819402">
-        <mark key="[" line="30" column="47" />
-      </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/.rspec" timestamp="1477539401021">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="21" />
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/api/regions_controller.rb" timestamp="1478340025487">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="10" column="2" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/config/application.rb" timestamp="1478330579191">
         <mark key="[" line="28" column="0" />
@@ -169,28 +125,20 @@
         <mark key="." line="3" column="43" />
         <mark key="^" line="3" column="43" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/config/routes.rb" timestamp="1478333803880">
-        <mark key="[" line="3" column="7" />
-        <mark key="]" line="2" column="8" />
-        <mark key="." line="2" column="8" />
-        <mark key="^" line="2" column="8" />
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/config/routes.rb" timestamp="1478340068181">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="2" column="37" />
+        <mark key="." line="2" column="37" />
+        <mark key="^" line="2" column="37" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/schema.rb" timestamp="1477835509690">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="46" column="2" />
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/models/region.rb" timestamp="1478338118456">
+        <mark key="[" line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/.ruby-version" timestamp="1477756678891">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="4" />
-        <mark key="^" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/migrate/20161104134212_create_locations.rb" timestamp="1478312483161">
-        <mark key="[" line="6" column="51" />
-        <mark key="]" line="6" column="38" />
-        <mark key="^" line="6" column="38" />
-        <mark key="." line="6" column="38" />
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/migrate/20161104134212_create_locations.rb" timestamp="1478338076544">
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="2" column="30" />
+        <mark key="^" line="2" column="30" />
+        <mark key="." line="2" column="30" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/.gitignore" timestamp="1477579618712">
         <mark key="[" line="16" column="0" />
@@ -198,39 +146,115 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="4" />
       </file>
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/models/phone_spec.rb" timestamp="1477542517402">
+        <mark key="[" line="36" column="39" />
+        <mark key="]" line="37" column="4" />
+        <mark key="^" line="37" column="4" />
+        <mark key="." line="37" column="4" />
+      </file>
+      <file name="/Ruby Console" timestamp="1478335923159">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/migrate/20161030132014_create_users.rb" timestamp="1477835218091">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="4" column="22" />
+        <mark key="^" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/locations_controller.rb" timestamp="1478305429267" />
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/models/news_release.rb" timestamp="1477755259852">
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="2" column="50" />
+        <mark key="^" line="2" column="50" />
+        <mark key="." line="2" column="50" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" timestamp="1478339759831">
+        <mark key="'" line="33" column="16" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="26" column="16" />
+        <mark key="n" line="16" column="14" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/models/news_release_spec.rb" timestamp="1477756999187">
+        <mark key="[" line="2" column="34" />
+        <mark key="]" line="2" column="46" />
+        <mark key="." line="2" column="46" />
+        <mark key="^" line="2" column="46" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/migrate/20161030132539_create_items.rb" timestamp="1477834565199">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="7" column="38" />
+        <mark key="^" line="5" column="21" />
+        <mark key="." line="7" column="25" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/news_releases_spec.rb" timestamp="1477754388861">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="36" />
+        <mark key="^" line="2" column="36" />
+        <mark key="." line="2" column="36" />
+      </file>
+      <file name="restClient/response1.json" timestamp="1478312574839" />
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/factories/users.rb" timestamp="1477627379608">
+        <mark key="'" line="4" column="32" />
+        <mark key="[" line="4" column="34" />
+        <mark key="]" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+        <mark key="^" line="7" column="15" />
+      </file>
+      <file name="restClient/response56.json" timestamp="1478322428215" />
+      <file name="/Dummy.txt" timestamp="1478333745499">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.rb" timestamp="1478334300582">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/about_us_spec.rb" timestamp="1477753771751">
+        <mark key="[" line="3" column="68" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="6" column="24" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/users_controller_spec.rb" timestamp="1477583488454">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="13" column="47" />
+        <mark key="]" line="13" column="59" />
+        <mark key="^" line="13" column="59" />
+        <mark key="." line="13" column="59" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/schema.rb" timestamp="1478312193720">
+        <mark key="'" line="24" column="2" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/models/location.rb" timestamp="1478338358276">
+        <mark key="[" line="0" column="34" />
+        <mark key="]" line="1" column="19" />
+        <mark key="^" line="1" column="19" />
+        <mark key="." line="1" column="19" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" timestamp="1477546598309">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="13" column="37" />
+        <mark key="]" line="13" column="42" />
+        <mark key="." line="13" column="42" />
+        <mark key="^" line="13" column="42" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/rails_helper.rb" timestamp="1477756854942">
+        <mark key="[" line="65" column="44" />
+        <mark key="]" line="59" column="51" />
+        <mark key="^" line="59" column="51" />
+        <mark key="." line="59" column="51" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/controllers/news_releases_controller.rb" timestamp="1477754819402">
+        <mark key="[" line="30" column="47" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/.ruby-version" timestamp="1477756678891">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="3" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/models/contact_spec.rb" />
-      <jump line="32" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/models/contact_spec.rb" />
-      <jump line="80" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/models/contact_spec.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/models/contact_spec.rb" />
-      <jump line="6" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/factories/contacts.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/factories/contacts.rb" />
-      <jump line="14" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="36" column="24" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="49" column="24" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="40" column="6" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="7" column="67" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="10" column="4" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="12" column="4" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="13" column="46" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="18" column="2" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="19" column="51" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="26" column="68" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="30" column="2" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="31" column="51" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="35" column="4" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="37" column="6" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="38" column="49" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="41" column="4" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="43" column="6" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="44" column="57" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="48" column="4" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="4" column="4" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="50" column="4" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="94" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="113" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="144" column="5" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
       <jump line="186" column="22" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
       <jump line="56" column="49" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
       <jump line="11" column="55" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
@@ -292,7 +316,6 @@
       <jump line="13" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/schema.rb" />
       <jump line="26" column="0" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/schema.rb" />
       <jump line="24" column="2" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/schema.rb" />
-      <jump line="11" column="29" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
       <jump line="6" column="0" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/api/locations_controller.rb" />
       <jump line="21" column="0" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/api/routes_controller.rb" />
@@ -300,55 +323,87 @@
       <jump line="50" column="2" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/api/locations_controller.rb" />
       <jump line="52" column="2" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/api/locations_controller.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/api/locations_controller.rb" />
+      <jump line="1" column="6" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
+      <jump line="2" column="14" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
+      <jump line="3" column="15" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
+      <jump line="4" column="15" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
+      <jump line="5" column="15" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
+      <jump line="6" column="15" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
+      <jump line="7" column="15" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
+      <jump line="8" column="15" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
+      <jump line="9" column="15" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
+      <jump line="10" column="15" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
+      <jump line="11" column="15" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
+      <jump line="15" column="14" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
+      <jump line="16" column="14" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
+      <jump line="17" column="14" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
+      <jump line="18" column="14" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
+      <jump line="19" column="14" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
+      <jump line="20" column="14" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
+      <jump line="21" column="14" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
+      <jump line="22" column="14" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
+      <jump line="23" column="14" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
+      <jump line="24" column="5" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
+      <jump line="25" column="8" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
+      <jump line="26" column="16" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
+      <jump line="27" column="16" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
+      <jump line="28" column="16" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
+      <jump line="29" column="16" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
+      <jump line="30" column="16" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
+      <jump line="31" column="16" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
+      <jump line="32" column="16" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
+      <jump line="33" column="16" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
+      <jump line="52" column="2" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/api/regions_controller.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/api/regions_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.(0, :geoList)</text>
+        <text>Location</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbmRcPg==</text>
+        <text>Location</text>
       </register>
-      <register name="0" type="4">
-        <text>AIzaSyBlTfiKHGbtgsNKJ11ef0GMTNEv75TX6PM</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICByZXNvdXJjZXMgOnJlZ2lvbnMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIyBqc29uX3JlcXVlc3QgPSBKU09OLnBhcnNlKHJlcXVlc3QuYm9keS5yZWFkKQogICAgICAjCiAgICAgICMgaWYgIWpzb25fcmVxdWVzdC5ibGFuaz8KICAgICAgIyAgIHBlcnNvbmFsID0ganNvbl9yZXF1ZXN0CiAgICAgICMgZWxzZQogICAgICAjICAgcGVyc29uYWwgPSB7J3N0YXR1cycgPT4gNTAwfQogICAgICAjIGVuZAogICAgICAjCiAgICAgICMgcCBwZXJzb25hbAo=</text>
+        <text encoding="base64">ICByZXNvdXJjZXMgOnJlZ2lvbnMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgc2tpcF9iZWZvcmVfYWN0aW9uIDp2ZXJpZnlfYXV0aGVudGljaXR5X3Rva2VuCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICMgYmVmb3JlX2FjdGlvbiA6anNvbl9yZXF1ZXN0LCBvbmx5Ols6Z2V0X3JvdXRlc10K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy5taWRkbGV3YXJlLmluc2VydF9iZWZvcmUgQWN0aW9uRGlzcGF0Y2g6OlBhcmFtc1BhcnNlciwgQ29tbWl0dGVlOjpNaWRkbGV3YXJlOjpSZXF1ZXN0VmFsaWRhdGlvbiwgc2NoZW1hOiBKU09OLnBhcnNlKEZpbGUucmVhZChzY2hlbWFfZmlsZSkpCiAgICBjb25maWcubWlkZGxld2FyZS5pbnNlcnRfYmVmb3JlIEFjdGlvbkRpc3BhdGNoOjpQYXJhbXNQYXJzZXIsIENvbW1pdHRlZTo6TWlkZGxld2FyZTo6UmVzcG9uc2VWYWxpZGF0aW9uLCBzY2hlbWE6IEpTT04ucGFyc2UoRmlsZS5yZWFkKHNjaGVtYV9maWxlKSkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Z2VtICdjb21taXR0ZWUnCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGJlZm9yZV9hY3Rpb24gOnNldF9yZWdpb24sIG9ubHk6IFs6c2hvdywgOnVwZGF0ZSwgOmRlc3Ryb3ldCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICMgR0VUIC9yZWdpb25zLzEKICAgIGRlZiBzaG93CiAgICAgIHJlbmRlciBqc29uOiBAcmVnaW9uCiAgICBlbmQKCiAgICAjIFBPU1QgL3JlZ2lvbnMKICAgIGRlZiBjcmVhdGUKICAgICAgQHJlZ2lvbiA9IFJlZ2lvbi5uZXcocmVnaW9uX3BhcmFtcykKCiAgICAgIGlmIEByZWdpb24uc2F2ZQogICAgICAgIHJlbmRlciBqc29uOiBAcmVnaW9uLCBzdGF0dXM6IDpjcmVhdGVkLCBsb2NhdGlvbjogQHJlZ2lvbgogICAgICBlbHNlCiAgICAgICAgcmVuZGVyIGpzb246IEByZWdpb24uZXJyb3JzLCBzdGF0dXM6IDp1bnByb2Nlc3NhYmxlX2VudGl0eQogICAgICBlbmQKICAgIGVuZAoKICAgICMgUEFUQ0gvUFVUIC9yZWdpb25zLzEKICAgIGRlZiB1cGRhdGUKICAgICAgaWYgQHJlZ2lvbi51cGRhdGUocmVnaW9uX3BhcmFtcykKICAgICAgICByZW5kZXIganNvbjogQHJlZ2lvbgogICAgICBlbHNlCiAgICAgICAgcmVuZGVyIGpzb246IEByZWdpb24uZXJyb3JzLCBzdGF0dXM6IDp1bnByb2Nlc3NhYmxlX2VudGl0eQogICAgICBlbmQKICAgIGVuZAoKICAgICMgREVMRVRFIC9yZWdpb25zLzEKICAgIGRlZiBkZXN0cm95CiAgICAgIEByZWdpb24uZGVzdHJveQogICAgZW5kCgogICAgcHJpdmF0ZQogICAgIyBVc2UgY2FsbGJhY2tzIHRvIHNoYXJlIGNvbW1vbiBzZXR1cCBvciBjb25zdHJhaW50cyBiZXR3ZWVuIGFjdGlvbnMuCiAgICBkZWYgc2V0X3JlZ2lvbgogICAgICBAcmVnaW9uID0gUmVnaW9uLmZpbmQocGFyYW1zWzppZF0pCiAgICBlbmQKCiAgICAjIE9ubHkgYWxsb3cgYSB0cnVzdGVkIHBhcmFtZXRlciAid2hpdGUgbGlzdCIgdGhyb3VnaC4KICAgIGRlZiByZWdpb25fcGFyYW1zCiAgICAgIHBhcmFtcy5mZXRjaCg6cmVnaW9uLCB7fSkKICAgIGVuZAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgIyBqc29uX3JlcXVlc3QgPSBKU09OLnBhcnNlKHJlcXVlc3QuYm9keS5yZWFkKQogICAgICAjCiAgICAgICMgaWYgIWpzb25fcmVxdWVzdC5ibGFuaz8KICAgICAgIyAgIHBlcnNvbmFsID0ganNvbl9yZXF1ZXN0CiAgICAgICMgZWxzZQogICAgICAjICAgcGVyc29uYWwgPSB7J3N0YXR1cycgPT4gNTAwfQogICAgICAjIGVuZAogICAgICAjCiAgICAgICMgcCBwZXJzb25hbAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICMgc2tpcF9iZWZvcmVfYWN0aW9uIDp2ZXJpZnlfYXV0aGVudGljaXR5X3Rva2VuCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUKICAgIGRlZiBqc29uX3JlcXVlc3QKICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICMgYmVmb3JlX2FjdGlvbiA6anNvbl9yZXF1ZXN0LCBvbmx5Ols6Z2V0X3JvdXRlc10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgSlNPTi5wYXJzZShyZXF1ZXN0LmJvZHkucmVhZCkK</text>
+        <text encoding="base64">ICAgIGNvbmZpZy5taWRkbGV3YXJlLmluc2VydF9iZWZvcmUgQWN0aW9uRGlzcGF0Y2g6OlBhcmFtc1BhcnNlciwgQ29tbWl0dGVlOjpNaWRkbGV3YXJlOjpSZXF1ZXN0VmFsaWRhdGlvbiwgc2NoZW1hOiBKU09OLnBhcnNlKEZpbGUucmVhZChzY2hlbWFfZmlsZSkpCiAgICBjb25maWcubWlkZGxld2FyZS5pbnNlcnRfYmVmb3JlIEFjdGlvbkRpc3BhdGNoOjpQYXJhbXNQYXJzZXIsIENvbW1pdHRlZTo6TWlkZGxld2FyZTo6UmVzcG9uc2VWYWxpZGF0aW9uLCBzY2hlbWE6IEpTT04ucGFyc2UoRmlsZS5yZWFkKHNjaGVtYV9maWxlKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">Z2VtICdjb21taXR0ZWUnCg==</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlbmRcPg==</last-search>
+      <last-search>Location</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbmRcPg==</last-pattern>
+      <last-pattern>Location</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -369,6 +424,7 @@
         <entry encoding="base64">XDxmaWxsX2luXD4=</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry encoding="base64">XDxlbmRcPg==</entry>
+        <entry>Location</entry>
       </history-search>
       <history-cmd>
         <entry>action FindNext</entry>
