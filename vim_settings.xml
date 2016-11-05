@@ -22,11 +22,10 @@
         <mark key="." line="1" column="15" />
         <mark key="^" line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/Gemfile" timestamp="1478358910212">
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="3" column="13" />
-        <mark key="^" line="3" column="13" />
-        <mark key="." line="3" column="13" />
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/Gemfile" timestamp="1478363241274">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/migrate/20161105091846_create_regions.rb" timestamp="1478338361750">
         <mark key="[" line="2" column="32" />
@@ -51,12 +50,12 @@
         <mark key="^" line="16" column="20" />
         <mark key="." line="16" column="20" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/api/locations_controller.rb" timestamp="1478358545940">
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/api/locations_controller.rb" timestamp="1478362773985">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="27" />
-        <mark key="." line="2" column="40" />
-        <mark key="^" line="2" column="40" />
+        <mark key="[" line="21" column="22" />
+        <mark key="]" line="22" column="5" />
+        <mark key="." line="22" column="5" />
+        <mark key="^" line="22" column="5" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/news_releases_controller_spec.rb" timestamp="1477756357399">
         <mark key="[" line="2" column="46" />
@@ -125,8 +124,8 @@
         <mark key="." line="3" column="43" />
         <mark key="^" line="3" column="43" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/config/routes.rb" timestamp="1478341389821">
-        <mark key="[" line="3" column="41" />
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/config/routes.rb" timestamp="1478362082165">
+        <mark key="[" line="4" column="59" />
         <mark key="]" line="4" column="58" />
         <mark key="." line="4" column="58" />
         <mark key="^" line="4" column="58" />
@@ -370,34 +369,31 @@
         <text encoding="base64">ICAgICMgR0VUIC9yZWdpb25fbG9jYXRpb25zCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXZlcnNlX2dlb2NvZGVkX2J5IDpsYXRpdHVkZSwgOmxvbmdpdHVkZSwgOmFkZHJlc3MK</text>
+        <text encoding="base64">IyBCdW5kbGUgZWRnZSBSYWlscyBpbnN0ZWFkOiBnZW0gJ3JhaWxzJywgZ2l0aHViOiAncmFpbHMvcmFpbHMnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcGFyYW1zWzpyZWdpb25faWRdCg==</text>
+        <text encoding="base64">IyBVc2UgbXlzcWwgYXMgdGhlIGRhdGFiYXNlIGZvciBBY3RpdmUgUmVjb3JkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBVc2UgUHVtYSBhcyB0aGUgYXBwIHNlcnZlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBCdWlsZCBKU09OIEFQSXMgd2l0aCBlYXNlLiBSZWFkIG1vcmU6IGh0dHBzOi8vZ2l0aHViLmNvbS9yYWlscy9qYnVpbGRlcgojIGdlbSAnamJ1aWxkZXInLCAnfj4gMi41JwojIFVzZSBSZWRpcyBhZGFwdGVyIHRvIHJ1biBBY3Rpb24gQ2FibGUgaW4gcHJvZHVjdGlvbgojIGdlbSAncmVkaXMnLCAnfj4gMy4wJwojIFVzZSBBY3RpdmVNb2RlbCBoYXNfc2VjdXJlX3Bhc3N3b3JkCiMgZ2VtICdiY3J5cHQnLCAnfj4gMy4xLjcnCgojIFVzZSBDYXBpc3RyYW5vIGZvciBkZXBsb3ltZW50CiMgZ2VtICdjYXBpc3RyYW5vLXJhaWxzJywgZ3JvdXA6IDpkZXZlbG9wbWVudAoKIyBVc2UgUmFjayBDT1JTIGZvciBoYW5kbGluZyBDcm9zcy1PcmlnaW4gUmVzb3VyY2UgU2hhcmluZyAoQ09SUyksIG1ha2luZyBjcm9zcy1vcmlnaW4gQUpBWCBwb3NzaWJsZQojIGdlbSAncmFjay1jb3JzJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Z3JvdXAgOmRldmVsb3BtZW50IGRvCiAgZ2VtICdsaXN0ZW4nLCAnfj4gMy4wLjUnCiAgIyBTcHJpbmcgc3BlZWRzIHVwIGRldmVsb3BtZW50IGJ5IGtlZXBpbmcgeW91ciBhcHBsaWNhdGlvbiBydW5uaW5nIGluIHRoZSBiYWNrZ3JvdW5kLiBSZWFkIG1vcmU6IGh0dHBzOi8vZ2l0aHViLmNvbS9yYWlscy9zcHJpbmcKICBnZW0gJ3NwcmluZycKICBnZW0gJ3NwcmluZy13YXRjaGVyLWxpc3RlbicsICd+PiAyLjAuMCcKZW5kCg==</text>
       </register>
-      <register name="6" type="4">
-        <text># GET /locations/1
-    def show
-      render json: @location
-    end</text>
+      <register name="6" type="2">
+        <text encoding="base64">Z3JvdXAgOmRldmVsb3BtZW50LCA6dGVzdCBkbwplbmQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXNvdXJjZXMgOnJlZ2lvbnMK</text>
+        <text encoding="base64">ICAjIENhbGwgJ2J5ZWJ1ZycgYW55d2hlcmUgaW4gdGhlIGNvZGUgdG8gc3RvcCBleGVjdXRpb24gYW5kIGdldCBhIGRlYnVnZ2VyIGNvbnNvbGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBnZW0gJ2J5ZWJ1ZycsIHBsYXRmb3JtOiA6bXJpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZV9hY3Rpb24gOnNldF9yZWdpb24sIG9ubHk6IFs6c2hvdywgOnVwZGF0ZSwgOmRlc3Ryb3ldCg==</text>
+        <text encoding="base64">ICByZXZlcnNlX2dlb2NvZGVkX2J5IDpsYXRpdHVkZSwgOmxvbmdpdHVkZSwgOmFkZHJlc3MK</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
