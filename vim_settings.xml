@@ -41,12 +41,10 @@
         <mark key="^" line="2" column="50" />
         <mark key="." line="2" column="50" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" timestamp="1478311168720">
-        <mark key="'" line="0" column="16" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="99" />
-        <mark key="." line="0" column="59" />
-        <mark key="^" line="0" column="59" />
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" timestamp="1478312396029">
+        <mark key="[" line="11" column="298" />
+        <mark key="]" line="11" column="298" />
+        <mark key="." line="11" column="298" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/views/layouts/application.html.erb" timestamp="1477754217898">
         <mark key="[" line="32" column="49" />
@@ -72,6 +70,7 @@
         <mark key="^" line="2" column="36" />
         <mark key="." line="2" column="36" />
       </file>
+      <file name="restClient/response1.json" timestamp="1478312574839" />
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/factories/users.rb" timestamp="1477627379608">
         <mark key="'" line="4" column="32" />
         <mark key="[" line="4" column="34" />
@@ -127,7 +126,7 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/schema.rb" timestamp="1478310650758">
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/schema.rb" timestamp="1478312193720">
         <mark key="'" line="24" column="2" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" timestamp="1477546598309">
@@ -175,11 +174,11 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/migrate/20161104134212_create_locations.rb" timestamp="1478310633766">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="40" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/migrate/20161104134212_create_locations.rb" timestamp="1478312483161">
+        <mark key="[" line="6" column="51" />
+        <mark key="]" line="6" column="38" />
+        <mark key="^" line="6" column="38" />
+        <mark key="." line="6" column="38" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/.gitignore" timestamp="1477579618712">
         <mark key="[" line="16" column="0" />
@@ -189,7 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="41" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
       <jump line="19" column="5" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
       <jump line="64" column="29" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
       <jump line="52" column="25" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
@@ -286,9 +284,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/news_releases_controller_spec.rb" />
       <jump line="60" column="3" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/Gemfile" />
       <jump line="13" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/schema.rb" />
-      <jump line="0" column="16" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
       <jump line="26" column="0" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/schema.rb" />
       <jump line="24" column="2" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/schema.rb" />
+      <jump line="11" column="29" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -303,7 +302,13 @@
       <register name="0" type="2">
         <text encoding="base64">TG9jYXRpb24uY3JlYXRlKG5hbWU6ICwgbGF0aXR1ZGU6ICwgbG9uZ2l0dWRlOiAsIGRlc2NyaXB0aW9uOiAsIGltYWdlVXJsOiAsIGtpbmQ6ICwgcmVxdWlyZWRUaW1lOiApCg==</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">TG9jYXRpb24uY3JlYXRlKG5hbWU6IOa4heawtOWvuiwgbGF0aXR1ZGU6IDM0Ljk5NDg1NiwgbG9uZ2l0dWRlOiAxMzUuNzg1MDQ2LCBkZXNjcmlwdGlvbjog5Lqs6YO95bqc5Lqs6YO95biC5p2x5bGx5Yy65riF5rC044Gr44GC44KL5a+66Zmi44CC5bGx5Y+344Gv6Z+z57695bGx44CC5pys5bCK44Gv5Y2D5omL6Kaz6Z+z44CB6ZaL5Z+677yI5Ym156uL6ICF77yJ44Gv5bu26Y6u44Gn44GC44KL44CC44KC44Go44Gv5rOV55u45a6X44Gr5bGe44GX44Gf44GM44CB54++5Zyo44Gv54us56uL44GX44Gm5YyX5rOV55u45a6X5aSn5pys5bGx44KS5ZCN5LmX44KL44CC6KW/5Zu95LiJ5Y2B5LiJ5omA6Kaz6Z+z6ZyK5aC044Gu56ysMTbnlarmnK3miYDjgafjgYLjgovjgIIsIGltYWdlVXJsOiBodHRwOi8vYXJvdW5kZGVnbG9iZS5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTYvMDQvS2l5b21penUtRGVyYS1LeW90by1KYXBhbi5qcGcsIGtpbmQ6IOelnuekvuS7j+mWoywgcmVxdWlyZWRUaW1lOiAwLjc1KQpMb2NhdGlvbi5jcmVhdGUobmFtZTog6YeR6Zaj5a+6LCBsYXRpdHVkZTogMzUuMDM5MzcsIGxvbmdpdHVkZTogMTM1LjcyOTI0MywgZGVzY3JpcHRpb246IOiHqOa4iOWul+ebuOWbveWvuua0vuOBruWvuumZouOBp+OAgeWxseWPt+OBr+WMl+WxseOAguacrOWwiuOBr+iBluims+S4lumfs+iPqeiWqSAo5pa55LiI5a6J572uKeOAguePvuWcqOOBruiIjuWIqeauv+OBr+aYreWSjDMw5bm0ICgxOTU15bm0KSDlho3lu7rjga7jgoLjga7jgafjgIExOTUw5bm044Gu5pS+54Gr44Gn5LiA5bqm5YWo54S844GX44Gm44GE44KL44Gf44KB5Zu95a6d5oyH5a6a44Gn44Gv44Gq44GE44CC44GT44Gu6YeR6Zaj5a+644Gu5aSx54Gr44Gv5LiJ5bO255Sx57SA5aSr44Gu44CM6YeR6Zaj5a+644CN44KE5rC05LiK5YuJ44Gu44CM6YeR6Zaj54KO5LiK44CN44Gq44Gp5paH6Iq45L2c5ZOB44Gu6aGM5p2Q44Gr44KC44Gq44Gj44Gm44GE44Gm5pyJ5ZCN44CCLCBpbWFnZVVybDogaHR0cHM6Ly9nYWlqaW5wb3Quc2NkbjIuc2VjdXJlLnJheGNkbi5jb20vd3AtY29udGVudC91cGxvYWRzL3NpdGVzLzQvMjAxNC8wNi9nb2xkZW5fdGVtcGxlLTEuanBnLmpwZywga2luZDog56We56S+5LuP6ZajLCByZXF1aXJlZFRpbWU6IDAuNSkKTG9jYXRpb24uY3JlYXRlKG5hbWU6IOS8j+imi+eosuiNt+elnuekviwgbGF0aXR1ZGU6IDM0Ljg4MTgzMywgbG9uZ2l0dWRlOiAxMzcuMDAzMTMyLCBkZXNjcmlwdGlvbjog5Lqs6YO95biC5LyP6KaL5Yy644Gr44GC44KL56We56S+44CC5pen56ew44Gv56iy6I2356We56S+44CC5byP5YaF56S+77yI5ZCN56We5aSn56S+77yJ44CB5LqM5Y2B5LqM56S+77yI5LiK5LiD56S+77yJ44Gu5LiA56S+44CC5pen56S+5qC844Gv5a6Y5bmj5aSn56S+44Gn44CB54++5Zyo44Gv56We56S+5pys5bqB44Gr5bGe44GV44Gq44GE5Y2Y56uL56We56S+44CC56iy6I235bGx44Gu6bqT44Gr5pys5q6/44GM44GC44KK44CB56iy6I235bGx5YWo5L2T44KS56We5Z+f44Go44GZ44KL44CCLCBpbWFnZVVybDogaHR0cDovL2tvbWVrYW1pLnNha3VyYS5uZS5qcC93cC1jb250ZW50L3VwbG9hZHMvcDgyNTY4NDkuanBnLCBraW5kOiDnpZ7npL7ku4/plqMsIHJlcXVpcmVkVGltZTogMC41KQpMb2NhdGlvbi5jcmVhdGUobmFtZTog5pys5a62IOesrOS4gOaXrSDjgZ/jgYvjgbDjgZfmnKzlupcsIGxhdGl0dWRlOiAzNC45ODY3NSwgbG9uZ2l0dWRlOiAxMzUuNzYyNDgsIGRlc2NyaXB0aW9uOiDlvZPlupfjga7jgb/jgILlibXmpa3jga8xOTUz5bm044Go44GE44GG6ICB6IiX44Gn44GC44KK44CB5b2T5pmC44Gv44CM5pet6aOf5aCC44CN44Go44GE44GG5rSL6aOf5bGL44Gn44GC44Gj44Gf44GM44CBMTk1NuW5tOOBi+OCieODqeODvOODoeODs+WwgumWgOW6l+OBqOOBquOBo+OBn+OAguixmumqqOOCkuODgOOCt+OBqOOBl+OBpuOCv+ODnuODjeOCruOCkuWKoOOBiOOAgemGpOayueOBp+iqv+WRs+OBl+OBn+ODqeODvOODoeODs+OAguOBquOBiuOAgeacrOWutuesrOS4gOaXreOBruW6l+iIl+WxlemWi+OBquOBqeOBr+ihjOOBo+OBpuOBiuOCieOBmuOAgeWkp+imj+aooeOBq+WxlemWi+OBl+OBpuOBhOOCi+OBruOBr+mWouS/guiAheOBjOe1jOWWtuOBl+OBpuOBhOOCi+WFqOOBj+OBruWIpee1hOe5lOOBp+OBguOCi+OAguOAjuOBleOBmeOBjOOBqOOBhOOCj+OBm+OCi+S6rOmDvemBuOaKnOOCsOODq+ODoSAyMDE044CP44Gr44KI44KM44Gw44CBMjAxM+W5tOaZgueCueOBp+S6rOmDveWxiOaMh+OBruS6uuawl+W6l+OBp+OBguOCi+OBqOOBruOBk+OBqOOAgiwgaW1hZ2VVcmw6IGh0dHA6Ly9ibG9nLWltZ3MtODIuZmMyLmNvbS90L28vci90b3JpbWVuMzY1LzIwMTUwOTI4MjI1MDIzNzc2LmpwZywga2luZDog6aOy6aOf5bqXLCByZXF1aXJlZFRpbWU6IDAuNzUpCkxvY2F0aW9uLmNyZWF0ZShuYW1lOiDosrToiLnnpZ7npL4sIGxhdGl0dWRlOiAzNS42MTU1MywgbG9uZ2l0dWRlOiAxMzkuNzI2Mjc1LCBkZXNjcmlwdGlvbjog5a6k55S65pmC5Luj44Gr5pu444GL44KM44Gf5oGL54mp6Kqe44CO6LK06Ii544Gu54mp6Kqe44CP44Gr44KC55m75aC044GZ44KL44CM6LK06Ii556We56S+44CN44CC5aKD5YaF44Gu5rC044Gr5rW444GZ44Go5paH5a2X44GM5rWu44GL44Gz5LiK44GM44KK44GK44G/44GP44GY44Gu5YaF5a6544KS6Kqt44KA44GT44Go44GM44Gn44GN44KL44Go44GE44GG772i5rC05Y2g44GE44G/44GP44GY772j44Gv44Gd44Gu5pa55rOV44GM44KI44KK56We56eY55qE44Gq6Zuw5Zuy5rCX44KS5oSf44GY44GV44Gb44Gm44GP44KM44G+44GZ44CCICDjgZPjgaHjgonjga7mnKzlrq7jga7jgZTnpa3npZ7jga/jgIHmsLTjgpLjgaTjgYvjgZXjganjgovnpZ7jgIHpq5jpvpfnpZ7vvIjjgZ/jgYvjgYrjgYvjgb/jga7jgYvjgb/vvInjgafjgZnjgILmsLTjga7npZ7mp5jjgaDjgYvjgonjgIHmsLTjga7jgYrjgb/jgY/jgZjjgYzjgYLjgovjga7jgafjgZnjga3jgILjgYrlj4LjgorjgoLlv5jjgozjgZrjgavjgZfjgZ/jgYTjgajjgZPjgo3jgafjgZnjgILmsLTljaDjgb/jgY/jgZjjga/jgIHmnKzlrq7jga7jgajjgZPjgo3jgavjgYLjgovnpL7li5nmiYDjgavjgYLjgorjgb7jgZnjgIIgIOiytOiIueelnuekvuOBr+OAgeelnuOBruS5l+OCiueJqeOBp+OBguOBo+OBn+OBqOOBleOCjOOCi+OAjOiIueOAjeOBqOOCgue4geOBjOa3seOBj+OAgeiIueOBruW9ouOCkuOBl+OBn+WyqeOBquOBqeOCguOBguOCiuOBvuOBmeOAguWig+WGheOCkuatqeOBj+OBruOCguOAgealveOBl+OBhOOBp+OBmeOCiOOAgiwgaW1hZ2VVcmw6IGh0dHA6Ly9waG90bzUzLmNvbS9pbWcva2lidW5lamluamExLmpwZywga2luZDog56We56S+5LuP6ZajLCByZXF1aXJlZFRpbWU6IDEpCkxvY2F0aW9uLmNyZWF0ZShuYW1lOiDnpo/moITloIIsIGxhdGl0dWRlOiAzNS4wMDQwNDUsIGxvbmdpdHVkZTogMTM1Ljc3MzE5LCBkZXNjcmlwdGlvbjog5Zub5p2h6YCa44KK5rK/44GE44Gu5Lqk5beu54K544Gu6KeS5Zyw44Gr44GC44KL5Ym15qWtODDlubTjga7ogIHoiJfjga7pj6Hlkozoj5PlrZDlsYvjgZXjgpPjgafjgZnjgIIg55yL5p2/5ZWG5ZOB44Gv44CB5Lqs6YO96Iqx6KGX44O756WH5ZyS44Gu5ZCN54mp44GK5Zuj5a2Q44Go44GX44Gm55+l44KM44KM44KL44CM56WH5ZyS44Gu5pyI44CN44Gn44GZ44CC6Iqx6KGX44Gu5aSc6Zye44Gr6KaL44GI44KL44G744Gu44GL44Gq5pyI44KS44Kk44Oh44O844K444GX44Gf44GK6I+T5a2Q44Gn44CBIOemj+aghOWgguOBrumWi+W6l+S7peadpeOAgeelh+WckuOBp+aEm+OBleOCjOe2muOBkeOBpuOBhOOCi+eci+adv+WVhuWTgeOBp+OBmeOAguOBoeOBvuOBjeOBruOCiOOBhuOBq+esueOBruiRieOBq+WMheOBvuOCjOOBn+WSjOiPk+WtkOOAjOOBj+OBmuOBruesueOAjeOCguS6uuawl+OBp+OBmeOAguOBk+OBl+mkoeOBqOagl+OBjOmBk+aYjuWvuueyieOBp+WMheOBvuOCjOOAgeimi+OBn+ebruOCguOBqOOBpuOCgua2vOOBl+OBkuOBp+miqOa1geOBquOBiuiPk+WtkOOBp+OBmeOAgueUmOOBleOCgueoi+OCiOOBj+OAgeOBiuWcn+eUo+OBq+OCguWWnOOBsOOCjOOCi+OBk+OBqOOBhuOBkeOBguOBhOOBp+OBmeOCiOOAgiwgaW1hZ2VVcmw6IGh0dHA6Ly93d3cuZ2lvbi5vci5qcC93cC1jb250ZW50L3VwbG9hZHMvMjAxMy8wNC9lMWI4MWNhMTA4NDQ2NmMwMTcwY2QwMGM5OGU4NWIyOTEuanBnLCBraW5kOiDpo7Lpo5/lupcsIHJlcXVpcmVkVGltZTogMC41KQpMb2NhdGlvbi5jcmVhdGUobmFtZTog44Ky44K544OI44OP44Km44K56YeR6a2a5a62LCBsYXRpdHVkZTogMzUuMDM0NDgxLCBsb25naXR1ZGU6IDEzNS43NDU0MTcsIGRlc2NyaXB0aW9uOiDph5HprZrlrrbjga/jgIHjgajjgabjgoLlpKfkuovjgavjgZXjgozjgabjgY3jgZ/kuqzpg73opb/pmaPjga7nlLrlrrbjgpLmlLnkv67jgZfjgZ/lsI/jgZXjgarjgYrlrr/jgafjgZnjgIIg6Ieq5a626KO957Gz44KS5L2/44Gj44Gf5pyd6aOf5LuY44GL44CB57Sg5rOK44KK44Gu44GU5a6/5rOK44KS6YG444KT44Gn6aCC44GR44G+44GZ44CCIOeOhOmWouOCkuOBj+OBkOOCi+OBqOOAgemAmuOCiuW6reOAgeWPsOaJgOOAgeS6leaIuOOBjOe2muOBjeOAgeWlpeOBq+OBr+Wbm+Wto+OCkuaEn+OBmOOCieOCjOOCi+W6reOAgeijj+W6reOBq+OBr+iUteOBjOaui+OBo+OBpuOBiuOCiuOAgeaYlOOBquOBjOOCieOBrueUuuWutuOBruaaruOCieOBl+OCkuaEn+OBmOOBpumgguOBkeOBvuOBmeOAgiwgaW1hZ2VVcmw6IGh0dHBzOi8vaW1hZ2Uta2luYXJpbm8uc3NsLmstaW1nLmNvbS9zeXN0ZW0vcHJlc3NfZXllX2NhdGNoZXMvMDAwLzAxMS85MTQvMGJhZjg2N2E5YzNmOWI2Nzg1NTZhYzJmMzQxNDRhYmRiYjMyMGEzMy5qcGc/MTQyNzA3ODU3NSwga2luZDog44Ky44K544OI44OP44Km44K5LCByZXF1aXJlZFRpbWU6IG5vbmUpCkxvY2F0aW9uLmNyZWF0ZShuYW1lOiDltZDlsbEsIGxhdGl0dWRlOiAzNS4wMTUwNDgsIGxvbmdpdHVkZTogMTM1LjY3ODAwNCwgZGVzY3JpcHRpb246IOS6rOmDveOBruS4reOBp+OCguWkp+S6uuawl+OBruaXheihjOWFiOOBp+OBmeOAguaYpeOBr+ahnOOAgeeni+OBr+e0heiRieOBjOe+juOBl+OBhOOBk+OBqOOBp+OCiOOBj+efpeOCieOCjOOBpuOBhOOBvuOBmeOAguW4guWGheOBi+OCieOBr+WwkeOBl+mbouOCjOOBpuOBhOOBvuOBmeOBjOOAgeOBneOBruWIhumbhOWkp+OBquiHqueEtuOCkuaEn+OBmOOCi+OBk+OBqOOBjOOBp+OBjeOBvuOBmeOAgumhmOOBhOS6i+OBjDHjgaTjgaDjgZHlj7bjgYbjgajoqIDjgo/jgozjgovpiLTomavlr7rjgoTjgIHmnInlkI3jgarjg53jgrnjgr/jg7zjgavjgoLjgarjgaPjgZ/luLjlr4LlhYnlr7rjgIHopovjgovogIXjgpLlnKflgJLjgZnjgovlubvmg7PnmoTjgarnq7nmnpfjgIHjgrfjg7Pjg5zjg6vjga7muKHmnIjmqYvjgarjganjgIHoqKrjgozjgZ/jgYTloLTmiYDjga/mlbDjgYjliIfjgozjgb7jgZvjgpPjgILjg4jjg63jg4PjgrPliJfou4rjgoTlt53kuIvjgorjgarjganjgoLlv4PjgbLjgYvjgozjgb7jgZnjgojjga3jgIIsIGltYWdlVXJsOiBodHRwOi8vZmluZC10cmF2ZWwuY2RuLWRlbmEuY29tL3BpY3R1cmUvYXJ0aWNsZWJvZHkvMTQ3NjA0LCBraW5kOiDlnJ/lnLAsIHJlcXVpcmVkVGltZTogMS41KQpMb2NhdGlvbi5jcmVhdGUobmFtZTog6Iqx6KaL5bCP6Lev6YCaLCBsYXRpdHVkZTogMzUuMDA1MTE1LCBsb25naXR1ZGU6IDEzNS43NzUxODUsIGRlc2NyaXB0aW9uOiDnpYflnJLnlLrjga7kuK3lv4Pjga7pgJrjgorjgafjgYLjgovoirHopovlsI/ot6/pgJrjgILnn7PnlbPjgYzntprjgY/pgJrjgorjgavmlpnkuq3jgoTjgYrojLblsYvjgYznq4vjgaHkuKbjgpPjgafjgYTjgabjgIHjgb7jgZXjgavkuqzpg73vvIHjgajjgYTjgYbpm7Dlm7LmsJfjgpLmpb3jgZfjgoHjgovjgrnjg53jg4Pjg4jjgILnuYHoj6/ooZfov5HjgY/jgafjgYLjgorjgarjgYzjgonjgIHjgobjgaPjgY/jgorjgajmmYLjgYzmtYHjgozjgovjgojjgYbjgarpoqjmg4XjgYzjgYLjgorjgb7jgZnjgIIg5LiJ5p2h6YCa44KK44GL44KJ5bu65LuB5a+65YmN44G+44Gn44KS5Y2X5YyX44Gr44Gu44Gz44KLMWtt44G744Gp44Gu5bCP6Lev44KS6Iqx6KaL5bCP6Lev6YCa44Go5ZG844Gz44G+44GZ44CC55Sx57eS44GC44KL44GK6Iy25bGL44KE5paZ55CG5bGL44Gq44Gp44GM6LuS44KS6YCj44Gt44Gm44GE44Gm44CB5aSV5pa544Gr44Gq44KL44Go44CB44GK6Iy25bGL44Gr5Ye65Yuk44GV44KM44KL6Iie5aaT44GV44KT44KE6Iq45aaT44GV44KT44GM44CB5q2p44GP5ae/44KS6KaL44KL44GT44Go44GM44Gn44GN44G+44GZ44KI4pmqLCBpbWFnZVVybDogaHR0cHM6Ly9mYXJtNC5zdGF0aWNmbGlja3IuY29tLzMxODUvMjg3MTQ2MDM0N18xOGFlZWRiOTEyX2IuanBnLCBraW5kOiDlnJ/lnLAsIHJlcXVpcmVkVGltZTogMC41KQpMb2NhdGlvbi5jcmVhdGUobmFtZTog44Gk44GR44KB44KT44CA5oG16YKj44GPLCBsYXRpdHVkZTogMzUuMDQ0MjYzLCBsb25naXR1ZGU6IDEzNS43ODU4MzIsIGRlc2NyaXB0aW9uOiDpurrjga/jgoLjgaPjgaHjgorjgajjgZfjgabjgrPjgrfjgYzjgYLjgorjgIHjgrnjg7zjg5fjgoLplbfmmYLplpPnha7ovrzjgpPjgaDps6XjgoTjgrLjg7PjgrPjg4TjgIHosZrjgarjganjgavjgrXjg5Dnr4DjgoTpsLnnr4DjgpLjg5Djg6njg7PjgrnjgojjgY/lkIjjgo/jgZvjgabjgYTjgb7jgZnjgILjgaTjgZHpurrjga7jgrnjg7zjg5flibLjgoLmmIbluIPjgajnha7lubLjgZfjgpLkvb/nlKjjgZfjgabmnIDlvozjga7kuIDmu7Tjgb7jgafpo7Ljgb/lubLjgZfjgZ/jgY/jgarjgorjgb7jgZnjgILpurrjgoLjgrnjg7zjg5fjgavntaHjgb/nvo7lkbPjgZfjgYTjgafjgZnvvIEgIOOBqeOBoeOCieOBi+OBqOiogOOBhuOBqOOAjOOBn+OBkeS6leOAjeODqeODvOODoeODs+ezu+e1seOBq+S8vOOBn+OBpOOBkem6uuOBp+OAgemtmuS7i+ODmeODvOOCueOBruOCueODvOODl+OBjOmmmeOCi+OBpOOBkem6uuOAguWRs+eOieS4gOWAi+OBqOOBi+OBhOOCj+OCjOOBjOWFpeOBo+OBpuOBhOOBvuOBmeOAgum6uuOCguiJtuOBqOOCs+OCt+OBruOBguOCi+ODqeODvOODoeODs+OAguS4gOS5l+WvuumrmOanu+eUuuOBq+OBguOCi+ODqeODvOODoeODs+Wxi+OBleOCk+OBp+OAgeS4gOS5l+WvuumnheOBi+OCieOBr+W+kuatqTPliIbjgafjgZnjgIIsIGltYWdlVXJsOiBodHRwOi8vZmluZC10cmF2ZWwuY2RuLWRlbmEuY29tL3BpY3R1cmUvYXJ0aWNsZWJvZHkvNjM2MTYsIGtpbmQ6IOmjsumjn+W6lywgcmVxdWlyZWRUaW1lOiAwLjQ1KQpMb2NhdGlvbi5jcmVhdGUobmFtZTog5Y2X56aF5a+644Gn5rmv6LGG6IWQLCBsYXRpdHVkZTogMzUuMDExMjQ1LCBsb25naXR1ZGU6IDEzNS43OTM4MDMsIGRlc2NyaXB0aW9uOiDlrqTnlLrmmYLku6Pjgavlu7rjgabjgonjgozjgZ/jgYrlr7rjgIHljZfnpoXlr7rjgILmmKXjga/moZzjg7vnp4vjga/ntIXokYnjga7lkI3miYDjgajjgZfjgablnLDlhYPjga7mlrnjgYvjgonmhJvjgZXjgozjgabjgYTjgovloLTmiYDjgafjgZnjgYzjgIHmlbflnLDlhoXjgpLpgJrjgovmsLTot6/mqYvjgoTlm5vlraPmipjjgIXjga7luq3jga7mma/oprPjgYznvo7jgZfjgYTlpKnmjojlurXjgarjganjgoLmnInlkI3jgaroprPlhYnjgrnjg53jg4Pjg4jjgafjgZnjgILjgZ3jgpPjgarljZfnpoXlr7rjga7kuK3jgpLmpb3jgZfjgpPjgaDjgYLjgajjga/jgIHjgYrlr7rlkajovrrjgavou5LjgpLpgKPjga3jgovmua/osYbohZDjgoTjgZXjgpPjgafpo5/kuovjgpLmpb3jgZfjgpPjgafjgb/jgovjga7jgYzjgYrjgZnjgZnjgoHjgafjgZnjgIIg5Y2X56aF5a+65YmN44Gr44GC44KL5Lq65rCX5bqX44CM5Y2X56aF5a+6IOmghuato+OAjeOBp+OCguOAgea5r+ixhuiFkOOCkuOBhOOBn+OBoOOBj+OBk+OBqOOBjOOBp+OBjeOBvuOBmeOAgua5r+ixhuiFkOOBruOCs+ODvOOCueOBq+OBr+OAgeODoeOCpOODs+OBrua5r+ixhuiFkOOBruOBu+OBi+OBq+OAgeOBlOOBvuOBqeOBhuOBteOChOOAgeixhuiFkOeUsOalveOAgemHjuiPnOWkqeOBt+OCieOAgea1t+iAgeOAgeiMhOWtkOOAgeWNl+eTnOOAgeODleOCreOBquOBqeOBjOWFpeOBo+OBn+eCiuWQiOOBm+OBquOBqeOCguWFpeOBo+OBpuOBhOOBvuOBmeOCiOOAgiwgaW1hZ2VVcmw6IGh0dHA6Ly9maW5kLXRyYXZlbC5jZG4tZGVuYS5jb20vcGljdHVyZS9hcnRpY2xlYm9keS8xNzA4MSwga2luZDog6aOy6aOfLCByZXF1aXJlZFRpbWU6IDEpCkxvY2F0aW9uLmNyZWF0ZShuYW1lOiDkuqzpg73jgr/jg6/jg7wsIGxhdGl0dWRlOiAzNC45ODc1NjMsIGxvbmdpdHVkZTogMTM1Ljc1OTM0NCwgZGVzY3JpcHRpb246IOS6rOmDvemnheOBi+OCieWHuuOBn+OCieOAgemBk+OCkuaMn+OCk+OBp+ebruOBruWJjeOBq+OBguOCi+OBruOBjOWkp+OBjeOBj+OBneOBs+OBiOOCi+S6rOmDveOCv+ODr+ODvOOBp+OBmeOAguS6rOmDveOCv+ODr+ODvOOBr+S6rOmDveOBruOCt+ODs+ODnOODq+OBqOOBl+OBpuihl+OCkuS6rOmDveW4guihl+OBi+OCieWxseOAheOBrumiqOaZr+OBvuOBp+S4gOacm+OBp+OBjeOCi+OCiOOBhuOBq+OBquOBo+OBpuOBhOOBvuOBmeOAguS6rOmDveOBq+adpeOBn+OCk+OBoO+8geOBqOWun+aEn+OBmeOCi+OBn+OCgeOBq+OCguaZr+iJsuOCkuimi+a4oeOBm+OCi+acgOS4iumajuOBvuOBp+ihjOOBj+OBruOBjOOBiuOBmeOBmeOCgeOBp+OBmeKZqiAsIGltYWdlVXJsOiBodHRwOi8vcGhvdG81My5jb20vaW1nL3Rvd2VyMS5qcGcsIGtpbmQ6IOW7uuevieeJqSwgcmVxdWlyZWRUaW1lOiAxKQoK</text>
+      </register>
+      <register name="3" type="8">
         <text>t.string   &quot;
 t.string   &quot;
 t.string   &quot;
@@ -311,10 +316,10 @@ t.float    &quot;
 t.datetime &quot;
 t.datetime &quot;</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text># This file should contain all the record creation needed to seed the database with its default values.
 # The data can then be loaded with the rails db:seed command (or created alongside the database with db:setup).
 #
@@ -323,60 +328,17 @@ t.datetime &quot;</text>
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZW5kCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>spec/controllers/contacts_controller_spec.rb
-describe'DELETE#destroy'do
-  before :each do
-    @contact = create(:contact)
-  end
-  # 連絡先を削除すること
-  it &quot;deletes the contact&quot; do
-    expect{
-      delete :destroy, id: @contac
-    }.to change(Contact,:count).by(-1)
-  end
-  # contacts#index にリダイレクトすること
-  it &quot;redirects to contacts#index&quot; do
-    delete :destroy, id: @contact
-    expect(response).to redirect_to contacts_url
-  end
-end</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
