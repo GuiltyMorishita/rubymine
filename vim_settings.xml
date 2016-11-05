@@ -225,10 +225,11 @@
         <mark key="^" line="13" column="59" />
         <mark key="." line="13" column="59" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/models/location.rb" timestamp="1478360130375">
-        <mark key="[" line="2" column="43" />
-        <mark key="]" line="2" column="43" />
-        <mark key="." line="2" column="43" />
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/models/location.rb" timestamp="1478360850362">
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="3" column="29" />
+        <mark key="." line="3" column="29" />
+        <mark key="^" line="3" column="29" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" timestamp="1477546598309">
         <mark key="'" line="91" column="0" />
@@ -360,7 +361,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>, :address</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>Location</text>
