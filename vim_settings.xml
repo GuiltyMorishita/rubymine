@@ -41,6 +41,13 @@
         <mark key="^" line="2" column="50" />
         <mark key="." line="2" column="50" />
       </file>
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" timestamp="1478311168720">
+        <mark key="'" line="0" column="16" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="99" />
+        <mark key="." line="0" column="59" />
+        <mark key="^" line="0" column="59" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/views/layouts/application.html.erb" timestamp="1477754217898">
         <mark key="[" line="32" column="49" />
         <mark key="]" line="33" column="57" />
@@ -120,6 +127,9 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/schema.rb" timestamp="1478310650758">
+        <mark key="'" line="24" column="2" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" timestamp="1477546598309">
         <mark key="'" line="91" column="0" />
         <mark key="[" line="13" column="37" />
@@ -148,11 +158,6 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/spec_helper.rb" timestamp="1477754340471">
-        <mark key="]" line="16" column="30" />
-        <mark key="." line="16" column="30" />
-        <mark key="^" line="16" column="30" />
-      </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/factories/phones.rb" timestamp="1477552379743">
         <mark key="[" line="3" column="10" />
         <mark key="]" line="3" column="43" />
@@ -170,8 +175,11 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/migrate/20161104134212_create_locations.rb" timestamp="1478309126454">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/migrate/20161104134212_create_locations.rb" timestamp="1478310633766">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="40" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/.gitignore" timestamp="1477579618712">
         <mark key="[" line="16" column="0" />
@@ -181,9 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="36" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
-      <jump line="15" column="65" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
-      <jump line="17" column="35" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
       <jump line="18" column="41" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
       <jump line="19" column="5" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
       <jump line="64" column="29" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/contact_spec.rb" />
@@ -281,27 +286,56 @@
       <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/news_releases_controller_spec.rb" />
       <jump line="60" column="3" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/Gemfile" />
       <jump line="13" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/schema.rb" />
+      <jump line="0" column="16" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
+      <jump line="26" column="0" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/schema.rb" />
+      <jump line="24" column="2" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/schema.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>created_at</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx9XD4=</text>
+        <text encoding="base64">XDxlbmRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QWN0aXZlUmVjb3JkOjpTY2hlbWEuZGVmaW5lKHZlcnNpb246IDIwMTYxMDMwMTMyNjQ3KSBkbwoKICBjcmVhdGVfdGFibGUgImNhcnRfaXRlbXMiLCBmb3JjZTogOmNhc2NhZGUgZG8gfHR8CiAgICB0LmludGVnZXIgICJ1c2VyX2lkIiwgICAgIGxpbWl0OiA0LCAgICAgICAgICAgICBudWxsOiBmYWxzZQogICAgdC5pbnRlZ2VyICAiaXRlbV9pZCIsICAgICBsaW1pdDogNCwgICAgICAgICAgICAgbnVsbDogZmFsc2UKICAgIHQuaW50ZWdlciAgImNvdW50IiwgICAgICAgbGltaXQ6IDQsIGRlZmF1bHQ6IDEsIG51bGw6IGZhbHNlCiAgICB0LmludGVnZXIgICJ0b3RhbF9wcmljZSIsIGxpbWl0OiA0LCAgICAgICAgICAgICBudWxsOiBmYWxzZQogICAgdC5kYXRldGltZSAiY3JlYXRlZF9hdCIsICAgICAgICAgICAgICAgICAgICAgICAgbnVsbDogZmFsc2UKICAgIHQuZGF0ZXRpbWUgInVwZGF0ZWRfYXQiLCAgICAgICAgICAgICAgICAgICAgICAgIG51bGw6IGZhbHNlCiAgZW5kCgogIGFkZF9pbmRleCAiY2FydF9pdGVtcyIsIFsidXNlcl9pZCIsICJpdGVtX2lkIl0sIG5hbWU6ICJpbmRleF9jYXJ0X2l0ZW1zX29uX3VzZXJfaWRfYW5kX2l0ZW1faWQiLCB1bmlxdWU6IHRydWUsIHVzaW5nOiA6YnRyZWUKCiAgY3JlYXRlX3RhYmxlICJpdGVtcyIsIGZvcmNlOiA6Y2FzY2FkZSBkbyB8dHwKICAgIHQuc3RyaW5nICAgIm5hbWUiLCAgICAgICAgbGltaXQ6IDUwLCAgICBudWxsOiBmYWxzZQogICAgdC5pbnRlZ2VyICAicHJpY2UiLCAgICAgICBsaW1pdDogNCwgICAgIG51bGw6IGZhbHNlCiAgICB0LmludGVnZXIgICJzdG9jayIsICAgICAgIGxpbWl0OiA0LCAgICAgbnVsbDogZmFsc2UKICAgIHQudGV4dCAgICAgImRlc2NyaXB0aW9uIiwgbGltaXQ6IDY1NTM1LCBudWxsOiBmYWxzZQogICAgdC5zdHJpbmcgICAiaW1hZ2VfdXJsIiwgICBsaW1pdDogMjU1LCAgIG51bGw6IGZhbHNlCiAgICB0LmRhdGV0aW1lICJjcmVhdGVkX2F0IiwgICAgICAgICAgICAgICAgbnVsbDogZmFsc2UKICAgIHQuZGF0ZXRpbWUgInVwZGF0ZWRfYXQiLCAgICAgICAgICAgICAgICBudWxsOiBmYWxzZQogIGVuZAoKICBjcmVhdGVfdGFibGUgInVzZXJzIiwgZm9yY2U6IDpjYXNjYWRlIGRvIHx0fAogICAgdC5zdHJpbmcgICAibmFtZSIsICAgICAgICAgICAgICAgbGltaXQ6IDY0LCAgbnVsbDogZmFsc2UKICAgIHQuc3RyaW5nICAgImVtYWlsIiwgICAgICAgICAgICAgIGxpbWl0OiAyNTUsIG51bGw6IGZhbHNlCiAgICB0LnN0cmluZyAgICJlbmNyeXB0ZWRfcGFzc3dvcmQiLCBsaW1pdDogMjU1LCBudWxsOiBmYWxzZQogICAgdC5kYXRldGltZSAiY3JlYXRlZF9hdCIsICAgICAgICAgICAgICAgICAgICAgbnVsbDogZmFsc2UKICAgIHQuZGF0ZXRpbWUgInVwZGF0ZWRfYXQiLCAgICAgICAgICAgICAgICAgICAgIG51bGw6IGZhbHNlCiAgZW5kCgogIGFkZF9pbmRleCAidXNlcnMiLCBbImVtYWlsIl0sIG5hbWU6ICJpbmRleF91c2Vyc19vbl9lbWFpbCIsIHVuaXF1ZTogdHJ1ZSwgdXNpbmc6IDpidHJlZQoKZW5kCg==</text>
+        <text encoding="base64">TG9jYXRpb24uY3JlYXRlKG5hbWU6ICwgbGF0aXR1ZGU6ICwgbG9uZ2l0dWRlOiAsIGRlc2NyaXB0aW9uOiAsIGltYWdlVXJsOiAsIGtpbmQ6ICwgcmVxdWlyZWRUaW1lOiApCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text>t.string   &quot;
+t.string   &quot;
+t.string   &quot;
+t.float    &quot;
+t.datetime &quot;
+t.datetime &quot;</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
+        <text># This file should contain all the record creation needed to seed the database with its default values.
+# The data can then be loaded with the rails db:seed command (or created alongside the database with db:setup).
+#
+# Examples:
+#
+#   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
+#   Character.create(name: 'Luke', movie: movies.first)</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZW5kCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>This README would normally document whatever steps are necessary to get the
 application up and running.
 
@@ -325,7 +359,7 @@ Things you may want to cover:
 
 * ...</text>
       </register>
-      <register name="4" type="4">
+      <register name="9" type="4">
         <text>spec/controllers/contacts_controller_spec.rb
 describe'DELETE#destroy'do
   before :each do
@@ -344,29 +378,14 @@ describe'DELETE#destroy'do
   end
 end</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CmJlZm9yZSA6ZWFjaCBkbwogIEBjb250YWN0ID0gY3JlYXRlKDpjb250YWN0KQplbmQK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">IyDpgKPntaHlhYjjgpLliYrpmaTjgZnjgovjgZPjgagKaXQgImRlbGV0ZXMgdGhlIGNvbnRhY3QiIGRvCiAgZXhwZWN0ewogICAgZGVsZXRlIDpkZXN0cm95LCBpZDogQGNvbnRhY3QK</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgMQogIDIKICAzCiAgNAogIDUKICA2IDdd</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">cmVxdWlyZSdyYWlsc19oZWxwZXInCmRlc2NyaWJlIENvbnRhY3QgZG8KICAjIOacieWKueOBquODleOCoeOCr+ODiOODquOCkuaMgeOBpOOBk+OBqAogIGl0ICJoYXMgYSB2YWxpZCBmYWN0b3J5IiBkbwogICAgZXhwZWN0KEZhY3RvcnlHaXJsLmJ1aWxkKDpjb250YWN0KSkudG8gYmVfdmFsaWQKICBlbmQKIyDjgZ3jga7ku5bjga7jgrnjg5rjg4Pjgq8KZW5kCg==</text>
-      </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx9XD4=</last-search>
+      <last-search encoding="base64">XDxlbmRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx9XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxlbmRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -386,6 +405,7 @@ end</text>
         <entry encoding="base64">XDxzY2VuYXJpb1w+</entry>
         <entry encoding="base64">XDxmaWxsX2luXD4=</entry>
         <entry encoding="base64">XDx9XD4=</entry>
+        <entry encoding="base64">XDxlbmRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action FindNext</entry>
