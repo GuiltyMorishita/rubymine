@@ -176,9 +176,9 @@
         <mark key="^" line="2" column="50" />
         <mark key="." line="2" column="50" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" timestamp="1478370741825">
-        <mark key="[" line="13" column="22" />
-        <mark key="]" line="13" column="100" />
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" timestamp="1478386701082">
+        <mark key="[" line="17" column="47" />
+        <mark key="]" line="17" column="80" />
         <mark key="." line="13" column="27" />
         <mark key="^" line="13" column="27" />
       </file>
@@ -398,7 +398,7 @@
         <text>Location</text>
       </register>
       <register name="0" type="4">
-        <text>name: 'Tokyo', imageUrl: 'https://i.ytimg.com/vi/lwl7HjTDb68/maxresdefault.jpg'</text>
+        <text>35.713968', longitude: '139.79645'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHNlcXVlbmNlKDplbWFpbCkgeyB8bnwgImpvaG5kb2Uje259QGV4YW1wbGUuY29tIn0K</text>
