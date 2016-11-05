@@ -45,18 +45,18 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/api/routes_controller.rb" timestamp="1478335921515">
-        <mark key="[" line="18" column="38" />
-        <mark key="]" line="20" column="25" />
-        <mark key="^" line="20" column="25" />
-        <mark key="." line="20" column="25" />
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/api/routes_controller.rb" timestamp="1478342058491">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="20" />
+        <mark key="^" line="16" column="20" />
+        <mark key="." line="16" column="20" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/api/locations_controller.rb" timestamp="1478333407084">
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/api/locations_controller.rb" timestamp="1478342195529">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="52" column="2" />
-        <mark key="." line="52" column="2" />
-        <mark key="^" line="52" column="2" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="27" />
+        <mark key="." line="2" column="40" />
+        <mark key="^" line="2" column="40" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/news_releases_controller_spec.rb" timestamp="1477756357399">
         <mark key="[" line="2" column="46" />
@@ -125,11 +125,11 @@
         <mark key="." line="3" column="43" />
         <mark key="^" line="3" column="43" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/config/routes.rb" timestamp="1478340068181">
-        <mark key="[" line="2" column="22" />
-        <mark key="]" line="2" column="37" />
-        <mark key="." line="2" column="37" />
-        <mark key="^" line="2" column="37" />
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/config/routes.rb" timestamp="1478341389821">
+        <mark key="[" line="3" column="41" />
+        <mark key="]" line="4" column="58" />
+        <mark key="." line="4" column="58" />
+        <mark key="^" line="4" column="58" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/models/region.rb" timestamp="1478338118456">
         <mark key="[" line="0" column="32" />
@@ -152,7 +152,7 @@
         <mark key="^" line="37" column="4" />
         <mark key="." line="37" column="4" />
       </file>
-      <file name="/Ruby Console" timestamp="1478335923159">
+      <file name="/Ruby Console" timestamp="1478341802120">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/migrate/20161030132014_create_users.rb" timestamp="1477835218091">
@@ -203,7 +203,7 @@
         <mark key="^" line="7" column="15" />
       </file>
       <file name="restClient/response56.json" timestamp="1478322428215" />
-      <file name="/Dummy.txt" timestamp="1478333745499">
+      <file name="/Dummy.txt" timestamp="1478341837273">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.rb" timestamp="1478334300582">
@@ -367,34 +367,37 @@
         <text>Location</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICByZXNvdXJjZXMgOnJlZ2lvbnMK</text>
+        <text encoding="base64">ICAgICMgR0VUIC9yZWdpb25fbG9jYXRpb25zCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXNvdXJjZXMgOnJlZ2lvbnMK</text>
+        <text encoding="base64">ICAgICAgcGFyYW1zWzpyZWdpb25faWRdCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZV9hY3Rpb24gOnNldF9yZWdpb24sIG9ubHk6IFs6c2hvdywgOnVwZGF0ZSwgOmRlc3Ryb3ldCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgR0VUIC9yZWdpb25zLzEKICAgIGRlZiBzaG93CiAgICAgIHJlbmRlciBqc29uOiBAcmVnaW9uCiAgICBlbmQKCiAgICAjIFBPU1QgL3JlZ2lvbnMKICAgIGRlZiBjcmVhdGUKICAgICAgQHJlZ2lvbiA9IFJlZ2lvbi5uZXcocmVnaW9uX3BhcmFtcykKCiAgICAgIGlmIEByZWdpb24uc2F2ZQogICAgICAgIHJlbmRlciBqc29uOiBAcmVnaW9uLCBzdGF0dXM6IDpjcmVhdGVkLCBsb2NhdGlvbjogQHJlZ2lvbgogICAgICBlbHNlCiAgICAgICAgcmVuZGVyIGpzb246IEByZWdpb24uZXJyb3JzLCBzdGF0dXM6IDp1bnByb2Nlc3NhYmxlX2VudGl0eQogICAgICBlbmQKICAgIGVuZAoKICAgICMgUEFUQ0gvUFVUIC9yZWdpb25zLzEKICAgIGRlZiB1cGRhdGUKICAgICAgaWYgQHJlZ2lvbi51cGRhdGUocmVnaW9uX3BhcmFtcykKICAgICAgICByZW5kZXIganNvbjogQHJlZ2lvbgogICAgICBlbHNlCiAgICAgICAgcmVuZGVyIGpzb246IEByZWdpb24uZXJyb3JzLCBzdGF0dXM6IDp1bnByb2Nlc3NhYmxlX2VudGl0eQogICAgICBlbmQKICAgIGVuZAoKICAgICMgREVMRVRFIC9yZWdpb25zLzEKICAgIGRlZiBkZXN0cm95CiAgICAgIEByZWdpb24uZGVzdHJveQogICAgZW5kCgogICAgcHJpdmF0ZQogICAgIyBVc2UgY2FsbGJhY2tzIHRvIHNoYXJlIGNvbW1vbiBzZXR1cCBvciBjb25zdHJhaW50cyBiZXR3ZWVuIGFjdGlvbnMuCiAgICBkZWYgc2V0X3JlZ2lvbgogICAgICBAcmVnaW9uID0gUmVnaW9uLmZpbmQocGFyYW1zWzppZF0pCiAgICBlbmQKCiAgICAjIE9ubHkgYWxsb3cgYSB0cnVzdGVkIHBhcmFtZXRlciAid2hpdGUgbGlzdCIgdGhyb3VnaC4KICAgIGRlZiByZWdpb25fcGFyYW1zCiAgICAgIHBhcmFtcy5mZXRjaCg6cmVnaW9uLCB7fSkKICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIyBqc29uX3JlcXVlc3QgPSBKU09OLnBhcnNlKHJlcXVlc3QuYm9keS5yZWFkKQogICAgICAjCiAgICAgICMgaWYgIWpzb25fcmVxdWVzdC5ibGFuaz8KICAgICAgIyAgIHBlcnNvbmFsID0ganNvbl9yZXF1ZXN0CiAgICAgICMgZWxzZQogICAgICAjICAgcGVyc29uYWwgPSB7J3N0YXR1cycgPT4gNTAwfQogICAgICAjIGVuZAogICAgICAjCiAgICAgICMgcCBwZXJzb25hbAo=</text>
+      <register name="5" type="4">
+        <text># GET /locations/1
+    def show
+      render json: @location
+    end</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgc2tpcF9iZWZvcmVfYWN0aW9uIDp2ZXJpZnlfYXV0aGVudGljaXR5X3Rva2VuCg==</text>
+        <text encoding="base64">ICByZXNvdXJjZXMgOnJlZ2lvbnMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgYmVmb3JlX2FjdGlvbiA6anNvbl9yZXF1ZXN0LCBvbmx5Ols6Z2V0X3JvdXRlc10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy5taWRkbGV3YXJlLmluc2VydF9iZWZvcmUgQWN0aW9uRGlzcGF0Y2g6OlBhcmFtc1BhcnNlciwgQ29tbWl0dGVlOjpNaWRkbGV3YXJlOjpSZXF1ZXN0VmFsaWRhdGlvbiwgc2NoZW1hOiBKU09OLnBhcnNlKEZpbGUucmVhZChzY2hlbWFfZmlsZSkpCiAgICBjb25maWcubWlkZGxld2FyZS5pbnNlcnRfYmVmb3JlIEFjdGlvbkRpc3BhdGNoOjpQYXJhbXNQYXJzZXIsIENvbW1pdHRlZTo6TWlkZGxld2FyZTo6UmVzcG9uc2VWYWxpZGF0aW9uLCBzY2hlbWE6IEpTT04ucGFyc2UoRmlsZS5yZWFkKHNjaGVtYV9maWxlKSkK</text>
+        <text encoding="base64">ICAgIGJlZm9yZV9hY3Rpb24gOnNldF9yZWdpb24sIG9ubHk6IFs6c2hvdywgOnVwZGF0ZSwgOmRlc3Ryb3ldCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Z2VtICdjb21taXR0ZWUnCg==</text>
+        <text encoding="base64">ICAgICMgR0VUIC9yZWdpb25zLzEKICAgIGRlZiBzaG93CiAgICAgIHJlbmRlciBqc29uOiBAcmVnaW9uCiAgICBlbmQKCiAgICAjIFBPU1QgL3JlZ2lvbnMKICAgIGRlZiBjcmVhdGUKICAgICAgQHJlZ2lvbiA9IFJlZ2lvbi5uZXcocmVnaW9uX3BhcmFtcykKCiAgICAgIGlmIEByZWdpb24uc2F2ZQogICAgICAgIHJlbmRlciBqc29uOiBAcmVnaW9uLCBzdGF0dXM6IDpjcmVhdGVkLCBsb2NhdGlvbjogQHJlZ2lvbgogICAgICBlbHNlCiAgICAgICAgcmVuZGVyIGpzb246IEByZWdpb24uZXJyb3JzLCBzdGF0dXM6IDp1bnByb2Nlc3NhYmxlX2VudGl0eQogICAgICBlbmQKICAgIGVuZAoKICAgICMgUEFUQ0gvUFVUIC9yZWdpb25zLzEKICAgIGRlZiB1cGRhdGUKICAgICAgaWYgQHJlZ2lvbi51cGRhdGUocmVnaW9uX3BhcmFtcykKICAgICAgICByZW5kZXIganNvbjogQHJlZ2lvbgogICAgICBlbHNlCiAgICAgICAgcmVuZGVyIGpzb246IEByZWdpb24uZXJyb3JzLCBzdGF0dXM6IDp1bnByb2Nlc3NhYmxlX2VudGl0eQogICAgICBlbmQKICAgIGVuZAoKICAgICMgREVMRVRFIC9yZWdpb25zLzEKICAgIGRlZiBkZXN0cm95CiAgICAgIEByZWdpb24uZGVzdHJveQogICAgZW5kCgogICAgcHJpdmF0ZQogICAgIyBVc2UgY2FsbGJhY2tzIHRvIHNoYXJlIGNvbW1vbiBzZXR1cCBvciBjb25zdHJhaW50cyBiZXR3ZWVuIGFjdGlvbnMuCiAgICBkZWYgc2V0X3JlZ2lvbgogICAgICBAcmVnaW9uID0gUmVnaW9uLmZpbmQocGFyYW1zWzppZF0pCiAgICBlbmQKCiAgICAjIE9ubHkgYWxsb3cgYSB0cnVzdGVkIHBhcmFtZXRlciAid2hpdGUgbGlzdCIgdGhyb3VnaC4KICAgIGRlZiByZWdpb25fcGFyYW1zCiAgICAgIHBhcmFtcy5mZXRjaCg6cmVnaW9uLCB7fSkKICAgIGVuZAo=</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
