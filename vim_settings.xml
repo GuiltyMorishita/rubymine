@@ -34,6 +34,11 @@
         <mark key="^" line="4" column="33" />
         <mark key="." line="4" column="33" />
       </file>
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/spec/requests/locations_spec.rb" timestamp="1478390128919">
+        <mark key="[" line="23" column="40" />
+        <mark key="]" line="23" column="7" />
+        <mark key="." line="23" column="40" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/views/layouts/application.html.erb" timestamp="1477754217898">
         <mark key="[" line="32" column="49" />
         <mark key="]" line="33" column="57" />
@@ -83,12 +88,12 @@
         <mark key="." line="4" column="44" />
         <mark key="^" line="4" column="44" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/spec/factories/locations.rb" timestamp="1478370912261">
-        <mark key="'" line="5" column="2" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/spec/factories/locations.rb" timestamp="1478390278613">
+        <mark key="'" line="20" column="2" />
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="10" column="1" />
+        <mark key="^" line="10" column="1" />
+        <mark key="." line="10" column="1" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/Gemfile" timestamp="1477762099234">
         <mark key="[" line="59" column="0" />
@@ -152,8 +157,10 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="4" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/Guardfile" timestamp="1478370073346">
-        <mark key="[" line="24" column="26" />
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/Guardfile" timestamp="1478389114247">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/models/phone_spec.rb" timestamp="1477542517402">
         <mark key="[" line="36" column="39" />
@@ -176,9 +183,9 @@
         <mark key="^" line="2" column="50" />
         <mark key="." line="2" column="50" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" timestamp="1478386701082">
-        <mark key="[" line="17" column="47" />
-        <mark key="]" line="17" column="80" />
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" timestamp="1478389925504">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="292" />
         <mark key="." line="13" column="27" />
         <mark key="^" line="13" column="27" />
       </file>
@@ -212,10 +219,11 @@
         <mark key="." line="7" column="15" />
         <mark key="^" line="7" column="15" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/spec/factories/regions.rb" timestamp="1478370773041">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/spec/factories/regions.rb" timestamp="1478390238898">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="19" />
+        <mark key="." line="6" column="19" />
+        <mark key="^" line="6" column="19" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/.rspec" timestamp="1478369081863">
         <mark key="[" line="2" column="0" />
@@ -392,68 +400,40 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>locations</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>Location</text>
       </register>
-      <register name="0" type="4">
-        <text>35.713968', longitude: '139.79645'</text>
+      <register name="0" type="2">
+        <text encoding="base64">a3lvdG8ubG9jYXRpb25zLmNyZWF0ZShuYW1lOiAn5Lqs6YO944K/44Ov44O8JywgbGF0aXR1ZGU6ICczNC45ODc1NjMnLCBsb25naXR1ZGU6ICcxMzUuNzU5MzQ0JywgZGVzY3JpcHRpb246ICfkuqzpg73pp4XjgYvjgonlh7rjgZ/jgonjgIHpgZPjgpLmjJ/jgpPjgafnm67jga7liY3jgavjgYLjgovjga7jgYzlpKfjgY3jgY/jgZ3jgbPjgYjjgovkuqzpg73jgr/jg6/jg7zjgafjgZnjgILkuqzpg73jgr/jg6/jg7zjga/kuqzpg73jga7jgrfjg7Pjg5zjg6vjgajjgZfjgabooZfjgpLkuqzpg73luILooZfjgYvjgonlsbHjgIXjga7poqjmma/jgb7jgafkuIDmnJvjgafjgY3jgovjgojjgYbjgavjgarjgaPjgabjgYTjgb7jgZnjgILkuqzpg73jgavmnaXjgZ/jgpPjgaDvvIHjgajlrp/mhJ/jgZnjgovjgZ/jgoHjgavjgoLmma/oibLjgpLopovmuKHjgZvjgovmnIDkuIrpmo7jgb7jgafooYzjgY/jga7jgYzjgYrjgZnjgZnjgoHjgafjgZnimaogJywgaW1hZ2VVcmw6ICdodHRwOi8vcGhvdG81My5jb20vaW1nL3Rvd2VyMS5qcGcnLCByZXF1aXJlZFRpbWU6ICcxJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNlcXVlbmNlKDplbWFpbCkgeyB8bnwgImpvaG5kb2Uje259QGV4YW1wbGUuY29tIn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltYWdlVXJsICJEb2UiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNlcXVlbmNlKDplbWFpbCkgeyB8bnwgImpvaG5kb2Uje259QGV4YW1wbGUuY29tIn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdldCAnL2FwaS9sb2NhdGlvbnMnCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>require'rails_helper'
-
-describe Location do
-# 姓と名とメールがあれば有効な状態であること
-  it &quot;is valid with a firstname, lastname and email&quot;
-# 名がなければ無効な状態であること
-  it &quot;is invalid without a firstname&quot;
-# 姓がなければ無効な状態であること
-  it &quot;is invalid without a lastname&quot;
-# メールアドレスがなければ無効な状態であること
-  it &quot;is invalid without an email address&quot;
-# 重複したメールアドレスなら無効な状態であること
-  it &quot;is invalid with a duplicate email address&quot;
-# 連絡先のフルネームを文字列として返すこと
-  it &quot;returns a contact's full name as a string&quot;
-end</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGdldCAnL2FwaS9sb2NhdGlvbnMnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJlZm9yZSBkbwogICAgICBAbG9jYXRpb24xID0gRmFjdG9yeUdpcmwuY3JlYXRlKDpsb2NhdGlvbiwgbmFtZTogJ1NreVRyZWUnKQogICAgICBAbG9jYXRpb24yID0gRmFjdG9yeUdpcmwuY3JlYXRlKDpsb2NhdGlvbiwgbmFtZTogJ1RyZWVTa3knKQogICAgICBnZXQgJy9hcGkvbG9jYXRpb25zJwogICAgZW5kCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z3VhcmQgOnJzcGVjLCBjbWQ6ICdzcHJpbmcgcnNwZWMgLS1jb2xvciAtLWZvcm1hdCBkb2N1bWVudGF0aW9uJywgYWxsX29uX3N0YXJ0OiBmYWxzZSwgYWxsX2FmdGVyX3Bhc3M6IGZhbHNlIGRvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2YWxpZGF0ZXMgOm5hbWUsIHByZXNlbmNlOiB0cnVlCiAgdmFsaWRhdGVzIDpyZWdpb25faWQsIHByZXNlbmNlOiB0cnVlCiAgdmFsaWRhdGVzIDphZGRyZXNzLCBwcmVzZW5jZTogdHJ1ZQogIHZhbGlkYXRlcyA6bGF0aXR1ZGUsIHByZXNlbmNlOiB0cnVlCiAgdmFsaWRhdGVzIDpsb25naXR1ZGUsIHByZXNlbmNlOiB0cnVlCiAgdmFsaWRhdGVzIDpkZXNjcmlwdGlvbiwgcHJlc2VuY2U6IHRydWUKICB2YWxpZGF0ZXMgOmltYWdlVXJsLCBwcmVzZW5jZTogdHJ1ZQogIHZhbGlkYXRlcyA6cmVxdWlyZWRUaW1lLCBwcmVzZW5jZTogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgIGV4cGVjdChqc29uKS50byBtYXRjaCgvIlRyZWVTa3kiLykK</text>
       </register>
-      <register name="9" type="8">
-        <text>3 
-4 
-5 
-6 
-7 
-8 
-9 
-10
-11
-12
-13
-14
-15
-16</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGV4cGVjdChyZXNwb25zZSkudG8gYmVfc3VjY2Vzcwo=</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
