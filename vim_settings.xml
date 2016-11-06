@@ -104,10 +104,12 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/spec/requests/regions_spec.rb" timestamp="1478399278671">
-        <mark key="[" line="10" column="16" />
-        <mark key="]" line="10" column="16" />
-        <mark key="." line="10" column="16" />
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/spec/requests/regions_spec.rb" timestamp="1478400047886">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="23" column="2" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/application_controller.rb" timestamp="1478331379158">
         <mark key="[" line="0" column="50" />
@@ -183,7 +185,7 @@
         <mark key="^" line="37" column="4" />
         <mark key="." line="37" column="4" />
       </file>
-      <file name="/Ruby Console" timestamp="1478397491860">
+      <file name="/Ruby Console" timestamp="1478402040300">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/migrate/20161030132014_create_users.rb" timestamp="1477835218091">
@@ -197,6 +199,12 @@
         <mark key="]" line="2" column="50" />
         <mark key="^" line="2" column="50" />
         <mark key="." line="2" column="50" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/spec/requests/routes_spec.rb" timestamp="1478402137276">
+        <mark key="[" line="21" column="69" />
+        <mark key="]" line="20" column="70" />
+        <mark key="." line="20" column="70" />
+        <mark key="^" line="20" column="70" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" timestamp="1478394579004">
         <mark key="[" line="1" column="0" />
@@ -251,7 +259,7 @@
       <file name="/Dummy.txt" timestamp="1478359671463">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.rb" timestamp="1478397680197">
+      <file name="/fragment.rb" timestamp="1478402102179">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/about_us_spec.rb" timestamp="1477753771751">
@@ -309,7 +317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="55" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
       <jump line="4" column="32" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/factories/users.rb" />
       <jump line="5" column="25" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
       <jump line="6" column="21" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
@@ -409,46 +416,47 @@
       <jump line="2" column="13" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
       <jump line="2" column="0" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/spec/models/location_spec.rb" />
       <jump line="6" column="2" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/spec/factories/locations.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/spec/requests/regions_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>locations</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>Location</text>
       </register>
-      <register name="0" type="4">
-        <text># GET /regions</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgZXhwZWN0KGpzb24uZGlnKDAsIDAsICdsZWdzJywgMCwgJ3N0YXJ0X2FkZHJlc3MnKSkudG8gbWF0Y2goL+a4heawtOWvui8pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAjIEdFVCAvcmVnaW9ucwo=</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KGpzb24uZGlnKDAsIDAsICdsZWdzJywgMCwgJ3N0YXJ0X2FkZHJlc3MnKSkudG8gbWF0Y2goL+a4heawtOWvui8pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEB0b2t5b19sb2NhdGlvbiA9IEZhY3RvcnlHaXJsLmNyZWF0ZSg6dG9reW9fbG9jYXRpb24sIHJlZ2lvbjogQHRva3lvX3JlZ2lvbikK</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KGpzb25bMV1bJ25hbWUnXSkudG8gZXEgQHRva3lvX3JlZ2lvbi5uYW1lCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBreW90b19sb2NhdGlvbiA9IEZhY3RvcnlHaXJsLmNyZWF0ZSg6a3lvdG9fbG9jYXRpb24sIHJlZ2lvbjogQGt5b3RvX3JlZ2lvbikK</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KGpzb25bMF1bJ25hbWUnXSkudG8gZXEgQGt5b3RvX3JlZ2lvbi5uYW1lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZ2V0ICcvYXBpL25lYXJieUxvY2F0aW9ucz9sYXQ9JyArIEBreW90b19sb2NhdGlvbi5sYXRpdHVkZS50b19zICsgJyZsbmc9JyArIEBreW90b19sb2NhdGlvbi5sb25naXR1ZGUudG9fcwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZ2V0ICcvYXBpL25lYXJieUxvY2F0aW9ucz9sYXQ9JyArIEBreW90b19sb2NhdGlvbi5sYXRpdHVkZS50b19zICsgJyZsbmc9JyArIEBreW90b19sb2NhdGlvbi5sb25naXR1ZGUudG9fcwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgZXhwZWN0IGRvCiAgICAgICAgUE9TVCAnL2FwaS9nZXRSb3V0ZXMnCiAgICAgIGVuZAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAganNvbiA9IEpTT04ucGFyc2UocmVzcG9uc2UuYm9keSkKICAgICAgZXhwZWN0KGpzb25bMF1bJ25hbWUnXSkudG8gZXEgQGt5b3RvX3JlZ2lvbi5uYW1lCiAgICAgIGV4cGVjdChqc29uWzFdWyduYW1lJ10pLnRvIGVxIEB0b2t5b19yZWdpb24ubmFtZQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25maWcuYmVmb3JlKDpzdWl0ZSkgZG8KICAgIERhdGFiYXNlQ2xlYW5lci5zdHJhdGVneSA9IDp0cmFuc2FjdGlvbgogICAgRGF0YWJhc2VDbGVhbmVyLmNsZWFuX3dpdGggOnRydW5jYXRpb24KICBlbmQKICBjb25maWcuYXJvdW5kKDplYWNoKSBkbyB8ZXhhbXBsZXwKICAgIERhdGFiYXNlQ2xlYW5lci5jbGVhbmluZyBkbwogICAgICBleGFtcGxlLnJ1bgogICAgZW5kCiAgZW5kCgogIGNvbmZpZy5hZnRlcig6ZWFjaCkgZG8KICAgIERhdGFiYXNlQ2xlYW5lci5jbGVhbgogIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgQHRva3lvX2xvY2F0aW9uID0gRmFjdG9yeUdpcmwuY3JlYXRlKDp0b2t5b19sb2NhdGlvbikK</text>
+        <text encoding="base64">ICAgIGJlZm9yZSBkbwogICAgICBQT1NUICcvYXBpL2dldFJvdXRlcycKICAgIGVuZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgQGt5b3RvX2xvY2F0aW9uID0gRmFjdG9yeUdpcmwuY3JlYXRlKDpreW90b19sb2NhdGlvbikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
