@@ -22,8 +22,8 @@
         <mark key="." line="1" column="15" />
         <mark key="^" line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/Gemfile" timestamp="1478364716599">
-        <mark key="[" line="4" column="14" />
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/Gemfile" timestamp="1478393548584">
+        <mark key="[" line="32" column="24" />
         <mark key="]" line="9" column="19" />
         <mark key="." line="9" column="19" />
         <mark key="^" line="9" column="19" />
@@ -34,10 +34,10 @@
         <mark key="^" line="4" column="33" />
         <mark key="." line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/spec/requests/locations_spec.rb" timestamp="1478390128919">
-        <mark key="[" line="23" column="40" />
-        <mark key="]" line="23" column="7" />
-        <mark key="." line="23" column="40" />
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/spec/requests/locations_spec.rb" timestamp="1478396962939">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="50" column="110" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/views/layouts/application.html.erb" timestamp="1477754217898">
         <mark key="[" line="32" column="49" />
@@ -88,12 +88,16 @@
         <mark key="." line="4" column="44" />
         <mark key="^" line="4" column="44" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/spec/factories/locations.rb" timestamp="1478390278613">
-        <mark key="'" line="20" column="2" />
-        <mark key="[" line="9" column="5" />
-        <mark key="]" line="10" column="1" />
-        <mark key="^" line="10" column="1" />
-        <mark key="." line="10" column="1" />
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/spec/factories/locations.rb" timestamp="1478396057767">
+        <mark key="'" line="22" column="2" />
+        <mark key="[" line="20" column="23" />
+        <mark key="]" line="20" column="23" />
+        <mark key="." line="20" column="23" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/spec/rails_helper.rb" timestamp="1478396374712">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/Gemfile" timestamp="1477762099234">
         <mark key="[" line="59" column="0" />
@@ -157,6 +161,12 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="4" />
       </file>
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/spec/spec_helper.rb" timestamp="1478396665601">
+        <mark key="[" line="23" column="5" />
+        <mark key="]" line="23" column="4" />
+        <mark key="^" line="23" column="4" />
+        <mark key="." line="23" column="4" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/Guardfile" timestamp="1478389114247">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -168,7 +178,7 @@
         <mark key="^" line="37" column="4" />
         <mark key="." line="37" column="4" />
       </file>
-      <file name="/Ruby Console" timestamp="1478367623397">
+      <file name="/Ruby Console" timestamp="1478395286909">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/migrate/20161030132014_create_users.rb" timestamp="1477835218091">
@@ -183,9 +193,9 @@
         <mark key="^" line="2" column="50" />
         <mark key="." line="2" column="50" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" timestamp="1478389925504">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="292" />
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" timestamp="1478394579004">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="374" />
         <mark key="." line="13" column="27" />
         <mark key="^" line="13" column="27" />
       </file>
@@ -219,11 +229,11 @@
         <mark key="." line="7" column="15" />
         <mark key="^" line="7" column="15" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/spec/factories/regions.rb" timestamp="1478390238898">
-        <mark key="[" line="6" column="19" />
-        <mark key="]" line="6" column="19" />
-        <mark key="." line="6" column="19" />
-        <mark key="^" line="6" column="19" />
+      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/spec/factories/regions.rb" timestamp="1478395748229">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/.rspec" timestamp="1478369081863">
         <mark key="[" line="2" column="0" />
@@ -400,40 +410,40 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>Location</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">a3lvdG8ubG9jYXRpb25zLmNyZWF0ZShuYW1lOiAn5Lqs6YO944K/44Ov44O8JywgbGF0aXR1ZGU6ICczNC45ODc1NjMnLCBsb25naXR1ZGU6ICcxMzUuNzU5MzQ0JywgZGVzY3JpcHRpb246ICfkuqzpg73pp4XjgYvjgonlh7rjgZ/jgonjgIHpgZPjgpLmjJ/jgpPjgafnm67jga7liY3jgavjgYLjgovjga7jgYzlpKfjgY3jgY/jgZ3jgbPjgYjjgovkuqzpg73jgr/jg6/jg7zjgafjgZnjgILkuqzpg73jgr/jg6/jg7zjga/kuqzpg73jga7jgrfjg7Pjg5zjg6vjgajjgZfjgabooZfjgpLkuqzpg73luILooZfjgYvjgonlsbHjgIXjga7poqjmma/jgb7jgafkuIDmnJvjgafjgY3jgovjgojjgYbjgavjgarjgaPjgabjgYTjgb7jgZnjgILkuqzpg73jgavmnaXjgZ/jgpPjgaDvvIHjgajlrp/mhJ/jgZnjgovjgZ/jgoHjgavjgoLmma/oibLjgpLopovmuKHjgZvjgovmnIDkuIrpmo7jgb7jgafooYzjgY/jga7jgYzjgYrjgZnjgZnjgoHjgafjgZnimaogJywgaW1hZ2VVcmw6ICdodHRwOi8vcGhvdG81My5jb20vaW1nL3Rvd2VyMS5qcGcnLCByZXF1aXJlZFRpbWU6ICcxJykK</text>
+        <text encoding="base64">ICAgIEBreW90b19sb2NhdGlvbiA9IEZhY3RvcnlHaXJsLmNyZWF0ZSg6a3lvdG9fbG9jYXRpb24sIHJlZ2lvbjogQGt5b3RvX3JlZ2lvbikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZ2V0ICcvYXBpL25lYXJieUxvY2F0aW9ucz9sYXQ9JyArIEBreW90b19sb2NhdGlvbi5sYXRpdHVkZS50b19zICsgJyZsbmc9JyArIEBreW90b19sb2NhdGlvbi5sb25naXR1ZGUudG9fcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZ2V0ICcvYXBpL25lYXJieUxvY2F0aW9ucz9sYXQ9JyArIEBreW90b19sb2NhdGlvbi5sYXRpdHVkZS50b19zICsgJyZsbmc9JyArIEBreW90b19sb2NhdGlvbi5sb25naXR1ZGUudG9fcwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdldCAnL2FwaS9sb2NhdGlvbnMnCg==</text>
+        <text encoding="base64">ICBjb25maWcuYmVmb3JlKDpzdWl0ZSkgZG8KICAgIERhdGFiYXNlQ2xlYW5lci5zdHJhdGVneSA9IDp0cmFuc2FjdGlvbgogICAgRGF0YWJhc2VDbGVhbmVyLmNsZWFuX3dpdGggOnRydW5jYXRpb24KICBlbmQKICBjb25maWcuYXJvdW5kKDplYWNoKSBkbyB8ZXhhbXBsZXwKICAgIERhdGFiYXNlQ2xlYW5lci5jbGVhbmluZyBkbwogICAgICBleGFtcGxlLnJ1bgogICAgZW5kCiAgZW5kCgogIGNvbmZpZy5hZnRlcig6ZWFjaCkgZG8KICAgIERhdGFiYXNlQ2xlYW5lci5jbGVhbgogIGVuZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdldCAnL2FwaS9sb2NhdGlvbnMnCg==</text>
+        <text encoding="base64">ICAgICMgQHRva3lvX2xvY2F0aW9uID0gRmFjdG9yeUdpcmwuY3JlYXRlKDp0b2t5b19sb2NhdGlvbikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZSBkbwogICAgICBAbG9jYXRpb24xID0gRmFjdG9yeUdpcmwuY3JlYXRlKDpsb2NhdGlvbiwgbmFtZTogJ1NreVRyZWUnKQogICAgICBAbG9jYXRpb24yID0gRmFjdG9yeUdpcmwuY3JlYXRlKDpsb2NhdGlvbiwgbmFtZTogJ1RyZWVTa3knKQogICAgICBnZXQgJy9hcGkvbG9jYXRpb25zJwogICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICMgQGt5b3RvX2xvY2F0aW9uID0gRmFjdG9yeUdpcmwuY3JlYXRlKDpreW90b19sb2NhdGlvbikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Z3VhcmQgOnJzcGVjLCBjbWQ6ICdzcHJpbmcgcnNwZWMgLS1jb2xvciAtLWZvcm1hdCBkb2N1bWVudGF0aW9uJywgYWxsX29uX3N0YXJ0OiBmYWxzZSwgYWxsX2FmdGVyX3Bhc3M6IGZhbHNlIGRvCg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChqc29uKS50byBtYXRjaCgvIlRyZWVTa3kiLykK</text>
+        <text encoding="base64">ICBiZWZvcmUgZG8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChyZXNwb25zZSkudG8gYmVfc3VjY2Vzcwo=</text>
+        <text encoding="base64">ICAgIEB0b2t5b19sb2NhdGlvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
