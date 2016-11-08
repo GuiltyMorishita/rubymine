@@ -424,12 +424,10 @@
     </library>
     <library name="bcrypt (v3.1.7, rbenv: 2.1.1) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/bcrypt/3.1.7" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/bcrypt-3.1.7/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/bcrypt-3.1.7/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/bcrypt/3.1.7" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/bcrypt-3.1.7/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/bcrypt-3.1.7/lib" />
       </SOURCES>
@@ -1324,14 +1322,12 @@
     </library>
     <library name="ffi (v1.9.14, rbenv: 2.1.1) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/ffi/1.9.14" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/ffi-1.9.14/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/ffi-1.9.14/gen" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/ffi-1.9.14/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/ffi-1.9.14/libtest" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/ffi/1.9.14" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/ffi-1.9.14/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/ffi-1.9.14/gen" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/ffi-1.9.14/lib" />
@@ -1372,14 +1368,12 @@
     </library>
     <library name="ffi (v1.9.3, rbenv: 2.1.1) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/ffi/1.9.3" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/ffi-1.9.3/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/ffi-1.9.3/gen" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/ffi-1.9.3/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/ffi-1.9.3/libtest" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/ffi/1.9.3" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/ffi-1.9.3/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/ffi-1.9.3/gen" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/ffi-1.9.3/lib" />
@@ -2342,14 +2336,6 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/mail-2.6.4/lib" />
       </SOURCES>
     </library>
-    <library name="method_source (v0.8.1, rbenv: 2.1.1) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/method_source-0.8.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/method_source-0.8.2/lib" />
-      </SOURCES>
-    </library>
     <library name="method_source (v0.8.2, rbenv: 2.1.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/method_source-0.8.2/lib" />
@@ -2698,7 +2684,6 @@
     </library>
     <library name="nokogiri (v1.6.3.1, rbenv: 2.1.1) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/nokogiri/1.6.3.1" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.3.1/bin" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.3.1/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.3.1/lib" />
@@ -2706,7 +2691,6 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.3.1/suppressions" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/nokogiri/1.6.3.1" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.3.1/bin" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.3.1/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.3.1/lib" />
@@ -2756,7 +2740,6 @@
     </library>
     <library name="nokogiri (v1.6.8.1, rbenv: 2.1.1) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/nokogiri/1.6.8.1" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.8.1/bin" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.8.1/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.8.1/lib" />
@@ -2765,7 +2748,6 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.8.1/suppressions" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/nokogiri/1.6.8.1" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.8.1/bin" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.8.1/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.8.1/lib" />
@@ -3298,13 +3280,11 @@
     </library>
     <library name="rb-fsevent (v0.9.4, rbenv: 2.1.1) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/rb-fsevent/0.9.4" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/rb-fsevent-0.9.4/bin" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/rb-fsevent-0.9.4/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/rb-fsevent-0.9.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/rb-fsevent/0.9.4" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/rb-fsevent-0.9.4/bin" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/rb-fsevent-0.9.4/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/rb-fsevent-0.9.4/lib" />
@@ -4128,14 +4108,12 @@
     </library>
     <library name="sqlite3 (v1.3.9, rbenv: 2.1.1) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/sqlite3/1.3.9" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/sqlite3-1.3.9/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/sqlite3-1.3.9/faq" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/sqlite3-1.3.9/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/sqlite3-1.3.9/tasks" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/sqlite3/1.3.9" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/sqlite3-1.3.9/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/sqlite3-1.3.9/faq" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/sqlite3-1.3.9/lib" />
