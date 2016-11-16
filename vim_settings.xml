@@ -130,6 +130,7 @@
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/models/region.rb" timestamp="1478338118456">
         <mark key="[" line="0" column="32" />
       </file>
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/schema.rb" timestamp="1479263623419" />
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/models/contact_spec.rb" timestamp="1478676087568">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="41" column="6" />
@@ -168,11 +169,11 @@
       <file name="/Ruby Console" timestamp="1478402040300">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/migrate/20161030132014_create_users.rb" timestamp="1477835218091">
-        <mark key="[" line="3" column="22" />
-        <mark key="]" line="4" column="22" />
-        <mark key="^" line="4" column="22" />
-        <mark key="." line="4" column="22" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/migrate/20161030132014_create_users.rb" timestamp="1479262808312">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/models/news_release.rb" timestamp="1477755259852">
         <mark key="[" line="0" column="38" />
@@ -203,11 +204,11 @@
         <mark key="." line="2" column="46" />
         <mark key="^" line="2" column="46" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/migrate/20161030132539_create_items.rb" timestamp="1477834565199">
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="7" column="38" />
-        <mark key="^" line="5" column="21" />
-        <mark key="." line="7" column="25" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/migrate/20161030132539_create_items.rb" timestamp="1479262870891">
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="4" column="22" />
+        <mark key="^" line="4" column="22" />
+        <mark key="." line="4" column="22" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/news_releases_spec.rb" timestamp="1477754388861">
         <mark key="[" line="2" column="23" />
@@ -276,8 +277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="53" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
       <jump line="59" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
       <jump line="65" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
       <jump line="72" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
@@ -376,6 +375,8 @@
       <jump line="1" column="63" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/.env" />
       <jump line="2" column="0" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/.env" />
       <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/.env" />
+      <jump line="3" column="42" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/migrate/20161030132014_create_users.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/migrate/20161030132014_create_users.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -391,10 +392,10 @@
         <text encoding="base64">a3lvdG8ubG9jYXRpb25zLmNyZWF0ZShuYW1lOiAn5bmz562J6ZmiJywgbGF0aXR1ZGU6ICczNC44ODkyOTEnLCBsb25naXR1ZGU6ICcxMzUuODA3Njc4JywgZGVzY3JpcHRpb246ICfkuqzpg73lupzjga7lrofmsrvluILjgavjgYLjgovlubPnrYnpmaLjga/lm73lrp3jgavmjIflrprjgZXjgozjgabjgYrjgorjgIHjgb7jgZ/jg6bjg43jgrnjgrPjga7kuJbnlYzpgbrnlKPjgavjgoLnmbvpjLLjgZXjgozjgabjgYTjgovjgYrlr7rjgafjgZnjgIIyMDE05bm0M+aciOOBq+OBr+Wxi+agueOChOafseOBruS/ruW+qeW3peS6i+OCkue1guOBiOmzs+WHsOWgguWGhemDqOOChOmHkeiJsuOBq+i8neOBj+mzs+WHsOWDj+OBjOOBiuaKq+mcsuebruOBleOCjOOBvuOBl+OBn+OAguW4guWGheOBi+OCieWwkeOBl+i2s+OCkuS8uOOBsOOBl+ioquOCjOOBpuOBv+OCi+OBruOBr+OBhOOBi+OBjOOBp+OBl+OCh+OBhuOBiycsIGltYWdlVXJsOiAnaHR0cDovL2t5b3RvbW95b3UuanAvc3lzL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzA5L2J5b2RvaW4tMjAxNDA5LmpwZycsIHJlcXVpcmVkVGltZTogJzEnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdC5pbnRlZ2VyIDp0b3RhbF9wcmljZSwgbnVsbDogZmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdC5pbnRlZ2VyIDp0b3RhbF9wcmljZSwgbnVsbDogZmFsc2UK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -415,7 +416,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">a3lvdG8ubG9jYXRpb25zLmNyZWF0ZShuYW1lOiAn5bmz562J6ZmiJywgbGF0aXR1ZGU6ICczNC44ODkyOTEnLCBsb25naXR1ZGU6ICcxMzUuODA3Njc4JywgZGVzY3JpcHRpb246ICfkuqzpg73lupzjga7lrofmsrvluILjgavjgYLjgovlubPnrYnpmaLjga/lm73lrp3jgavmjIflrprjgZXjgozjgabjgYrjgorjgIHjgb7jgZ/jg6bjg43jgrnjgrPjga7kuJbnlYzpgbrnlKPjgavjgoLnmbvpjLLjgZXjgozjgabjgYTjgovjgYrlr7rjgafjgZnjgIIyMDE05bm0M+aciOOBq+OBr+Wxi+agueOChOafseOBruS/ruW+qeW3peS6i+OCkue1guOBiOmzs+WHsOWgguWGhemDqOOChOmHkeiJsuOBq+i8neOBj+mzs+WHsOWDj+OBjOOBiuaKq+mcsuebruOBleOCjOOBvuOBl+OBn+OAguW4guWGheOBi+OCieWwkeOBl+i2s+OCkuS8uOOBsOOBl+ioquOCjOOBpuOBv+OCi+OBruOBr+OBhOOBi+OBjOOBp+OBl+OCh+OBhuOBiycsIGltYWdlVXJsOiAnaHR0cDovL2t5b3RvbW95b3UuanAvc3lzL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzA5L2J5b2RvaW4tMjAxNDA5LmpwZycsIHJlcXVpcmVkVGltZTogJzEnKQpreW90by5sb2NhdGlvbnMuY3JlYXRlKG5hbWU6ICflubPnrYnpmaInLCBsYXRpdHVkZTogJzM0Ljg4OTI5MScsIGxvbmdpdHVkZTogJzEzNS44MDc2NzgnLCBkZXNjcmlwdGlvbjogJ+S6rOmDveW6nOOBruWuh+ayu+W4guOBq+OBguOCi+W5s+etiemZouOBr+WbveWuneOBq+aMh+WumuOBleOCjOOBpuOBiuOCiuOAgeOBvuOBn+ODpuODjeOCueOCs+OBruS4lueVjOmBuueUo+OBq+OCgueZu+mMsuOBleOCjOOBpuOBhOOCi+OBiuWvuuOBp+OBmeOAgjIwMTTlubQz5pyI44Gr44Gv5bGL5qC544KE5p+x44Gu5L+u5b6p5bel5LqL44KS57WC44GI6bOz5Yew5aCC5YaF6YOo44KE6YeR6Imy44Gr6Lyd44GP6bOz5Yew5YOP44GM44GK5oqr6Zyy55uu44GV44KM44G+44GX44Gf44CC5biC5YaF44GL44KJ5bCR44GX6Laz44KS5Ly444Gw44GX6Kiq44KM44Gm44G/44KL44Gu44Gv44GE44GL44GM44Gn44GX44KH44GG44GLJywgaW1hZ2VVcmw6ICdodHRwOi8va3lvdG9tb3lvdS5qcC9zeXMvd3AtY29udGVudC91cGxvYWRzLzIwMTQvMDkvYnlvZG9pbi0yMDE0MDkuanBnJywgcmVxdWlyZWRUaW1lOiAnMScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
