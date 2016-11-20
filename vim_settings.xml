@@ -130,7 +130,11 @@
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/models/region.rb" timestamp="1478338118456">
         <mark key="[" line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/schema.rb" timestamp="1479344860956" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/schema.rb" timestamp="1479542863016">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="99" column="2" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/models/contact_spec.rb" timestamp="1478676087568">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="41" column="6" />
@@ -204,11 +208,11 @@
         <mark key="." line="2" column="46" />
         <mark key="^" line="2" column="46" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/migrate/20161030132539_create_items.rb" timestamp="1479262870891">
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="4" column="22" />
-        <mark key="^" line="4" column="22" />
-        <mark key="." line="4" column="22" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/migrate/20161030132539_create_items.rb" timestamp="1479542602315">
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="12" column="27" />
+        <mark key="^" line="12" column="27" />
+        <mark key="." line="12" column="27" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/news_releases_spec.rb" timestamp="1477754388861">
         <mark key="[" line="2" column="23" />
@@ -237,17 +241,16 @@
       <file name="/dummy.sql" timestamp="1478359639342">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/migrate/20161116025658_create_addresses.rb" timestamp="1479266384898">
-        <mark key="[" line="8" column="34" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/migrate/20161116025658_create_addresses.rb" timestamp="1479542195384">
+        <mark key="[" line="11" column="7" />
         <mark key="]" line="8" column="33" />
         <mark key="." line="8" column="33" />
         <mark key="^" line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/migrate/20161116030447_create_orders.rb" timestamp="1479267171184">
-        <mark key="[" line="11" column="35" />
-        <mark key="]" line="9" column="27" />
-        <mark key="." line="9" column="27" />
-        <mark key="^" line="9" column="27" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/migrate/20161116030447_create_orders.rb" timestamp="1479542819663">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1478359671463">
         <mark key="[" line="0" column="0" />
@@ -339,7 +342,6 @@
       <jump line="6" column="28" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/news_releases_controller_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/news_releases_controller_spec.rb" />
       <jump line="60" column="3" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/Gemfile" />
-      <jump line="13" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/schema.rb" />
       <jump line="26" column="0" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/schema.rb" />
       <jump line="24" column="2" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/schema.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
@@ -389,46 +391,47 @@
       <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/.env" />
       <jump line="3" column="42" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/migrate/20161030132014_create_users.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/migrate/20161030132014_create_users.rb" />
+      <jump line="13" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/schema.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>Location</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFkZF9pbmRleCA6Y2FydF9pdGVtcywgWzp1c2VyX2lkLCA6aXRlbV9pZF0sIHVuaXF1ZTogdHJ1ZQo=</text>
+        <text encoding="base64">QWN0aXZlUmVjb3JkOjpTY2hlbWEuZGVmaW5lKHZlcnNpb246IDIwMTYxMTE2MDMyMTQ3KSBkbwoKICBjcmVhdGVfdGFibGUgImFkZHJlc3NlcyIsIGZvcmNlOiA6Y2FzY2FkZSBkbyB8dHwKICAgIHQuaW50ZWdlciAgInVzZXJfaWQiLCAgICAgbGltaXQ6IDQsICAgbnVsbDogZmFsc2UKICAgIHQuc3RyaW5nICAgImZpcnN0X25hbWUiLCAgbGltaXQ6IDI1NSwgbnVsbDogZmFsc2UKICAgIHQuc3RyaW5nICAgImxhc3RfbmFtZSIsICAgbGltaXQ6IDI1NSwgbnVsbDogZmFsc2UKICAgIHQuc3RyaW5nICAgInBvc3RhbF9jb2RlIiwgbGltaXQ6IDI1NSwgbnVsbDogZmFsc2UKICAgIHQuc3RyaW5nICAgImFkZHJlc3MiLCAgICAgbGltaXQ6IDI1NSwgbnVsbDogZmFsc2UKICAgIHQuc3RyaW5nICAgInBob25lIiwgICAgICAgbGltaXQ6IDI1NSwgbnVsbDogZmFsc2UKICAgIHQuZGF0ZXRpbWUgImNyZWF0ZWRfYXQiLCAgICAgICAgICAgICAgbnVsbDogZmFsc2UKICAgIHQuZGF0ZXRpbWUgInVwZGF0ZWRfYXQiLCAgICAgICAgICAgICAgbnVsbDogZmFsc2UKICBlbmQKCiAgYWRkX2luZGV4ICJhZGRyZXNzZXMiLCBbInVzZXJfaWQiXSwgbmFtZTogImluZGV4X2FkZHJlc3Nlc19vbl91c2VyX2lkIiwgdXNpbmc6IDpidHJlZQoKICBjcmVhdGVfdGFibGUgImNhcnRfaXRlbXMiLCBmb3JjZTogOmNhc2NhZGUgZG8gfHR8CiAgICB0LmludGVnZXIgICJ1c2VyX2lkIiwgICAgbGltaXQ6IDQsICAgICAgICAgICAgIG51bGw6IGZhbHNlCiAgICB0LmludGVnZXIgICJpdGVtX2lkIiwgICAgbGltaXQ6IDQsICAgICAgICAgICAgIG51bGw6IGZhbHNlCiAgICB0LmludGVnZXIgICJxdWFudGl0eSIsICAgbGltaXQ6IDQsIGRlZmF1bHQ6IDEsIG51bGw6IGZhbHNlCiAgICB0LmRhdGV0aW1lICJjcmVhdGVkX2F0IiwgICAgICAgICAgICAgICAgICAgICAgIG51bGw6IGZhbHNlCiAgICB0LmRhdGV0aW1lICJ1cGRhdGVkX2F0IiwgICAgICAgICAgICAgICAgICAgICAgIG51bGw6IGZhbHNlCiAgZW5kCgogIGFkZF9pbmRleCAiY2FydF9pdGVtcyIsIFsidXNlcl9pZCIsICJpdGVtX2lkIl0sIG5hbWU6ICJpbmRleF9jYXJ0X2l0ZW1zX29uX3VzZXJfaWRfYW5kX2l0ZW1faWQiLCB1bmlxdWU6IHRydWUsIHVzaW5nOiA6YnRyZWUKCiAgY3JlYXRlX3RhYmxlICJpdGVtcyIsIGZvcmNlOiA6Y2FzY2FkZSBkbyB8dHwKICAgIHQuc3RyaW5nICAgIm5hbWUiLCAgICAgICAgbGltaXQ6IDUwLCAgICBudWxsOiBmYWxzZQogICAgdC5pbnRlZ2VyICAicHJpY2UiLCAgICAgICBsaW1pdDogNCwgICAgIG51bGw6IGZhbHNlCiAgICB0LmludGVnZXIgICJzdG9jayIsICAgICAgIGxpbWl0OiA0LCAgICAgbnVsbDogZmFsc2UKICAgIHQudGV4dCAgICAgImRlc2NyaXB0aW9uIiwgbGltaXQ6IDY1NTM1LCBudWxsOiBmYWxzZQogICAgdC5zdHJpbmcgICAiaW1hZ2VfdXJsIiwgICBsaW1pdDogMjU1LCAgIG51bGw6IGZhbHNlCiAgICB0LmRhdGV0aW1lICJjcmVhdGVkX2F0IiwgICAgICAgICAgICAgICAgbnVsbDogZmFsc2UKICAgIHQuZGF0ZXRpbWUgInVwZGF0ZWRfYXQiLCAgICAgICAgICAgICAgICBudWxsOiBmYWxzZQogIGVuZAoKICBhZGRfaW5kZXggIml0ZW1zIiwgWyJjcmVhdGVkX2F0Il0sIG5hbWU6ICJpbmRleF9pdGVtc19vbl9jcmVhdGVkX2F0IiwgdXNpbmc6IDpidHJlZQogIGFkZF9pbmRleCAiaXRlbXMiLCBbIm5hbWUiXSwgbmFtZTogImluZGV4X2l0ZW1zX29uX25hbWUiLCB1c2luZzogOmJ0cmVlCiAgYWRkX2luZGV4ICJpdGVtcyIsIFsicHJpY2UiXSwgbmFtZTogImluZGV4X2l0ZW1zX29uX3ByaWNlIiwgdXNpbmc6IDpidHJlZQoKICBjcmVhdGVfdGFibGUgIm9yZGVyX2l0ZW1zIiwgZm9yY2U6IDpjYXNjYWRlIGRvIHx0fAogICAgdC5pbnRlZ2VyICAib3JkZXJfaWQiLCAgIGxpbWl0OiA0LCAgICAgICAgICAgICAgIG51bGw6IGZhbHNlCiAgICB0LmludGVnZXIgICJpdGVtX2lkIiwgICAgbGltaXQ6IDQsICAgICAgICAgICAgICAgbnVsbDogZmFsc2UKICAgIHQuc3RyaW5nICAgIm5hbWUiLCAgICAgICBsaW1pdDogMjU1LCAgICAgICAgICAgICBudWxsOiBmYWxzZQogICAgdC5pbnRlZ2VyICAicHJpY2UiLCAgICAgIGxpbWl0OiA0LCAgICAgICAgICAgICAgIG51bGw6IGZhbHNlCiAgICB0LmludGVnZXIgICJxdWFudGl0eSIsICAgbGltaXQ6IDQsICAgZGVmYXVsdDogMSwgbnVsbDogZmFsc2UKICAgIHQuZGF0ZXRpbWUgImNyZWF0ZWRfYXQiLCAgICAgICAgICAgICAgICAgICAgICAgICBudWxsOiBmYWxzZQogICAgdC5kYXRldGltZSAidXBkYXRlZF9hdCIsICAgICAgICAgICAgICAgICAgICAgICAgIG51bGw6IGZhbHNlCiAgZW5kCgogIGFkZF9pbmRleCAib3JkZXJfaXRlbXMiLCBbIm9yZGVyX2lkIiwgIml0ZW1faWQiXSwgbmFtZTogImluZGV4X29yZGVyX2l0ZW1zX29uX29yZGVyX2lkX2FuZF9pdGVtX2lkIiwgdW5pcXVlOiB0cnVlLCB1c2luZzogOmJ0cmVlCgogIGNyZWF0ZV90YWJsZSAib3JkZXJzIiwgZm9yY2U6IDpjYXNjYWRlIGRvIHx0fAogICAgdC5pbnRlZ2VyICAidXNlcl9pZCIsICAgICAgIGxpbWl0OiA0LCAgIG51bGw6IGZhbHNlCiAgICB0LnN0cmluZyAgICJmaXJzdF9uYW1lIiwgICAgbGltaXQ6IDI1NSwgbnVsbDogZmFsc2UKICAgIHQuc3RyaW5nICAgImxhc3RfbmFtZSIsICAgICBsaW1pdDogMjU1LCBudWxsOiBmYWxzZQogICAgdC5zdHJpbmcgICAicG9zdGFsX2NvZGUiLCAgIGxpbWl0OiAyNTUsIG51bGw6IGZhbHNlCiAgICB0LnN0cmluZyAgICJhZGRyZXNzIiwgICAgICAgbGltaXQ6IDI1NSwgbnVsbDogZmFsc2UKICAgIHQuc3RyaW5nICAgInBob25lIiwgICAgICAgICBsaW1pdDogMjU1LCBudWxsOiBmYWxzZQogICAgdC5pbnRlZ2VyICAic3VidG90YWwiLCAgICAgIGxpbWl0OiA0LCAgIG51bGw6IGZhbHNlCiAgICB0LmludGVnZXIgICJzaGlwcGluZ19jb3N0IiwgbGltaXQ6IDQsICAgbnVsbDogZmFsc2UKICAgIHQuaW50ZWdlciAgInRvdGFsIiwgICAgICAgICBsaW1pdDogNCwgICBudWxsOiBmYWxzZQogICAgdC5ib29sZWFuICAic2hpcHBlZCIsICAgICAgICAgICAgICAgICAgIG51bGw6IGZhbHNlCiAgICB0LmRhdGV0aW1lICJzaGlwcGVkX2F0IgogICAgdC5kYXRldGltZSAiY3JlYXRlZF9hdCIsICAgICAgICAgICAgICAgIG51bGw6IGZhbHNlCiAgICB0LmRhdGV0aW1lICJ1cGRhdGVkX2F0IiwgICAgICAgICAgICAgICAgbnVsbDogZmFsc2UKICBlbmQKCiAgYWRkX2luZGV4ICJvcmRlcnMiLCBbInVzZXJfaWQiXSwgbmFtZTogImluZGV4X29yZGVyc19vbl91c2VyX2lkIiwgdXNpbmc6IDpidHJlZQoKICBjcmVhdGVfdGFibGUgInVzZXJzIiwgZm9yY2U6IDpjYXNjYWRlIGRvIHx0fAogICAgdC5zdHJpbmcgICAibmFtZSIsICAgICAgICAgICAgICBsaW1pdDogNjQsICAgICAgICAgICAgICAgICAgbnVsbDogZmFsc2UKICAgIHQuc3RyaW5nICAgImVtYWlsIiwgICAgICAgICAgICAgbGltaXQ6IDI1NSwgICAgICAgICAgICAgICAgIG51bGw6IGZhbHNlCiAgICB0LnN0cmluZyAgICJwYXNzd29yZF9kaWdlc3QiLCAgIGxpbWl0OiAyNTUsICAgICAgICAgICAgICAgICBudWxsOiBmYWxzZQogICAgdC5zdHJpbmcgICAicmVtZW1iZXJfZGlnZXN0IiwgICBsaW1pdDogMjU1CiAgICB0LmJvb2xlYW4gICJhZG1pbiIsICAgICAgICAgICAgICAgICAgICAgICAgIGRlZmF1bHQ6IGZhbHNlLCBudWxsOiBmYWxzZQogICAgdC5zdHJpbmcgICAiYWN0aXZhdGlvbl9kaWdlc3QiLCBsaW1pdDogMjU1CiAgICB0LmJvb2xlYW4gICJhY3RpdmF0ZWQiLCAgICAgICAgICAgICAgICAgICAgIGRlZmF1bHQ6IGZhbHNlLCBudWxsOiBmYWxzZQogICAgdC5kYXRldGltZSAiYWN0aXZhdGVkX2F0IgogICAgdC5zdHJpbmcgICAicmVzZXRfZGlnZXN0IiwgICAgICBsaW1pdDogMjU1CiAgICB0LmRhdGV0aW1lICJyZXNldF9zZW50X2F0IgogICAgdC5kYXRldGltZSAiY3JlYXRlZF9hdCIsICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbnVsbDogZmFsc2UKICAgIHQuZGF0ZXRpbWUgInVwZGF0ZWRfYXQiLCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG51bGw6IGZhbHNlCiAgZW5kCgogIGFkZF9pbmRleCAidXNlcnMiLCBbImVtYWlsIl0sIG5hbWU6ICJpbmRleF91c2Vyc19vbl9lbWFpbCIsIHVuaXF1ZTogdHJ1ZSwgdXNpbmc6IDpidHJlZQoKZW5kCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFkZF9pbmRleCA6b3JkZXJzLCA6Y3JlYXRlZF9hdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdC5pbnRlZ2VyIDp1c2VyX2lkLCBudWxsOiBmYWxzZQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdC5pbnRlZ2VyIDphZGRyZXNzX2lkLCBudWxsOiBmYWxzZQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdC5zdHJpbmcgOnJlY2l2ZXJzX25hbWUsIG51bGw6IGZhbHNlCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdC5pbnRlZ2VyIDppdGVtX2lkLCBudWxsOiBmYWxzZQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdC5zdHJpbmcK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgdC5pbnRlZ2VyIDp1c2VyX2lkLCBudWxsOiBmYWxzZQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgdC5pbnRlZ2VyIDphZGRyZXNzX2lkLCBudWxsOiBmYWxzZQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgdC5zdHJpbmcgOnJlY2l2ZXJzX25hbWUsIG51bGw6IGZhbHNlCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgdC5pbnRlZ2VyIDppdGVtX2lkLCBudWxsOiBmYWxzZQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdC5pbnRlZ2VyIDp0b3RhbF9wcmljZSwgbnVsbDogZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgdC5zdHJpbmcK</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
