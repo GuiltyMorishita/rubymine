@@ -67,11 +67,11 @@
         <mark key="^" line="2" column="47" />
         <mark key="." line="2" column="47" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/migrate/20161030132647_create_cart_items.rb" timestamp="1479344373267">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="61" />
-        <mark key="^" line="9" column="22" />
-        <mark key="." line="9" column="22" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/migrate/20161030132647_create_cart_items.rb" timestamp="1480415091238">
+        <mark key="[" line="4" column="37" />
+        <mark key="]" line="5" column="34" />
+        <mark key="^" line="5" column="34" />
+        <mark key="." line="5" column="34" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/support/shared_db_connection.rb" timestamp="1477748463334">
         <mark key="[" line="9" column="18" />
@@ -138,10 +138,8 @@
         <mark key="." line="4" column="58" />
         <mark key="^" line="4" column="58" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/schema.rb" timestamp="1479542863016">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="99" column="2" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/schema.rb" timestamp="1480415210574">
+        <mark key="]" line="11" column="2" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/models/contact_spec.rb" timestamp="1478676087568">
         <mark key="[" line="42" column="0" />
@@ -221,12 +219,6 @@
         <mark key="]" line="2" column="46" />
         <mark key="." line="2" column="46" />
         <mark key="^" line="2" column="46" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/migrate/20161030132539_create_items.rb" timestamp="1479542602315">
-        <mark key="[" line="12" column="28" />
-        <mark key="]" line="12" column="27" />
-        <mark key="^" line="12" column="27" />
-        <mark key="." line="12" column="27" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/news_releases_spec.rb" timestamp="1477754388861">
         <mark key="[" line="2" column="23" />
