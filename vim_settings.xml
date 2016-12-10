@@ -24,6 +24,12 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/users/show.html.erb" timestamp="1481376777174">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/migrate/20161105091846_create_regions.rb" timestamp="1478338361750">
         <mark key="[" line="2" column="32" />
         <mark key="]" line="4" column="33" />
@@ -41,6 +47,12 @@
         <mark key="]" line="49" column="110" />
         <mark key="." line="49" column="0" />
       </file>
+      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/partial/_navbar.html.erb" timestamp="1481376654792">
+        <mark key="[" line="36" column="20" />
+        <mark key="]" line="36" column="65" />
+        <mark key="." line="36" column="65" />
+        <mark key="^" line="36" column="65" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/views/layouts/application.html.erb" timestamp="1477754217898">
         <mark key="[" line="32" column="49" />
         <mark key="]" line="33" column="57" />
@@ -52,6 +64,11 @@
         <mark key="]" line="0" column="55" />
         <mark key="." line="0" column="55" />
         <mark key="^" line="0" column="55" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/controllers/users_controller.rb" timestamp="1481377165613">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/assets/stylesheets/application.css" timestamp="1481363933722">
         <mark key="[" line="0" column="0" />
@@ -69,11 +86,11 @@
         <mark key="^" line="7" column="48" />
         <mark key="." line="19" column="26" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/layouts/application.html.erb" timestamp="1481369163555">
-        <mark key="[" line="11" column="16" />
-        <mark key="]" line="12" column="36" />
-        <mark key="^" line="12" column="36" />
-        <mark key="." line="12" column="36" />
+      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/layouts/application.html.erb" timestamp="1481374379740">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="18" column="15" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/news_releases_controller_spec.rb" timestamp="1477756357399">
         <mark key="[" line="2" column="46" />
@@ -81,10 +98,16 @@
         <mark key="^" line="2" column="47" />
         <mark key="." line="2" column="47" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/Gemfile" timestamp="1481369051115">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/Gemfile" timestamp="1481374884401">
+        <mark key="[" line="26" column="18" />
+        <mark key="]" line="27" column="21" />
+        <mark key="." line="27" column="21" />
+        <mark key="^" line="27" column="21" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/unlocks/new.html.erb" timestamp="1481374248048">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="39" />
+        <mark key="." line="3" column="2" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/migrate/20161030132647_create_cart_items.rb" timestamp="1480415091238">
         <mark key="[" line="4" column="37" />
@@ -115,6 +138,7 @@
         <mark key="^" line="6" column="36" />
         <mark key="." line="6" column="36" />
       </file>
+      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/controllers/users/omniauth_callbacks_controller.rb" timestamp="1481375152980" />
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/db/migrate/20161129100603_create_users.rb" timestamp="1480414549338">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -130,6 +154,12 @@
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/registrations/edit.html.erb" timestamp="1481374174107">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="40" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/factories/phones.rb" timestamp="1477552379743">
         <mark key="[" line="3" column="10" />
@@ -148,9 +178,6 @@
         <mark key="]" line="4" column="58" />
         <mark key="." line="4" column="58" />
         <mark key="^" line="4" column="58" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/schema.rb" timestamp="1480415210574">
-        <mark key="]" line="11" column="2" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/models/contact_spec.rb" timestamp="1478676087568">
         <mark key="[" line="42" column="0" />
@@ -181,17 +208,18 @@
         <mark key="^" line="23" column="4" />
         <mark key="." line="23" column="4" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/pages/index.html.erb" timestamp="1481368258806">
-        <mark key="[" line="28" column="42" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="28" column="41" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/pages/index.html.erb" timestamp="1481372975673">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/config/routes.rb" timestamp="1481368677145">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="9" />
-        <mark key="." line="1" column="9" />
-        <mark key="^" line="1" column="9" />
+      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/config/routes.rb" timestamp="1481376609427">
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/Guardfile" timestamp="1478389114247">
         <mark key="[" line="28" column="0" />
@@ -207,6 +235,13 @@
       <file name="/Ruby Console" timestamp="1481367213537">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/shared/_links.html.erb" timestamp="1481371706689">
+        <mark key="'" line="9" column="24" />
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="9" column="24" />
+        <mark key="^" line="9" column="24" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/models/news_release.rb" timestamp="1477755259852">
         <mark key="[" line="0" column="38" />
         <mark key="]" line="2" column="50" />
@@ -219,20 +254,29 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/models/user.rb" timestamp="1481377324518">
+        <mark key="[" line="12" column="55" />
+        <mark key="]" line="11" column="56" />
+        <mark key="^" line="11" column="56" />
+        <mark key="." line="11" column="56" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" timestamp="1478408385597">
         <mark key="[" line="30" column="466" />
         <mark key="]" line="31" column="0" />
         <mark key="^" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/db/schema.rb" timestamp="1480414585809">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="86" column="2" />
-      </file>
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/spec/factories/location.rb" timestamp="1478370553598">
         <mark key="[" line="0" column="30" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/sessions/new.html.erb" timestamp="1481376015807">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="9" column="9" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/models/news_release_spec.rb" timestamp="1477756999187">
         <mark key="[" line="2" column="34" />
@@ -246,8 +290,21 @@
         <mark key="^" line="2" column="36" />
         <mark key="." line="2" column="36" />
       </file>
+      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/registrations/new.html.erb" timestamp="1481376857396">
+        <mark key="'" line="37" column="27" />
+        <mark key="[" line="18" column="48" />
+        <mark key="]" line="18" column="12" />
+        <mark key="^" line="18" column="12" />
+        <mark key="." line="18" column="12" />
+      </file>
       <file name="/JavaScript Console" timestamp="1481364814156">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/passwords/edit.html.erb" timestamp="1481374274344">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="2" />
+        <mark key="." line="3" column="2" />
+        <mark key="^" line="3" column="3" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/spec/factories/regions.rb" timestamp="1478395748229">
         <mark key="[" line="4" column="0" />
@@ -259,6 +316,9 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="22" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1481377354276">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/migrate/20161116025658_create_addresses.rb" timestamp="1479542195384">
         <mark key="[" line="11" column="7" />
@@ -277,17 +337,26 @@
         <mark key="^" line="86" column="46" />
         <mark key="." line="86" column="46" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/assets/javascripts/application.js" timestamp="1481364031499">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/passwords/new.html.erb" timestamp="1481374254520">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/assets/stylesheets/application.scss" timestamp="1481368328521">
-        <mark key="'" line="15" column="12" />
-        <mark key="[" line="14" column="20" />
-        <mark key="]" line="15" column="12" />
-        <mark key="^" line="15" column="12" />
-        <mark key="." line="15" column="12" />
+      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/assets/javascripts/application.js" timestamp="1481373425616">
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="14" column="17" />
+        <mark key="." line="14" column="17" />
+        <mark key="^" line="14" column="17" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1481370129584">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/assets/stylesheets/application.scss" timestamp="1481377461122">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="77" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/about_us_spec.rb" timestamp="1477753771751">
         <mark key="[" line="3" column="68" />
@@ -334,38 +403,21 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/config/initializers/devise.rb" timestamp="1481375438269">
+        <mark key="'" line="156" column="27" />
+        <mark key="[" line="273" column="35" />
+        <mark key="]" line="268" column="34" />
+        <mark key="^" line="268" column="34" />
+        <mark key="." line="268" column="34" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/partial/_deviseErrorMsg.html.erb" timestamp="1481374305288">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="5" />
+        <mark key="^" line="6" column="5" />
+        <mark key="." line="6" column="5" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="96" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="103" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="111" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="119" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="126" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="132" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="142" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="148" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="159" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="167" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="172" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="232" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="223" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="214" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="205" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="196" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="185" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="178" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="1" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="8" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="16" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="2" column="14" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/users_controller_spec.rb" />
-      <jump line="32" column="2" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/users_controller_spec.rb" />
-      <jump line="30" column="8" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/users_controller_spec.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/users_controller_spec.rb" />
-      <jump line="24" column="13" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/users_spec.rb" />
-      <jump line="25" column="16" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/users_spec.rb" />
-      <jump line="19" column="34" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/users_spec.rb" />
       <jump line="11" column="18" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/users_spec.rb" />
       <jump line="5" column="12" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/users_spec.rb" />
       <jump line="4" column="4" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/users_spec.rb" />
@@ -436,46 +488,76 @@
       <jump line="19" column="27" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/pages/index.html.erb" />
       <jump line="8" column="23" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/pages/index.html.erb" />
       <jump line="15" column="12" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/assets/stylesheets/application.scss" />
+      <jump line="25" column="24" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/pages/index.html.erb" />
+      <jump line="2" column="21" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/pages/index.html.erb" />
+      <jump line="14" column="0" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/pages/index.html.erb" />
+      <jump line="35" column="0" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/pages/index.html.erb" />
+      <jump line="36" column="0" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/registrations/new.html.erb" />
+      <jump line="40" column="0" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/registrations/new.html.erb" />
+      <jump line="48" column="0" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/registrations/new.html.erb" />
+      <jump line="53" column="0" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/registrations/new.html.erb" />
+      <jump line="58" column="0" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/registrations/new.html.erb" />
+      <jump line="156" column="27" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/config/initializers/devise.rb" />
+      <jump line="51" column="24" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/registrations/new.html.erb" />
+      <jump line="42" column="29" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/registrations/new.html.erb" />
+      <jump line="1" column="27" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/shared/_links.html.erb" />
+      <jump line="1" column="0" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/sessions/new.html.erb" />
+      <jump line="0" column="25" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/sessions/new.html.erb" />
+      <jump line="2" column="7" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/sessions/new.html.erb" />
+      <jump line="10" column="5" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/sessions/new.html.erb" />
+      <jump line="11" column="0" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/sessions/new.html.erb" />
+      <jump line="17" column="0" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/sessions/new.html.erb" />
+      <jump line="22" column="0" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/sessions/new.html.erb" />
+      <jump line="29" column="0" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/sessions/new.html.erb" />
+      <jump line="34" column="0" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/sessions/new.html.erb" />
+      <jump line="35" column="0" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/sessions/new.html.erb" />
+      <jump line="21" column="27" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/sessions/new.html.erb" />
+      <jump line="9" column="24" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/shared/_links.html.erb" />
+      <jump line="32" column="27" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/registrations/new.html.erb" />
+      <jump line="24" column="0" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/sessions/new.html.erb" />
+      <jump line="22" column="29" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/partial/_navbar.html.erb" />
+      <jump line="6" column="17" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/assets/stylesheets/application.scss" />
+      <jump line="53" column="0" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/assets/stylesheets/application.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text encoding="base64">PCU9IGxpbmtfdG8gJ+ODreOCsOOCouOCpuODiCcsIGRlc3Ryb3lfdXNlcl9zZXNzaW9uX3BhdGgsIG1ldGhvZDogOmRlbGV0ZSAlPg==</text>
       </register>
       <register name="/" type="4">
         <text>Location</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBVc2UganF1ZXJ5IGFzIHRoZSBKYXZhU2NyaXB0IGxpYnJhcnkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT48JT0gbGlua190byAn44Ot44Kw44Ki44Km44OIJywgZGVzdHJveV91c2VyX3Nlc3Npb25fcGF0aCwgbWV0aG9kOiA6ZGVsZXRlICU+PC9saT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBVc2UganF1ZXJ5IGFzIHRoZSBKYXZhU2NyaXB0IGxpYnJhcnkK</text>
+        <text encoding="base64">ICAgIEBrYW5qaSA9ICfmvKLlrZcnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8aDE+SGVsbG8sIHdvcmxkITwvaDE+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8aDE+SGVsbG8sIHdvcmxkITwvaDE+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29udGFpbmVyCg==</text>
+        <text encoding="base64">ICAgICAgPCU9IGxpbmtfdG8gIlNpZ24gaW4gd2l0aCBGYWNlYm9vayIsIHVzZXJfZmFjZWJvb2tfb21uaWF1dGhfYXV0aG9yaXplX3BhdGggJT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PG5hdiBjbGFzcz0ibmF2YmFyIG5hdmJhci1kZWZhdWx0Ij4KICA8ZGl2IGNsYXNzPSJjb250YWluZXItZmx1aWQiPgogICAgPCEtLSBCcmFuZCBhbmQgdG9nZ2xlIGdldCBncm91cGVkIGZvciBiZXR0ZXIgbW9iaWxlIGRpc3BsYXkgLS0+CiAgICA8ZGl2IGNsYXNzPSJuYXZiYXItaGVhZGVyIj4KICAgICAgPGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJuYXZiYXItdG9nZ2xlIGNvbGxhcHNlZCIgZGF0YS10b2dnbGU9ImNvbGxhcHNlIiBkYXRhLXRhcmdldD0iI2JzLWV4YW1wbGUtbmF2YmFyLWNvbGxhcHNlLTEiIGFyaWEtZXhwYW5kZWQ9ImZhbHNlIj4KICAgICAgICA8c3BhbiBjbGFzcz0ic3Itb25seSI+VG9nZ2xlIG5hdmlnYXRpb248L3NwYW4+CiAgICAgICAgPHNwYW4gY2xhc3M9Imljb24tYmFyIj48L3NwYW4+CiAgICAgICAgPHNwYW4gY2xhc3M9Imljb24tYmFyIj48L3NwYW4+CiAgICAgICAgPHNwYW4gY2xhc3M9Imljb24tYmFyIj48L3NwYW4+CiAgICAgIDwvYnV0dG9uPgogICAgICA8YSBjbGFzcz0ibmF2YmFyLWJyYW5kIiBocmVmPSIjIj5CcmFuZDwvYT4KICAgIDwvZGl2PgoKICAgIDwhLS0gQ29sbGVjdCB0aGUgbmF2IGxpbmtzLCBmb3JtcywgYW5kIG90aGVyIGNvbnRlbnQgZm9yIHRvZ2dsaW5nIC0tPgogICAgPGRpdiBjbGFzcz0iY29sbGFwc2UgbmF2YmFyLWNvbGxhcHNlIiBpZD0iYnMtZXhhbXBsZS1uYXZiYXItY29sbGFwc2UtMSI+CiAgICAgIDx1bCBjbGFzcz0ibmF2IG5hdmJhci1uYXYgbmF2YmFyLXJpZ2h0Ij4KICAgICAgICA8bGk+PGEgaHJlZj0iIyI+44K344OD44K/44O844Gr44Gq44KLPC9hPjwvbGk+CiAgICAgICAgPGxpPjxhIGhyZWY9IiMiPuWIqeeUqOOBrua1geOCjDwvYT48L2xpPgogICAgICAgIDxsaT48YSBocmVmPSIjIj7jgqLjgqvjgqbjg7Pjg4jkvZzmiJA8L2E+PC9saT4KICAgICAgICA8bGk+PGEgaHJlZj0iIyI+44Ot44Kw44Kk44OzPC9hPjwvbGk+CiAgICAgIDwvdWw+CiAgICA8L2Rpdj48IS0tIC8ubmF2YmFyLWNvbGxhcHNlIC0tPgogIDwvZGl2PjwhLS0gLy5jb250YWluZXItZmx1aWQgLS0+CjwvbmF2Pgo=</text>
+        <text encoding="base64">ICBkZXZpc2VfZm9yIDp1c2Vycwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8cD48YSBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IGJ0bi1sZyIgaHJlZj0iIyIgcm9sZT0iYnV0dG9uIj5MZWFybiBtb3JlPC9hPjwvcD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8cD4uLi48L3A+Cg==</text>
+        <text encoding="base64">ICAjIEZvciBkZXRhaWxzIG9uIHRoZSBEU0wgYXZhaWxhYmxlIHdpdGhpbiB0aGlzIGZpbGUsIHNlZSBodHRwOi8vZ3VpZGVzLnJ1YnlvbnJhaWxzLm9yZy9yb3V0aW5nLmh0bWwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZXZpc2VfZm9yIDp1c2VycywgOmNvbnRyb2xsZXJzID0+IHsgOm9tbmlhdXRoX2NhbGxiYWNrcyA9PiAidXNlcnMvb21uaWF1dGhfY2FsbGJhY2tzIiB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
