@@ -75,10 +75,11 @@
         <mark key="^" line="2" column="47" />
         <mark key="." line="2" column="47" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/Gemfile" timestamp="1481363875465">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/Gemfile" timestamp="1481368875685">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="3" />
+        <mark key="." line="4" column="3" />
+        <mark key="^" line="4" column="3" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/migrate/20161030132647_create_cart_items.rb" timestamp="1480415091238">
         <mark key="[" line="4" column="37" />
@@ -131,6 +132,12 @@
         <mark key="." line="3" column="43" />
         <mark key="^" line="3" column="43" />
       </file>
+      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/config/environments/development.rb" timestamp="1481368518126">
+        <mark key="[" line="52" column="63" />
+        <mark key="]" line="52" column="1" />
+        <mark key="^" line="52" column="1" />
+        <mark key="." line="52" column="1" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/config/routes.rb" timestamp="1478362082165">
         <mark key="[" line="4" column="59" />
         <mark key="]" line="4" column="58" />
@@ -169,12 +176,17 @@
         <mark key="^" line="23" column="4" />
         <mark key="." line="23" column="4" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/pages/index.html.erb" timestamp="1481366389085">
-        <mark key="'" line="19" column="27" />
-        <mark key="[" line="19" column="24" />
-        <mark key="]" line="19" column="24" />
-        <mark key="." line="19" column="24" />
-        <mark key="^" line="19" column="27" />
+      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/pages/index.html.erb" timestamp="1481368258806">
+        <mark key="[" line="28" column="42" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="28" column="41" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/config/routes.rb" timestamp="1481368677145">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="9" />
+        <mark key="." line="1" column="9" />
+        <mark key="^" line="1" column="9" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/Guardfile" timestamp="1478389114247">
         <mark key="[" line="28" column="0" />
@@ -187,7 +199,7 @@
         <mark key="^" line="37" column="4" />
         <mark key="." line="37" column="4" />
       </file>
-      <file name="/Ruby Console" timestamp="1481365614801">
+      <file name="/Ruby Console" timestamp="1481367213537">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/models/news_release.rb" timestamp="1477755259852">
@@ -254,10 +266,23 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/config/environments/production.rb" timestamp="1481368594685">
+        <mark key="[" line="85" column="2" />
+        <mark key="]" line="86" column="46" />
+        <mark key="^" line="86" column="46" />
+        <mark key="." line="86" column="46" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/assets/javascripts/application.js" timestamp="1481364031499">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/assets/stylesheets/application.scss" timestamp="1481368328521">
+        <mark key="'" line="15" column="12" />
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="15" column="12" />
+        <mark key="^" line="15" column="12" />
+        <mark key="." line="15" column="12" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/about_us_spec.rb" timestamp="1477753771751">
         <mark key="[" line="3" column="68" />
@@ -306,8 +331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="79" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
       <jump line="88" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
       <jump line="96" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
       <jump line="103" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
@@ -406,13 +429,15 @@
       <jump line="13" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/schema.rb" />
       <jump line="18" column="30" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/pages/index.html.erb" />
       <jump line="19" column="27" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/pages/index.html.erb" />
+      <jump line="8" column="23" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/pages/index.html.erb" />
+      <jump line="15" column="12" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/assets/stylesheets/application.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>ログイン</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text>Location</text>
@@ -421,45 +446,31 @@
         <text encoding="base64">ICAgICAgICA8bGk+PGEgaHJlZj0iIyI+TGluazwvYT48L2xpPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8bGkgY2xhc3M9ImRyb3Bkb3duIj4KICAgICAgICAgIDxhIGhyZWY9IiMiIGNsYXNzPSJkcm9wZG93bi10b2dnbGUiIGRhdGEtdG9nZ2xlPSJkcm9wZG93biIgcm9sZT0iYnV0dG9uIiBhcmlhLWhhc3BvcHVwPSJ0cnVlIiBhcmlhLWV4cGFuZGVkPSJmYWxzZSI+RHJvcGRvd24gPHNwYW4gY2xhc3M9ImNhcmV0Ij48L3NwYW4+PC9hPgogICAgICAgICAgPHVsIGNsYXNzPSJkcm9wZG93bi1tZW51Ij4KICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMiPkFjdGlvbjwvYT48L2xpPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iIyI+QW5vdGhlciBhY3Rpb248L2E+PC9saT4KICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMiPlNvbWV0aGluZyBlbHNlIGhlcmU8L2E+PC9saT4KICAgICAgICAgICAgPGxpIHJvbGU9InNlcGFyYXRvciIgY2xhc3M9ImRpdmlkZXIiPjwvbGk+CiAgICAgICAgICAgIDxsaT48YSBocmVmPSIjIj5TZXBhcmF0ZWQgbGluazwvYT48L2xpPgogICAgICAgICAgPC91bD4KICAgICAgICA8L2xpPgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPGZvcm0gY2xhc3M9Im5hdmJhci1mb3JtIG5hdmJhci1sZWZ0Ij4KICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBjbGFzcz0iZm9ybS1jb250cm9sIiBwbGFjZWhvbGRlcj0iU2VhcmNoIj4KICAgICAgICA8L2Rpdj4KICAgICAgICA8YnV0dG9uIHR5cGU9InN1Ym1pdCIgY2xhc3M9ImJ0biBidG4tZGVmYXVsdCI+U3VibWl0PC9idXR0b24+CiAgICAgIDwvZm9ybT4K</text>
+        <text encoding="base64">ICA8aDE+SGVsbG8sIHdvcmxkITwvaDE+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPHVsIGNsYXNzPSJuYXYgbmF2YmFyLW5hdiI+CiAgICAgICAgPGxpIGNsYXNzPSJhY3RpdmUiPjxhIGhyZWY9IiMiPkxpbmsgPHNwYW4gY2xhc3M9InNyLW9ubHkiPihjdXJyZW50KTwvc3Bhbj48L2E+PC9saT4KICAgICAgICA8bGk+PGEgaHJlZj0iIyI+TGluazwvYT48L2xpPgogICAgICAgIDxsaSBjbGFzcz0iZHJvcGRvd24iPgogICAgICAgICAgPGEgaHJlZj0iIyIgY2xhc3M9ImRyb3Bkb3duLXRvZ2dsZSIgZGF0YS10b2dnbGU9ImRyb3Bkb3duIiByb2xlPSJidXR0b24iIGFyaWEtaGFzcG9wdXA9InRydWUiIGFyaWEtZXhwYW5kZWQ9ImZhbHNlIj5Ecm9wZG93biA8c3BhbiBjbGFzcz0iY2FyZXQiPjwvc3Bhbj48L2E+CiAgICAgICAgICA8dWwgY2xhc3M9ImRyb3Bkb3duLW1lbnUiPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iIyI+QWN0aW9uPC9hPjwvbGk+CiAgICAgICAgICAgIDxsaT48YSBocmVmPSIjIj5Bbm90aGVyIGFjdGlvbjwvYT48L2xpPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iIyI+U29tZXRoaW5nIGVsc2UgaGVyZTwvYT48L2xpPgogICAgICAgICAgICA8bGkgcm9sZT0ic2VwYXJhdG9yIiBjbGFzcz0iZGl2aWRlciI+PC9saT4KICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMiPlNlcGFyYXRlZCBsaW5rPC9hPjwvbGk+CiAgICAgICAgICAgIDxsaSByb2xlPSJzZXBhcmF0b3IiIGNsYXNzPSJkaXZpZGVyIj48L2xpPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iIyI+T25lIG1vcmUgc2VwYXJhdGVkIGxpbms8L2E+PC9saT4KICAgICAgICAgIDwvdWw+CiAgICAgICAgPC9saT4KICAgICAgPC91bD4K</text>
+        <text encoding="base64">ICA8aDE+SGVsbG8sIHdvcmxkITwvaDE+Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">PGgxPlBhZ2VzI2luZGV4PC9oMT4KPHA+RmluZCBtZSBpbiBhcHAvdmlld3MvcGFnZXMvaW5kZXguaHRtbC5lcmI8L3A+</text>
+      <register name="4" type="2">
+        <text encoding="base64">Y29udGFpbmVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly89IHJlcXVpcmUganF1ZXJ5Cg==</text>
+        <text encoding="base64">PG5hdiBjbGFzcz0ibmF2YmFyIG5hdmJhci1kZWZhdWx0Ij4KICA8ZGl2IGNsYXNzPSJjb250YWluZXItZmx1aWQiPgogICAgPCEtLSBCcmFuZCBhbmQgdG9nZ2xlIGdldCBncm91cGVkIGZvciBiZXR0ZXIgbW9iaWxlIGRpc3BsYXkgLS0+CiAgICA8ZGl2IGNsYXNzPSJuYXZiYXItaGVhZGVyIj4KICAgICAgPGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJuYXZiYXItdG9nZ2xlIGNvbGxhcHNlZCIgZGF0YS10b2dnbGU9ImNvbGxhcHNlIiBkYXRhLXRhcmdldD0iI2JzLWV4YW1wbGUtbmF2YmFyLWNvbGxhcHNlLTEiIGFyaWEtZXhwYW5kZWQ9ImZhbHNlIj4KICAgICAgICA8c3BhbiBjbGFzcz0ic3Itb25seSI+VG9nZ2xlIG5hdmlnYXRpb248L3NwYW4+CiAgICAgICAgPHNwYW4gY2xhc3M9Imljb24tYmFyIj48L3NwYW4+CiAgICAgICAgPHNwYW4gY2xhc3M9Imljb24tYmFyIj48L3NwYW4+CiAgICAgICAgPHNwYW4gY2xhc3M9Imljb24tYmFyIj48L3NwYW4+CiAgICAgIDwvYnV0dG9uPgogICAgICA8YSBjbGFzcz0ibmF2YmFyLWJyYW5kIiBocmVmPSIjIj5CcmFuZDwvYT4KICAgIDwvZGl2PgoKICAgIDwhLS0gQ29sbGVjdCB0aGUgbmF2IGxpbmtzLCBmb3JtcywgYW5kIG90aGVyIGNvbnRlbnQgZm9yIHRvZ2dsaW5nIC0tPgogICAgPGRpdiBjbGFzcz0iY29sbGFwc2UgbmF2YmFyLWNvbGxhcHNlIiBpZD0iYnMtZXhhbXBsZS1uYXZiYXItY29sbGFwc2UtMSI+CiAgICAgIDx1bCBjbGFzcz0ibmF2IG5hdmJhci1uYXYgbmF2YmFyLXJpZ2h0Ij4KICAgICAgICA8bGk+PGEgaHJlZj0iIyI+44K344OD44K/44O844Gr44Gq44KLPC9hPjwvbGk+CiAgICAgICAgPGxpPjxhIGhyZWY9IiMiPuWIqeeUqOOBrua1geOCjDwvYT48L2xpPgogICAgICAgIDxsaT48YSBocmVmPSIjIj7jgqLjgqvjgqbjg7Pjg4jkvZzmiJA8L2E+PC9saT4KICAgICAgICA8bGk+PGEgaHJlZj0iIyI+44Ot44Kw44Kk44OzPC9hPjwvbGk+CiAgICAgIDwvdWw+CiAgICA8L2Rpdj48IS0tIC8ubmF2YmFyLWNvbGxhcHNlIC0tPgogIDwvZGl2PjwhLS0gLy5jb250YWluZXItZmx1aWQgLS0+CjwvbmF2Pgo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CgoKCi8qCiAqIFRoaXMgaXMgYSBtYW5pZmVzdCBmaWxlIHRoYXQnbGwgYmUgY29tcGlsZWQgaW50byBhcHBsaWNhdGlvbi5jc3MsIHdoaWNoIHdpbGwgaW5jbHVkZSBhbGwgdGhlIGZpbGVzCiAqIGxpc3RlZCBiZWxvdy4KICoKICogQW55IENTUyBhbmQgU0NTUyBmaWxlIHdpdGhpbiB0aGlzIGRpcmVjdG9yeSwgbGliL2Fzc2V0cy9zdHlsZXNoZWV0cywgdmVuZG9yL2Fzc2V0cy9zdHlsZXNoZWV0cywKICogb3IgYW55IHBsdWdpbidzIHZlbmRvci9hc3NldHMvc3R5bGVzaGVldHMgZGlyZWN0b3J5IGNhbiBiZSByZWZlcmVuY2VkIGhlcmUgdXNpbmcgYSByZWxhdGl2ZSBwYXRoLgogKgogKiBZb3UncmUgZnJlZSB0byBhZGQgYXBwbGljYXRpb24td2lkZSBzdHlsZXMgdG8gdGhpcyBmaWxlIGFuZCB0aGV5J2xsIGFwcGVhciBhdCB0aGUgYm90dG9tIG9mIHRoZQogKiBjb21waWxlZCBmaWxlIHNvIHRoZSBzdHlsZXMgeW91IGFkZCBoZXJlIHRha2UgcHJlY2VkZW5jZSBvdmVyIHN0eWxlcyBkZWZpbmVkIGluIGFueSBvdGhlciBDU1MvU0NTUwogKiBmaWxlcyBpbiB0aGlzIGRpcmVjdG9yeS4gU3R5bGVzIGluIHRoaXMgZmlsZSBzaG91bGQgYmUgYWRkZWQgYWZ0ZXIgdGhlIGxhc3QgcmVxdWlyZV8qIHN0YXRlbWVudC4KICogSXQgaXMgZ2VuZXJhbGx5IGJldHRlciB0byBjcmVhdGUgYSBuZXcgZmlsZSBwZXIgc3R5bGUgc2NvcGUuCiAqCiAqPSByZXF1aXJlX3RyZWUgLgogKj0gcmVxdWlyZV9zZWxmCiAqLw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICA8cD48YSBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IGJ0bi1sZyIgaHJlZj0iIyIgcm9sZT0iYnV0dG9uIj5MZWFybiBtb3JlPC9hPjwvcD4K</text>
       </register>
-      <register name="7" type="4">
-        <text>/*
- * This is a manifest file that'll be compiled into application.css, which will include all the files
- * listed below.
- *
- * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
- * or any plugin's vendor/assets/stylesheets directory can be referenced here using a relative path.
- *
- * You're free to add application-wide styles to this file and they'll appear at the bottom of the
- * compiled file so the styles you add here take precedence over styles defined in any other CSS/SCSS
- * files in this directory. Styles in this file should be added after the last require_* statement.
- * It is generally better to create a new file per style scope.
- *
- *= require_tree .
- *= require_self
- */</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICA8cD4uLi48L3A+Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IyBVc2UgU0NTUyBmb3Igc3R5bGVzaGVldHMKZ2VtICdzYXNzLXJhaWxzJywgJ34+IDUuMCc=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICA8bGkgY2xhc3M9ImRyb3Bkb3duIj4KICAgICAgICAgIDxhIGhyZWY9IiMiIGNsYXNzPSJkcm9wZG93bi10b2dnbGUiIGRhdGEtdG9nZ2xlPSJkcm9wZG93biIgcm9sZT0iYnV0dG9uIiBhcmlhLWhhc3BvcHVwPSJ0cnVlIiBhcmlhLWV4cGFuZGVkPSJmYWxzZSI+RHJvcGRvd24gPHNwYW4gY2xhc3M9ImNhcmV0Ij48L3NwYW4+PC9hPgogICAgICAgICAgPHVsIGNsYXNzPSJkcm9wZG93bi1tZW51Ij4KICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMiPkFjdGlvbjwvYT48L2xpPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iIyI+QW5vdGhlciBhY3Rpb248L2E+PC9saT4KICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMiPlNvbWV0aGluZyBlbHNlIGhlcmU8L2E+PC9saT4KICAgICAgICAgICAgPGxpIHJvbGU9InNlcGFyYXRvciIgY2xhc3M9ImRpdmlkZXIiPjwvbGk+CiAgICAgICAgICAgIDxsaT48YSBocmVmPSIjIj5TZXBhcmF0ZWQgbGluazwvYT48L2xpPgogICAgICAgICAgPC91bD4KICAgICAgICA8L2xpPgo=</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
