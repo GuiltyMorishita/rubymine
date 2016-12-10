@@ -169,11 +169,12 @@
         <mark key="^" line="23" column="4" />
         <mark key="." line="23" column="4" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/pages/index.html.erb" timestamp="1481365176230">
-        <mark key="[" line="10" column="40" />
-        <mark key="]" line="10" column="40" />
-        <mark key="." line="10" column="40" />
-        <mark key="^" line="6" column="37" />
+      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/pages/index.html.erb" timestamp="1481365991299">
+        <mark key="'" line="19" column="27" />
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="19" column="24" />
+        <mark key="." line="19" column="24" />
+        <mark key="^" line="19" column="27" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/Guardfile" timestamp="1478389114247">
         <mark key="[" line="28" column="0" />
@@ -186,7 +187,7 @@
         <mark key="^" line="37" column="4" />
         <mark key="." line="37" column="4" />
       </file>
-      <file name="/Ruby Console" timestamp="1481364939629">
+      <file name="/Ruby Console" timestamp="1481365614801">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/models/news_release.rb" timestamp="1477755259852">
@@ -305,8 +306,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
-      <jump line="65" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
       <jump line="72" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
       <jump line="79" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
       <jump line="88" column="0" filename="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/contacts_controller_spec.rb" />
@@ -405,107 +404,41 @@
       <jump line="3" column="42" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/migrate/20161030132014_create_users.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/migrate/20161030132014_create_users.rb" />
       <jump line="13" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/schema.rb" />
+      <jump line="18" column="30" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/pages/index.html.erb" />
+      <jump line="19" column="27" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/pages/index.html.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>rand</text>
+        <text>ログイン</text>
       </register>
       <register name="/" type="4">
         <text>Location</text>
       </register>
-      <register name="0" type="4">
-        <text>ActiveRecord::Schema.define(version: 20161129100711) do
-
-  create_table &quot;addresses&quot;, force: :cascade, options: &quot;ENGINE=InnoDB DEFAULT CHARSET=utf8&quot; do |t|
-    t.integer  &quot;user_id&quot;,     null: false
-    t.string   &quot;first_name&quot;,  null: false
-    t.string   &quot;last_name&quot;,   null: false
-    t.string   &quot;postal_code&quot;, null: false
-    t.string   &quot;address&quot;,     null: false
-    t.string   &quot;phone&quot;,       null: false
-    t.datetime &quot;created_at&quot;,  null: false
-    t.datetime &quot;updated_at&quot;,  null: false
-  end
-
-  create_table &quot;cart_items&quot;, force: :cascade, options: &quot;ENGINE=InnoDB DEFAULT CHARSET=utf8&quot; do |t|
-    t.integer  &quot;user_id&quot;,                null: false
-    t.integer  &quot;item_id&quot;,                null: false
-    t.integer  &quot;price&quot;,                  null: false
-    t.integer  &quot;quantity&quot;,   default: 1, null: false
-    t.datetime &quot;created_at&quot;,             null: false
-    t.datetime &quot;updated_at&quot;,             null: false
-    t.index [&quot;user_id&quot;, &quot;item_id&quot;], name: &quot;index_cart_items_on_user_id_and_item_id&quot;, unique: true, using: :btree
-  end
-
-  create_table &quot;items&quot;, force: :cascade, options: &quot;ENGINE=InnoDB DEFAULT CHARSET=utf8&quot; do |t|
-    t.string   &quot;name&quot;,        limit: 50,    null: false
-    t.integer  &quot;price&quot;,                     null: false
-    t.integer  &quot;stock&quot;,                     null: false
-    t.text     &quot;description&quot;, limit: 65535, null: false
-    t.string   &quot;image_url&quot;,                 null: false
-    t.datetime &quot;created_at&quot;,                null: false
-    t.datetime &quot;updated_at&quot;,                null: false
-    t.index [&quot;name&quot;], name: &quot;index_items_on_name&quot;, using: :btree
-    t.index [&quot;price&quot;], name: &quot;index_items_on_price&quot;, using: :btree
-  end
-
-  create_table &quot;order_items&quot;, force: :cascade, options: &quot;ENGINE=InnoDB DEFAULT CHARSET=utf8&quot; do |t|
-    t.integer  &quot;order_id&quot;,               null: false
-    t.integer  &quot;item_id&quot;,                null: false
-    t.string   &quot;name&quot;,                   null: false
-    t.integer  &quot;price&quot;,                  null: false
-    t.integer  &quot;quantity&quot;,   default: 1, null: false
-    t.datetime &quot;created_at&quot;,             null: false
-    t.datetime &quot;updated_at&quot;,             null: false
-    t.index [&quot;order_id&quot;, &quot;item_id&quot;], name: &quot;index_order_items_on_order_id_and_item_id&quot;, unique: true, using: :btree
-  end
-
-  create_table &quot;orders&quot;, force: :cascade, options: &quot;ENGINE=InnoDB DEFAULT CHARSET=utf8&quot; do |t|
-    t.integer  &quot;user_id&quot;,     null: false
-    t.string   &quot;first_name&quot;,  null: false
-    t.string   &quot;last_name&quot;,   null: false
-    t.string   &quot;postal_code&quot;, null: false
-    t.string   &quot;address&quot;,     null: false
-    t.string   &quot;phone&quot;,       null: false
-    t.datetime &quot;created_at&quot;,  null: false
-    t.datetime &quot;updated_at&quot;,  null: false
-    t.index [&quot;user_id&quot;], name: &quot;index_orders_on_user_id&quot;, using: :btree
-  end
-
-  create_table &quot;users&quot;, force: :cascade, options: &quot;ENGINE=InnoDB DEFAULT CHARSET=utf8&quot; do |t|
-    t.string   &quot;name&quot;,              limit: 64,                 null: false
-    t.string   &quot;email&quot;,                                        null: false
-    t.string   &quot;password_digest&quot;,                              null: false
-    t.string   &quot;remember_digest&quot;
-    t.boolean  &quot;admin&quot;,                        default: false, null: false
-    t.string   &quot;activation_digest&quot;
-    t.boolean  &quot;activated&quot;,                    default: false, null: false
-    t.datetime &quot;activated_at&quot;
-    t.string   &quot;reset_digest&quot;
-    t.datetime &quot;reset_sent_at&quot;
-    t.datetime &quot;created_at&quot;,                                   null: false
-    t.datetime &quot;updated_at&quot;,                                   null: false
-    t.index [&quot;email&quot;], name: &quot;index_users_on_email&quot;, unique: true, using: :btree
-  end
-
-end</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8bGk+PGEgaHJlZj0iIyI+TGluazwvYT48L2xpPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPHVsIGNsYXNzPSJuYXYgbmF2YmFyLW5hdiI+CiAgICAgICAgPGxpIGNsYXNzPSJhY3RpdmUiPjxhIGhyZWY9IiMiPkxpbmsgPHNwYW4gY2xhc3M9InNyLW9ubHkiPihjdXJyZW50KTwvc3Bhbj48L2E+PC9saT4KICAgICAgICA8bGk+PGEgaHJlZj0iIyI+TGluazwvYT48L2xpPgogICAgICAgIDxsaSBjbGFzcz0iZHJvcGRvd24iPgogICAgICAgICAgPGEgaHJlZj0iIyIgY2xhc3M9ImRyb3Bkb3duLXRvZ2dsZSIgZGF0YS10b2dnbGU9ImRyb3Bkb3duIiByb2xlPSJidXR0b24iIGFyaWEtaGFzcG9wdXA9InRydWUiIGFyaWEtZXhwYW5kZWQ9ImZhbHNlIj5Ecm9wZG93biA8c3BhbiBjbGFzcz0iY2FyZXQiPjwvc3Bhbj48L2E+CiAgICAgICAgICA8dWwgY2xhc3M9ImRyb3Bkb3duLW1lbnUiPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iIyI+QWN0aW9uPC9hPjwvbGk+CiAgICAgICAgICAgIDxsaT48YSBocmVmPSIjIj5Bbm90aGVyIGFjdGlvbjwvYT48L2xpPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iIyI+U29tZXRoaW5nIGVsc2UgaGVyZTwvYT48L2xpPgogICAgICAgICAgICA8bGkgcm9sZT0ic2VwYXJhdG9yIiBjbGFzcz0iZGl2aWRlciI+PC9saT4KICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMiPlNlcGFyYXRlZCBsaW5rPC9hPjwvbGk+CiAgICAgICAgICAgIDxsaSByb2xlPSJzZXBhcmF0b3IiIGNsYXNzPSJkaXZpZGVyIj48L2xpPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iIyI+T25lIG1vcmUgc2VwYXJhdGVkIGxpbms8L2E+PC9saT4KICAgICAgICAgIDwvdWw+CiAgICAgICAgPC9saT4KICAgICAgPC91bD4K</text>
+        <text encoding="base64">ICAgICAgICA8bGkgY2xhc3M9ImRyb3Bkb3duIj4KICAgICAgICAgIDxhIGhyZWY9IiMiIGNsYXNzPSJkcm9wZG93bi10b2dnbGUiIGRhdGEtdG9nZ2xlPSJkcm9wZG93biIgcm9sZT0iYnV0dG9uIiBhcmlhLWhhc3BvcHVwPSJ0cnVlIiBhcmlhLWV4cGFuZGVkPSJmYWxzZSI+RHJvcGRvd24gPHNwYW4gY2xhc3M9ImNhcmV0Ij48L3NwYW4+PC9hPgogICAgICAgICAgPHVsIGNsYXNzPSJkcm9wZG93bi1tZW51Ij4KICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMiPkFjdGlvbjwvYT48L2xpPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iIyI+QW5vdGhlciBhY3Rpb248L2E+PC9saT4KICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMiPlNvbWV0aGluZyBlbHNlIGhlcmU8L2E+PC9saT4KICAgICAgICAgICAgPGxpIHJvbGU9InNlcGFyYXRvciIgY2xhc3M9ImRpdmlkZXIiPjwvbGk+CiAgICAgICAgICAgIDxsaT48YSBocmVmPSIjIj5TZXBhcmF0ZWQgbGluazwvYT48L2xpPgogICAgICAgICAgPC91bD4KICAgICAgICA8L2xpPgo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PGgxPlBhZ2VzI2luZGV4PC9oMT4KPHA+RmluZCBtZSBpbiBhcHAvdmlld3MvcGFnZXMvaW5kZXguaHRtbC5lcmI8L3A+</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgPGZvcm0gY2xhc3M9Im5hdmJhci1mb3JtIG5hdmJhci1sZWZ0Ij4KICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBjbGFzcz0iZm9ybS1jb250cm9sIiBwbGFjZWhvbGRlcj0iU2VhcmNoIj4KICAgICAgICA8L2Rpdj4KICAgICAgICA8YnV0dG9uIHR5cGU9InN1Ym1pdCIgY2xhc3M9ImJ0biBidG4tZGVmYXVsdCI+U3VibWl0PC9idXR0b24+CiAgICAgIDwvZm9ybT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly89IHJlcXVpcmUganF1ZXJ5Cg==</text>
+        <text encoding="base64">ICAgICAgPHVsIGNsYXNzPSJuYXYgbmF2YmFyLW5hdiI+CiAgICAgICAgPGxpIGNsYXNzPSJhY3RpdmUiPjxhIGhyZWY9IiMiPkxpbmsgPHNwYW4gY2xhc3M9InNyLW9ubHkiPihjdXJyZW50KTwvc3Bhbj48L2E+PC9saT4KICAgICAgICA8bGk+PGEgaHJlZj0iIyI+TGluazwvYT48L2xpPgogICAgICAgIDxsaSBjbGFzcz0iZHJvcGRvd24iPgogICAgICAgICAgPGEgaHJlZj0iIyIgY2xhc3M9ImRyb3Bkb3duLXRvZ2dsZSIgZGF0YS10b2dnbGU9ImRyb3Bkb3duIiByb2xlPSJidXR0b24iIGFyaWEtaGFzcG9wdXA9InRydWUiIGFyaWEtZXhwYW5kZWQ9ImZhbHNlIj5Ecm9wZG93biA8c3BhbiBjbGFzcz0iY2FyZXQiPjwvc3Bhbj48L2E+CiAgICAgICAgICA8dWwgY2xhc3M9ImRyb3Bkb3duLW1lbnUiPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iIyI+QWN0aW9uPC9hPjwvbGk+CiAgICAgICAgICAgIDxsaT48YSBocmVmPSIjIj5Bbm90aGVyIGFjdGlvbjwvYT48L2xpPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iIyI+U29tZXRoaW5nIGVsc2UgaGVyZTwvYT48L2xpPgogICAgICAgICAgICA8bGkgcm9sZT0ic2VwYXJhdG9yIiBjbGFzcz0iZGl2aWRlciI+PC9saT4KICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMiPlNlcGFyYXRlZCBsaW5rPC9hPjwvbGk+CiAgICAgICAgICAgIDxsaSByb2xlPSJzZXBhcmF0b3IiIGNsYXNzPSJkaXZpZGVyIj48L2xpPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iIyI+T25lIG1vcmUgc2VwYXJhdGVkIGxpbms8L2E+PC9saT4KICAgICAgICAgIDwvdWw+CiAgICAgICAgPC9saT4KICAgICAgPC91bD4K</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">PGgxPlBhZ2VzI2luZGV4PC9oMT4KPHA+RmluZCBtZSBpbiBhcHAvdmlld3MvcGFnZXMvaW5kZXguaHRtbC5lcmI8L3A+</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly89IHJlcXVpcmUganF1ZXJ5Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">CgoKCi8qCiAqIFRoaXMgaXMgYSBtYW5pZmVzdCBmaWxlIHRoYXQnbGwgYmUgY29tcGlsZWQgaW50byBhcHBsaWNhdGlvbi5jc3MsIHdoaWNoIHdpbGwgaW5jbHVkZSBhbGwgdGhlIGZpbGVzCiAqIGxpc3RlZCBiZWxvdy4KICoKICogQW55IENTUyBhbmQgU0NTUyBmaWxlIHdpdGhpbiB0aGlzIGRpcmVjdG9yeSwgbGliL2Fzc2V0cy9zdHlsZXNoZWV0cywgdmVuZG9yL2Fzc2V0cy9zdHlsZXNoZWV0cywKICogb3IgYW55IHBsdWdpbidzIHZlbmRvci9hc3NldHMvc3R5bGVzaGVldHMgZGlyZWN0b3J5IGNhbiBiZSByZWZlcmVuY2VkIGhlcmUgdXNpbmcgYSByZWxhdGl2ZSBwYXRoLgogKgogKiBZb3UncmUgZnJlZSB0byBhZGQgYXBwbGljYXRpb24td2lkZSBzdHlsZXMgdG8gdGhpcyBmaWxlIGFuZCB0aGV5J2xsIGFwcGVhciBhdCB0aGUgYm90dG9tIG9mIHRoZQogKiBjb21waWxlZCBmaWxlIHNvIHRoZSBzdHlsZXMgeW91IGFkZCBoZXJlIHRha2UgcHJlY2VkZW5jZSBvdmVyIHN0eWxlcyBkZWZpbmVkIGluIGFueSBvdGhlciBDU1MvU0NTUwogKiBmaWxlcyBpbiB0aGlzIGRpcmVjdG9yeS4gU3R5bGVzIGluIHRoaXMgZmlsZSBzaG91bGQgYmUgYWRkZWQgYWZ0ZXIgdGhlIGxhc3QgcmVxdWlyZV8qIHN0YXRlbWVudC4KICogSXQgaXMgZ2VuZXJhbGx5IGJldHRlciB0byBjcmVhdGUgYSBuZXcgZmlsZSBwZXIgc3R5bGUgc2NvcGUuCiAqCiAqPSByZXF1aXJlX3RyZWUgLgogKj0gcmVxdWlyZV9zZWxmCiAqLw==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>/*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
@@ -522,17 +455,11 @@ end</text>
  *= require_self
  */</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IyBVc2UgU0NTUyBmb3Igc3R5bGVzaGVldHMKZ2VtICdzYXNzLXJhaWxzJywgJ34+IDUuMCc=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Z2VtICdib290c3RyYXAtc2FzcycsICd+PjMuMy42Jwo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">IyBVc2UgU0NTUyBmb3Igc3R5bGVzaGVldHMKZ2VtICdzYXNzLXJhaWxzJywgJ34+IDUuMCc=</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
