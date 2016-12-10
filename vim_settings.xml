@@ -9,6 +9,9 @@
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="13" />
       </file>
+      <file name="/a.dummy" timestamp="1481363689899">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/README.md" timestamp="1478267416697">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="1" column="15" />
@@ -50,6 +53,11 @@
         <mark key="." line="0" column="55" />
         <mark key="^" line="0" column="55" />
       </file>
+      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/assets/stylesheets/application.css" timestamp="1481363933722">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/views/news_releases/_form.html.erb" timestamp="1477754720213">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -66,6 +74,11 @@
         <mark key="]" line="2" column="47" />
         <mark key="^" line="2" column="47" />
         <mark key="." line="2" column="47" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/Gemfile" timestamp="1481363875465">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/migrate/20161030132647_create_cart_items.rb" timestamp="1480415091238">
         <mark key="[" line="4" column="37" />
@@ -84,19 +97,13 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/spec/requests/regions_spec.rb" timestamp="1478400047886">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="23" column="2" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/application_controller.rb" timestamp="1478331379158">
         <mark key="[" line="0" column="50" />
         <mark key="]" line="0" column="51" />
         <mark key="^" line="0" column="51" />
         <mark key="." line="0" column="51" />
       </file>
+      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/controllers/pages_controller.rb" timestamp="1481363621895" />
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/models/contact.rb" timestamp="1477553387980">
         <mark key="[" line="7" column="35" />
         <mark key="]" line="6" column="36" />
@@ -113,13 +120,6 @@
         <mark key="]" line="2" column="21" />
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/api/regions_controller.rb" timestamp="1478398274762">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="17" />
-        <mark key="^" line="10" column="2" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/config/application.rb" timestamp="1478330579191">
         <mark key="[" line="28" column="0" />
@@ -170,6 +170,11 @@
         <mark key="^" line="23" column="4" />
         <mark key="." line="23" column="4" />
       </file>
+      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/pages/index.html.erb" timestamp="1481364153757">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="52" column="6" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/Guardfile" timestamp="1478389114247">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -180,12 +185,6 @@
         <mark key="]" line="37" column="4" />
         <mark key="^" line="37" column="4" />
         <mark key="." line="37" column="4" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/migrate/20161030132014_create_users.rb" timestamp="1479265920938">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="43" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/models/news_release.rb" timestamp="1477755259852">
         <mark key="[" line="0" column="38" />
@@ -237,13 +236,6 @@
         <mark key="]" line="2" column="22" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/.env" timestamp="1478405324522">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="62" />
-        <mark key="." line="1" column="63" />
-        <mark key="^" line="1" column="63" />
-      </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/migrate/20161116025658_create_addresses.rb" timestamp="1479542195384">
         <mark key="[" line="11" column="7" />
         <mark key="]" line="8" column="33" />
@@ -254,6 +246,11 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/assets/javascripts/application.js" timestamp="1481364031499">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/about_us_spec.rb" timestamp="1477753771751">
         <mark key="[" line="3" column="68" />
@@ -408,7 +405,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>Location</text>
@@ -490,32 +487,46 @@
 
 end</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">PGgxPlBhZ2VzI2luZGV4PC9oMT4KPHA+RmluZCBtZSBpbiBhcHAvdmlld3MvcGFnZXMvaW5kZXguaHRtbC5lcmI8L3A+</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly89IHJlcXVpcmUganF1ZXJ5Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CgoKCi8qCiAqIFRoaXMgaXMgYSBtYW5pZmVzdCBmaWxlIHRoYXQnbGwgYmUgY29tcGlsZWQgaW50byBhcHBsaWNhdGlvbi5jc3MsIHdoaWNoIHdpbGwgaW5jbHVkZSBhbGwgdGhlIGZpbGVzCiAqIGxpc3RlZCBiZWxvdy4KICoKICogQW55IENTUyBhbmQgU0NTUyBmaWxlIHdpdGhpbiB0aGlzIGRpcmVjdG9yeSwgbGliL2Fzc2V0cy9zdHlsZXNoZWV0cywgdmVuZG9yL2Fzc2V0cy9zdHlsZXNoZWV0cywKICogb3IgYW55IHBsdWdpbidzIHZlbmRvci9hc3NldHMvc3R5bGVzaGVldHMgZGlyZWN0b3J5IGNhbiBiZSByZWZlcmVuY2VkIGhlcmUgdXNpbmcgYSByZWxhdGl2ZSBwYXRoLgogKgogKiBZb3UncmUgZnJlZSB0byBhZGQgYXBwbGljYXRpb24td2lkZSBzdHlsZXMgdG8gdGhpcyBmaWxlIGFuZCB0aGV5J2xsIGFwcGVhciBhdCB0aGUgYm90dG9tIG9mIHRoZQogKiBjb21waWxlZCBmaWxlIHNvIHRoZSBzdHlsZXMgeW91IGFkZCBoZXJlIHRha2UgcHJlY2VkZW5jZSBvdmVyIHN0eWxlcyBkZWZpbmVkIGluIGFueSBvdGhlciBDU1MvU0NTUwogKiBmaWxlcyBpbiB0aGlzIGRpcmVjdG9yeS4gU3R5bGVzIGluIHRoaXMgZmlsZSBzaG91bGQgYmUgYWRkZWQgYWZ0ZXIgdGhlIGxhc3QgcmVxdWlyZV8qIHN0YXRlbWVudC4KICogSXQgaXMgZ2VuZXJhbGx5IGJldHRlciB0byBjcmVhdGUgYSBuZXcgZmlsZSBwZXIgc3R5bGUgc2NvcGUuCiAqCiAqPSByZXF1aXJlX3RyZWUgLgogKj0gcmVxdWlyZV9zZWxmCiAqLw==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgICAgIHQudGltZXN0YW1wcwogICAgZW5k</text>
+        <text>/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or any plugin's vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any other CSS/SCSS
+ * files in this directory. Styles in this file should be added after the last require_* statement.
+ * It is generally better to create a new file per style scope.
+ *
+ *= require_tree .
+ *= require_self
+ */</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdC5kYXRldGltZSA6c2hpcHBlZF9hdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdC5ib29sZWFuIDpzaGlwcGVkLCBkYWZhdWx0OiBmYWxzZSwgbnVsbDogZmFsc2UK</text>
+      <register name="6" type="4">
+        <text encoding="base64">IyBVc2UgU0NTUyBmb3Igc3R5bGVzaGVldHMKZ2VtICdzYXNzLXJhaWxzJywgJ34+IDUuMCc=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdC5pbnRlZ2VyIDp0b3RhbCwgbnVsbDogZmFsc2UK</text>
+        <text encoding="base64">Z2VtICdib290c3RyYXAtc2FzcycsICd+PjMuMy42Jwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdC5pbnRlZ2VyIDpzaGlwcGluZ19jb3N0LCBudWxsOiBmYWxzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdC5pbnRlZ2VyIDpzdWJ0b3RhbCwgbnVsbDogZmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
