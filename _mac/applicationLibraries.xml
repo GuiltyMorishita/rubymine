@@ -1618,6 +1618,18 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/ffi-1.9.3/libtest" />
       </SOURCES>
     </library>
+    <library name="figaro (v1.1.1, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/figaro-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/figaro-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/figaro-1.1.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/figaro-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/figaro-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/figaro-1.1.1/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="fission (v0.5.0, rbenv: 2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fission-0.5.0/bin" />
