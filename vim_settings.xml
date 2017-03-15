@@ -21,7 +21,7 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1481363689899">
+      <file name="/a.dummy" timestamp="1489552275425">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/registrations/edit.html.erb" timestamp="1481374174107">
@@ -51,6 +51,12 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="22" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/test/controllers/users_controller_test.rb" timestamp="1489552204866">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="4" column="10" />
+        <mark key="." line="4" column="10" />
+        <mark key="^" line="4" column="10" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/models/cart_item.rb" timestamp="1482087244017">
         <mark key="[" line="10" column="7" />
@@ -171,6 +177,11 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
+      <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/test/mailers/previews/user_mailer_preview.rb" timestamp="1489552333144">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/factories/phones.rb" timestamp="1477552379743">
         <mark key="[" line="3" column="10" />
         <mark key="]" line="3" column="43" />
@@ -247,6 +258,11 @@
         <mark key="]" line="0" column="55" />
         <mark key="." line="0" column="55" />
         <mark key="^" line="0" column="55" />
+      </file>
+      <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/test/controllers/sessions_controller_test.rb" timestamp="1489552170406">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/layouts/application.html.erb" timestamp="1481717184268">
         <mark key="[" line="7" column="0" />
@@ -584,6 +600,11 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
       </file>
+      <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/test/controllers/static_pages_controller_test.rb" timestamp="1489552181045">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/Gemfile" timestamp="1478404611590">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="52" />
@@ -596,10 +617,10 @@
         <mark key="." line="8" column="33" />
         <mark key="^" line="8" column="33" />
       </file>
-      <file name="/dummy.sql" timestamp="1482084415912">
+      <file name="/dummy.sql" timestamp="1489545798654">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489478762241">
+      <file name="/Dummy.txt" timestamp="1489545789927">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/factories/news_releases.rb" timestamp="1477755887646">
@@ -638,10 +659,10 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/enabled.yml" timestamp="1489539915902">
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/test/mailers/user_mailer_test.rb" timestamp="1489552348343">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/helpers/cart_items_helper.rb" timestamp="1482087050039">
         <mark key="[" line="8" column="0" />
@@ -672,12 +693,12 @@
         <mark key="." line="4" column="21" />
         <mark key="^" line="4" column="21" />
       </file>
-      <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" timestamp="1489544139247">
-        <mark key="'" line="22" column="13" />
-        <mark key="[" line="46" column="48" />
-        <mark key="]" line="46" column="48" />
-        <mark key="." line="46" column="48" />
-        <mark key="^" line="46" column="25" />
+      <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" timestamp="1489554014378">
+        <mark key="'" line="1" column="6" />
+        <mark key="[" line="52" column="32" />
+        <mark key="]" line="52" column="27" />
+        <mark key="." line="52" column="27" />
+        <mark key="^" line="52" column="27" />
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/app/controllers/items_controller.rb" timestamp="1489477063089">
         <mark key="[" line="19" column="14" />
@@ -693,7 +714,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/api/routes_controller.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/api/routes_controller.rb" />
       <jump line="50" column="2" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/api/locations_controller.rb" />
       <jump line="52" column="2" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/api/locations_controller.rb" />
@@ -793,13 +813,14 @@
       <jump line="16" column="11" filename="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" />
       <jump line="35" column="11" filename="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" />
       <jump line="22" column="13" filename="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" />
+      <jump line="47" column="6" filename="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICMgVE9ETyDjgZ3jga7jg6bjg7zjgrbjg7zjgYzlrZjlnKjjgZfjgarjgYTloLTlkIjjga/vvJ8gbmlsIG9yIOS+i+WkliDjganjgaPjgaHvvJ8=</text>
+        <text encoding="base64">ICMgVE9ETyDjg4jjg6njg7Pjgrbjgq/jgrfjg6fjg7PjgpLogIPjgYjjgovlv4XopoHjgYzjgYLjgosg5pu05paw44Gg44GR44Gn44Gq44GP5Y+C54Wn44KC</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdWNjZXNzXD4=</text>
@@ -813,28 +834,26 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text># 日本語でのコメントを許可
-AsciiComments:
-  Enabled: false</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CjMKNAo1CjYKNwo4Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UmFpbHM6CiAgRW5hYmxlZDogdHJ1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBFbmFibGVkOiB0cnVlCg==</text>
+        <text encoding="base64">ICBwYXNzd29yZCA9ICdwYXNzd29yZCcK</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
@@ -905,6 +924,9 @@ AsciiComments:
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
