@@ -605,6 +605,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/app/views/cart_items/_cart_item.html.erb" timestamp="1489565289973">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/Gemfile" timestamp="1478404611590">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="52" />
@@ -693,11 +698,11 @@
         <mark key="." line="4" column="21" />
         <mark key="^" line="4" column="21" />
       </file>
-      <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" timestamp="1489563314693">
+      <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" timestamp="1489565963098">
         <mark key="'" line="1" column="6" />
-        <mark key="[" line="52" column="32" />
-        <mark key="]" line="52" column="27" />
-        <mark key="." line="52" column="27" />
+        <mark key="[" line="52" column="67" />
+        <mark key="]" line="52" column="67" />
+        <mark key="." line="52" column="67" />
         <mark key="^" line="52" column="27" />
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/app/controllers/items_controller.rb" timestamp="1489477063089">
@@ -820,7 +825,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICMgVE9ETyDjg4jjg6njg7Pjgrbjgq/jgrfjg6fjg7PjgpLogIPjgYjjgovlv4XopoHjgYzjgYLjgosg5pu05paw44Gg44GR44Gn44Gq44GP5Y+C54Wn44KC</text>
+        <text encoding="base64">ICMgVE9ETyDjgZPjga7jg6Hjgr3jg4Pjg4njga7mhI/lkbMg44Gp44GG44GE44GG44GT44Go44KS6ICD5oWu44GX44Gm44GE44KL44Gu44GL</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdWNjZXNzXD4=</text>
@@ -829,10 +834,10 @@
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJoNCB0ZXh0LWRhbmdlciI+77+lPCU9IGNhcnRfaXRlbS5wcmljZS50b19zKDpkZWxpbWl0ZWQpICU+PC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwhLS1UT0RPIGl0ZW0ucHJpY2XjgYzlpInmm7TjgZXjgozjgabjgYTjgZ/loLTlkIjjgIHooajnpLrjgZnjgovjgIItLT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwhLS1UT0RPIGl0ZW0ucHJpY2XjgYzlpInmm7TjgZXjgozjgabjgYTjgZ/loLTlkIjjgIHooajnpLrjgZnjgovjgIItLT4K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -853,7 +858,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwYXNzd29yZCA9ICdwYXNzd29yZCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
