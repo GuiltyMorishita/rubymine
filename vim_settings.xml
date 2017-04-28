@@ -238,6 +238,7 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
+      <file name="$USER_HOME$/Ebios/Ruby/exercise_app/db/schema.rb" timestamp="1493358320685" />
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/user_mailer/account_activation.html.erb" timestamp="1481596404584">
         <mark key="[" line="0" column="19" />
       </file>
@@ -410,8 +411,8 @@
         <mark key="^" line="2" column="9" />
         <mark key="." line="2" column="9" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/exercise_app/db/migrate/20170428045343_create_user_clubs.rb" timestamp="1493355381772">
-        <mark key="[" line="2" column="22" />
+      <file name="$USER_HOME$/Ebios/Ruby/exercise_app/db/migrate/20170428045343_create_user_clubs.rb" timestamp="1493357713923">
+        <mark key="[" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/passwords/new.html.erb" timestamp="1481374254520">
         <mark key="[" line="4" column="0" />
@@ -785,10 +786,10 @@
         <mark key="." line="3" column="2" />
         <mark key="^" line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/exercise_app/db/migrate/20170428044755_create_messages.rb" timestamp="1493354970941">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="24" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Ebios/Ruby/exercise_app/db/migrate/20170428044755_create_messages.rb" timestamp="1493357698606">
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="3" column="21" />
+        <mark key="." line="3" column="21" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/db/migrate/20161129100603_create_users.rb" timestamp="1481529513679">
         <mark key="[" line="4" column="32" />
@@ -818,9 +819,10 @@
         <mark key="." line="27" column="21" />
         <mark key="^" line="27" column="21" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/exercise_app/db/migrate/20170428043529_create_addresses.rb" timestamp="1493354967452">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="24" />
+      <file name="$USER_HOME$/Ebios/Ruby/exercise_app/db/migrate/20170428043529_create_addresses.rb" timestamp="1493358288732">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/config/environments/development.rb" timestamp="1489478991003">
         <mark key="[" line="30" column="69" />
@@ -933,7 +935,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdWNjZXNzXD4=</text>
@@ -942,31 +944,31 @@
         <text encoding="base64">ICAgICAgdC5pbnRlZ2VyIDp1c2VyX2lkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdC5pbnRlZ2VyIDp1c2VyX2lkCg==</text>
+        <text encoding="base64">ICAgICAgdC5pbnRlZ2VyIDpwb3N0YWxfY29kZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdC5pbnRlZ2VyIDp1c2VyX2lkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAjIEZvciBkZXRhaWxzIG9uIHRoZSBEU0wgYXZhaWxhYmxlIHdpdGhpbiB0aGlzIGZpbGUsIHNlZSBodHRwOi8vZ3VpZGVzLnJ1YnlvbnJhaWxzLm9yZy9yb3V0aW5nLmh0bWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8JT0gQGVudHJ5LnBpY3R1cmUgJT4K</text>
+        <text encoding="base64">ICAjIEZvciBkZXRhaWxzIG9uIHRoZSBEU0wgYXZhaWxhYmxlIHdpdGhpbiB0aGlzIGZpbGUsIHNlZSBodHRwOi8vZ3VpZGVzLnJ1YnlvbnJhaWxzLm9yZy9yb3V0aW5nLmh0bWwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwlPSBmb3JtLnRleHRfZmllbGQgOnBpY3R1cmUsIGlkOiA6ZW50cnlfcGljdHVyZSAlPgo=</text>
+        <text encoding="base64">ICA8JT0gQGVudHJ5LnBpY3R1cmUgJT4K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIDwlPSBmb3JtLnRleHRfZmllbGQgOnBpY3R1cmUsIGlkOiA6ZW50cnlfcGljdHVyZSAlPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPCUgZW5kICU+Cg==</text>
+        <text encoding="base64">ICAgIDwlPSBmb3JtLnRleHRfZmllbGQgOnBpY3R1cmUsIGlkOiA6ZW50cnlfcGljdHVyZSAlPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPCUgdW5sZXNzIEBjYXJ0X2l0ZW1zLmNvdW50Lnplcm8/ICU+Cg==</text>
+        <text encoding="base64">ICAgICAgPCUgZW5kICU+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGgyPuOCt+ODp+ODg+ODlOODs+OCsOOCq+ODvOODiDwvaDI+Cg==</text>
+        <text encoding="base64">ICAgICAgPCUgdW5sZXNzIEBjYXJ0X2l0ZW1zLmNvdW50Lnplcm8/ICU+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
