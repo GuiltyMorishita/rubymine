@@ -717,6 +717,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Ebios/Ruby/helloworld/app/controllers/hello_controller.rb" timestamp="1493345589247">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="5" />
+        <mark key="^" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+      </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/test/mailers/user_mailer_test.rb" timestamp="1489552348343">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -757,6 +763,12 @@
         <mark key="]" line="9" column="30" />
         <mark key="^" line="9" column="30" />
         <mark key="." line="9" column="30" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/helloworld/app/views/hello/index.html.erb" timestamp="1493345578479">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="28" />
+        <mark key="^" line="1" column="28" />
+        <mark key="." line="1" column="28" />
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/app/controllers/items_controller.rb" timestamp="1489477063089">
         <mark key="[" line="19" column="14" />
