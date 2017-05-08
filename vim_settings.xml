@@ -312,12 +312,12 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/books_app/spec/controllers/books_controller_spec.rb" timestamp="1494231279104">
+      <file name="$USER_HOME$/Ebios/Ruby/books_app/spec/controllers/books_controller_spec.rb" timestamp="1494231459945">
         <mark key="'" line="45" column="24" />
-        <mark key="[" line="35" column="36" />
-        <mark key="]" line="35" column="47" />
-        <mark key="." line="35" column="47" />
-        <mark key="^" line="35" column="47" />
+        <mark key="[" line="35" column="48" />
+        <mark key="]" line="35" column="45" />
+        <mark key="." line="35" column="45" />
+        <mark key="^" line="35" column="45" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/config/application.yml" timestamp="1481598272978">
         <mark key="[" line="0" column="32" />
@@ -518,11 +518,11 @@
         <mark key="^" line="86" column="46" />
         <mark key="." line="86" column="46" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/books_app/app/models/book.rb" timestamp="1494223912279">
-        <mark key="[" line="3" column="34" />
-        <mark key="]" line="5" column="34" />
-        <mark key="^" line="5" column="34" />
-        <mark key="." line="5" column="34" />
+      <file name="$USER_HOME$/Ebios/Ruby/books_app/app/models/book.rb" timestamp="1494231497447">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="1" column="33" />
+        <mark key="^" line="1" column="33" />
+        <mark key="." line="1" column="33" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/shared/_error_messages.html.erb" timestamp="1482085874984">
         <mark key="[" line="0" column="11" />
