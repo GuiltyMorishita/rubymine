@@ -384,10 +384,11 @@
         <mark key="^" line="42" column="27" />
         <mark key="." line="42" column="27" />
       </file>
-      <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/Gemfile" timestamp="1489569016704">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="53" column="31" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/Gemfile" timestamp="1494474780232">
+        <mark key="[" line="40" column="30" />
+        <mark key="]" line="41" column="28" />
+        <mark key="." line="41" column="28" />
+        <mark key="^" line="41" column="28" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/about_us_spec.rb" timestamp="1477753771751">
         <mark key="[" line="3" column="68" />
@@ -783,7 +784,7 @@
       <file name="/dummy.sql" timestamp="1489545798654">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489545789927">
+      <file name="/Dummy.txt" timestamp="1494474708671">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/factories/news_releases.rb" timestamp="1477755887646">
