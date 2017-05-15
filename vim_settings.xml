@@ -293,6 +293,12 @@
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/app/assets/stylesheets/custom.css.scss" timestamp="1489715793699">
         <mark key="[" line="71" column="1" />
       </file>
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/config/initializers/lograge.rb" timestamp="1494850930848">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="30" />
+        <mark key="^" line="1" column="30" />
+        <mark key="." line="1" column="30" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/spec/requests/routes_spec.rb" timestamp="1478409313917">
         <mark key="[" line="10" column="8" />
         <mark key="]" line="16" column="0" />
@@ -425,11 +431,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/Gemfile" timestamp="1494824573518">
-        <mark key="[" line="40" column="29" />
-        <mark key="]" line="41" column="18" />
-        <mark key="^" line="41" column="18" />
-        <mark key="." line="41" column="18" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/Gemfile" timestamp="1494850819647">
+        <mark key="[" line="41" column="20" />
+        <mark key="]" line="42" column="13" />
+        <mark key="^" line="42" column="13" />
+        <mark key="." line="42" column="13" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/rails_helper.rb" timestamp="1477756854942">
         <mark key="[" line="65" column="44" />
