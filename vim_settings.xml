@@ -292,7 +292,7 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/config/environments/development.rb" timestamp="1481598612793">
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/config/environments/development.rb" timestamp="1494824774856">
         <mark key="[" line="30" column="86" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
@@ -352,6 +352,12 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/.env" timestamp="1494824863775">
+        <mark key="[" line="0" column="32" />
+        <mark key="]" line="0" column="41" />
+        <mark key="." line="0" column="41" />
+        <mark key="^" line="0" column="41" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/sample_app/app/views/entries/show.html.erb" timestamp="1493344686277">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -407,11 +413,16 @@
         <mark key="." line="36" column="65" />
         <mark key="^" line="36" column="65" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/Gemfile" timestamp="1481717024361">
-        <mark key="[" line="33" column="12" />
-        <mark key="]" line="33" column="10" />
-        <mark key="^" line="33" column="10" />
-        <mark key="." line="33" column="10" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/config/application.rb" timestamp="1494824676807">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/Gemfile" timestamp="1494824573518">
+        <mark key="[" line="40" column="29" />
+        <mark key="]" line="41" column="18" />
+        <mark key="^" line="41" column="18" />
+        <mark key="." line="41" column="18" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/rails_helper.rb" timestamp="1477756854942">
         <mark key="[" line="65" column="44" />
@@ -525,11 +536,17 @@
         <mark key="^" line="1" column="33" />
         <mark key="." line="1" column="33" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/shared/_error_messages.html.erb" timestamp="1482085874984">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="6" column="17" />
-        <mark key="^" line="6" column="17" />
-        <mark key="." line="6" column="17" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/shared/_error_messages.html.erb" timestamp="1494823205774">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/users/new.html.erb" timestamp="1494823349922">
+        <mark key="[" line="5" column="43" />
+        <mark key="]" line="5" column="57" />
+        <mark key="^" line="5" column="57" />
+        <mark key="." line="5" column="57" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/mailers/user_mailer.rb" timestamp="1481596803532">
         <mark key="[" line="9" column="0" />
@@ -781,8 +798,14 @@
         <mark key="." line="8" column="33" />
         <mark key="^" line="8" column="33" />
       </file>
-      <file name="/dummy.sql" timestamp="1489545798654">
+      <file name="/dummy.sql" timestamp="1494824257119">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/.gitignore" timestamp="1494824719387">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="14" column="3" />
+        <mark key="^" line="14" column="3" />
+        <mark key="." line="14" column="3" />
       </file>
       <file name="/Dummy.txt" timestamp="1494474708671">
         <mark key="[" line="0" column="0" />
@@ -1017,7 +1040,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdWNjZXNzXD4=</text>
@@ -1026,34 +1049,34 @@
         <text encoding="base64">ICAgIEZhY3RvcnlHaXJsLmF0dHJpYnV0ZXNfZm9yKDpib29rKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNraXAoIkFkZCBhIGhhc2ggb2YgYXR0cmlidXRlcyBpbnZhbGlkIGZvciB5b3VyIG1vZGVsIikK</text>
+        <text encoding="base64">RG90ZW52OjpSYWlsdGllLmxvYWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRpdGxlOiAn44Gh44Gv44KE44G144KLJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFnZSAxCg==</text>
+        <text encoding="base64">Z2VtICdmaWdhcm8nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNraXAoIiIpCg==</text>
+        <text encoding="base64">ICAgIHNraXAoIkFkZCBhIGhhc2ggb2YgYXR0cmlidXRlcyBpbnZhbGlkIGZvciB5b3VyIG1vZGVsIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNraXAoIiIpCg==</text>
+        <text encoding="base64">ICAgIHRpdGxlOiAn44Gh44Gv44KE44G144KLJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwZW5kaW5nICJhZGQgc29tZSBleGFtcGxlcyB0byAob3IgZGVsZXRlKSAje19fRklMRV9ffSIK</text>
+        <text encoding="base64">ICAgIGFnZSAxCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNraXAoIiIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNraXAoIiIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBwZW5kaW5nICJhZGQgc29tZSBleGFtcGxlcyB0byAob3IgZGVsZXRlKSAje19fRklMRV9ffSIK</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseContent</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1096,6 +1119,7 @@
         <entry>action RecentFiles</entry>
         <entry>action GotoClass</entry>
         <entry>action CloseContent</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
