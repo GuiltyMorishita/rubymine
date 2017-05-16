@@ -397,6 +397,12 @@
         <mark key="." line="15" column="22" />
         <mark key="^" line="15" column="22" />
       </file>
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" timestamp="1494913688672">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="4" />
+        <mark key="." line="30" column="4" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/sample_app/Gemfile" timestamp="1494220597274">
         <mark key="[" line="41" column="26" />
         <mark key="]" line="42" column="27" />
@@ -636,8 +642,8 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/items_controller.rb" timestamp="1494911420244">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/items_controller.rb" timestamp="1494913467578">
+        <mark key="'" line="21" column="4" />
         <mark key="[" line="11" column="9" />
         <mark key="]" line="11" column="8" />
         <mark key="." line="11" column="8" />
@@ -948,18 +954,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="15" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
-      <jump line="9" column="15" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
-      <jump line="10" column="15" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
-      <jump line="11" column="15" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
-      <jump line="15" column="14" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
-      <jump line="16" column="14" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
-      <jump line="17" column="14" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
-      <jump line="18" column="14" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
-      <jump line="19" column="14" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
-      <jump line="20" column="14" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
-      <jump line="21" column="14" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
-      <jump line="22" column="14" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
       <jump line="23" column="14" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
       <jump line="24" column="5" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
       <jump line="25" column="8" filename="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/seeds.rb" />
@@ -1048,6 +1042,18 @@
       <jump line="8" column="3" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/items_controller.rb" />
       <jump line="14" column="11" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/items_controller.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/items_controller.rb" />
+      <jump line="21" column="4" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/items_controller.rb" />
+      <jump line="59" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" />
+      <jump line="54" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" />
+      <jump line="49" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" />
+      <jump line="44" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" />
+      <jump line="14" column="84" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" />
+      <jump line="4" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" />
+      <jump line="12" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" />
+      <jump line="20" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" />
+      <jump line="24" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" />
+      <jump line="38" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1063,34 +1069,34 @@
         <text encoding="base64">ICAgIEZhY3RvcnlHaXJsLmF0dHJpYnV0ZXNfZm9yKDpib29rKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBiZWZvcmVfYWN0aW9uIHsgZyAieyNzZWxmLmNsYXNzLm5hbWV9IyN7YWN0aW9uX25hbWV9IiB9Cg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwlPSBkZWJ1ZyhwYXJhbXMpIGlmIFJhaWxzLmVudi5kZXZlbG9wbWVudD8gJT4K</text>
+        <text encoding="base64">ICAgIGlmIGNhcnRfaXRlbV9wYXJhbXNbOnF1YW50aXR5XS50b19pLnplcm8/CiAgICAgIGZsYXNoWzpzdWNjZXNzXSA9ICLjgqvjg7zjg4jjgYvjgokje0BjYXJ0X2l0ZW0uaXRlbS5uYW1lfeOBjOWJiumZpOOBleOCjOOBvuOBl+OBn+OAgiIKICAgICAgQGNhcnRfaXRlbS5kZXN0cm95CiAgICAgIHJlZGlyZWN0X3RvIHVzZXJfY2FydF9pdGVtc19wYXRoKGN1cnJlbnRfdXNlcikKICAgIGVsc2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBnZW0gJ2d1YXJkJwogIGdlbSAnZ3VhcmQtcnVib2NvcCcKICBnZW0gJ3Rlcm1pbmFsLW5vdGlmaWVyLWd1YXJkJwo=</text>
+        <text encoding="base64">ICBiZWZvcmVfYWN0aW9uIHsgZyAieyNzZWxmLmNsYXNzLm5hbWV9IyN7YWN0aW9uX25hbWV9IiB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBnZW0gJ2xvZ3JhZ2UnCg==</text>
+        <text encoding="base64">ICAgIDwlPSBkZWJ1ZyhwYXJhbXMpIGlmIFJhaWxzLmVudi5kZXZlbG9wbWVudD8gJT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RG90ZW52OjpSYWlsdGllLmxvYWQK</text>
+        <text encoding="base64">ICBnZW0gJ2d1YXJkJwogIGdlbSAnZ3VhcmQtcnVib2NvcCcKICBnZW0gJ3Rlcm1pbmFsLW5vdGlmaWVyLWd1YXJkJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBnZW0gJ2xvZ3JhZ2UnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Z2VtICdmaWdhcm8nCg==</text>
+        <text encoding="base64">RG90ZW52OjpSYWlsdGllLmxvYWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNraXAoIkFkZCBhIGhhc2ggb2YgYXR0cmlidXRlcyBpbnZhbGlkIGZvciB5b3VyIG1vZGVsIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRpdGxlOiAn44Gh44Gv44KE44G144KLJwo=</text>
+        <text encoding="base64">Z2VtICdmaWdhcm8nCg==</text>
       </register>
       <register name=":" type="4">
-        <text>source ~/.ideavimrc</text>
+        <text>action CloseContent</text>
       </register>
     </registers>
     <search>
@@ -1130,11 +1136,12 @@
         <entry>action Find</entry>
         <entry>w</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action CloseContent</entry>
         <entry>action GotoFile</entry>
-        <entry>action RecentFiles</entry>
         <entry>action GotoClass</entry>
         <entry>source ~/.ideavimrc</entry>
+        <entry>vs</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action CloseContent</entry>
       </history-cmd>
       <history-expr />
       <history-input />
