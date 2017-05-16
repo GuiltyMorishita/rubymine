@@ -431,11 +431,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/Gemfile" timestamp="1494850819647">
-        <mark key="[" line="41" column="20" />
-        <mark key="]" line="42" column="13" />
-        <mark key="^" line="42" column="13" />
-        <mark key="." line="42" column="13" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/Gemfile" timestamp="1494902821660">
+        <mark key="[" line="52" column="15" />
+        <mark key="]" line="53" column="32" />
+        <mark key="." line="53" column="32" />
+        <mark key="^" line="53" column="32" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/rails_helper.rb" timestamp="1477756854942">
         <mark key="[" line="65" column="44" />
@@ -1062,31 +1062,31 @@
         <text encoding="base64">ICAgIEZhY3RvcnlHaXJsLmF0dHJpYnV0ZXNfZm9yKDpib29rKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RG90ZW52OjpSYWlsdGllLmxvYWQK</text>
+        <text encoding="base64">ICBnZW0gJ2d1YXJkJwogIGdlbSAnZ3VhcmQtcnVib2NvcCcKICBnZW0gJ3Rlcm1pbmFsLW5vdGlmaWVyLWd1YXJkJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBnZW0gJ2xvZ3JhZ2UnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Z2VtICdmaWdhcm8nCg==</text>
+        <text encoding="base64">RG90ZW52OjpSYWlsdGllLmxvYWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNraXAoIkFkZCBhIGhhc2ggb2YgYXR0cmlidXRlcyBpbnZhbGlkIGZvciB5b3VyIG1vZGVsIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRpdGxlOiAn44Gh44Gv44KE44G144KLJwo=</text>
+        <text encoding="base64">Z2VtICdmaWdhcm8nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFnZSAxCg==</text>
+        <text encoding="base64">ICAgIHNraXAoIkFkZCBhIGhhc2ggb2YgYXR0cmlidXRlcyBpbnZhbGlkIGZvciB5b3VyIG1vZGVsIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNraXAoIiIpCg==</text>
+        <text encoding="base64">ICAgIHRpdGxlOiAn44Gh44Gv44KE44G144KLJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNraXAoIiIpCg==</text>
+        <text encoding="base64">ICAgIGFnZSAxCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwZW5kaW5nICJhZGQgc29tZSBleGFtcGxlcyB0byAob3IgZGVsZXRlKSAje19fRklMRV9ffSIK</text>
+        <text encoding="base64">ICAgIHNraXAoIiIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
