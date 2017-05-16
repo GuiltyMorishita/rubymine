@@ -237,11 +237,11 @@
       <file name="$USER_HOME$/Ebios/Ruby/exercise_app/db/migrate/20170428043333_create_users.rb" timestamp="1493354791280">
         <mark key="[" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/application_controller.rb" timestamp="1482039603354">
-        <mark key="[" line="2" column="24" />
-        <mark key="]" line="9" column="28" />
-        <mark key="^" line="9" column="28" />
-        <mark key="." line="9" column="28" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/application_controller.rb" timestamp="1494909881733">
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="13" column="3" />
+        <mark key="." line="13" column="3" />
+        <mark key="^" line="13" column="3" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/books_app/app/controllers/books_controller.rb" timestamp="1494222188953">
         <mark key="[" line="71" column="58" />
@@ -431,11 +431,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/Gemfile" timestamp="1494902821660">
-        <mark key="[" line="52" column="15" />
-        <mark key="]" line="53" column="32" />
-        <mark key="." line="53" column="32" />
-        <mark key="^" line="53" column="32" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/Gemfile" timestamp="1494909283325">
+        <mark key="[" line="54" column="9" />
+        <mark key="]" line="55" column="23" />
+        <mark key="." line="55" column="23" />
+        <mark key="^" line="55" column="23" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/rails_helper.rb" timestamp="1477756854942">
         <mark key="[" line="65" column="44" />
@@ -1062,34 +1062,34 @@
         <text encoding="base64">ICAgIEZhY3RvcnlHaXJsLmF0dHJpYnV0ZXNfZm9yKDpib29rKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwlPSBkZWJ1ZyhwYXJhbXMpIGlmIFJhaWxzLmVudi5kZXZlbG9wbWVudD8gJT4K</text>
+        <text encoding="base64">ICBiZWZvcmVfYWN0aW9uIHsgZyAieyNzZWxmLmNsYXNzLm5hbWV9IyN7YWN0aW9uX25hbWV9IiB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBnZW0gJ2d1YXJkJwogIGdlbSAnZ3VhcmQtcnVib2NvcCcKICBnZW0gJ3Rlcm1pbmFsLW5vdGlmaWVyLWd1YXJkJwo=</text>
+        <text encoding="base64">ICAgIDwlPSBkZWJ1ZyhwYXJhbXMpIGlmIFJhaWxzLmVudi5kZXZlbG9wbWVudD8gJT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBnZW0gJ2xvZ3JhZ2UnCg==</text>
+        <text encoding="base64">ICBnZW0gJ2d1YXJkJwogIGdlbSAnZ3VhcmQtcnVib2NvcCcKICBnZW0gJ3Rlcm1pbmFsLW5vdGlmaWVyLWd1YXJkJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RG90ZW52OjpSYWlsdGllLmxvYWQK</text>
+        <text encoding="base64">ICBnZW0gJ2xvZ3JhZ2UnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RG90ZW52OjpSYWlsdGllLmxvYWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Z2VtICdmaWdhcm8nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNraXAoIkFkZCBhIGhhc2ggb2YgYXR0cmlidXRlcyBpbnZhbGlkIGZvciB5b3VyIG1vZGVsIikK</text>
+        <text encoding="base64">Z2VtICdmaWdhcm8nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRpdGxlOiAn44Gh44Gv44KE44G144KLJwo=</text>
+        <text encoding="base64">ICAgIHNraXAoIkFkZCBhIGhhc2ggb2YgYXR0cmlidXRlcyBpbnZhbGlkIGZvciB5b3VyIG1vZGVsIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFnZSAxCg==</text>
+        <text encoding="base64">ICAgIHRpdGxlOiAn44Gh44Gv44KE44G144KLJwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action CloseContent</text>
       </register>
     </registers>
     <search>
@@ -1132,8 +1132,8 @@
         <entry>action GotoFile</entry>
         <entry>action RecentFiles</entry>
         <entry>action GotoClass</entry>
-        <entry>action CloseContent</entry>
         <entry>w</entry>
+        <entry>action CloseContent</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -1154,7 +1154,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -1162,6 +1162,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
