@@ -118,11 +118,11 @@
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/models/item.rb" timestamp="1482070609173">
-        <mark key="[" line="0" column="30" />
-        <mark key="]" line="1" column="42" />
-        <mark key="^" line="1" column="42" />
-        <mark key="." line="1" column="42" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/models/item.rb" timestamp="1494986521198">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="5" column="17" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/items/show.html.erb" timestamp="1482086309748">
         <mark key="[" line="7" column="30" />
@@ -361,6 +361,9 @@
         <mark key="^" line="37" column="4" />
         <mark key="." line="37" column="4" />
       </file>
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/models/item_spec.rb" timestamp="1494987394378">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/db/migrate/20161129100638_create_cart_items.rb" timestamp="1480414532085">
         <mark key="[" line="4" column="37" />
         <mark key="]" line="0" column="55" />
@@ -598,6 +601,13 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/models/cart_item_spec.rb" timestamp="1494987447463">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+        <mark key="^" line="2" column="22" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/db/seeds/test.rb" timestamp="1494983833860">
         <mark key="[" line="0" column="2" />
@@ -844,7 +854,7 @@
         <mark key="." line="8" column="33" />
         <mark key="^" line="8" column="33" />
       </file>
-      <file name="/dummy.sql" timestamp="1494983919471">
+      <file name="/dummy.sql" timestamp="1494987354058">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/.gitignore" timestamp="1494824719387">
@@ -980,15 +990,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/schema.rb" />
-      <jump line="18" column="30" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/pages/index.html.erb" />
-      <jump line="19" column="27" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/pages/index.html.erb" />
-      <jump line="8" column="23" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/pages/index.html.erb" />
-      <jump line="15" column="12" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/assets/stylesheets/application.scss" />
-      <jump line="25" column="24" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/pages/index.html.erb" />
-      <jump line="2" column="21" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/pages/index.html.erb" />
-      <jump line="14" column="0" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/pages/index.html.erb" />
-      <jump line="35" column="0" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/pages/index.html.erb" />
       <jump line="36" column="0" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/registrations/new.html.erb" />
       <jump line="40" column="0" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/registrations/new.html.erb" />
       <jump line="48" column="0" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/registrations/new.html.erb" />
@@ -1080,56 +1081,65 @@
       <jump line="139" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" />
       <jump line="8" column="12" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/factories/users.rb" />
       <jump line="9" column="5" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/factories/users.rb" />
+      <jump line="3" column="10" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/models/cart_item_spec.rb" />
+      <jump line="23" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/models/cart_item_spec.rb" />
+      <jump line="24" column="32" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/models/cart_item_spec.rb" />
+      <jump line="25" column="24" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/models/cart_item_spec.rb" />
+      <jump line="8" column="4" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/models/cart_item_spec.rb" />
+      <jump line="6" column="18" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/models/item_spec.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/models/item_spec.rb" />
+      <jump line="14" column="14" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/models/cart_item_spec.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/models/cart_item_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>admin</text>
+        <text>price</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfY29tcHV0ZV9yZWRpcmVjdF90b19sb2NhdGlvblw+</text>
+        <text>price</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEZhY3RvcnlHaXJsLmF0dHJpYnV0ZXNfZm9yKDpib29rKQo=</text>
+        <text encoding="base64">cmVxdWlyZSAncmFpbHNfaGVscGVyJwoKUlNwZWMuZGVzY3JpYmUgSXRlbSwgOnR5cGUgPT4gOm1vZGVsIGRvCiAgaXQgJ2lzIHZhbGlkIHdpdGggYSBuYW1lLCBwcmljZSBhbmQgc3RvY2snIGRvCiAgICBpdGVtID0gSXRlbS5uZXcoCiAgICAgICAgICAgICAgICAgICBuYW1lOiAnaG9nZScsCiAgICAgICAgICAgICAgICAgICBwcmljZTogMTAwLAogICAgICAgICAgICAgICAgICAgc3RvY2s6IDEwCiAgICApCiAgICBleHBlY3QoaXRlbSkudG8gYmVfdmFsaWQKICBlbmQKCiAgaXQgJ2lzIGludmFsaWQgd2l0aG91aHQgYSBuYW1lJyBkbwogICAgaXRlbSA9IEl0ZW0ubmV3KG5hbWU6IG5pbCkKICAgIGl0ZW0udmFsaWQ/CiAgICBleHBlY3QoaXRlbS5lcnJvcnNbOm5hbWVdKS50byBpbmNsdWRlKCJjYW4ndCBiZSBibGFuayIpCiAgZW5kCgogIGl0ICdpcyBpbnZhbGlkIHdpdGhvdWh0IGEgcHJpY2UnIGRvCiAgICBpdGVtID0gSXRlbS5uZXcocHJpY2U6IG5pbCkKICAgIGl0ZW0udmFsaWQ/CiAgICBleHBlY3QoaXRlbS5lcnJvcnNbOnByaWNlXSkudG8gaW5jbHVkZSgiY2FuJ3QgYmUgYmxhbmsiKQogIGVuZAoKICBpdCAnaXMgaW52YWxpZCB3aXRob3VodCBhIHN0b2NrJyBkbwogICAgaXRlbSA9IEl0ZW0ubmV3KHN0b2NrOiBuaWwpCiAgICBpdGVtLnZhbGlkPwogICAgZXhwZWN0KGl0ZW0uZXJyb3JzWzpzdG9ja10pLnRvIGluY2x1ZGUoImNhbid0IGJlIGJsYW5rIikKICBlbmQKZW5kCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBoYXNfbWFueSA6b3JkZXJzLCBkZXBlbmRlbnQ6IDpkZXN0cm95CiAgaGFzX21hbnkgOm9yZGVyX2l0ZW1zLCBkZXBlbmRlbnQ6IDpkZXN0cm95CiAgaGFzX21hbnkgOmNhcnRfaXRlbXMsIGRlcGVuZGVudDogOmRlc3Ryb3kK</text>
+        <text encoding="base64">ICAgICAgICBzdG9jazogMTAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhc3N3b3JkX2NvbmZpcm1hdGlvbiAncGFzc3dvcmQnCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmljZTogMTAwLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBUaGlzIHNwZWMgd2FzIGdlbmVyYXRlZCBieSByc3BlYy1yYWlscyB3aGVuIHlvdSByYW4gdGhlIHNjYWZmb2xkIGdlbmVyYXRvci4KIyBJdCBkZW1vbnN0cmF0ZXMgaG93IG9uZSBtaWdodCB1c2UgUlNwZWMgdG8gc3BlY2lmeSB0aGUgY29udHJvbGxlciBjb2RlIHRoYXQKIyB3YXMgZ2VuZXJhdGVkIGJ5IFJhaWxzIHdoZW4geW91IHJhbiB0aGUgc2NhZmZvbGQgZ2VuZXJhdG9yLgojCiMgSXQgYXNzdW1lcyB0aGF0IHRoZSBpbXBsZW1lbnRhdGlvbiBjb2RlIGlzIGdlbmVyYXRlZCBieSB0aGUgcmFpbHMgc2NhZmZvbGQKIyBnZW5lcmF0b3IuICBJZiB5b3UgYXJlIHVzaW5nIGFueSBleHRlbnNpb24gbGlicmFyaWVzIHRvIGdlbmVyYXRlIGRpZmZlcmVudAojIGNvbnRyb2xsZXIgY29kZSwgdGhpcyBnZW5lcmF0ZWQgc3BlYyBtYXkgb3IgbWF5IG5vdCBwYXNzLgojCiMgSXQgb25seSB1c2VzIEFQSXMgYXZhaWxhYmxlIGluIHJhaWxzIGFuZC9vciByc3BlYy1yYWlscy4gIFRoZXJlIGFyZSBhIG51bWJlcgojIG9mIHRvb2xzIHlvdSBjYW4gdXNlIHRvIG1ha2UgdGhlc2Ugc3BlY3MgZXZlbiBtb3JlIGV4cHJlc3NpdmUsIGJ1dCB3ZSdyZQojIHN0aWNraW5nIHRvIHJhaWxzIGFuZCByc3BlYy1yYWlscyBBUElzIHRvIGtlZXAgdGhpbmdzIHNpbXBsZSBhbmQgc3RhYmxlLgojCiMgQ29tcGFyZWQgdG8gZWFybGllciB2ZXJzaW9ucyBvZiB0aGlzIGdlbmVyYXRvciwgdGhlcmUgaXMgdmVyeSBsaW1pdGVkIHVzZSBvZgojIHN0dWJzIGFuZCBtZXNzYWdlIGV4cGVjdGF0aW9ucyBpbiB0aGlzIHNwZWMuICBTdHVicyBhcmUgb25seSB1c2VkIHdoZW4gdGhlcmUKIyBpcyBubyBzaW1wbGVyIHdheSB0byBnZXQgYSBoYW5kbGUgb24gdGhlIG9iamVjdCBuZWVkZWQgZm9yIHRoZSBleGFtcGxlLgojIE1lc3NhZ2UgZXhwZWN0YXRpb25zIGFyZSBvbmx5IHVzZWQgd2hlbiB0aGVyZSBpcyBubyBzaW1wbGVyIHdheSB0byBzcGVjaWZ5CiMgdGhhdCBhbiBpbnN0YW5jZSBpcyByZWNlaXZpbmcgYSBzcGVjaWZpYyBtZXNzYWdlLgojCiMgQWxzbyBjb21wYXJlZCB0byBlYXJsaWVyIHZlcnNpb25zIG9mIHRoaXMgZ2VuZXJhdG9yLCB0aGVyZSBhcmUgbm8gbG9uZ2VyIGFueQojIGV4cGVjdGF0aW9ucyBvZiBhc3NpZ25zIGFuZCB0ZW1wbGF0ZXMgcmVuZGVyZWQuIFRoZXNlIGZlYXR1cmVzIGhhdmUgYmVlbgojIHJlbW92ZWQgZnJvbSBSYWlscyBjb3JlIGluIFJhaWxzIDUsIGJ1dCBjYW4gYmUgYWRkZWQgYmFjayBpbiB2aWEgdGhlCiMgYHJhaWxzLWNvbnRyb2xsZXItdGVzdGluZ2AgZ2VtLgoKUlNwZWMuZGVzY3JpYmUgQ2FydEl0ZW1zQ29udHJvbGxlciwgdHlwZTogOmNvbnRyb2xsZXIgZG8KCiAgIyBUaGlzIHNob3VsZCByZXR1cm4gdGhlIG1pbmltYWwgc2V0IG9mIGF0dHJpYnV0ZXMgcmVxdWlyZWQgdG8gY3JlYXRlIGEgdmFsaWQKICAjIEJvb2suIEFzIHlvdSBhZGQgdmFsaWRhdGlvbnMgdG8gQm9vaywgYmUgc3VyZSB0bwogICMgYWRqdXN0IHRoZSBhdHRyaWJ1dGVzIGhlcmUgYXMgd2VsbC4KICAjIGxldCg6dmFsaWRfYXR0cmlidXRlcykgewogICMgICBGYWN0b3J5R2lybC5hdHRyaWJ1dGVzX2Zvcig6Ym9vaykKICAjIH0KICAjCiAgIyBsZXQoOmludmFsaWRfYXR0cmlidXRlcykgewogICMgICBGYWN0b3J5R2lybC5hdHRyaWJ1dGVzX2Zvcig6Ym9vaywgOmludmFsaWQpCiAgIyB9CgogICMgVGhpcyBzaG91bGQgcmV0dXJuIHRoZSBtaW5pbWFsIHNldCBvZiB2YWx1ZXMgdGhhdCBzaG91bGQgYmUgaW4gdGhlIHNlc3Npb24KICAjIGluIG9yZGVyIHRvIHBhc3MgYW55IGZpbHRlcnMgKGUuZy4gYXV0aGVudGljYXRpb24pIGRlZmluZWQgaW4KICAjIEJvb2tzQ29udHJvbGxlci4gQmUgc3VyZSB0byBrZWVwIHRoaXMgdXBkYXRlZCB0b28uCiAgbGV0KDp2YWxpZF9zZXNzaW9uKSB7IHt9IH0KCiAgZGVzY3JpYmUgIkdFVCAjaW5kZXgiIGRvCiAgICBpdCAicmV0dXJucyBhIHN1Y2Nlc3MgcmVzcG9uc2UiIGRvCiAgICAgIGdldCA6aW5kZXgsIHBhcmFtczoge30sIHNlc3Npb246IHZhbGlkX3Nlc3Npb24KICAgICAgZXhwZWN0KHJlc3BvbnNlKS50byBiZV9zdWNjZXNzCiAgICBlbmQKICBlbmQKCiAgIyBkZXNjcmliZSAiR0VUICNzaG93IiBkbwogICMgICBpdCAicmV0dXJucyBhIHN1Y2Nlc3MgcmVzcG9uc2UiIGRvCiAgIyAgICAgYm9vayA9IEJvb2suY3JlYXRlISB2YWxpZF9hdHRyaWJ1dGVzCiAgIyAgICAgZ2V0IDpzaG93LCBwYXJhbXM6IHtpZDogYm9vay50b19wYXJhbX0sIHNlc3Npb246IHZhbGlkX3Nlc3Npb24KICAjICAgICBleHBlY3QocmVzcG9uc2UpLnRvIGJlX3N1Y2Nlc3MKICAjICAgZW5kCiAgIyBlbmQKICAjCiAgIyBkZXNjcmliZSAiR0VUICNuZXciIGRvCiAgIyAgIGl0ICJyZXR1cm5zIGEgc3VjY2VzcyByZXNwb25zZSIgZG8KICAjICAgICBnZXQgOm5ldywgcGFyYW1zOiB7fSwgc2Vzc2lvbjogdmFsaWRfc2Vzc2lvbgogICMgICAgIGV4cGVjdChyZXNwb25zZSkudG8gYmVfc3VjY2VzcwogICMgICBlbmQKICAjIGVuZAogICMKICAjIGRlc2NyaWJlICJHRVQgI2VkaXQiIGRvCiAgIyAgIGl0ICJyZXR1cm5zIGEgc3VjY2VzcyByZXNwb25zZSIgZG8KICAjICAgICBib29rID0gQm9vay5jcmVhdGUhIHZhbGlkX2F0dHJpYnV0ZXMKICAjICAgICBnZXQgOmVkaXQsIHBhcmFtczoge2lkOiBib29rLnRvX3BhcmFtfSwgc2Vzc2lvbjogdmFsaWRfc2Vzc2lvbgogICMgICAgIGV4cGVjdChyZXNwb25zZSkudG8gYmVfc3VjY2VzcwogICMgICBlbmQKICAjIGVuZAogICMKICAjIGRlc2NyaWJlICJQT1NUICNjcmVhdGUiIGRvCiAgIyAgIGNvbnRleHQgIndpdGggdmFsaWQgcGFyYW1zIiBkbwogICMgICAgIGl0ICJjcmVhdGVzIGEgbmV3IEJvb2siIGRvCiAgIyAgICAgICBleHBlY3QgewogICMgICAgICAgICBwb3N0IDpjcmVhdGUsIHBhcmFtczoge2Jvb2s6IHZhbGlkX2F0dHJpYnV0ZXN9LCBzZXNzaW9uOiB2YWxpZF9zZXNzaW9uCiAgIyAgICAgICB9LnRvIGNoYW5nZShCb29rLCA6Y291bnQpLmJ5KDEpCiAgIyAgICAgZW5kCiAgIwogICMgICAgIGl0ICJyZWRpcmVjdHMgdG8gdGhlIGNyZWF0ZWQgYm9vayIgZG8KICAjICAgICAgIHBvc3QgOmNyZWF0ZSwgcGFyYW1zOiB7Ym9vazogdmFsaWRfYXR0cmlidXRlc30sIHNlc3Npb246IHZhbGlkX3Nlc3Npb24KICAjICAgICAgIGV4cGVjdChyZXNwb25zZSkudG8gcmVkaXJlY3RfdG8oQm9vay5sYXN0KQogICMgICAgIGVuZAogICMgICBlbmQKICAjCiAgIyAgIGNvbnRleHQgIndpdGggaW52YWxpZCBwYXJhbXMiIGRvCiAgIyAgICAgaXQgInJldHVybnMgYSBzdWNjZXNzIHJlc3BvbnNlIChpLmUuIHRvIGRpc3BsYXkgdGhlICduZXcnIHRlbXBsYXRlKSIgZG8KICAjICAgICAgIHBvc3QgOmNyZWF0ZSwgcGFyYW1zOiB7Ym9vazogaW52YWxpZF9hdHRyaWJ1dGVzfSwgc2Vzc2lvbjogdmFsaWRfc2Vzc2lvbgogICMgICAgICAgZXhwZWN0KHJlc3BvbnNlKS50byBiZV9zdWNjZXNzCiAgIyAgICAgZW5kCiAgIyAgIGVuZAogICMgZW5kCiAgIwogICMgZGVzY3JpYmUgIlBVVCAjdXBkYXRlIiBkbwogICMgICBjb250ZXh0ICJ3aXRoIHZhbGlkIHBhcmFtcyIgZG8KICAjICAgICBsZXQoOm5ld19hdHRyaWJ1dGVzKSB7CiAgIyAgICAgICBza2lwKCJBZGQgYSBoYXNoIG9mIGF0dHJpYnV0ZXMgdmFsaWQgZm9yIHlvdXIgbW9kZWwiKQogICMgICAgIH0KICAjCiAgIyAgICAgaXQgInVwZGF0ZXMgdGhlIHJlcXVlc3RlZCBib29rIiBkbwogICMgICAgICAgYm9vayA9IEJvb2suY3JlYXRlISB2YWxpZF9hdHRyaWJ1dGVzCiAgIyAgICAgICBwdXQgOnVwZGF0ZSwgcGFyYW1zOiB7aWQ6IGJvb2sudG9fcGFyYW0sIGJvb2s6IG5ld19hdHRyaWJ1dGVzfSwgc2Vzc2lvbjogdmFsaWRfc2Vzc2lvbgogICMgICAgICAgYm9vay5yZWxvYWQKICAjICAgICAgIHNraXAoIkFkZCBhc3NlcnRpb25zIGZvciB1cGRhdGVkIHN0YXRlIikKICAjICAgICBlbmQKICAjCiAgIyAgICAgaXQgInJlZGlyZWN0cyB0byB0aGUgYm9vayIgZG8KICAjICAgICAgIGJvb2sgPSBCb29rLmNyZWF0ZSEgdmFsaWRfYXR0cmlidXRlcwogICMgICAgICAgcHV0IDp1cGRhdGUsIHBhcmFtczoge2lkOiBib29rLnRvX3BhcmFtLCBib29rOiB2YWxpZF9hdHRyaWJ1dGVzfSwgc2Vzc2lvbjogdmFsaWRfc2Vzc2lvbgogICMgICAgICAgZXhwZWN0KHJlc3BvbnNlKS50byByZWRpcmVjdF90byhib29rKQogICMgICAgIGVuZAogICMgICBlbmQKICAjCiAgIyAgIGNvbnRleHQgIndpdGggaW52YWxpZCBwYXJhbXMiIGRvCiAgIyAgICAgaXQgInJldHVybnMgYSBzdWNjZXNzIHJlc3BvbnNlIChpLmUuIHRvIGRpc3BsYXkgdGhlICdlZGl0JyB0ZW1wbGF0ZSkiIGRvCiAgIyAgICAgICBib29rID0gQm9vay5jcmVhdGUhIHZhbGlkX2F0dHJpYnV0ZXMKICAjICAgICAgIHB1dCA6dXBkYXRlLCBwYXJhbXM6IHtpZDogYm9vay50b19wYXJhbSwgYm9vazogaW52YWxpZF9hdHRyaWJ1dGVzfSwgc2Vzc2lvbjogdmFsaWRfc2Vzc2lvbgogICMgICAgICAgZXhwZWN0KHJlc3BvbnNlKS50byBiZV9zdWNjZXNzCiAgIyAgICAgZW5kCiAgIyAgIGVuZAogICMgZW5kCiAgIwogICMgZGVzY3JpYmUgIkRFTEVURSAjZGVzdHJveSIgZG8KICAjICAgaXQgImRlc3Ryb3lzIHRoZSByZXF1ZXN0ZWQgYm9vayIgZG8KICAjICAgICBib29rID0gQm9vay5jcmVhdGUhIHZhbGlkX2F0dHJpYnV0ZXMKICAjICAgICBleHBlY3QgewogICMgICAgICAgZGVsZXRlIDpkZXN0cm95LCBwYXJhbXM6IHtpZDogYm9vay50b19wYXJhbX0sIHNlc3Npb246IHZhbGlkX3Nlc3Npb24KICAjICAgICB9LnRvIGNoYW5nZShCb29rLCA6Y291bnQpLmJ5KC0xKQogICMgICBlbmQKICAjCiAgIyAgIGl0ICJyZWRpcmVjdHMgdG8gdGhlIGJvb2tzIGxpc3QiIGRvCiAgIyAgICAgYm9vayA9IEJvb2suY3JlYXRlISB2YWxpZF9hdHRyaWJ1dGVzCiAgIyAgICAgZGVsZXRlIDpkZXN0cm95LCBwYXJhbXM6IHtpZDogYm9vay50b19wYXJhbX0sIHNlc3Npb246IHZhbGlkX3Nlc3Npb24KICAjICAgICBleHBlY3QocmVzcG9uc2UpLnRvIHJlZGlyZWN0X3RvKGJvb2tzX3VybCkKICAjICAgZW5kCiAgIyBlbmQKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBjb250ZXh0ICcnIGRvCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYm9vayA9IEJvb2suY3JlYXRlISB2YWxpZF9hdHRyaWJ1dGVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfY29tcHV0ZV9yZWRpcmVjdF90b19sb2NhdGlvblw+</last-search>
+      <last-search>price</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfY29tcHV0ZV9yZWRpcmVjdF90b19sb2NhdGlvblw+</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>price</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -1153,6 +1163,7 @@
         <entry encoding="base64">XDzov73liqBcPg==</entry>
         <entry encoding="base64">XDxzdWNjZXNzXD4=</entry>
         <entry encoding="base64">XDxfY29tcHV0ZV9yZWRpcmVjdF90b19sb2NhdGlvblw+</entry>
+        <entry>price</entry>
       </history-search>
       <history-cmd>
         <entry>action FindNext</entry>
@@ -1165,9 +1176,9 @@
         <entry>action GotoClass</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>vs</entry>
-        <entry>action GotoFile</entry>
         <entry>action CloseContent</entry>
         <entry>action RecentFiles</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
