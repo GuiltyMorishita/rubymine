@@ -361,8 +361,12 @@
         <mark key="^" line="37" column="4" />
         <mark key="." line="37" column="4" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/models/item_spec.rb" timestamp="1494987394378">
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/models/item_spec.rb" timestamp="1494996159409">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="29" column="7" />
+        <mark key="]" line="30" column="3" />
+        <mark key="^" line="30" column="3" />
+        <mark key="." line="30" column="3" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/db/migrate/20161129100638_create_cart_items.rb" timestamp="1480414532085">
         <mark key="[" line="4" column="37" />
@@ -609,12 +613,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/models/cart_item_spec.rb" timestamp="1494995089522">
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/models/cart_item_spec.rb" timestamp="1494996261750">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="28" column="3" />
-        <mark key="^" line="28" column="3" />
-        <mark key="." line="28" column="3" />
+        <mark key="[" line="48" column="32" />
+        <mark key="]" line="48" column="34" />
+        <mark key="^" line="48" column="34" />
+        <mark key="." line="48" column="34" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/db/seeds/test.rb" timestamp="1494989566987">
         <mark key="[" line="0" column="2" />
@@ -997,9 +1001,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="24" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/registrations/new.html.erb" />
-      <jump line="42" column="29" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/registrations/new.html.erb" />
-      <jump line="1" column="27" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/shared/_links.html.erb" />
       <jump line="1" column="0" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/sessions/new.html.erb" />
       <jump line="0" column="25" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/sessions/new.html.erb" />
       <jump line="2" column="7" filename="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/sessions/new.html.erb" />
@@ -1086,7 +1087,6 @@
       <jump line="25" column="24" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/models/cart_item_spec.rb" />
       <jump line="8" column="4" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/models/cart_item_spec.rb" />
       <jump line="6" column="18" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/models/item_spec.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/models/item_spec.rb" />
       <jump line="14" column="14" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/models/cart_item_spec.rb" />
       <jump line="4" column="20" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/factories/users.rb" />
       <jump line="5" column="33" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/factories/users.rb" />
@@ -1097,46 +1097,50 @@
       <jump line="24" column="36" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/models/cart_item_spec.rb" />
       <jump line="33" column="4" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/models/cart_item_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/models/cart_item_spec.rb" />
+      <jump line="11" column="8" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/models/item_spec.rb" />
+      <jump line="16" column="14" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/models/item_spec.rb" />
+      <jump line="41" column="4" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/models/item_spec.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/models/item_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpdCB7IGlzX2V4cGVjdGVkLnRvIHJlc3BvbmRfdG8oOnVzZXJfaWQpIH0K</text>
+        <text encoding="base64">ICAgIGl0ICd3aXRob3V0IHF1YW50aXR5JyBkbwogICAgICBAY2FydF9pdGVtLnF1YW50aXR5ID0gbmlsCiAgICAgIGlzX2V4cGVjdGVkLm5vdF90byBiZV92YWxpZAogICAgZW5kCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBpdCAnd2l0aG91dCBhIGRlc2NyaXB0aW9uJyBkbwogICAgICBpdGVtLmRlc2NyaXB0aW9uID0gbmlsCiAgICAgIGlzX2V4cGVjdGVkLm5vdF90byBiZV92YWxpZAogICAgZW5kCgogICAgaXQgJ3dpdGhvdXQgYSBpbWFnZV91cmwnIGRvCiAgICAgIGl0ZW0uaW1hZ2VfdXJsID0gbmlsCiAgICAgIGlzX2V4cGVjdGVkLm5vdF90byBiZV92YWxpZAogICAgZW5kCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpdCB7IHNob3VsZCByZXNwb25kX3RvKDpxdWFudGl0eSkgfQo=</text>
+        <text encoding="base64">ICAgIGl0ICdpcyBpbnZhbGlkIHdpdGhvdXQgYSBwcmljZScgZG8KICAgICAgaXRlbSA9IEl0ZW0ubmV3KHByaWNlOiBuaWwpCiAgICAgIGl0ZW0udmFsaWQ/CiAgICAgIGV4cGVjdChpdGVtLmVycm9yc1s6cHJpY2VdKS50byBpbmNsdWRlKCJjYW4ndCBiZSBibGFuayIpCiAgICBlbmQKCiAgICBpdCAnaXMgaW52YWxpZCB3aXRob3V0IGEgc3RvY2snIGRvCiAgICAgIGl0ZW0gPSBJdGVtLm5ldyhzdG9jazogbmlsKQogICAgICBpdGVtLnZhbGlkPwogICAgICBleHBlY3QoaXRlbS5lcnJvcnNbOnN0b2NrXSkudG8gaW5jbHVkZSgiY2FuJ3QgYmUgYmxhbmsiKQogICAgZW5kCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpdCB7IHNob3VsZCByZXNwb25kX3RvKDpwcmljZSkgfQo=</text>
+        <text encoding="base64">ICAgIGV4cGVjdChpdGVtLmVycm9yc1s6bmFtZV0pLnRvIGluY2x1ZGUoImNhbid0IGJlIGJsYW5rIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpdCB7IHNob3VsZCByZXNwb25kX3RvKDppdGVtX2lkKSB9Cg==</text>
+        <text encoding="base64">ICAgIGl0ZW0udmFsaWQ/Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGl0ZW0gPSBJdGVtLm5ldyhuYW1lOiBuaWwpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGl0ICdpdGVtX2lk44GM5a2Y5Zyo44GX44Gq44GEJyBkbwogICAgICBAY2FydF9pdGVtLml0ZW1faWQgPSBuaWwKICAgICAgZXhwZWN0KEBjYXJ0X2l0ZW0pLm5vdF90byBiZV92YWxpZAogICAgZW5kCg==</text>
+        <text encoding="base64">ICBpdCAnb3V0IGEgbmFtZScgZG8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action RecentFiles</text>
@@ -1217,6 +1221,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
