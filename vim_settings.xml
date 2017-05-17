@@ -113,11 +113,11 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" timestamp="1495005391868">
-        <mark key="[" line="3" column="26" />
-        <mark key="]" line="8" column="47" />
-        <mark key="^" line="8" column="47" />
-        <mark key="." line="8" column="47" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" timestamp="1495007356562">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="4" />
+        <mark key="^" line="30" column="8" />
+        <mark key="." line="30" column="4" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/db/migrate/20161129100656_create_order_items.rb" timestamp="1480414524305">
         <mark key="[" line="11" column="17" />
@@ -427,6 +427,13 @@
         <mark key="]" line="15" column="22" />
         <mark key="." line="15" column="22" />
         <mark key="^" line="15" column="22" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" timestamp="1495007211457">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="6" column="50" />
+        <mark key="]" line="6" column="44" />
+        <mark key="." line="6" column="44" />
+        <mark key="^" line="6" column="44" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/sample_app/Gemfile" timestamp="1494220597274">
         <mark key="[" line="41" column="26" />
@@ -756,7 +763,7 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="/Ruby Console" timestamp="1495001601145">
+      <file name="/Ruby Console" timestamp="1495006216136">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/models/user.rb" timestamp="1494983017071">
@@ -1122,56 +1129,40 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiZV92YWxpZFw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">dXNlcl9pZDogdXNlci5pZCA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgaXQgJ3BvcHVsYXRlcyBhbiBhcnJheSBvZiBhbGwgY2FydF9pdGVtcycgZG8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KHJlc3BvbnNlLmJvZHkpLnRvIGVxICcnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHAgZmxhc2hbOmRhbmdlcl0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaXRlbSA9IGNyZWF0ZSg6aXRlbSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY2FydF9pdGVtID0gY3JlYXRlKDpjYXJ0X2l0ZW0sIHVzZXI6IHVzZXIsIGl0ZW06IGl0ZW0pCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGl0ICdyZW5kZXJzIHRoZSB3aWRnZXRzL2luZGV4IHRlbXBsYXRlJyBkbwogICAgICBnZXQgOmluZGV4CiAgICAgIGV4cGVjdChyZXNwb25zZSkudG8gcmVuZGVyX3RlbXBsYXRlKCd3aWRnZXRzL2luZGV4JykKICAgICAgZXhwZWN0KHJlc3BvbnNlLmJvZHkpLnRvIGVxICcnCiAgICBlbmQK</text>
-      </register>
-      <register name="6" type="4">
-        <text>require 'rspec'
-
-describe 'My behaviour' do
-
-  it 'should do something' do
-
-    true.should == false
-  end
-end</text>
-      </register>
-      <register name="7" type="4">
-        <text>require 'rspec'
-
-describe 'My behaviour' do
-
-  it 'should do something' do
-
-    true.should == false
-  end
-end</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRkCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgcCBmbGFzaFs6ZGFuZ2VyXQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgY2FydF9pdGVtXzIgPQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgZ2V0IDppbmRleCwgcGFyYW1zOiB7IHVzZXJfaWQ6IHVzZXIuaWQgfSwgc2Vzc2lvbjogeyB1c2VyX2lkOiB1c2VyLmlkIH0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZhY3RvcnkgOmludmFsaWRfdXNlciBkbwogICAgICBuYW1lIG5pbAogICAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action RecentFiles</text>
