@@ -129,12 +129,11 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/features/cart_items_spec.rb" timestamp="1495433745715">
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/features/cart_items_spec.rb" timestamp="1495438371942">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-        <mark key="^" line="18" column="25" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="38" column="76" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/exercise_app/db/migrate/20170428043333_create_users.rb" timestamp="1493354791280">
         <mark key="[" line="3" column="20" />
@@ -232,6 +231,12 @@
         <mark key="^" line="59" column="51" />
         <mark key="." line="59" column="51" />
       </file>
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/views/cart_items/index.html.erb_spec.rb" timestamp="1495438955320">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="9" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/users/search_user.coffee" timestamp="1482044093305">
         <mark key="[" line="0" column="32" />
         <mark key="]" line="0" column="37" />
@@ -272,6 +277,12 @@
         <mark key="]" line="20" column="65" />
         <mark key="." line="20" column="65" />
         <mark key="^" line="20" column="65" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/support/http_macros.rb" timestamp="1495434759411">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="1" column="1" />
+        <mark key="." line="0" column="16" />
+        <mark key="^" line="0" column="16" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/factories/users.rb" timestamp="1495176378361">
         <mark key="[" line="15" column="30" />
@@ -362,7 +373,7 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="/Ruby Console" timestamp="1495184435223">
+      <file name="/Ruby Console" timestamp="1495436530217">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/models/user.rb" timestamp="1494983017071">
@@ -520,10 +531,11 @@
         <mark key="]" line="2" column="22" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/rails_helper.rb" timestamp="1495421525328">
-        <mark key="[" line="83" column="36" />
-        <mark key="]" line="83" column="36" />
-        <mark key="." line="83" column="36" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/rails_helper.rb" timestamp="1495436687911">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="77" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/exercise_app/app/models/club.rb" timestamp="1493355480720">
         <mark key="[" line="0" column="30" />
@@ -600,10 +612,10 @@
         <mark key="." line="21" column="34" />
         <mark key="^" line="21" column="34" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/support/login_macros.rb" timestamp="1495181997104">
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/support/login_macros.rb" timestamp="1495434721612">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="2" column="10" />
-        <mark key="]" line="2" column="13" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="18" />
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="13" />
       </file>
@@ -1041,17 +1053,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="39" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" />
-      <jump line="25" column="21" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" />
-      <jump line="39" column="53" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" />
-      <jump line="34" column="16" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" />
-      <jump line="46" column="10" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" />
-      <jump line="54" column="15" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" />
-      <jump line="69" column="10" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" />
-      <jump line="82" column="10" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" />
-      <jump line="13" column="10" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" />
-      <jump line="36" column="81" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" />
       <jump line="66" column="84" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" />
       <jump line="75" column="82" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" />
       <jump line="94" column="71" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" />
@@ -1099,10 +1100,7 @@
       <jump line="32" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/rails_helper.rb" />
       <jump line="28" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/rails_helper.rb" />
       <jump line="24" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/rails_helper.rb" />
-      <jump line="8" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/rails_helper.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/rails_helper.rb" />
-      <jump line="35" column="45" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/rails_helper.rb" />
-      <jump line="39" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/rails_helper.rb" />
       <jump line="54" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/rails_helper.rb" />
       <jump line="59" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/rails_helper.rb" />
       <jump line="64" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/rails_helper.rb" />
@@ -1141,46 +1139,60 @@
       <jump line="186" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" />
       <jump line="192" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" />
       <jump line="198" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" />
+      <jump line="7" column="25" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/rails_helper.rb" />
+      <jump line="8" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/rails_helper.rb" />
+      <jump line="23" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/rails_helper.rb" />
+      <jump line="27" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/rails_helper.rb" />
+      <jump line="30" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/rails_helper.rb" />
+      <jump line="35" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/rails_helper.rb" />
+      <jump line="39" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/rails_helper.rb" />
+      <jump line="43" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/rails_helper.rb" />
+      <jump line="48" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/rails_helper.rb" />
+      <jump line="63" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/rails_helper.rb" />
+      <jump line="68" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/rails_helper.rb" />
+      <jump line="71" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/rails_helper.rb" />
+      <jump line="73" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/rails_helper.rb" />
+      <jump line="75" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/rails_helper.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>カートには何も入っていません。</text>
+        <text>spec_helper</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzY2VuYXJpbyAnRGVsZXRlIGZ1bmN0aW9uIHNwZWNpZmljYXRpb24nLCBqczogdHJ1ZSBkbwogICAgdXNlciA9IGNyZWF0ZSg6YWN0aXZhdGVkX3VzZXIpCiAgICBpdGVtID0gY3JlYXRlKDppdGVtKQogICAgY2FydF9pdGVtID0gY3JlYXRlKDpjYXJ0X2l0ZW0sIHVzZXI6IHVzZXIsIGl0ZW06IGl0ZW0sIHByaWNlOiBpdGVtLnByaWNlKQoKICAgIHZpc2l0IHJvb3RfcGF0aAogICAgc2lnbl9pbiB1c2VyCiAgICB2aXNpdCB1c2VyX2NhcnRfaXRlbXNfcGF0aCh1c2VyKQoKICAgIGV4cGVjdChwYWdlKS50byBoYXZlX2xpbmsgaXRlbS5uYW1lCiAgICBjbGlja19saW5rICJkZXN0cm95X2NhcnRfaXRlbV8je2NhcnRfaXRlbS5pZH0iCiAgICBwYWdlLmRyaXZlci5icm93c2VyLnN3aXRjaF90by5hbGVydC5kaXNtaXNzCiAgICBleHBlY3QocGFnZSkudG8gaGF2ZV9saW5rIGl0ZW0ubmFtZQogICAgY2xpY2tfbGluayAiZGVzdHJveV9jYXJ0X2l0ZW1fI3tjYXJ0X2l0ZW0uaWR9IgogICAgcGFnZS5kcml2ZXIuYnJvd3Nlci5zd2l0Y2hfdG8uYWxlcnQuYWNjZXB0CiAgICBleHBlY3QocGFnZSkubm90X3RvIGhhdmVfbGluayBpdGVtLm5hbWUKICBlbmQK</text>
+        <text encoding="base64">ICAgIHVzZXIgPSBjcmVhdGUoOmFjdGl2YXRlZF91c2VyKQogICAgaXRlbSA9IGNyZWF0ZSg6aXRlbSkKICAgIGNhcnRfaXRlbSA9IGNyZWF0ZSg6Y2FydF9pdGVtLCB1c2VyOiB1c2VyLCBpdGVtOiBpdGVtLCBwcmljZTogaXRlbS5wcmljZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzY2VuYXJpbyAnRGVsZXRlIGJ1dHRvbiAsIGpzOiB0cnVlIGRvCiAgICB1c2VyID0gY3JlYXRlKDphY3RpdmF0ZWRfdXNlcikKICAgIGl0ZW0gPSBjcmVhdGUoOml0ZW0pCiAgICBjcmVhdGUoOmNhcnRfaXRlbSwgdXNlcjogdXNlciwgaXRlbTogaXRlbSwgcHJpY2U6IGl0ZW0ucHJpY2UpCgogICAgdmlzaXQgcm9vdF9wYXRoCiAgICBzaWduX2luIHVzZXIKICAgIHZpc2l0IHVzZXJfY2FydF9pdGVtc19wYXRoKHVzZXIpCiAgICBleHBlY3QgewogICAgICBjbGlja19saW5rICfliYrpmaQnCiAgICB9Lm5vdF90byBjaGFuZ2UoQ2FydEl0ZW0sIDpjb3VudCkuYnkoLTEpCiAgZW5kCgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QocmVzcG9uc2UpLnRvIHJlZGlyZWN0X3RvIHVzZXJfY2FydF9pdGVtc19wYXRoKHVzZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FydF9pdGVtID0gY3JlYXRlKDpjYXJ0X2l0ZW0sIHVzZXI6IHVzZXIsIGl0ZW06IGl0ZW0sIHByaWNlOiBpdGVtLnByaWNlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QgewogICAgICAgICAgZGVsZXRlIDpkZXN0cm95LCBwYXJhbXM6IHsgaWQ6IDEgfSwgc2Vzc2lvbjogeyB1c2VyX2lkOiB1c2VyLmlkIH0KICAgICAgICB9LnRvIGNoYW5nZShDYXJ0SXRlbSwgOmNvdW50KS5ieSgtMSkK</text>
+        <text encoding="base64">ICAgIGNhcnRfaXRlbSA9IGNyZWF0ZSg6Y2FydF9pdGVtLCB1c2VyOiB1c2VyLCBpdGVtOiBpdGVtLCBwcmljZTogaXRlbS5wcmljZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB1c2VyID0gY3JlYXRlKDphY3RpdmF0ZWRfdXNlcikKICBpdGVtID0gY3JlYXRlKDppdGVtKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmVkaXJlY3RfdG8gcm9vdF91cmwgaWYgQGNhcnRfaXRlbS5uaWw/Cg==</text>
+        <text encoding="base64">ICAgIHVzZXIgPSBjcmVhdGUoOmFjdGl2YXRlZF91c2VyKQogICAgaXRlbSA9IGNyZWF0ZSg6aXRlbSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmVkaXJlY3RfdG8gcmVxdWVzdC5yZWZlcnJlciB8fCB1c2VyX2NhcnRfaXRlbXNfcGF0aChjdXJyZW50X3VzZXIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZSBkbwogICAgICBAY2FydF9pdGVtID0gY3JlYXRlKDpjYXJ0X2l0ZW0sIHVzZXI6IHVzZXIsIGl0ZW06IGl0ZW0sIHByaWNlOiBpdGVtLnByaWNlKQogICAgZW5kCg==</text>
+        <text encoding="base64">ICBpdCAnc2hvdWxkIGRvIHNvbWV0aGluZycgZG8KCiAgICB0cnVlLnNob3VsZCA9PSBmYWxzZQogIGVuZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgQGNhcnRfaXRlbS5kZXN0cm95Cg==</text>
+        <text encoding="base64">cmVxdWlyZSAncnNwZWMnCg==</text>
       </register>
       <register name=":" type="4">
         <text>redo</text>
