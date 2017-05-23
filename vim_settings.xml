@@ -51,12 +51,12 @@
         <mark key="." line="7" column="74" />
         <mark key="^" line="7" column="74" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" timestamp="1495507489984">
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" timestamp="1495522474910">
         <mark key="'" line="57" column="0" />
-        <mark key="[" line="132" column="66" />
-        <mark key="]" line="132" column="79" />
-        <mark key="." line="132" column="79" />
-        <mark key="^" line="132" column="79" />
+        <mark key="[" line="174" column="47" />
+        <mark key="]" line="174" column="46" />
+        <mark key="^" line="174" column="46" />
+        <mark key="." line="174" column="46" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/models/item.rb" timestamp="1494986521198">
         <mark key="[" line="6" column="0" />
@@ -109,12 +109,11 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/features/cart_items_spec.rb" timestamp="1495518990448">
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/features/cart_items_spec.rb" timestamp="1495522290167">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="2" column="30" />
-        <mark key="." line="3" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/exercise_app/db/migrate/20170428043333_create_users.rb" timestamp="1493354791280">
         <mark key="[" line="3" column="20" />
@@ -245,11 +244,11 @@
         <mark key="." line="19" column="49" />
         <mark key="^" line="19" column="49" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/support/http_macros.rb" timestamp="1495518561062">
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="5" column="29" />
-        <mark key="." line="5" column="29" />
-        <mark key="^" line="5" column="29" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/support/http_macros.rb" timestamp="1495522187329">
+        <mark key="[" line="5" column="40" />
+        <mark key="]" line="5" column="47" />
+        <mark key="." line="5" column="47" />
+        <mark key="^" line="5" column="47" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/factories/users.rb" timestamp="1495176378361">
         <mark key="[" line="15" column="30" />
@@ -592,11 +591,12 @@
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" timestamp="1495503446181">
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" timestamp="1495522511447">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
+        <mark key="[" line="42" column="28" />
+        <mark key="]" line="42" column="28" />
+        <mark key="." line="42" column="28" />
+        <mark key="^" line="42" column="27" />
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/Gemfile" timestamp="1494474780232">
         <mark key="[" line="40" column="30" />
@@ -944,40 +944,40 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>delete</text>
+        <text>カートに追加できませんでした。</text>
       </register>
       <register name="/" type="4">
         <text>seccond</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgaHR0cF9kZWxldGUocGF0aCkKICAgIGN1cnJlbnRfZHJpdmVyID0gQ2FweWJhcmEuY3VycmVudF9kcml2ZXIKICAgIENhcHliYXJhLmN1cnJlbnRfZHJpdmVyID0gOnJhY2tfdGVzdAogICAgcGFnZS5kcml2ZXIuc3VibWl0IDpkZWxldGUsIHBhdGgsIHt9CiAgICBDYXB5YmFyYS5jdXJyZW50X2RyaXZlciA9IGN1cnJlbnRfZHJpdmVyCiAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICBmbGFzaC5ub3dbOmRhbmdlcl0gPSAn44Kr44O844OI44Gr6L+95Yqg44Gn44GN44G+44Gb44KT44Gn44GX44Gf44CCJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">ICAgICAg5pu05paw44Gr5aSx5pWX44GX44G+44GX44Gf44CCCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHBhZ2UgPSBDYXB5YmFyYTo6Tm9kZTo6U2ltcGxlLm5ldyggcmVuZGVyZWQgKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhZ2UuZHJpdmVyLmJyb3dzZXIuc3dpdGNoX3RvLmFsZXJ0LmFjY2VwdAo=</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QocmVzcG9uc2UpLnRvIHJlbmRlcl90ZW1wbGF0ZSA6aW5kZXgK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNsaWNrX2xpbmsgImRlc3Ryb3lfY2FydF9pdGVtXyN7Y2FydF9pdGVtLmlkfSIK</text>
+        <text encoding="base64">ICAgIGh0dHBfZGVsZXRlKCIvY2FydF9pdGVtcy8je2NhcnRfaXRlbS5pZH0iKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYWdlID0gQ2FweWJhcmE6Ok5vZGU6OlNpbXBsZS5uZXcoIHJlbmRlcmVkICkK</text>
+        <text encoding="base64">ICAgIGh0dHBfdXBkYXRlKCIvY2FydF9pdGVtcy8je2NhcnRfaXRlbS5pZH0iKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QoZmluZCgpKS50byBoYXZlX3NlbGVjdCgiY2FydF9pdGVtXyN7Y2FydF9pdGVtLmlkfV9xdWFudGl0eSIsCiAgICAgICAgICAgIG9wdGlvbnM6IFsxLCAyXSkK</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChwYWdlKS50byBoYXZlX3NlbGVjdCgiY2FydF9pdGVtXyN7Y2FydF9pdGVtLmlkfV9xdWFudGl0eSIsIG9wdGlvbnM6ICkK</text>
+        <text encoding="base64">ICAgICAgICAjIHBhZ2UgPSBDYXB5YmFyYTo6Tm9kZTo6U2ltcGxlLm5ldyggcmVuZGVyZWQgKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QocmVuZGVyZWQpLnRvIGhhdmVfc2VsZWN0KCJjYXJ0X2l0ZW1fI3tmaXJzdF9jYXJ0X2l0ZW0uaWR9X3F1YW50aXR5IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGVjdGVkOiAnMScpCg==</text>
+        <text encoding="base64">ICAgIHBhZ2UuZHJpdmVyLmJyb3dzZXIuc3dpdGNoX3RvLmFsZXJ0LmFjY2VwdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmaXJzdCA9IGJ1aWxkX3N0dWJiZWQoOmNhcnRfaXRlbSwgdXNlcjogdXNlciwgaXRlbTogYnVpbGRfc3R1YmJlZCg6aXRlbSwgc3RvY2s6IDEpKQo=</text>
+        <text encoding="base64">ICAgIGNsaWNrX2xpbmsgImRlc3Ryb3lfY2FydF9pdGVtXyN7Y2FydF9pdGVtLmlkfSIK</text>
       </register>
       <register name=":" type="4">
         <text>redo</text>
