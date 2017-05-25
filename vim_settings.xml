@@ -980,7 +980,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>redo</text>
+        <text>action CloseContent</text>
       </register>
     </registers>
     <search>
@@ -1026,8 +1026,8 @@
         <entry>vs</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action RecentFiles</entry>
-        <entry>action CloseContent</entry>
         <entry>redo</entry>
+        <entry>action CloseContent</entry>
       </history-cmd>
       <history-expr />
       <history-input />
