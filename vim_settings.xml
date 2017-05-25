@@ -194,11 +194,12 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/features/cart_items_spec.rb" timestamp="1495532069083">
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/features/cart_items_spec.rb" timestamp="1495680979311">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+        <mark key="[" line="40" column="17" />
+        <mark key="]" line="40" column="20" />
+        <mark key="." line="40" column="20" />
+        <mark key="^" line="40" column="20" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/static_pages_controller.rb" timestamp="1494919833337">
         <mark key="[" line="20" column="17" />
@@ -282,6 +283,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/Gemfile.lock" timestamp="1495680255438">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/assets/stylesheets/custom.css.scss" timestamp="1481716043798">
         <mark key="[" line="5" column="0" />
@@ -381,11 +387,8 @@
         <mark key="." line="36" column="65" />
         <mark key="^" line="36" column="65" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/Gemfile" timestamp="1495442868904">
-        <mark key="'" line="67" column="55" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/Gemfile" timestamp="1495680239906">
+        <mark key="'" line="83" column="55" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/spec_helper.rb" timestamp="1495440412243">
         <mark key="'" line="85" column="42" />
@@ -944,7 +947,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>seccond</text>
@@ -953,31 +956,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICA8JT0gZi5zZWxlY3QgOnF1YW50aXR5LCBvcHRpb25zX2Zvcl9zZWxlY3QoMS4uMTAsIHNlbGVjdGVkOiBjYXJ0X2l0ZW0ucXVhbnRpdHkpLCB7fSwgb25DaGFuZ2U6ICd0aGlzLmZvcm0uc3VibWl0KCk7JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgaWQ6ICJjYXJ0X2l0ZW1fI3tjYXJ0X2l0ZW0uaWR9X3F1YW50aXR5IiwgY2xhc3M6ICdmb3JtLWNvbnRyb2wnICU+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LmVudgo=</text>
+        <text encoding="base64">ICAgIHAgcGFnZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCU9IGYuc2VsZWN0IDpxdWFudGl0eSwgb3B0aW9uc19mb3Jfc2VsZWN0KDEuLjEwLCBzZWxlY3RlZDogY2FydF9pdGVtLnF1YW50aXR5KSwge30sIG9uQ2hhbmdlOiAndGhpcy5mb3JtLnN1Ym1pdCgpOycsCiAgICAgICAgICAgICAgICAgICAgICAgICBpZDogImNhcnRfaXRlbV8je2NhcnRfaXRlbS5pZH1fcXVhbnRpdHkiLCBjbGFzczogJ2Zvcm0tY29udHJvbCcgJT4K</text>
+        <text encoding="base64">ICAgIHBwIHBhZ2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">Pj4+Pj4+PiA2NDJlZDA1Li4uIOODpuODvOOCtuODvOeZu+mMsuOBp+OBjeOCi+OCiOOBhuOBq+OBl+OBnwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmaXJzdF9jYXJ0X2l0ZW0gPSBidWlsZF9zdHViYmVkKDpjYXJ0X2l0ZW0sIHVzZXI6IHVzZXIsIGl0ZW06IGJ1aWxkX3N0dWJiZWQoOml0ZW0sIHN0b2NrOiAxKSkKICAgICAgICBhc3NpZ24oOmNhcnRfaXRlbXMsIFsgZmlyc3RfY2FydF9pdGVtLCBzZWNvbmRfY2FydF9pdGVtIF0pCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWNvbmRfY2FydF9pdGVtID0gYnVpbGRfc3R1YmJlZCg6Y2FydF9pdGVtLCB1c2VyOiB1c2VyLCBpdGVtOiBidWlsZF9zdHViYmVkKDppdGVtLCBzdG9jazogOSkpCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNhdmVfYW5kX29wZW5fcGFnZQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiA2NDJlZDA1Li4uIOODpuODvOOCtuODvOeZu+mMsuOBp+OBjeOCi+OCiOOBhuOBq+OBl+OBnwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNhdmVfYW5kX29wZW5fcGFnZQo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LmVudgo=</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
