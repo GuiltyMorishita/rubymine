@@ -465,6 +465,12 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="5" column="11" />
       </file>
+      <file name="$USER_HOME$/.anyenv/envs/rbenv/shims/guard" timestamp="1495774877644">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/layouts/application.html.erb" timestamp="1481374379740">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -645,7 +651,7 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="/Ruby Console" timestamp="1495774330761">
+      <file name="/Ruby Console" timestamp="1495774974449">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/news_releases_spec.rb" timestamp="1477754388861">
