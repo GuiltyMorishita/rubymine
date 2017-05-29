@@ -363,12 +363,12 @@
         <mark key="." line="15" column="22" />
         <mark key="^" line="15" column="22" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" timestamp="1496025430446">
-        <mark key="'" line="47" column="11" />
-        <mark key="[" line="1" column="49" />
-        <mark key="]" line="1" column="62" />
-        <mark key="." line="1" column="62" />
-        <mark key="^" line="1" column="62" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" timestamp="1496026332594">
+        <mark key="'" line="46" column="11" />
+        <mark key="[" line="74" column="56" />
+        <mark key="]" line="74" column="47" />
+        <mark key="^" line="74" column="47" />
+        <mark key="." line="74" column="47" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/sample_app/Gemfile" timestamp="1494220597274">
         <mark key="[" line="41" column="26" />
@@ -974,31 +974,31 @@
         <text encoding="base64">ICAgICAgICBpdGVtXzEgPSBjcmVhdGUoOmNhcnRfaXRlbSwgdXNlcjogdXNlcikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGUoOmNhcnRfaXRlbSwgdXNlcjogdXNlcikK</text>
+        <text encoding="base64">ICBiZWZvcmVfYWN0aW9uIDpjb3JyZWN0X3VzZXIsIG9ubHk6IFs6aW5kZXhdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtXzEgPSBjcmVhdGUoOmNhcnRfaXRlbSwgdXNlcjogdXNlcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICMgVE9ETyDjg63jgrDjgqTjg7PjgZfjgabjgYTjgozjgbDmraPjgZfjgYTjg6bjg7zjgrbjg7zjgYvnorroqo3jgZnjgovlv4XopoHjga/jgarjgYQKICAgIGRlZiBjb3JyZWN0X3VzZXIKICAgICAgQHVzZXIgPSBVc2VyLmZpbmRfYnkoaWQ6IHBhcmFtc1s6dXNlcl9pZF0pCiAgICAgIHJlZGlyZWN0X3RvKHJvb3RfdXJsKSB1bmxlc3MgY3VycmVudF91c2VyPyhAdXNlcikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVsc2UKICAgICAgZmxhc2hbOmRhbmdlcl0gPSAn44GT44KM5Lul5LiK44Kr44O844OI44Gr44Gv6L+95Yqg44Gn44GN44G+44Gb44KT44CCJwogICAgICByZWRpcmVjdF90byB1c2VyX2NhcnRfaXRlbXNfcGF0aChjdXJyZW50X3VzZXIpCiAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGUoOmNhcnRfaXRlbSwgdXNlcjogdXNlcikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIGNhcnRfaXRlbXMuY291bnQgPCA1MAo=</text>
+        <text encoding="base64">ICAgICAgICBpdGVtXzEgPSBjcmVhdGUoOmNhcnRfaXRlbSwgdXNlcjogdXNlcikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIGNhcnRfaXRlbXMuY291bnQgPCA1MAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICDoqpXnlJ/ml6XjgpLnpZ3jgYbmsJfmjIHjgaHjgafov7fmg5HjgpLjgYvjgZHjgZ/jgojjgYbjgacI44CBCOODoeODs+ODkOODvOOBrwjmhI/msJfmtojmsojjgZfjgabjgZfjgb7jgYTjgb7jgZfjgZ/jgIIKICDoqpXnlJ/ml6XjgavplqLjgo/jgaPjgZ/kurrjgZ/jgaHjga8I44G/44KT44Gq44OP44OD44OU44O844Gn44GC44KL44G544GN44Gn44Gv44Gq44GE44Gn44GX44KH44GG44GL77yfCg==</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVsc2UKICAgICAgZmxhc2hbOmRhbmdlcl0gPSAn44GT44KM5Lul5LiK44Kr44O844OI44Gr44Gv6L+95Yqg44Gn44GN44G+44Gb44KT44CCJwogICAgICByZWRpcmVjdF90byB1c2VyX2NhcnRfaXRlbXNfcGF0aChjdXJyZW50X3VzZXIpCiAgICBlbmQK</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
