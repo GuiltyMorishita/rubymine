@@ -87,12 +87,12 @@
       <file name="$USER_HOME$/Ebios/Ruby/exercise_app/app/models/club.rb" timestamp="1493355480720">
         <mark key="[" line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" timestamp="1496037692571">
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" timestamp="1496120894359">
         <mark key="'" line="170" column="0" />
-        <mark key="[" line="117" column="52" />
-        <mark key="]" line="117" column="73" />
-        <mark key="." line="117" column="73" />
-        <mark key="^" line="117" column="73" />
+        <mark key="[" line="214" column="28" />
+        <mark key="]" line="212" column="44" />
+        <mark key="." line="212" column="44" />
+        <mark key="^" line="212" column="44" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/support/shared_db_connection.rb" timestamp="1477748463334">
         <mark key="[" line="9" column="18" />
@@ -369,11 +369,12 @@
         <mark key="." line="15" column="22" />
         <mark key="^" line="15" column="22" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" timestamp="1496112031778">
-        <mark key="'" line="66" column="6" />
-        <mark key="[" line="67" column="24" />
-        <mark key="]" line="67" column="24" />
-        <mark key="." line="67" column="24" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" timestamp="1496121413083">
+        <mark key="'" line="75" column="6" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
+        <mark key="^" line="92" column="5" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/sample_app/Gemfile" timestamp="1494220597274">
         <mark key="[" line="41" column="26" />
@@ -961,40 +962,40 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>この商品はカートに入っていません。</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>cart_item_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmbGFzaFs6ZGFuZ2VyXSA9ICfjgZPjga7llYblk4Hjga/jgqvjg7zjg4jjgavlhaXjgaPjgabjgYTjgb7jgZvjgpPjgIInCg==</text>
+        <text encoding="base64">ICAgICAgcGFyYW1ldGVycy5zdG9yZSgncHJpY2UnLCBAaXRlbS5wcmljZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcGFyYW1ldGVycwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmVkaXJlY3RfdG8gdXNlcl9jYXJ0X2l0ZW1zX3BhdGgoY3VycmVudF91c2VyKQo=</text>
+        <text encoding="base64">ICAgICAgcGFyYW1ldGVycy5zdG9yZSgncHJpY2UnLCBAaXRlbS5wcmljZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmVkaXJlY3RfdG8gdXNlcl9jYXJ0X2l0ZW1zX3BhdGgoY3VycmVudF91c2VyKQo=</text>
+        <text encoding="base64">ICAgICAgcGFyYW1ldGVycy5zdG9yZSgncHJpY2UnLCBAaXRlbS5wcmljZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdXNlcl9jYXJ0X2l0ZW1zX3BhdGgoY3VycmVudF91c2VyKQo=</text>
+        <text encoding="base64">ICAgICAgcGFyYW1ldGVycwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZsYXNoWzpzdWNjZXNzXSA9ICLjgqvjg7zjg4jjgYvjgokje0BjYXJ0X2l0ZW0uaXRlbS5uYW1lfeOBjOWJiumZpOOBleOCjOOBvuOBl+OBn+OAgiIK</text>
+        <text encoding="base64">ICAgICAgICAgIHJlZGlyZWN0X3RvIGl0ZW1fcGF0aChAaXRlbSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICMgVE9ETyDllYblk4Hjg5rjg7zjgrjjgbgK</text>
+        <text encoding="base64">ICAgIHJlZGlyZWN0X3RvIHVzZXJfY2FydF9pdGVtc19wYXRoKGN1cnJlbnRfdXNlcikK</text>
       </register>
       <register name=":" type="4">
         <text>redo</text>
