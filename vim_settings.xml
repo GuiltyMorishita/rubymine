@@ -371,12 +371,11 @@
         <mark key="." line="15" column="22" />
         <mark key="^" line="15" column="22" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" timestamp="1496219512581">
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" timestamp="1496221162630">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="28" column="8" />
-        <mark key="]" line="28" column="5" />
-        <mark key="." line="28" column="5" />
-        <mark key="^" line="28" column="5" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/sample_app/Gemfile" timestamp="1494220597274">
         <mark key="[" line="41" column="26" />
@@ -977,31 +976,31 @@
         <text encoding="base64">ICAgICAgY2FydF9pdGVtcyA9IGN1cnJlbnRfdXNlci5jYXJ0X2l0ZW1zLmFsbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZWxzCg==</text>
+        <text encoding="base64">ICAgICAgQWN0aXZlUmVjb3JkOjpCYXNlLmNvbm5lY3Rpb24uZXhlY3V0ZSgnTE9DSyBUQUJMRVMgY2FydF9pdGVtcyBXUklURScpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgQWN0aXZlUmVjb3JkOjpCYXNlLmNvbm5lY3Rpb24uZXhlY3V0ZSgnVU5MT0NLIFRBQkxFUycpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjYXJ0X2l0ZW0udXBkYXRlKHF1YW50aXR5OiB1cGRhdGVfcXVhbnRpdHkpCiAgICAgICAgICBmbGFzaFs6c3VjY2Vzc10gPSAn44Kr44O844OI44Gr6L+95Yqg44GX44G+44GX44Gf44CCJwogICAgICAgICAgcmVkaXJlY3RfdG8gdXNlcl9jYXJ0X2l0ZW1zX3BhdGgoY3VycmVudF91c2VyKQogICAgICAgIGVsc2UKICAgICAgICAgIGZsYXNoWzpkYW5nZXJdID0gJ+OCq+ODvOODiOOBq+i/veWKoOOBp+OBjeOBvuOBm+OCk+OBp+OBl+OBn+OAgicKICAgICAgICAgIHJlZGlyZWN0X3RvIGl0ZW1fcGF0aChAaXRlbSkKICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgQWN0aXZlUmVjb3JkOjpCYXNlLmNvbm5lY3Rpb24uZXhlY3V0ZSgnTE9DSyBUQUJMRVMgY2FydF9pdGVtcyBXUklURScpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZWxzZQo=</text>
+        <text encoding="base64">ICAgICAgQWN0aXZlUmVjb3JkOjpCYXNlLmNvbm5lY3Rpb24uZXhlY3V0ZSgnVU5MT0NLIFRBQkxFUycpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">aWYgdXBkYXRlX3F1YW50aXR5ID4gY2FydF9pdGVtLml0ZW0uc3RvY2sKICAgICAgICBmbGFzaFs6ZGFuZ2VyXSA9ICflnKjluqvmlbDjgpLotoXjgYjjgabjgYTjgb7jgZnjgIInCiAgICAgICAgcmVkaXJlY3RfdG8gdXNlcl9jYXJ0X2l0ZW1zX3BhdGgoY3VycmVudF91c2VyKQogICAgICBlbHNl</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgZWxzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhcnRfaXRlbXNbaW5kZXhdLmRlbGV0ZQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBjYXJ0X2l0ZW0udXBkYXRlKHF1YW50aXR5OiB1cGRhdGVfcXVhbnRpdHkpCiAgICAgICAgICBmbGFzaFs6c3VjY2Vzc10gPSAn44Kr44O844OI44Gr6L+95Yqg44GX44G+44GX44Gf44CCJwogICAgICAgICAgcmVkaXJlY3RfdG8gdXNlcl9jYXJ0X2l0ZW1zX3BhdGgoY3VycmVudF91c2VyKQogICAgICAgIGVsc2UKICAgICAgICAgIGZsYXNoWzpkYW5nZXJdID0gJ+OCq+ODvOODiOOBq+i/veWKoOOBp+OBjeOBvuOBm+OCk+OBp+OBl+OBn+OAgicKICAgICAgICAgIHJlZGlyZWN0X3RvIGl0ZW1fcGF0aChAaXRlbSkKICAgICAgICBlbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgQGNhcnRfaXRlbXMgPSBjYXJ0X2l0ZW1zCg==</text>
+        <text encoding="base64">ICAgICAgZWxzZQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgQAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">aWYgdXBkYXRlX3F1YW50aXR5ID4gY2FydF9pdGVtLml0ZW0uc3RvY2sKICAgICAgICBmbGFzaFs6ZGFuZ2VyXSA9ICflnKjluqvmlbDjgpLotoXjgYjjgabjgYTjgb7jgZnjgIInCiAgICAgICAgcmVkaXJlY3RfdG8gdXNlcl9jYXJ0X2l0ZW1zX3BhdGgoY3VycmVudF91c2VyKQogICAgICBlbHNl</text>
       </register>
       <register name=":" type="4">
         <text>redo</text>
