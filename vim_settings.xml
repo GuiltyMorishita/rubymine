@@ -90,8 +90,6 @@
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" timestamp="1496301146154">
         <mark key="'" line="174" column="0" />
         <mark key="[" line="170" column="72" />
-        <mark key="]" line="6" column="4" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/support/shared_db_connection.rb" timestamp="1477748463334">
         <mark key="[" line="9" column="18" />
@@ -232,9 +230,6 @@
         <mark key="]" line="71" column="66" />
         <mark key="^" line="71" column="66" />
         <mark key="." line="71" column="66" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/application_controller.rb" timestamp="1496129908855">
-        <mark key="^" line="13" column="3" />
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/app/views/layouts/_header.html.erb" timestamp="1489726538451">
         <mark key="[" line="17" column="23" />
