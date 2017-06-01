@@ -87,9 +87,9 @@
       <file name="$USER_HOME$/Ebios/Ruby/exercise_app/app/models/club.rb" timestamp="1493355480720">
         <mark key="[" line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" timestamp="1496294177761">
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" timestamp="1496301146154">
         <mark key="'" line="174" column="0" />
-        <mark key="[" line="4" column="0" />
+        <mark key="[" line="170" column="72" />
         <mark key="]" line="6" column="4" />
         <mark key="." line="4" column="0" />
       </file>
@@ -383,12 +383,10 @@
         <mark key="." line="15" column="22" />
         <mark key="^" line="15" column="22" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" timestamp="1496300298565">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="40" column="14" />
-        <mark key="]" line="40" column="15" />
-        <mark key="^" line="40" column="15" />
-        <mark key="." line="40" column="15" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" timestamp="1496301319861">
+        <mark key="]" line="2" column="57" />
+        <mark key="." line="2" column="57" />
+        <mark key="^" line="2" column="57" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/sample_app/Gemfile" timestamp="1494220597274">
         <mark key="[" line="41" column="26" />
@@ -901,7 +899,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="61" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/spec_helper.rb" />
       <jump line="49" column="36" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/spec_helper.rb" />
       <jump line="51" column="46" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/spec_helper.rb" />
       <jump line="54" column="16" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/spec_helper.rb" />
@@ -1001,46 +998,54 @@
       <jump line="105" column="19" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+      <jump line="19" column="32" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">IA==</text>
       </register>
+      <register name="k" type="4">
+        <keys>
+          <key char="103" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="65535" code="69" mods="130" />
+        </keys>
+      </register>
       <register name="-" type="4">
-        <text>count</text>
+        <text>update_quantity</text>
       </register>
       <register name="/" type="4">
         <text>cart_item_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY2FydF9pdGVtLndpdGhfbG9jayBkbwo=</text>
+        <text encoding="base64">ICAgICAgQGNhcnRfaXRlbS53aXRoX2xvY2sgZG8KICAgICAgICB1cGRhdGVfcXVhbnRpdHkgPSBAY2FydF9pdGVtLnF1YW50aXR5ICsgY2FydF9pdGVtX3F1YW50aXR5X3BhcmFtWzpxdWFudGl0eV0udG9faQogICAgICAgICMgMeWVhuWTgeOBlOOBqOOBqzUw5YCL44G+44Gn6L+95Yqg44Gn44GN44KLCiAgICAgICAgaWYgdXBkYXRlX3F1YW50aXR5IDw9IDUwCiAgICAgICAgICAjIOWcqOW6q+S7peS4i+OBruWgtOWQiOOAgei/veWKoOOBp+OBjeOCiwogICAgICAgICAgaWYgdXBkYXRlX3F1YW50aXR5IDw9IEBjYXJ0X2l0ZW0uaXRlbS5zdG9jawogICAgICAgICAgICBpZiBAY2FydF9pdGVtLnVwZGF0ZShxdWFudGl0eTogdXBkYXRlX3F1YW50aXR5KQogICAgICAgICAgICAgIGZsYXNoWzpzdWNjZXNzXSA9ICfjgqvjg7zjg4jjgavov73liqDjgZfjgb7jgZfjgZ/jgIInCiAgICAgICAgICAgICAgcmVkaXJlY3RfdG8gdXNlcl9jYXJ0X2l0ZW1zX3BhdGgoY3VycmVudF91c2VyKQogICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgZmxhc2hbOmRhbmdlcl0gPSAn44Kr44O844OI44Gr6L+95Yqg44Gn44GN44G+44Gb44KT44Gn44GX44Gf44CCJwogICAgICAgICAgICAgIHJlZGlyZWN0X3RvIGl0ZW1fcGF0aChAaXRlbSkKICAgICAgICAgICAgZW5kCiAgICAgICAgICBlbHNlCiAgICAgICAgICAgIGZsYXNoWzpkYW5nZXJdID0gJ+WcqOW6q+aVsOOCkui2heOBiOOBpuOBhOOBvuOBmeOAgicKICAgICAgICAgICAgcmVkaXJlY3RfdG8gdXNlcl9jYXJ0X2l0ZW1zX3BhdGgoY3VycmVudF91c2VyKQogICAgICAgICAgZW5kCiAgICAgICAgZWxzZQogICAgICAgICAgZmxhc2hbOmRhbmdlcl0gPSAn44GT44KM5Lul5LiK44Kr44O844OI44Gr6L+95Yqg44Gn44GN44G+44Gb44KT44CCJwogICAgICAgICAgcmVkaXJlY3RfdG8gdXNlcl9jYXJ0X2l0ZW1zX3BhdGgoY3VycmVudF91c2VyKQogICAgICAgIGVuZAogICAgICBlbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZSg6Y2FydF9pdGVtc19pbmZvbWF0aW9uLCB1c2VyOiB1c2VyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGVuZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZSBkbwo=</text>
+        <text encoding="base64">ICAgICAgICAgIEBjYXJ0X2l0ZW0ud2l0aF9sb2NrIGRvCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZSBkbwogICAgICBjcmVhdGUoOmNhcnRfaXRlbXNfaW5mb21hdGlvbiwgdXNlcjogdXNlcikKICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICAgIEBjYXJ0X2l0ZW0ud2l0aF9sb2NrIGRvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIEBjYXJ0X2l0ZW0udXBkYXRlKHF1YW50aXR5OiB1cGRhdGVfcXVhbnRpdHkpCiAgICAgICAgICAgICAgICAgIGZsYXNoWzpzdWNjZXNzXSA9ICfjgqvjg7zjg4jjgavov73liqDjgZfjgb7jgZfjgZ/jgIInCiAgICAgICAgICAgICAgICAgIHJlZGlyZWN0X3RvIHVzZXJfY2FydF9pdGVtc19wYXRoKGN1cnJlbnRfdXNlcikKICAgICAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgICAgZmxhc2hbOmRhbmdlcl0gPSAn44Kr44O844OI44Gr6L+95Yqg44Gn44GN44G+44Gb44KT44Gn44GX44Gf44CCJwogICAgICAgICAgICAgICAgICByZWRpcmVjdF90byBpdGVtX3BhdGgoQGl0ZW0pCiAgICAgICAgICAgICAgICBlbmQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsZXQoOmNhcnRfaXRlbXNfY291bnQpIHsgY3JlYXRlKDpjYXJ0X2l0ZW1zX2NvdW50LCB1c2VyOiB1c2VyKSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIEBjYXJ0X2l0ZW0gPSBAY2FydF9pdGVtcy5uZXcoY2FydF9pdGVtX3BhcmFtcykKICAgICAgICAgIGlmIEBjYXJ0X2l0ZW0uc2F2ZQogICAgICAgICAgICAjIGN1cnJlbnRfdXNlci5jYXJ0X2l0ZW1zX2luZm9tYXRpb24udXBkYXRlKHJlY29yZHNfY291bnQ6IEBjYXJ0X2l0ZW1zLmNvdW50KQogICAgICAgICAgICBmbGFzaFs6c3VjY2Vzc10gPSAn44Kr44O844OI44Gr6L+95Yqg44GX44G+44GX44Gf44CCJwogICAgICAgICAgICByZWRpcmVjdF90byB1c2VyX2NhcnRfaXRlbXNfcGF0aChjdXJyZW50X3VzZXIpCiAgICAgICAgICBlbHNlCiAgICAgICAgICAgIGZsYXNoWzpkYW5nZXJdID0gJ+OCq+ODvOODiOOBq+i/veWKoOOBp+OBjeOBvuOBm+OCk+OBp+OBl+OBn+OAgicKICAgICAgICAgICAgcmVkaXJlY3RfdG8gaXRlbV9wYXRoKEBpdGVtKQogICAgICAgICAgZW5kCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHVzZXIgPSBVc2VyLmNyZWF0ZSh1c2VyX3BhcmFtcykK</text>
+        <text encoding="base64">ICAgIEBjYXJ0X2l0ZW0ud2l0aF9sb2NrIGRvCiAgICAgIHVwZGF0ZV9xdWFudGl0eSA9IGNhcnRfaXRlbV9xdWFudGl0eV9wYXJhbVs6cXVhbnRpdHldLnRvX2kKICAgICAgaWYgdXBkYXRlX3F1YW50aXR5IDw9IDUwCiAgICAgICAgaWYgdXBkYXRlX3F1YW50aXR5IDw9IEBjYXJ0X2l0ZW0uaXRlbS5zdG9jawogICAgICAgICAgaWYgQGNhcnRfaXRlbS51cGRhdGUocXVhbnRpdHk6IHVwZGF0ZV9xdWFudGl0eSkKICAgICAgICAgICAgZmxhc2hbOnN1Y2Nlc3NdID0gJ+WAi+aVsOOCkuWkieabtOOBl+OBvuOBl+OBn+OAgicKICAgICAgICAgICAgcmVkaXJlY3RfdG8gdXNlcl9jYXJ0X2l0ZW1zX3BhdGgoY3VycmVudF91c2VyKQogICAgICAgICAgZWxzZQogICAgICAgICAgICBpZiAhQGNhcnRfaXRlbS5lcnJvcnMubWVzc2FnZXNbOnF1YW50aXR5XS5lbXB0eT8KICAgICAgICAgICAgICBmbGFzaFs6ZGFuZ2VyXSA9ICfkuI3pganliIfjgarlgKTjgafjgZnjgIInCiAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICBmbGFzaFs6ZGFuZ2VyXSA9ICfmm7TmlrDjgavlpLHmlZfjgZfjgb7jgZfjgZ/jgIInCiAgICAgICAgICAgIGVuZAogICAgICAgICAgICByZWRpcmVjdF90byB1c2VyX2NhcnRfaXRlbXNfcGF0aChjdXJyZW50X3VzZXIpCiAgICAgICAgICBlbmQKICAgICAgICBlbHNlCiAgICAgICAgICBmbGFzaFs6ZGFuZ2VyXSA9ICflnKjluqvmlbDjgpLotoXjgYjjgabjgYTjgb7jgZnjgIInCiAgICAgICAgICByZWRpcmVjdF90byB1c2VyX2NhcnRfaXRlbXNfcGF0aChjdXJyZW50X3VzZXIpCiAgICAgICAgZW5kCiAgICAgIGVsc2UKICAgICAgICBmbGFzaFs6ZGFuZ2VyXSA9ICfjgZPjgozku6XkuIrjgqvjg7zjg4jjgavov73liqDjgafjgY3jgb7jgZvjgpPjgIInCiAgICAgICAgcmVkaXJlY3RfdG8gdXNlcl9jYXJ0X2l0ZW1zX3BhdGgoY3VycmVudF91c2VyKQogICAgICBlbmQKICAgIGVuZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEB1c2VyLmNhcnRfaXRlbXNfY291bnQuY3JlYXRlCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgQWN0aXZlUmVjb3JkOjpCYXNlLmNvbm5lY3Rpb24uZXhlY3V0ZSgnVU5MT0NLIFRBQkxFUycpCg==</text>
+        <text encoding="base64">ICAgICAgQGNhcnRfaXRlbS53aXRoX2xvY2sgZG8KICAgICAgICB1cGRhdGVfcXVhbnRpdHkgPSBAY2FydF9pdGVtLnF1YW50aXR5ICsgY2FydF9pdGVtX3F1YW50aXR5X3BhcmFtWzpxdWFudGl0eV0udG9faQogICAgICAgICMgMeWVhuWTgeOBlOOBqOOBqzUw5YCL44G+44Gn6L+95Yqg44Gn44GN44KLCiAgICAgICAgaWYgdXBkYXRlX3F1YW50aXR5IDw9IDUwCiAgICAgICAgICAjIOWcqOW6q+S7peS4i+OBruWgtOWQiOOAgei/veWKoOOBp+OBjeOCiwogICAgICAgICAgaWYgdXBkYXRlX3F1YW50aXR5IDw9IEBjYXJ0X2l0ZW0uaXRlbS5zdG9jawogICAgICAgICAgICBpZiBAY2FydF9pdGVtLnVwZGF0ZShxdWFudGl0eTogdXBkYXRlX3F1YW50aXR5KQogICAgICAgICAgICAgIGZsYXNoWzpzdWNjZXNzXSA9ICfjgqvjg7zjg4jjgavov73liqDjgZfjgb7jgZfjgZ/jgIInCiAgICAgICAgICAgICAgcmVkaXJlY3RfdG8gdXNlcl9jYXJ0X2l0ZW1zX3BhdGgoY3VycmVudF91c2VyKQogICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgZmxhc2hbOmRhbmdlcl0gPSAn44Kr44O844OI44Gr6L+95Yqg44Gn44GN44G+44Gb44KT44Gn44GX44Gf44CCJwogICAgICAgICAgICAgIHJlZGlyZWN0X3RvIGl0ZW1fcGF0aChAaXRlbSkKICAgICAgICAgICAgZW5kCiAgICAgICAgICBlbHNlCiAgICAgICAgICAgIGZsYXNoWzpkYW5nZXJdID0gJ+WcqOW6q+aVsOOCkui2heOBiOOBpuOBhOOBvuOBmeOAgicKICAgICAgICAgICAgcmVkaXJlY3RfdG8gdXNlcl9jYXJ0X2l0ZW1zX3BhdGgoY3VycmVudF91c2VyKQogICAgICAgICAgZW5kCiAgICAgICAgZWxzZQogICAgICAgICAgZmxhc2hbOmRhbmdlcl0gPSAn44GT44KM5Lul5LiK44Kr44O844OI44Gr6L+95Yqg44Gn44GN44G+44Gb44KT44CCJwogICAgICAgICAgcmVkaXJlY3RfdG8gdXNlcl9jYXJ0X2l0ZW1zX3BhdGgoY3VycmVudF91c2VyKQogICAgICAgIGVuZAogICAgICBlbmQK</text>
       </register>
       <register name=":" type="4">
         <text>redo</text>
