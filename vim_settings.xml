@@ -187,13 +187,6 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/support/login_macros.rb" timestamp="1495434721612">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="2" column="13" />
-        <mark key="^" line="2" column="13" />
-      </file>
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/migrate/20161105091846_create_regions.rb" timestamp="1478338361750">
         <mark key="[" line="2" column="32" />
         <mark key="]" line="4" column="33" />
@@ -205,13 +198,6 @@
         <mark key="]" line="2" column="44" />
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/features/cart_items_spec.rb" timestamp="1495777188019">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="38" column="20" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/static_pages_controller.rb" timestamp="1494919833337">
         <mark key="[" line="20" column="17" />
@@ -252,20 +238,6 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/books_app/spec/rails_helper.rb" timestamp="1494227631547">
-        <mark key="'" line="44" column="2" />
-        <mark key="[" line="44" column="3" />
-        <mark key="]" line="44" column="2" />
-        <mark key="." line="44" column="2" />
-        <mark key="^" line="44" column="2" />
-      </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.3.4/lib/ruby/gems/2.3.0/gems/actionpack-5.0.0.1/lib/action_controller/metal/redirecting.rb" timestamp="1494836427974">
-        <mark key="'" line="95" column="8" />
-        <mark key="[" line="72" column="5" />
-        <mark key="]" line="72" column="4" />
-        <mark key="^" line="72" column="4" />
-        <mark key="." line="72" column="4" />
-      </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/user_mailer/account_activation.html.erb" timestamp="1481596404584">
         <mark key="[" line="0" column="19" />
       </file>
@@ -280,6 +252,11 @@
         <mark key="]" line="2" column="46" />
         <mark key="." line="2" column="46" />
         <mark key="^" line="2" column="46" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/caps/test.rb" timestamp="1496993030635">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/app/assets/stylesheets/custom.css.scss" timestamp="1489715793699">
         <mark key="[" line="71" column="1" />
@@ -310,13 +287,6 @@
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="34" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/books_app/spec/controllers/books_controller_spec.rb" timestamp="1494231459945">
-        <mark key="'" line="45" column="24" />
-        <mark key="[" line="35" column="48" />
-        <mark key="]" line="35" column="45" />
-        <mark key="." line="35" column="45" />
-        <mark key="^" line="35" column="45" />
-      </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/layouts/_footer.html.erb" timestamp="1481526334520">
         <mark key="[" line="2" column="50" />
         <mark key="]" line="2" column="16" />
@@ -338,25 +308,11 @@
         <mark key="^" line="0" column="41" />
         <mark key="." line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/.rubocop.yml" timestamp="1495687725011">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="119" column="22" />
-        <mark key="]" line="119" column="22" />
-        <mark key="^" line="10" column="32" />
-        <mark key="." line="119" column="22" />
-      </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/models/phone_spec.rb" timestamp="1477542517402">
         <mark key="[" line="36" column="39" />
         <mark key="]" line="37" column="4" />
         <mark key="^" line="37" column="4" />
         <mark key="." line="37" column="4" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/models/item_spec.rb" timestamp="1495002839463">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="2" column="20" />
-        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/db/migrate/20161129100638_create_cart_items.rb" timestamp="1480414532085">
         <mark key="[" line="4" column="37" />
@@ -417,25 +373,11 @@
         <mark key="." line="36" column="65" />
         <mark key="^" line="36" column="65" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/Gemfile" timestamp="1495687252723">
-        <mark key="'" line="83" column="55" />
-        <mark key="[" line="33" column="29" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/rails_helper.rb" timestamp="1477756854942">
         <mark key="[" line="65" column="44" />
         <mark key="]" line="59" column="51" />
         <mark key="^" line="59" column="51" />
         <mark key="." line="59" column="51" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/views/cart_items/index.html.erb_spec.rb" timestamp="1495679097126">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="26" column="72" />
-        <mark key="]" line="26" column="54" />
-        <mark key="^" line="26" column="54" />
-        <mark key="." line="26" column="54" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/books_app/spec/factories/books.rb" timestamp="1494230382734">
         <mark key="[" line="2" column="11" />
@@ -479,13 +421,6 @@
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/config/puma.rb" timestamp="1489542324731">
         <mark key="[" line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/factories/items.rb" timestamp="1495516993904">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="40" />
-        <mark key="]" line="5" column="11" />
-        <mark key="." line="5" column="11" />
-        <mark key="^" line="5" column="11" />
-      </file>
       <file name="$USER_HOME$/.anyenv/envs/rbenv/shims/guard" timestamp="1495776319513">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
@@ -512,13 +447,6 @@
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/models/order_item.rb" timestamp="1481984755426">
         <mark key="[" line="0" column="35" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/cart_items/index.html.erb" timestamp="1496218011258">
-        <mark key="'" line="22" column="39" />
-        <mark key="[" line="15" column="38" />
-        <mark key="]" line="15" column="37" />
-        <mark key="." line="15" column="37" />
-        <mark key="^" line="15" column="37" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/config/environments/production.rb" timestamp="1481368594685">
         <mark key="[" line="85" column="2" />
@@ -601,13 +529,6 @@
         <mark key="^" line="41" column="6" />
         <mark key="." line="41" column="6" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/config/routes.rb" timestamp="1495773877229">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="25" />
-        <mark key="]" line="12" column="54" />
-        <mark key="." line="12" column="54" />
-        <mark key="^" line="12" column="54" />
-      </file>
       <file name="$USER_HOME$/Ebios/Ruby/exercise_app/app/models/user.rb" timestamp="1493355476817">
         <mark key="[" line="1" column="39" />
         <mark key="]" line="5" column="2" />
@@ -635,13 +556,6 @@
         <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="13" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/items_controller.rb" timestamp="1496033608180">
-        <mark key="'" line="21" column="4" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="26" column="6" />
-        <mark key="." line="11" column="8" />
-        <mark key="^" line="11" column="8" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/README.md" timestamp="1478267416697">
         <mark key="[" line="0" column="8" />
@@ -706,11 +620,10 @@
         <mark key="." line="16" column="24" />
         <mark key="^" line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/caps/10baikaiouken.rb" timestamp="1496991818468">
-        <mark key="[" line="212" column="71" />
-        <mark key="]" line="239" column="72" />
-        <mark key="^" line="239" column="75" />
-        <mark key="." line="239" column="72" />
+      <file name="$USER_HOME$/Ebios/Ruby/caps/10baikaiouken.rb" timestamp="1496992999699">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="22" />
+        <mark key="." line="270" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/api/routes_controller.rb" timestamp="1478408972906">
         <mark key="[" line="19" column="26" />
@@ -870,13 +783,6 @@
         <mark key="." line="4" column="21" />
         <mark key="^" line="4" column="21" />
       </file>
-      <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" timestamp="1494566409685">
-        <mark key="'" line="1" column="6" />
-        <mark key="[" line="7" column="25" />
-        <mark key="]" line="9" column="30" />
-        <mark key="^" line="9" column="30" />
-        <mark key="." line="9" column="30" />
-      </file>
       <file name="$USER_HOME$/Ebios/Ruby/helloworld/app/views/hello/index.html.erb" timestamp="1493345578479">
         <mark key="[" line="1" column="21" />
         <mark key="]" line="1" column="28" />
@@ -900,13 +806,6 @@
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/config/environments/development.rb" timestamp="1489478991003">
         <mark key="[" line="30" column="69" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/support/shared_db_connection.rb" timestamp="1495183621021">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="3" column="1" />
-        <mark key="^" line="3" column="1" />
-        <mark key="." line="3" column="1" />
       </file>
     </filemarks>
     <jumps>
@@ -1029,34 +928,34 @@
         <text>cart_item_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwdXRzICctLS0tLS0tLS0tLS0tLS0tLS0tLS3jg63jgrDjgqTjg7Pnorroqo0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nCg==</text>
+        <text encoding="base64">cmVxdWlyZSAnbmV0L3NzaC9nYXRld2F5JwpyZXF1aXJlICdteXNxbDInCnJlcXVpcmUgJ2F3ZXNvbWVfcHJpbnQnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICMgZ2F0ZXdhLmhvc3Q6MTExMS0+ZGF0YWJhc2UuaG9zdDozMzA2IOOBqOOBhOOBhuODiOODs+ODjeODq+OBjOS9nOOCieOCjOOBpuOBhOOCiwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">ICAgICMgMTI3LjAuMC4xOmxvY2FsX3BvcnQg44GrCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAjCiMgIyBnYXRld2F5ID0gTmV0OjpTU0g6OkdhdGV3YXkubmV3KAojICMgICAnYWRtaW4uaXNoaW4uYWt0c2suanAnLAojICMgICAnY2FwczA2JywKIyAjICAgcG9ydDogMjIsCiMgIyAgIGtleXM6ICcvVXNlcnMvbWFzYXRha2EubW9yaXNoaXRhLy5zc2gvaWRfY2FwczA2X3JzYScKIyAjICkKIyAjCiMgIyBnYXRld2F5Lm9wZW4oJ2xvZy0yMDE2MDgxNy5jYnFob3o3bWhmemQuYXAtbm9ydGhlYXN0LTEucmRzLmFtYXpvbmF3cy5jb20nLCAzMzA2KSBkbyB8bG9jYWxfcG9ydHwKIyAjCiMgIyAgIGNsaWVudCA9IE15c3FsMjo6Q2xpZW50Lm5ldygKIyAjICAgICAjIDEyNy4wLjAuMTpsb2NhbF9wb3J0IOOBqwojICMgICAgICMgZ2F0ZXdhLmhvc3Q6MTExMS0+ZGF0YWJhc2UuaG9zdDozMzA2IOOBqOOBhOOBhuODiOODs+ODjeODq+OBjOS9nOOCieOCjOOBpuOBhOOCiwojICMgICAgIGhvc3Q6ICdsb2ctMjAxNjA4MTcuY2JxaG96N21oZnpkLmFwLW5vcnRoZWFzdC0xLnJkcy5hbWF6b25hd3MuY29tJywKIyAjICAgICBwb3J0OiBsb2NhbF9wb3J0LAojICMKIyAjICAgICB1c2VybmFtZTogJ2lzaGluJywKIyAjICAgICBwYXNzd29yZDogJ2lzaGlubG9nMjAxNScsCiMgIyAgICAgZGF0YWJhc2U6ICdrcGlfaXNoaW5fcHJvZHVjdGlvbicKIyAjICAgKQojICMKIyAjICAgY2xpZW50LnF1ZXJ5KCdTSE9XIFRBQkxFUzsnKS5lYWNoIGRvIHxyb3d8CiMgIyAgICAgcCByb3cKIyAjICAgZW5kCiMgIyBlbmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhcCAnLS0tLS0tLS0tLS0tLS0tLS0tLS0t44Kv44Ko44K544OI5oyR5oim5bGl5q20LS0tLS0tLS0tLS0tLS0tLS0tLS0tJwogIHF1ZXN0X3F1ZXJ5ID0gJVF7CiAgICBzZWxlY3QKICAgIAl1c20udXNlcl9pZCwKICAgIAlzdWdvcm9rdV9tYXBfaWQgYXMgYOmbo+aYk+W6pmAsCiAgICAJcS5pZCBhcyBg44Kv44Ko44K544OISURgLAogICAgCWEubmFtZSBhcyBg44Ko44Oq44Ki5ZCNYCwKICAgIAlxLm5hbWUgYXMgYOOCr+OCqOOCueODiOWQjWAsCiAgICAJc20uZGlmZmljdWx0eSBhcyBg6Zuj5piT5bqmYCwKICAgIAl1c20udmlzaXRlZF9jb3VudCBhcyBg5oyR5oim5pWwYCwKICAgIAl1c20uY2xlYXJlZF9jb3VudCBhcyBg44Kv44Oq44Ki5pWwYCwKICAgIAkodXNtLmNyZWF0ZWRfYXQgKyBpbnRlcnZhbCA5IGhvdXIpIGFzIGBDcmVhdGVkX0F0X0pzdGAsCiAgICAJKHVzbS51cGRhdGVkX2F0ICsgaW50ZXJ2YWwgOSBob3VyKSBhcyBgVXBkYXRlZF9BdF9Kc3RgCiAgICBmcm9tIHVzZXJfc3Vnb3Jva3VfbWFwcyB1c20KICAgIGxlZnQgam9pbiBzdWdvcm9rdV9tYXBzIHNtIG9uIHNtLmlkPXVzbS5zdWdvcm9rdV9tYXBfaWQKICAgIGxlZnQgam9pbiBxdWVzdHMgcSBvbiBxLmlkPXNtLnF1ZXN0X2lkCiAgICBsZWZ0IGpvaW4gYXJlYXMgYSBvbiBhLmlkPXEuYXJlYV9pZAogICAgd2hlcmUgdXNtLnVzZXJfaWQ9I3t1c2VyX2lkfQogIH0KCiAgY2xpZW50LnF1ZXJ5KHF1ZXN0X3F1ZXJ5KS5lYWNoIGRvIHxyb3d8CiAgICBpZiByb3dbIuOCr+OCqOOCueODiElEIl0gPCAyNTAwMAogICAgICBhcCBbcm93WyLjgq/jgqjjgrnjg4hJRCJdLCByb3dbIuOCqOODquOCouWQjSJdLCByb3dbIuOCr+OCqOOCueODiOWQjSJdXS5qb2luKCcgICAgJykKICAgIGVuZAogIGVuZAoKICBhcCAnLS0tLS0tLS0tLS0tLS0tLS0tLS0t44Om44O844K244O844Kt44Oj44Oz44Oa44O844Oz44Kz44O844OJLS0tLS0tLS0tLS0tLS0tLS0tLS0tJwogIGNhbXBhaWduX2NvZGVzX3F1ZXJ5ID0gJVF7CiAgICBzZWxlY3QKICAgIAkgdWMudXNlcl9pZAogICAgCSxjLm5hbWUgYXMgYENQ5ZCNYAogICAgCSxjLmRlc2NyaXB0aW9uIGFzIGDoqbPntLBgCiAgICAJLGNjLmNvZGUKICAgIAksY2NyLml0ZW1faWQKICAgIAksY2NyLnF1YW50aXR5CiAgICAJLCh1Yy5jcmVhdGVkX2F0ICsgaW50ZXJ2YWwgOSBob3VyKSBhcyBgQ3JlYXRlZF9BdF9Kc3RgCiAgICAJLCh1Yy51cGRhdGVkX2F0ICsgaW50ZXJ2YWwgOSBob3VyKSBhcyBgVXBkYXRlZF9BdF9Kc3RgCiAgICBmcm9tIGNhbXBhaWduX2NvZGVzIGNjCiAgICBsZWZ0IGpvaW4gY2FtcGFpZ25fY29kZXNfcmV3YXJkcyBjY3Igb24gY2NyLmNvZGU9IGNjLmNvZGUKICAgIGxlZnQgam9pbiB1c2VyX2NhbXBhaWducyB1YyBvbiB1Yy5jYW1wYWlnbl9jb2RlX2lkPSBjYy5pZAogICAgbGVmdCBqb2luIGNhbXBhaWducyBjIG9uIGMuaWQ9IGNjLmNhbXBhaWduX2lkCiAgICB3aGVyZSB1Yy51c2VyX2lkPSN7dXNlcl9pZH0KICB9CgogIGNsaWVudC5xdWVyeShjYW1wYWlnbl9jb2Rlc19xdWVyeSkuZWFjaCBkbyB8cm93fAogICAgYXAgcm93CiAgZW5kCmVuZAo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAgIGFwICctLS0tLS0tLS0tLS0tLS0tLS0tLS3jgq/jgqjjgrnjg4jmjJHmiKblsaXmrbQtLS0tLS0tLS0tLS0tLS0tLS0tLS0nCiMgICBxdWVzdF9xdWVyeSA9ICVRewojICAgICBzZWxlY3QKIyAgICAgCXVzbS51c2VyX2lkLAojICAgICAJc3Vnb3Jva3VfbWFwX2lkIGFzIGDpm6PmmJPluqZgLAojICAgICAJcS5pZCBhcyBg44Kv44Ko44K544OISURgLAojICAgICAJYS5uYW1lIGFzIGDjgqjjg6rjgqLlkI1gLAojICAgICAJcS5uYW1lIGFzIGDjgq/jgqjjgrnjg4jlkI1gLAojICAgICAJc20uZGlmZmljdWx0eSBhcyBg6Zuj5piT5bqmYCwKIyAgICAgCXVzbS52aXNpdGVkX2NvdW50IGFzIGDmjJHmiKbmlbBgLAojICAgICAJdXNtLmNsZWFyZWRfY291bnQgYXMgYOOCr+ODquOCouaVsGAsCiMgICAgIAkodXNtLmNyZWF0ZWRfYXQgKyBpbnRlcnZhbCA5IGhvdXIpIGFzIGBDcmVhdGVkX0F0X0pzdGAsCiMgICAgIAkodXNtLnVwZGF0ZWRfYXQgKyBpbnRlcnZhbCA5IGhvdXIpIGFzIGBVcGRhdGVkX0F0X0pzdGAKIyAgICAgZnJvbSB1c2VyX3N1Z29yb2t1X21hcHMgdXNtCiMgICAgIGxlZnQgam9pbiBzdWdvcm9rdV9tYXBzIHNtIG9uIHNtLmlkPXVzbS5zdWdvcm9rdV9tYXBfaWQKIyAgICAgbGVmdCBqb2luIHF1ZXN0cyBxIG9uIHEuaWQ9c20ucXVlc3RfaWQKIyAgICAgbGVmdCBqb2luIGFyZWFzIGEgb24gYS5pZD1xLmFyZWFfaWQKIyAgICAgd2hlcmUgdXNtLnVzZXJfaWQ9I3t1c2VyX2lkfQojICAgfQojCiMgICBjbGllbnQucXVlcnkocXVlc3RfcXVlcnkpLmVhY2ggZG8gfHJvd3wKIyAgICAgaWYgcm93WyLjgq/jgqjjgrnjg4hJRCJdIDwgMjUwMDAKIyAgICAgICBhcCBbcm93WyLjgq/jgqjjgrnjg4hJRCJdLCByb3dbIuOCqOODquOCouWQjSJdLCByb3dbIuOCr+OCqOOCueODiOWQjSJdXS5qb2luKCcgICAgJykKIyAgICAgZW5kCiMgICBlbmQKIwojICAgYXAgJy0tLS0tLS0tLS0tLS0tLS0tLS0tLeODpuODvOOCtuODvOOCreODo+ODs+ODmuODvOODs+OCs+ODvOODiS0tLS0tLS0tLS0tLS0tLS0tLS0tLScKIyAgIGNhbXBhaWduX2NvZGVzX3F1ZXJ5ID0gJVF7CiMgICAgIHNlbGVjdAojICAgICAJIHVjLnVzZXJfaWQKIyAgICAgCSxjLm5hbWUgYXMgYENQ5ZCNYAojICAgICAJLGMuZGVzY3JpcHRpb24gYXMgYOips+e0sGAKIyAgICAgCSxjYy5jb2RlCiMgICAgIAksY2NyLml0ZW1faWQKIyAgICAgCSxjY3IucXVhbnRpdHkKIyAgICAgCSwodWMuY3JlYXRlZF9hdCArIGludGVydmFsIDkgaG91cikgYXMgYENyZWF0ZWRfQXRfSnN0YAojICAgICAJLCh1Yy51cGRhdGVkX2F0ICsgaW50ZXJ2YWwgOSBob3VyKSBhcyBgVXBkYXRlZF9BdF9Kc3RgCiMgICAgIGZyb20gY2FtcGFpZ25fY29kZXMgY2MKIyAgICAgbGVmdCBqb2luIGNhbXBhaWduX2NvZGVzX3Jld2FyZHMgY2NyIG9uIGNjci5jb2RlPSBjYy5jb2RlCiMgICAgIGxlZnQgam9pbiB1c2VyX2NhbXBhaWducyB1YyBvbiB1Yy5jYW1wYWlnbl9jb2RlX2lkPSBjYy5pZAojICAgICBsZWZ0IGpvaW4gY2FtcGFpZ25zIGMgb24gYy5pZD0gY2MuY2FtcGFpZ25faWQKIyAgICAgd2hlcmUgdWMudXNlcl9pZD0je3VzZXJfaWR9CiMgICB9CiMKIyAgIGNsaWVudC5xdWVyeShjYW1wYWlnbl9jb2Rlc19xdWVyeSkuZWFjaCBkbyB8cm93fAojICAgICBhcCByb3cKIyAgIGVuZAojIGVuZAo=</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgIGFwICctLS0tLS0tLS0tLS0tLS0tLS0tLS3jg6bjg7zjgrbjg7zmiYDmjIHjgqvjg7zjg4ktLS0tLS0tLS0tLS0tLS0tLS0tLS0nCiMgICB1c2VyX2NhcmRzX3F1ZXJ5ID0gJVF7CiMgICAgIHNlbGVjdAojICAgICAJdWMudXNlcl9pZCwKIyAgICAgCXVjLmNhcmRfaWQsCiMgICAgIAl1Yy5pZCwKIyAgICAgCU1BWChjZS5sdikgYXMgYOODrOODmeODq2AsCiMgICAgIAkoY2FzZSBjLnJhcml0eQojICAgICAJCXdoZW4gIjAiIHRoZW4gIk4iCiMgICAgIAkJd2hlbiAiMSIgdGhlbiAiUiIKIyAgICAgCQl3aGVuICIyIiB0aGVuICJTUiIKIyAgICAgCQl3aGVuICIzIiB0aGVuICJTU1IiCiMgICAgIAkJd2hlbiAiNCIgdGhlbiAiVVIiCiMgICAgIAkJd2hlbiAiNSIgdGhlbiAiTFIiIGVuZCkgYXMgYOODrOOCouW6pmAsCiMgICAgIAkoY2FzZSBjLmVsZW1lbnQKIyAgICAgCQl3aGVuICIwIiB0aGVuICLpgJ8iCiMgICAgIAkJd2hlbiAiMSIgdGhlbiAi5oqAIgojICAgICAJCXdoZW4gIjIiIHRoZW4gIuefpSIKIyAgICAgCQl3aGVuICIzIiB0aGVuICLlipsiCiMgICAgIAkJd2hlbiAiNCIgdGhlbiAi5L2TIgojICAgICAJCXdoZW4gIjEwIiB0aGVuICLotoXpgJ8iCiMgICAgIAkJd2hlbiAiMTEiIHRoZW4gIui2heaKgCIKIyAgICAgCQl3aGVuICIxMiIgdGhlbiAi6LaF55+lIgojICAgICAJCXdoZW4gIjEzIiB0aGVuICLotoXlipsiCiMgICAgIAkJd2hlbiAiMTQiIHRoZW4gIui2heS9kyIKIyAgICAgCQl3aGVuICIyMCIgdGhlbiAi5qW16YCfIgojICAgICAJCXdoZW4gIjIxIiB0aGVuICLmpbXmioAiCiMgICAgIAkJd2hlbiAiMjIiIHRoZW4gIualteefpSIKIyAgICAgCQl3aGVuICIyMyIgdGhlbiAi5qW15YqbIgojICAgICAJCXdoZW4gIjI0IiB0aGVuICLmpbXkvZMiIGVuZCkgYXMgYOOCv+OCpOODl2AsCiMgICAgIAlscy5uYW1lIGFzIGDkuozjgaTlkI1gLAojICAgICAJYy5uYW1lIGDjgq3jg6Pjg6nlkI1gLAojICAgICAJdWMuc2tpbGxfbHYgYXMgYOW/heauuuaKgEx2YCwKIyAgICAgCXVjLmlzX2Zhdm9yaXRlLAojICAgICAJdWMuY3JlYXRlZF9hdCx1Yy51cGRhdGVkX2F0CiMgICAgIGZyb20gdXNlcl9jYXJkcyB1YwojICAgICBsZWZ0IGpvaW4gY2FyZHMgYyBvbiBjLmlkPXVjLmNhcmRfaWQKIyAgICAgbGVmdCBqb2luIGxlYWRlcl9za2lsbHMgbHMgb24gbHMuaWQ9IGMubGVhZGVyX3NraWxsX2lkCiMgICAgIGxlZnQgam9pbiBjYXJkX2V4cHMgY2Ugb24gY2UuZXhwX3R5cGUgPSBjLmV4cF90eXBlIGFuZCBjZS5leHBfdG90YWwgPD0gdWMuZXhwCiMgICAgIHdoZXJlIHVjLnVzZXJfaWQgaW4gKCN7dXNlcl9pZH0pCiMgICAgIGFuZCBjLm5hbWUgbGlrZSAiJSUiCiMgICAgIGdyb3VwIGJ5IHVjLmlkCiMgICAgIG9yZGVyIGJ5IGMucmFyaXR5IGRlc2MKIyAgIH0KIwojICAgY2xpZW50LnF1ZXJ5KHVzZXJfY2FyZHNfcXVlcnkpLmVhY2ggZG8gfHJvd3wKIyAgICAgcmFyZXJpdHlzID0gWyJMUiIsICJVUiIsICJTU1IiXQojICAgICBpZiByYXJlcml0eXMuaW5jbHVkZT8ocm93WyLjg6zjgqLluqYiXSkKIyAgICAgICBhcCBbcm93WyLjg6zjgqLluqYiXSwgcm93WyLjgr/jgqTjg5ciXSwgcm93WyLkuozjgaTlkI0iXSwgcm93WyLjgq3jg6Pjg6nlkI0iXV0uam9pbignICAgICcpCiMgICAgIGVuZAojICAgZW5kCiMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhcCAnLS0tLS0tLS0tLS0tLS0tLS0tLS0t44Kv44Ko44K544OI5oyR5oim5bGl5q20LS0tLS0tLS0tLS0tLS0tLS0tLS0tJwogIHF1ZXN0X3F1ZXJ5ID0gJVF7CiAgICBzZWxlY3QKICAgIAl1c20udXNlcl9pZCwKICAgIAlzdWdvcm9rdV9tYXBfaWQgYXMgYOmbo+aYk+W6pmAsCiAgICAJcS5pZCBhcyBg44Kv44Ko44K544OISURgLAogICAgCWEubmFtZSBhcyBg44Ko44Oq44Ki5ZCNYCwKICAgIAlxLm5hbWUgYXMgYOOCr+OCqOOCueODiOWQjWAsCiAgICAJc20uZGlmZmljdWx0eSBhcyBg6Zuj5piT5bqmYCwKICAgIAl1c20udmlzaXRlZF9jb3VudCBhcyBg5oyR5oim5pWwYCwKICAgIAl1c20uY2xlYXJlZF9jb3VudCBhcyBg44Kv44Oq44Ki5pWwYCwKICAgIAkodXNtLmNyZWF0ZWRfYXQgKyBpbnRlcnZhbCA5IGhvdXIpIGFzIGBDcmVhdGVkX0F0X0pzdGAsCiAgICAJKHVzbS51cGRhdGVkX2F0ICsgaW50ZXJ2YWwgOSBob3VyKSBhcyBgVXBkYXRlZF9BdF9Kc3RgCiAgICBmcm9tIHVzZXJfc3Vnb3Jva3VfbWFwcyB1c20KICAgIGxlZnQgam9pbiBzdWdvcm9rdV9tYXBzIHNtIG9uIHNtLmlkPXVzbS5zdWdvcm9rdV9tYXBfaWQKICAgIGxlZnQgam9pbiBxdWVzdHMgcSBvbiBxLmlkPXNtLnF1ZXN0X2lkCiAgICBsZWZ0IGpvaW4gYXJlYXMgYSBvbiBhLmlkPXEuYXJlYV9pZAogICAgd2hlcmUgdXNtLnVzZXJfaWQ9I3t1c2VyX2lkfQogIH0KCiAgY2xpZW50LnF1ZXJ5KHF1ZXN0X3F1ZXJ5KS5lYWNoIGRvIHxyb3d8CiAgICBpZiByb3dbIuOCr+OCqOOCueODiElEIl0gPCAyNTAwMAogICAgICBhcCBbcm93WyLjgq/jgqjjgrnjg4hJRCJdLCByb3dbIuOCqOODquOCouWQjSJdLCByb3dbIuOCr+OCqOOCueODiOWQjSJdXS5qb2luKCcgICAgJykKICAgIGVuZAogIGVuZAoKICBhcCAnLS0tLS0tLS0tLS0tLS0tLS0tLS0t44Om44O844K244O844Kt44Oj44Oz44Oa44O844Oz44Kz44O844OJLS0tLS0tLS0tLS0tLS0tLS0tLS0tJwogIGNhbXBhaWduX2NvZGVzX3F1ZXJ5ID0gJVF7CiAgICBzZWxlY3QKICAgIAkgdWMudXNlcl9pZAogICAgCSxjLm5hbWUgYXMgYENQ5ZCNYAogICAgCSxjLmRlc2NyaXB0aW9uIGFzIGDoqbPntLBgCiAgICAJLGNjLmNvZGUKICAgIAksY2NyLml0ZW1faWQKICAgIAksY2NyLnF1YW50aXR5CiAgICAJLCh1Yy5jcmVhdGVkX2F0ICsgaW50ZXJ2YWwgOSBob3VyKSBhcyBgQ3JlYXRlZF9BdF9Kc3RgCiAgICAJLCh1Yy51cGRhdGVkX2F0ICsgaW50ZXJ2YWwgOSBob3VyKSBhcyBgVXBkYXRlZF9BdF9Kc3RgCiAgICBmcm9tIGNhbXBhaWduX2NvZGVzIGNjCiAgICBsZWZ0IGpvaW4gY2FtcGFpZ25fY29kZXNfcmV3YXJkcyBjY3Igb24gY2NyLmNvZGU9IGNjLmNvZGUKICAgIGxlZnQgam9pbiB1c2VyX2NhbXBhaWducyB1YyBvbiB1Yy5jYW1wYWlnbl9jb2RlX2lkPSBjYy5pZAogICAgbGVmdCBqb2luIGNhbXBhaWducyBjIG9uIGMuaWQ9IGNjLmNhbXBhaWduX2lkCiAgICB3aGVyZSB1Yy51c2VyX2lkPSN7dXNlcl9pZH0KICB9CgogIGNsaWVudC5xdWVyeShjYW1wYWlnbl9jb2Rlc19xdWVyeSkuZWFjaCBkbyB8cm93fAogICAgYXAgcm93CiAgZW5kCmVuZAo=</text>
       </register>
       <register name=":" type="4">
         <text>action FileStructurePopup</text>
