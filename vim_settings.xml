@@ -359,6 +359,11 @@
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="41" />
       </file>
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/db/migrate/20161129100642_create_items.rb" timestamp="1498639189359">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/db/migrate/20170628015920_add_lock_version_to_cart_items_infomation.rb" timestamp="1498616084616">
         <mark key="[" line="2" column="63" />
         <mark key="]" line="0" column="41" />
@@ -411,6 +416,12 @@
         <mark key="]" line="59" column="51" />
         <mark key="^" line="59" column="51" />
         <mark key="." line="59" column="51" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/db/migrate/20161129100624_create_addresses.rb" timestamp="1498639288770">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="34" />
+        <mark key="." line="12" column="33" />
+        <mark key="^" line="12" column="33" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/books_app/spec/factories/books.rb" timestamp="1494230382734">
         <mark key="[" line="2" column="11" />
@@ -581,6 +592,10 @@
         <mark key="]" line="9" column="36" />
         <mark key="." line="9" column="36" />
         <mark key="^" line="9" column="36" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/db/migrate/20161129100711_create_orders.rb" timestamp="1498639248524">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="31" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/db/migrate/20170628022034_add_lock_version_to_cart_items_infomation.rb" timestamp="1498617032565">
         <mark key="[" line="0" column="36" />
@@ -762,11 +777,11 @@
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/app/controllers/application_controller.rb" timestamp="1489542275926">
         <mark key="[" line="8" column="26" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/db/migrate/20170601050248_create_cart_items_infomations.rb" timestamp="1498617025925">
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="2" column="32" />
-        <mark key="^" line="2" column="32" />
-        <mark key="." line="2" column="32" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/db/migrate/20170601050248_create_cart_items_infomations.rb" timestamp="1498639298480">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="36" />
+        <mark key="." line="8" column="36" />
+        <mark key="^" line="8" column="36" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/helloworld/app/controllers/hello_controller.rb" timestamp="1493345589247">
         <mark key="[" line="1" column="11" />
@@ -967,40 +982,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>加！</text>
+        <text>addresses</text>
       </register>
       <register name="/" type="4">
         <text>cart_item_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Z2F0ZXdheS5vcGVuKCdsb2ctMjAxNjA4MTcuY2JxaG96N21oZnpkLmFwLW5vcnRoZWFzdC0xLnJkcy5hbWF6b25hd3MuY29tJywgMzMwNikgZG8gfGxvY2FsX3BvcnR8CgogIGNsaWVudCA9IE15c3FsMjo6Q2xpZW50Lm5ldygKICAgICAgaG9zdDogJzEyNy4wLjAuMScsCiAgICAgIHBvcnQ6IGxvY2FsX3BvcnQsCgogICAgICB1c2VybmFtZTogJ2lzaGluJywKICAgICAgcGFzc3dvcmQ6ICdpc2hpbmxvZzIwMTUnLAogICAgICBkYXRhYmFzZTogJ2twaV9pc2hpbl9wcm9kdWN0aW9uJwogICkKCiAgY2xpZW50LnF1ZXJ5KCJzZWxlY3QgKiBmcm9tIGxpbmtfY29kZV9jcmVhdGVfbG9ncyB3aGVyZSB1c2VyX2lkID0gI3t1c2VyX2lkfTsiKS5lYWNoIGRvIHxyb3d8CiAgICBwdXRzIFtyb3dbInRpbWVzdGFtcCJdLCByb3dbImV0ZXJuYWxfbGlua19jb2RlIl1dLmpvaW4oIlx0IikKICBlbmQKZW5kCg==</text>
+        <text encoding="base64">ICAgIGFkZF9pbmRleCA6YWRkcmVzc2VzLCA6dXNlcl9pZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY2FydF9pdGVtc19pbmZvLndpdGhfbG9jayBkbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY2FydF9pdGVtc19pbmZvLndpdGhfbG9jayBkbwo=</text>
+        <text encoding="base64">ICAgIGFkZF9pbmRleCA6aXRlbXMsIDpwcmljZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgIGFkZF9pbmRleCA6aXRlbXMsIDpuYW1lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY2FydF9pdGVtc19pbmZvID0gY3VycmVudF91c2VyLmNhcnRfaXRlbXNfaW5mb21hdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2FydF9pdGVtc19pbmZvLndpdGhfbG9jayBkbwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIyBUT0RPIOS4gOOBpOOBruODiOODqeODs+OCtuOCr+OCt+ODp+ODs+WGheOBp+S4gOeZuuOBp+ODh+ODvOOCv+OCkuWPluW+l+OBp+OBjeOBpuOBhOOCjOOBsOiJr+OBhAo=</text>
+        <text encoding="base64">ICAgICAgY2FydF9pdGVtc19pbmZvLndpdGhfbG9jayBkbwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIyBUT0RPIOOCr+OCqOODquOBjOeVsOOBquOBo+OBn+aZgueCueOBp+aVtOWQiOaAp+OBjOWPluOCjOOBquOBj+OBquOCiwo=</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2FydF9pdGVtc19pbmZvID0gY3VycmVudF91c2VyLmNhcnRfaXRlbXNfaW5mb21hdGlvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
