@@ -222,8 +222,11 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/static_pages_controller.rb" timestamp="1498700126552">
-        <mark key="[" line="1" column="10" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/static_pages_controller.rb" timestamp="1498708868603">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="4" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/static_pages_controller.rb" timestamp="1494919833337">
         <mark key="[" line="20" column="17" />
@@ -384,11 +387,11 @@
         <mark key="." line="15" column="22" />
         <mark key="^" line="15" column="22" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" timestamp="1498705089066">
-        <mark key="[" line="4" column="61" />
-        <mark key="]" line="40" column="17" />
-        <mark key="." line="40" column="17" />
-        <mark key="^" line="40" column="17" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" timestamp="1498709444276">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="^" line="52" column="0" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/sample_app/Gemfile" timestamp="1494220597274">
         <mark key="[" line="41" column="26" />
@@ -994,37 +997,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>addresses</text>
+        <text>eturn @item</text>
       </register>
       <register name="/" type="4">
         <text>cart_item_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFkZF9pbmRleCA6YWRkcmVzc2VzLCA6dXNlcl9pZAo=</text>
+        <text encoding="base64">ICAgICAgZmxhc2hbOmRhbmdlcl0gPSAn5YmK6Zmk44Gr5aSx5pWX44GX44G+44GX44Gf44CCJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIGNvcnJlY3RfcGFyYW1zPwo=</text>
+        <text encoding="base64">ICAgICAgICBmbGFzaFs6ZGFuZ2VyXSA9ICfliYrpmaTjgavlpLHmlZfjgZfjgb7jgZfjgZ/jgIInCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgOjpEaWdlc3Q6OlNIQTI1Ni5oZXhkaWdlc3QodG9rZW4pCg==</text>
+        <text encoding="base64">ICAgICAgIyBUT0RPIOS+i+WkluOCkmTjgq3jg6Pjg4Pjg4HjgZfjgarjgYTjga7jga/jgYLjgorjgYjjgarjgYQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlLmhlYWRlcnNbJ0F1dGhvcml6YXRpb24nXSA9ICdUb2tlbiBGT08nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">JCgnI2Zvcm0taWQnKS5zdWJtaXQgLT4KICB2YWx1ZXNUb1N1Ym1pdCA9ICQodGhpcykuc2VyaWFsaXplKCkKICAkLmFqYXgoCiAgICB0eXBlOiAnUE9TVCcKICAgIHVybDogJCh0aGlzKS5hdHRyKCdhY3Rpb24nKQogICAgZGF0YTogdmFsdWVzVG9TdWJtaXQKICAgIGhlYWRlcnM6CiAgICAgICdYbWxycGMtVG9rZW4nOiAndmFsdWUnCiAgICAgICdUb2tlbic6ICdhbm90aGVyX3ZhbHVlJwogICkuc3VjY2VzcyAocmVzcG9uc2UpIC0+CiAgICAjc3VjY2VzcyBjb2RlCiAgICByZXR1cm4gZmFsc2U=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmIGNvcnJlY3RfcGFyYW1zPwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnaG9nZWhvZ2UnKQo=</text>
+        <text encoding="base64">ICAgICAgOjpEaWdlc3Q6OlNIQTI1Ni5oZXhkaWdlc3QodG9rZW4pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgVE9LRU4gPSAoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
