@@ -51,11 +51,11 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/db/seeds/development.rb" timestamp="1499138669264">
-        <mark key="[" line="8" column="45" />
-        <mark key="]" line="11" column="17" />
-        <mark key="." line="11" column="17" />
-        <mark key="^" line="11" column="17" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/db/seeds/development.rb" timestamp="1499150266937">
+        <mark key="[" line="16" column="37" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/assets/javascripts/application.js" timestamp="1481373425616">
         <mark key="[" line="14" column="12" />
@@ -770,7 +770,7 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1499138570589">
+      <file name="/dummy.sql" timestamp="1499150319299">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/migrate/20161116025658_create_addresses.rb" timestamp="1479542195384">
@@ -1040,7 +1040,7 @@
         <text>cart_item_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlyc3RfbmFtZTogRmFrZXI6Ok5hbWUuZmlyc3RfbmFtZSwK</text>
+        <text encoding="base64">QWRkcmVzcy5jcmVhdGUodXNlcl9pZDogMSwKICAgICAgICAgICAgZmlyc3RfbmFtZTogRmFrZXI6Ok5hbWUuZmlyc3RfbmFtZSwKICAgICAgICAgICAgbGFzdF9uYW1lOiBGYWtlcjo6TmFtZS5sYXN0X25hbWUsCiAgICAgICAgICAgIHBvc3RhbF9jb2RlOiAnMTQxLTAwMjEnLAogICAgICAgICAgICBhZGRyZXNzOiAn5p2x5Lqs6YO95ZOB5bed5Yy65LiK5aSn5bSO77yS5LiB55uu77yR77yT4oiS77yT77yQIG9hayBtZWd1cm8nLAogICAgICAgICAgICBwaG9uZTogRmFrZXI6OlBob25lTnVtYmVyLmNlbGxfcGhvbmUpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">PGRpdiBjbGFzcz0icGFuZWwgcGFuZWwtc3VjY2VzcyI+Li4uPC9kaXY+Cg==</text>
