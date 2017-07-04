@@ -399,9 +399,9 @@
         <mark key="." line="15" column="22" />
         <mark key="^" line="15" column="22" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" timestamp="1499136912284">
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="129" column="6" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" timestamp="1499166054033">
+        <mark key="[" line="110" column="1" />
+        <mark key="]" line="112" column="6" />
         <mark key="." line="131" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/sample_app/Gemfile" timestamp="1494220597274">
@@ -788,11 +788,11 @@
         <mark key="." line="8" column="33" />
         <mark key="^" line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/payments/index.html.erb" timestamp="1499164472155">
-        <mark key="[" line="10" column="34" />
-        <mark key="]" line="13" column="48" />
-        <mark key="." line="13" column="48" />
-        <mark key="^" line="13" column="26" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/payments/index.html.erb" timestamp="1499167104779">
+        <mark key="[" line="12" column="90" />
+        <mark key="]" line="12" column="89" />
+        <mark key="." line="12" column="89" />
+        <mark key="^" line="12" column="109" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/.gitignore" timestamp="1495594686849">
         <mark key="[" line="14" column="0" />
@@ -913,11 +913,11 @@
         <mark key="." line="30" column="12" />
         <mark key="^" line="30" column="12" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/payments_controller.rb" timestamp="1499163550614">
-        <mark key="[" line="5" column="60" />
-        <mark key="]" line="5" column="59" />
-        <mark key="^" line="5" column="59" />
-        <mark key="." line="5" column="59" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/payments_controller.rb" timestamp="1499166850465">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="32" />
+        <mark key="^" line="8" column="32" />
+        <mark key="." line="8" column="32" />
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/app/controllers/items_controller.rb" timestamp="1489477063089">
         <mark key="[" line="19" column="14" />
@@ -1052,40 +1052,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>selected: @address.id</text>
       </register>
       <register name="/" type="4">
         <text>cart_item_</text>
       </register>
       <register name="0" type="4">
-        <text>onChange: 'this.form.submit();'</text>
+        <text encoding="base64">ICAgZGVmIGNhcnRfaXRlbV9wYXJhbXMKICAgICAgcGFyYW1zLnJlcXVpcmUoOmNhcnRfaXRlbSkucGVybWl0KDppdGVtX2lkLCA6cHJpY2UsIDpxdWFudGl0eSkKICAgIGVuZA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlIGVuZCAlPgo=</text>
+        <text encoding="base64">ICAgIEBhZGRyZXNzZXMgPSBjdXJyZW50X3VzZXIuYWRkcmVzc2VzLmFsbAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlPSBmb3JtX3RhZygnL3VzZXJzJykgZG8gJT4K</text>
+      <register name="2" type="8">
+        <text>first.
+first.
+first.
+first.</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlPSBzZWxlY3QgOmFkZHJlc3MsIEBhZGRyZXNzZXMgJT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlIGVuZCAlPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHAgQGFkZHJlc3Nlcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlPSBmb3JtX3RhZygnL3VzZXJzJykgZG8gJT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlPSBzZWxlY3QgOnBhZ2UsIDpuYW1lLCBbWyJSYWlsc+OBruWfuuekjiIsICJyYWlsc19iYXNlIl0sIFsiUnVieeOBruWfuuekjiIsICJydWJ5X2Jhc2UiXV0gJT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlPSBzZWxlY3QgOmFkZHJlc3MsIEBhZGRyZXNzZXMgJT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCUgZW5kICU+Cg==</text>
+        <text encoding="base64">ICAgIHAgQGFkZHJlc3Nlcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCU9IGZvcm1fZm9yIEBhZGRyZXNzIGRvIHxmfCAlPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlPSBzZWxlY3QgOnBhZ2UsIDpuYW1lLCBbWyJSYWlsc+OBruWfuuekjiIsICJyYWlsc19iYXNlIl0sIFsiUnVieeOBruWfuuekjiIsICJydWJ5X2Jhc2UiXV0gJT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlPSBmLnNlbGVjdCA6aG9nZSwgWydob2dlJywgJ2hnb2VoZ29lJ10sIG9uQ2hhbmdlOiAndGhpcy5mb3JtLnN1Ym1pdCgpOycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWQ6ICJjYXJ0X2l0ZW1fI3tjYXJ0X2l0ZW0uaWR9X3F1YW50aXR5IiwgY2xhc3M6ICdmb3JtLWNvbnRyb2wnICU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCUgZW5kICU+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPCU9IGYuc2VsZWN0IDpxdWFudGl0eSwgb3B0aW9uc19mb3Jfc2VsZWN0KDEuLmNhcnRfaXRlbS5pdGVtLnN0b2NrLCBzZWxlY3RlZDogY2FydF9pdGVtLnF1YW50aXR5KSwge30sIG9uQ2hhbmdlOiAndGhpcy5mb3JtLnN1Ym1pdCgpOycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZDogImNhcnRfaXRlbV8je2NhcnRfaXRlbS5pZH1fcXVhbnRpdHkiLCBjbGFzczogJ2Zvcm0tY29udHJvbCcgJT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCU9IGZvcm1fZm9yIEBhZGRyZXNzIGRvIHxmfCAlPgo=</text>
       </register>
       <register name=":" type="4">
         <text>redo</text>
