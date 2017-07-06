@@ -599,10 +599,10 @@
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/assets/stylesheets/payments.scss" timestamp="1499152919572">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/orders_controller.rb" timestamp="1499345141384">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/orders_controller.rb" timestamp="1499346154751">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/models/cart_item_spec.rb" timestamp="1499045755162">
         <mark key="[" line="6" column="27" />
@@ -1078,7 +1078,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>@</text>
+        <text>update_stock</text>
       </register>
       <register name="/" type="4">
         <text>cart_item_</text>
@@ -1087,31 +1087,31 @@
         <text encoding="base64">ICAgICAgICAgICAgbnVtZXJpY2FsaXR5OiB7IG9ubHlfaW50ZWdlcjogdHJ1ZSwgZ3JlYXRlcl90aGFuX29yX2VxdWFsX3RvOiAwIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHVwZGF0ZV9zdG9jayA9IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVsc2UKICAgICAgICAgICAgcmFpc2UgQWN0aXZlUmVjb3JkOjpTdGFsZU9iamVjdEVycm9yLm5ldyhvcmRlcl9pdGVtLCAnY3JlYXRlJykKICAgICAgICAgIGVuZAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhcnRfaXRlbS5pdGVtLnF1YW50aXR5Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlCiAgICAgICAgICByYWlzZSBBY3RpdmVSZWNvcmQ6OlN0YWxlT2JqZWN0RXJyb3IubmV3KEBvcmRlciwgJ2NyZWF0ZScpCiAgICAgICAgZW5kCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgIGVuZAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIGlmIHVwZGF0ZV9zdG9jayA+PSAwCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIGVsc2UKICAgICAgICAgICAgcmFpc2UgQWN0aXZlUmVjb3JkOjpTdGFsZU9iamVjdEVycm9yLm5ldyhvcmRlcl9pdGVtLCAnY3JlYXRlJykKICAgICAgICAgIGVuZAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNhcnRfaXRlbS5pdGVtLnF1YW50aXR5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlCiAgICAgICAgICByYWlzZSBBY3RpdmVSZWNvcmQ6OlN0YWxlT2JqZWN0RXJyb3IubmV3KEBvcmRlciwgJ2NyZWF0ZScpCiAgICAgICAgZW5kCg==</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
