@@ -111,10 +111,11 @@
       <file name="$USER_HOME$/Ebios/Ruby/exercise_app/app/models/club.rb" timestamp="1493355480720">
         <mark key="[" line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" timestamp="1499076359422">
-        <mark key="[" line="187" column="0" />
-        <mark key="]" line="187" column="0" />
-        <mark key="." line="187" column="0" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" timestamp="1499306943942">
+        <mark key="[" line="94" column="29" />
+        <mark key="]" line="94" column="33" />
+        <mark key="." line="94" column="33" />
+        <mark key="^" line="94" column="33" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/support/shared_db_connection.rb" timestamp="1477748463334">
         <mark key="[" line="9" column="18" />
@@ -399,8 +400,11 @@
         <mark key="." line="15" column="22" />
         <mark key="^" line="15" column="22" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" timestamp="1499166054033">
-        <mark key="." line="164" column="0" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" timestamp="1499306418459">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="14" />
+        <mark key="." line="70" column="14" />
+        <mark key="^" line="60" column="64" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/sample_app/Gemfile" timestamp="1494220597274">
         <mark key="[" line="41" column="26" />
@@ -435,6 +439,7 @@
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/spec_helper.rb" timestamp="1498813539521">
         <mark key="[" line="93" column="26" />
       </file>
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/Gemfile" timestamp="1499307079081" />
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/rails_helper.rb" timestamp="1477756854942">
         <mark key="[" line="65" column="44" />
         <mark key="]" line="59" column="51" />
@@ -710,6 +715,9 @@
         <mark key="]" line="5" column="29" />
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
+      </file>
+      <file name="/Ruby Console" timestamp="1499306946155">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/models/user.rb" timestamp="1499163696060">
         <mark key="[" line="17" column="41" />
@@ -1058,7 +1066,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text>CartItem.where(user_id: current_user.id, item_id: cart_item.item_id, quantity: quantity).count</text>
       </register>
       <register name="/" type="4">
         <text>cart_item_</text>
@@ -1067,31 +1075,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPCU9IGZvcm1fdGFnIHBheW1lbnRfY2hvb3NpbmdfcGF0aCwgbWV0aG9kOiA6Z2V0IGRvICU+CiAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICA8JT0gc2VsZWN0IDpwYXltZW50LCA6YWRkcmVzc19pZCwgb3B0aW9uc19mb3Jfc2VsZWN0KEBhZGRyZXNzZXMubWFwe3x0fCBbdC5hZGRyZXNzLCB0LmlkXX0sIHNlbGVjdGVkOiBAY2hvc2VuX2FkZHJlc3MuaWQpLAogICAgICAgICAgICAgICAgICAgICAgICAgICB7fSwgb25DaGFuZ2U6ICd0aGlzLmZvcm0uc3VibWl0KCk7JywgY2xhc3M6ICdmb3JtLWNvbnRyb2wnICU+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwlIGVuZCAlPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0icm93Ij4KICA8ZGl2IGNsYXNzPSJjb2wtbWQtMTIiPgogICAgPGRpdiBjbGFzcz0icGFuZWwgcGFuZWwtc3VjY2VzcyI+CiAgICAgIDxkaXYgY2xhc3M9InBhbmVsLWhlYWRpbmciPgogICAgICAgIDxoMyBjbGFzcz0icGFuZWwtdGl0bGUiPuOBguOCiuOBjOOBqOOBhuOBlOOBluOBhOOBvuOBmeOAguazqOaWh+OBjOeiuuWumuOBleOCjOOBvuOBl+OBn+OAgjwvaDM+CiAgICAgIDwvZGl2PgogICAgICA8ZGl2IGNsYXNzPSJwYW5lbC1ib2R5Ij4KICAgICAgICDms6jmloflhoXlrrnms6jmloflhoXlrrnms6jmloflhoXlrrnms6jmloflhoXlrrnms6jmloflhoXlrrnms6jmloflhoXlrrnms6jmloflhoXlrrnms6jmloflhoXlrrkKICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICA8L2Rpdj4KPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW5kCiAgICAgICAgICByZXNjdWUgQWN0aXZlUmVjb3JkOjpTdGFsZU9iamVjdEVycm9yCiAgICAgICAgICAgIGZsYXNoWzpkYW5nZXJdID0gJ+OCq+ODvOODiOOBjOS7luOBruS6uuOBq+OCiOOBo+OBpuaTjeS9nOOBleOCjOOBvuOBl+OBn+OAgicKICAgICAgICAgICAgcmVkaXJlY3RfdG8gdXNlcl9jYXJ0X2l0ZW1zX3BhdGgoY3VycmVudF91c2VyKQogICAgICAgICAgICByZXR1cm4KICAgICAgICAgIGVuZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW5kCiAgICAgICAgICByZXNjdWUgQWN0aXZlUmVjb3JkOjpTdGFsZU9iamVjdEVycm9yCiAgICAgICAgICAgIGZsYXNoWzpkYW5nZXJdID0gJ+OCq+ODvOODiOOBjOS7luOBruS6uuOBq+OCiOOBo+OBpuaTjeS9nOOBleOCjOOBvuOBl+OBn+OAgicKICAgICAgICAgICAgcmVkaXJlY3RfdG8gdXNlcl9jYXJ0X2l0ZW1zX3BhdGgoY3VycmVudF91c2VyKQogICAgICAgICAgICByZXR1cm4KICAgICAgICAgIGVuZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXNvdXJjZXMgOm9yZGVyX2NvbXBsZXRpb25zLCBvbmx5OiBbOmluZGV4XQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGJlZ2luCiAgICAgICAgICAgIENhcnRJdGVtLnRyYW5zYWN0aW9uIGRvCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICA8JT0gc2VsZWN0IDpwYXltZW50LCA6YWRkcmVzc19pZCwgb3B0aW9uc19mb3Jfc2VsZWN0KEBhZGRyZXNzZXMubWFwe3x0fCBbdC5hZGRyZXNzLCB0LmlkXX0sIHNlbGVjdGVkOiBAY2hvc2VuX2FkZHJlc3MuaWQpLAogICAgICAgICAgICAgICAgICAgICAgIHt9LCBvbkNoYW5nZTogJ3RoaXMuZm9ybS5zdWJtaXQoKTsnLCBjbGFzczogJ2Zvcm0tY29udHJvbCcgJT4KICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8JT0gbGlua190byAn5rOo5paH44KS56K65a6a44GZ44KLJywgb3JkZXJfY29tcGxldGlvbnNfcGF0aCwgY2xhc3M6ICdidG4gYnRuLWJsb2NrIGJ0bi13YXJuaW5nJyAlPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIGVuZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhdHRyX3JlYWRlciA6Y2FydF9pdGVtcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzY3VlIEFjdGl2ZVJlY29yZDo6U3RhbGVPYmplY3RFcnJvcgogICAgICAgICAgICAgIGZsYXNoWzpkYW5nZXJdID0gJ+OCq+ODvOODiOOBjOS7luOBruS6uuOBq+OCiOOBo+OBpuaTjeS9nOOBleOCjOOBvuOBl+OBn+OAgicKICAgICAgICAgICAgICByZWRpcmVjdF90byB1c2VyX2NhcnRfaXRlbXNfcGF0aChjdXJyZW50X3VzZXIpCiAgICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgICAgIGVuZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwb3N0ICdjaGFuZ2VfYWRkcmVzcycgPT4gJ3BheW1lbnRzI2NoYW5nZV9hZGRyZXNzJwo=</text>
+        <text encoding="base64">ICAgICAgICBiZWdpbgogICAgICAgICAgQ2FydEl0ZW0udHJhbnNhY3Rpb24gZG8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBhZGRyZXNzID0gQGFkZHJlc3Nlcy5maW5kX2J5KGlkOiBhZGRyZXNzX3BhcmFtc1s6YWRkcmVzc19pZF0pCg==</text>
+        <text encoding="base64">ICAgICAgICBiZWdpbgogICAgICAgICAgQ2FydEl0ZW0udHJhbnNhY3Rpb24gZG8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMTAK</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0icm93Ij4KICA8ZGl2IGNsYXNzPSJjb2wtbWQtMTIiPgogICAgPGRpdiBjbGFzcz0icGFuZWwgcGFuZWwtc3VjY2VzcyI+CiAgICAgIDxkaXYgY2xhc3M9InBhbmVsLWhlYWRpbmciPgogICAgICAgIDxoMyBjbGFzcz0icGFuZWwtdGl0bGUiPuOBguOCiuOBjOOBqOOBhuOBlOOBluOBhOOBvuOBmeOAguazqOaWh+OBjOeiuuWumuOBleOCjOOBvuOBl+OBn+OAgjwvaDM+CiAgICAgIDwvZGl2PgogICAgICA8ZGl2IGNsYXNzPSJwYW5lbC1ib2R5Ij4KICAgICAgICDms6jmloflhoXlrrnms6jmloflhoXlrrnms6jmloflhoXlrrnms6jmloflhoXlrrnms6jmloflhoXlrrnms6jmloflhoXlrrnms6jmloflhoXlrrnms6jmloflhoXlrrkKICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICA8L2Rpdj4KPC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action FileStructurePopup</text>
