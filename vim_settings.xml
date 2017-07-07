@@ -423,11 +423,11 @@
         <mark key="." line="15" column="22" />
         <mark key="^" line="15" column="22" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" timestamp="1499396857828">
-        <mark key="[" line="25" column="61" />
-        <mark key="]" line="25" column="53" />
-        <mark key="." line="25" column="53" />
-        <mark key="^" line="25" column="53" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" timestamp="1499399769434">
+        <mark key="[" line="25" column="44" />
+        <mark key="]" line="25" column="50" />
+        <mark key="^" line="25" column="50" />
+        <mark key="." line="25" column="50" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/sample_app/Gemfile" timestamp="1494220597274">
         <mark key="[" line="41" column="26" />
@@ -753,7 +753,7 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="/Ruby Console" timestamp="1499396272090">
+      <file name="/Ruby Console" timestamp="1499399859762">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/models/user.rb" timestamp="1499341788123">
@@ -1006,7 +1006,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="40" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/rails_helper.rb" />
       <jump line="13" column="2" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/rails_helper.rb" />
       <jump line="24" column="65" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/rails_helper.rb" />
       <jump line="44" column="61" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/rails_helper.rb" />
@@ -1106,6 +1105,7 @@
       <jump line="269" column="0" filename="$USER_HOME$/Ebios/Ruby/caps/10baikaiouken.rb" />
       <jump line="3" column="27" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" />
       <jump line="190" column="66" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" />
+      <jump line="42" column="13" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1128,34 +1128,34 @@
         <text encoding="base64">ICAgIFVzZXIuZmluZF9ieShpZDogdXNlci5pZCkudXBkYXRlKGxvZ2dlZF9pbl9hdDogVGltZS5ub3cpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY2FydF9pdGVtc19jb3VudCA9IGN1cnJlbnRfdXNlci5jYXJ0X2l0ZW1zLnNpemUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlY29yZHNfY291bnQgPSBjdXJyZW50X3VzZXIuY2FydF9pdGVtc19pbmZvcm1hdGlvbi5yZWNvcmRzX2NvdW50Cg==</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYmVnaW4KICAgICAgICBDYXJ0SXRlbS50cmFuc2FjdGlvbiBkbwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgcmVzY3VlIEFjdGl2ZVJlY29yZDo6U3RhbGVPYmplY3RFcnJvcgogICAgICAgIGZsYXNoWzpkYW5nZXJdID0gJ+OCq+ODvOODiOOBjOS7luOBruS6uuOBq+OCiOOBo+OBpuaTjeS9nOOBleOCjOOBvuOBl+OBn+OAgicKICAgICAgICByZWRpcmVjdF90byB1c2VyX2NhcnRfaXRlbXNfdXJsKGN1cnJlbnRfdXNlcikKICAgICAgICByZXR1cm4KICAgICAgZW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIyDjgqjjg6njg7zjg6Hjg4Pjgrvjg7zjgrjjgpLkvZzmiJDjgZnjgosK</text>
+        <text encoding="base64">ICAgICAgICAgIGNhcnRfaXRlbXNfY291bnQgPSBjdXJyZW50X3VzZXIuY2FydF9pdGVtcy5jb3VudAogICAgICAgICAgIyDjgqvjg7zjg4jjgavjga81MOWVhuWTgeOBvuOBp+i/veWKoOOBp+OBjeOCiwogICAgICAgICAgaWYgY2FydF9pdGVtc19jb3VudCA8IE1BWF9JVEVNU19OVU1CRVIKICAgICAgICAgICAgY2FydF9pdGVtID0gQGNhcnRfaXRlbXMubmV3KGNhcnRfaXRlbV9wYXJhbXMpCiAgICAgICAgICAgIGNhcnRfaXRlbXNfY291bnQgPSBjdXJyZW50X3VzZXIuY2FydF9pdGVtcy5yZWxvYWQuY291bnQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNhcnRfaXRlbXNfY291bnQgPSBjdXJyZW50X3VzZXIuY2FydF9pdGVtcy5jb3VudAogICAgICAgICAgIyDjgqvjg7zjg4jjgavjga81MOWVhuWTgeOBvuOBp+i/veWKoOOBp+OBjeOCiwogICAgICAgICAgaWYgY2FydF9pdGVtc19jb3VudCA8IE1BWF9JVEVNU19OVU1CRVIKICAgICAgICAgICAgY2FydF9pdGVtID0gQGNhcnRfaXRlbXMubmV3KGNhcnRfaXRlbV9wYXJhbXMpCiAgICAgICAgICAgIGNhcnRfaXRlbXNfY291bnQgPSBjdXJyZW50X3VzZXIuY2FydF9pdGVtcy5yZWxvYWQuY291bnQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2FydF9pdGVtc19jb3VudCA9IGN1cnJlbnRfdXNlci5jYXJ0X2l0ZW1zLnNpemUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVzZXIgPSBVc2VyLmZpbmRfYnkoZW1haWw6IHBhcmFtc1s6c2Vzc2lvbl1bOmVtYWlsXS5kb3duY2FzZSkK</text>
+        <text encoding="base64">ICAgICAgICAgIHJlY29yZHNfY291bnQgPSBjdXJyZW50X3VzZXIuY2FydF9pdGVtc19pbmZvcm1hdGlvbi5yZWNvcmRzX2NvdW50Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxwPjwlPSBsaW5rX3RvICfjgqLjgqvjgqbjg7Pjg4jjgpLjgYrmjIHjgaHjgafjgarjgYTmlrnjga/jgZPjgaHjgoknLCBzaWdudXBfcGF0aCAlPjwvcD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseContent</text>
+        <text>redo</text>
       </register>
     </registers>
     <search>
@@ -1200,9 +1200,9 @@
         <entry>vs</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action RecentFiles</entry>
-        <entry>redo</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action CloseContent</entry>
+        <entry>redo</entry>
       </history-cmd>
       <history-expr />
       <history-input />
