@@ -117,11 +117,11 @@
       <file name="$USER_HOME$/Ebios/Ruby/exercise_app/app/models/club.rb" timestamp="1493355480720">
         <mark key="[" line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" timestamp="1499306943942">
-        <mark key="[" line="94" column="29" />
-        <mark key="]" line="94" column="33" />
-        <mark key="." line="94" column="33" />
-        <mark key="^" line="94" column="33" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" timestamp="1499690788753">
+        <mark key="[" line="153" column="30" />
+        <mark key="]" line="148" column="7" />
+        <mark key="." line="148" column="7" />
+        <mark key="^" line="148" column="7" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/support/shared_db_connection.rb" timestamp="1477748463334">
         <mark key="[" line="9" column="18" />
@@ -423,7 +423,7 @@
         <mark key="." line="15" column="22" />
         <mark key="^" line="15" column="22" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" timestamp="1499690173471">
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" timestamp="1499690474049">
         <mark key="[" line="20" column="40" />
         <mark key="]" line="16" column="19" />
         <mark key="^" line="16" column="19" />
@@ -752,7 +752,7 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="/Ruby Console" timestamp="1499416123306">
+      <file name="/Ruby Console" timestamp="1499690723999">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/models/user.rb" timestamp="1499341788123">
@@ -1118,13 +1118,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>address</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>cart_item_</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGg1PjwlPSBAb3JkZXIuYWRkcmVzcyAlPjwvaDU+Cg==</text>
+      <register name="0" type="4">
+        <text>.update_records_count</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdW5sZXNzIGN1cnJlbnRfdXNlci5yZWxvYWQuY2FydF9pdGVtcy5jb3VudCA8PSBNQVhfSVRFTVNfTlVNQkVSCiAgICAgICAgICAgICAgcmFpc2UgQWN0aXZlUmVjb3JkOjpTdGFsZU9iamVjdEVycm9yLm5ldyhjYXJ0X2l0ZW0sICdhZGRfY2FydF9pdGVtcycpCiAgICAgICAgICAgIGVuZAo=</text>
