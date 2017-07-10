@@ -296,6 +296,12 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/orders/_cart_item.html.erb" timestamp="1499701734544">
+        <mark key="[" line="28" column="8" />
+        <mark key="]" line="28" column="61" />
+        <mark key="." line="28" column="61" />
+        <mark key="^" line="28" column="61" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/user_mailer/account_activation.html.erb" timestamp="1481596404584">
         <mark key="[" line="0" column="19" />
       </file>
@@ -429,10 +435,9 @@
         <mark key="." line="15" column="22" />
         <mark key="^" line="15" column="22" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" timestamp="1499695447524">
-        <mark key="[" line="147" column="0" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" timestamp="1499702501670">
+        <mark key="[" line="7" column="23" />
         <mark key="]" line="147" column="0" />
-        <mark key="^" line="16" column="19" />
         <mark key="." line="147" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/sample_app/Gemfile" timestamp="1494220597274">
@@ -555,9 +560,9 @@
         <mark key="^" line="11" column="56" />
         <mark key="." line="11" column="56" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/cart_items/_cart_item.html.erb" timestamp="1499417840628">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="50" column="7" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/cart_items/_cart_item.html.erb" timestamp="1499701718370">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="46" column="15" />
         <mark key="^" line="25" column="28" />
         <mark key="." line="25" column="28" />
       </file>
@@ -629,19 +634,13 @@
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/assets/stylesheets/payments.scss" timestamp="1499418779382">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/orders_controller.rb" timestamp="1499699351130">
-        <mark key="'" line="31" column="4" />
-        <mark key="]" line="69" column="24" />
-        <mark key="." line="69" column="24" />
-        <mark key="^" line="69" column="24" />
-      </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/models/cart_item_spec.rb" timestamp="1499045755162">
         <mark key="[" line="6" column="27" />
         <mark key="]" line="6" column="46" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1499699455532">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1499701474505">
+        <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -858,7 +857,7 @@
         <mark key="." line="2" column="35" />
         <mark key="^" line="2" column="35" />
       </file>
-      <file name="/dummy.sql" timestamp="1499699471540">
+      <file name="/dummy.sql" timestamp="1499701484746">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/test_app/db/migrate/20161116025658_create_addresses.rb" timestamp="1479542195384">
@@ -1130,43 +1129,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>4323</text>
+        <text>が正常に処理されませんでした。</text>
       </register>
       <register name="/" type="4">
         <text>cart_item_</text>
       </register>
-      <register name="0" type="4">
-        <text>ActiveRecord::Rollback</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9InRleHQtZGFuZ2VyIj4KICAgICAgICAgICAg5q6L44KKPCU9IGNhcnRfaXRlbS5pdGVtLnN0b2NrICU+54K5CiAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgcmVzY3VlIEFjdGl2ZVJlY29yZDo6Um9sbGJhY2sK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBmbGFzaFs6ZGFuZ2VyXSA9ICfllYblk4Hjga7lgKTmrrXjgYzlpInmm7TjgZXjgozjgb7jgZfjgZ/jgIInCiAgICAgICAgICAgICAgcmVkaXJlY3RfdG8gb3JkZXJfY29uZmlybWF0aW9uX3VybAo=</text>
+        <text encoding="base64">ICAgICAgICAjIGlnbm9yZWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBmbGFzaFs6ZGFuZ2VyXSA9ICfllYblk4Hjga7lgKTmrrXjgYzlpInmm7TjgZXjgozjgb7jgZfjgZ/jgIInCiAgICAgICAgICAgICAgcmVkaXJlY3RfdG8gb3JkZXJfY29uZmlybWF0aW9uX3VybAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmbGFzaFs6ZGFuZ2VyXSA9ICfllYblk4Hjga7lgKTmrrXjgYzlpInmm7TjgZXjgozjgb7jgZfjgZ/jgIInCiAgICAgICAgcmVkaXJlY3RfdG8gb3JkZXJfY29uZmlybWF0aW9uX3VybAo=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICBmbGFzaFs6ZGFuZ2VyXSA9ICfllYblk4Hjga7lgKTmrrXjgYzlpInmm7TjgZXjgozjgb7jgZfjgZ/jgIInCiAgICAgICAgcmVkaXJlY3RfdG8gb3JkZXJfY29uZmlybWF0aW9uX3VybA==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBmbGFzaFs6ZGFuZ2VyXSA9ICfllYblk4Hjga7lgKTmrrXjgYzlpInmm7TjgZXjgozjgb7jgZfjgZ/jgIInCiAgICAgICAgICAgICAgcmVkaXJlY3RfdG8gb3JkZXJfY29uZmlybWF0aW9uX3VybAogICAgICAgICAgICAgIHJldHVybgo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yZGVyX2l0ZW0uc2F2ZSEK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBvcmRlcl9pdGVtLnNhdmUhCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAjIFRPRE8g5ZCM5pmC44Gr5p2l44Gf5aC05ZCI44KS6ICD44GI44KLCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBlbmQK</text>
+      </register>
       <register name=":" type="4">
-        <text>action CloseContent</text>
+        <text>action GotoClass</text>
       </register>
     </registers>
     <search>
@@ -1206,7 +1205,6 @@
         <entry>action QuickJavaDoc</entry>
         <entry>action Find</entry>
         <entry>w</entry>
-        <entry>action GotoClass</entry>
         <entry>action GotoFile</entry>
         <entry>vs</entry>
         <entry>source ~/.ideavimrc</entry>
@@ -1214,6 +1212,7 @@
         <entry>action FileStructurePopup</entry>
         <entry>redo</entry>
         <entry>action CloseContent</entry>
+        <entry>action GotoClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
