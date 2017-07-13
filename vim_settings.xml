@@ -561,11 +561,11 @@
         <mark key="^" line="11" column="56" />
         <mark key="." line="11" column="56" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/cart_items/_cart_item.html.erb" timestamp="1499701718370">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="46" column="15" />
-        <mark key="^" line="25" column="28" />
-        <mark key="." line="25" column="28" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/cart_items/_cart_item.html.erb" timestamp="1499919196095">
+        <mark key="[" line="39" column="61" />
+        <mark key="]" line="39" column="60" />
+        <mark key="^" line="39" column="60" />
+        <mark key="." line="39" column="60" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/models/order_item.rb" timestamp="1499361876615">
         <mark key="[" line="3" column="25" />
