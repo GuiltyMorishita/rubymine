@@ -117,10 +117,11 @@
       <file name="$USER_HOME$/Ebios/Ruby/exercise_app/app/models/club.rb" timestamp="1493355480720">
         <mark key="[" line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" timestamp="1500014804830">
-        <mark key="[" line="353" column="53" />
-        <mark key="]" line="353" column="53" />
-        <mark key="." line="353" column="53" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" timestamp="1500017077470">
+        <mark key="[" line="482" column="0" />
+        <mark key="]" line="482" column="0" />
+        <mark key="^" line="33" column="24" />
+        <mark key="." line="482" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/support/shared_db_connection.rb" timestamp="1477748463334">
         <mark key="[" line="9" column="18" />
@@ -1156,31 +1157,31 @@
         <text encoding="base64">ICAgICAgICAgIGl0ICdkb2VzIG5vdCBzYXZlIHRoZSBuZXcgY2FydF9pdGVtIGluIHRoZSBkYXRhYmFzZScgZG8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbnZhbGlkX3Rva2VuX3NvdXJjZSA9IGNhcnRfaXRlbS5pdGVtLmlkLnRvX3MgKyA6OkRpZ2VzdDo6U0hBMjU2LmhleGRpZ2VzdCh1c2VyLmFjdGl2YXRpb25fZGlnZXN0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHRva2VuOiB7fQo=</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjYXJ0X2l0ZW0gPSBidWlsZCg6Y2FydF9pdGVtLCB1c2VyOiB1c2VyLCBpdGVtOiBjcmVhdGUoOml0ZW0pKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnZhbGlkX3Rva2VuX3NvdXJjZSA9IGNhcnRfaXRlbS5pdGVtLmlkLnRvX3MgKyA6OkRpZ2VzdDo6U0hBMjU2LmhleGRpZ2VzdCh1c2VyLmFjdGl2YXRpb25fZGlnZXN0KQo=</text>
+        <text encoding="base64">ICBkZXNjcmliZSAnY2hlY2tfY29ycmVjdF9wYXJhbXNfdG9rZW4nIGRvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnZhbGlkX3Rva2VuX3NvdXJjZSA9IGNhcnRfaXRlbS5pdGVtLmlkLnRvX3MgKyA6OkRpZ2VzdDo6U0hBMjU2LmhleGRpZ2VzdCh1c2VyLmFjdGl2YXRpb25fZGlnZXN0KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHRva2VuOiB7fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYXJ0X2l0ZW0gPSBidWlsZCg6Y2FydF9pdGVtLCB1c2VyOiB1c2VyLCBpdGVtOiBjcmVhdGUoOml0ZW0pKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVubGVzcyBpc19pZF90b2tlbl9jb3JyZWN0PyhAaXRlbS5pZCkKICAgICAgZmxhc2hbOmRhbmdlcl0gPSAn5LiN6YGp5YiH44Gq5YCk44Gn44GZ44CCJwogICAgICByZWRpcmVjdF90byByb290X3VybAogICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnZhbGlkX3Rva2VuX3NvdXJjZSA9IGNhcnRfaXRlbS5pdGVtLmlkLnRvX3MgKyA6OkRpZ2VzdDo6U0hBMjU2LmhleGRpZ2VzdCh1c2VyLmFjdGl2YXRpb25fZGlnZXN0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBiZWZvcmVfYWN0aW9uIDpjaGVja19jb3JyZWN0X2lkX3Rva2VuLCBvbmx5OiBbOl0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>redo</text>
