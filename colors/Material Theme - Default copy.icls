@@ -17,7 +17,7 @@
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="ffcc00" />
-    <option name="CARET_ROW_COLOR" value="222f35" />
+    <option name="CARET_ROW_COLOR" value="343c46" />
     <option name="CONSOLE_BACKGROUND_KEY" value="263238" />
     <option name="DELETED_LINES_COLOR" value="f77669" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
@@ -41,21 +41,21 @@
     <option name="FILESTATUS_addedOutside" value="629755" />
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="80cbc4" />
-    <option name="GUTTER_BACKGROUND" value="263238" />
+    <option name="GUTTER_BACKGROUND" value="1b272d" />
     <option name="INDENT_GUIDE" value="" />
     <option name="LINE_NUMBERS_COLOR" value="475f63" />
     <option name="METHOD_SEPARATORS_COLOR" value="2e3c43" />
     <option name="MODIFIED_LINES_COLOR" value="99b89d" />
-    <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
+    <option name="NOTIFICATION_BACKGROUND" value="ff6654" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
     <option name="RIGHT_MARGIN_COLOR" value="2e3c43" />
     <option name="SELECTED_INDENT_GUIDE" value="505050" />
     <option name="SELECTED_TEARLINE_COLOR" value="99b89d" />
-    <option name="SELECTION_BACKGROUND" value="314549" />
+    <option name="SELECTION_BACKGROUND" value="566369" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
-    <option name="TEARLINE_COLOR" value="3b4950" />
+    <option name="TEARLINE_COLOR" value="323a46" />
     <option name="WHITESPACES" value="2e3c43" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="99b89d" />
   </colors>
