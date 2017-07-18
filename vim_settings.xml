@@ -63,10 +63,11 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/db/seeds/development.rb" timestamp="1500357182011">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/db/seeds/development.rb" timestamp="1500361538962">
+        <mark key="[" line="35" column="22" />
+        <mark key="]" line="35" column="19" />
+        <mark key="." line="35" column="19" />
+        <mark key="^" line="35" column="19" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/assets/javascripts/application.js" timestamp="1481373425616">
         <mark key="[" line="14" column="12" />
@@ -271,11 +272,11 @@
         <mark key="^" line="71" column="66" />
         <mark key="." line="71" column="66" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/application_controller.rb" timestamp="1500351415436">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="40" column="42" />
+      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/application_controller.rb" timestamp="1500361262170">
+        <mark key="[" line="30" column="47" />
+        <mark key="]" line="30" column="51" />
+        <mark key="." line="30" column="51" />
+        <mark key="^" line="30" column="51" />
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/app/views/layouts/_header.html.erb" timestamp="1489726538451">
         <mark key="[" line="17" column="23" />
@@ -786,7 +787,7 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="/Ruby Console" timestamp="1500013724293">
+      <file name="/Ruby Console" timestamp="1500360893353">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/models/user.rb" timestamp="1500351426655">
