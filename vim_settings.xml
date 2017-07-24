@@ -146,6 +146,11 @@
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/user_mailer/account_activation.html.erb" timestamp="1481596404584">
         <mark key="[" line="0" column="19" />
       </file>
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/controllers/announcements_controller.rb" timestamp="1500881917586">
+        <mark key="[" line="8" column="52" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/models/news_release_spec.rb" timestamp="1477756999187">
         <mark key="[" line="2" column="34" />
         <mark key="]" line="2" column="46" />
@@ -363,8 +368,11 @@
         <mark key="^" line="5" column="54" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/iap_rails-8ad766bf8ac9/app/controllers/iap_rails/itunes_products_controller.rb" timestamp="1500881563931">
-        <mark key="[" line="8" column="5" />
+      <file name="$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/iap_rails-8ad766bf8ac9/app/controllers/iap_rails/itunes_products_controller.rb" timestamp="1500881833986">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="8" column="4" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/payments/payment_choosing.html.erb" timestamp="1499361434437">
         <mark key="[" line="41" column="0" />
@@ -470,7 +478,7 @@
       <file name="/dummy.sql" timestamp="1500367032170">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500339376053">
+      <file name="/Dummy.txt" timestamp="1500881671761">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/bin/spring" timestamp="1489542452462">
@@ -985,6 +993,11 @@
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="13" />
       </file>
+      <file name="$USER_HOME$/.gitignore_global" timestamp="1500881976167">
+        <mark key="]" line="2" column="7" />
+        <mark key="^" line="2" column="7" />
+        <mark key="." line="2" column="7" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/news_releases_controller_spec.rb" timestamp="1477756357399">
         <mark key="[" line="2" column="46" />
         <mark key="]" line="2" column="47" />
@@ -1178,19 +1191,19 @@
         <text encoding="base64">ICAgIGFkZF9jb2x1bW4gOnVzZXJzLCA6Z2VuZGVyLCA6aW50ZWdlciwgZGVmYXVsdDogMCwgbnVsbDogZmFsc2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdC5pbnRlZ2VyIDpjcmVhdGVkX2F0X3VuaXh0aW1lLCBsaW1pdDogNCwgbnVsbDpmYWxzZQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgoKCgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBDUkVBVEUgVEVNUE9SQVJZIFRBQkxFIGZvbygKIyBTRUxFQ1QKIyBkMS5udW0gKyBkMi5udW0qMTAgKyBkMy5udW0qMTAwICsgZDQubnVtKjEwMDAgKyBkNS5udW0qMTAwMDAgKyBkNi5udW0qMTAwMDAwIGFzIG51bQojIEZST00KIyBkaWdpdCBkMSwgZGlnaXQgZDIsIGRpZ2l0IGQzLCBkaWdpdCBkNCwgZGlnaXQgZDUsIGRpZ2l0IGQ2CiMgT1JERVIgQlkKIyBudW0KIyApOwojCiMgSU5TRVJUIElOVE8gdXNlcnMobmFtZSwgZW1haWwsIHBhc3N3b3JkX2RpZ2VzdCwgY3JlYXRlZF9hdCwgdXBkYXRlZF9hdCwgZ2VuZGVyKQojIFNFTEVDVAojIENPTkNBVCgiRXhhbXBsZVVzZXIiLCBudW0pLAojIENPTkNBVCgiZXhhbXBsZS11c2VyLSIsIG51bSwgIkBleGFtcGxlLmNvbSIpLAojICIkMmEkMTAkVFZDeDI3VFpwZGZUbkc5cmFPRDF5LlZZVFFTU2l5YzlRNkhBSTUzUWpJdXczU3Vlb0JtU2UiLAojICIyMDE3LTA3LTE4IDAzOjEwOjM5IiwKIyAiMjAxNy0wNy0xOCAwMzoxMDozOSIsCiMKIyBGUk9NIGZvbzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
