@@ -363,6 +363,9 @@
         <mark key="^" line="5" column="54" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/iap_rails-8ad766bf8ac9/app/controllers/iap_rails/itunes_products_controller.rb" timestamp="1500881563931">
+        <mark key="[" line="8" column="5" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/payments/payment_choosing.html.erb" timestamp="1499361434437">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="45" column="10" />
