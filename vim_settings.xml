@@ -186,6 +186,13 @@
         <mark key="^" line="2" column="65" />
         <mark key="." line="3" column="49" />
       </file>
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/kpi_logger/log_schema/ranking_match_battle_result.rb" timestamp="1500967073682">
+        <mark key="'" line="39" column="27" />
+        <mark key="[" line="22" column="19" />
+        <mark key="]" line="39" column="29" />
+        <mark key="^" line="39" column="29" />
+        <mark key="." line="39" column="29" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/models/phone_spec.rb" timestamp="1477542517402">
         <mark key="[" line="36" column="39" />
         <mark key="]" line="37" column="4" />
@@ -624,7 +631,7 @@
         <mark key="^" line="37" column="78" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/cinderella_match/match.rb" timestamp="1500962826808" />
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/cinderella_match/match.rb" timestamp="1500967124048" />
       <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/controllers/concerns/timewarpable_spec.rb" timestamp="1500880068009">
         <mark key="[" line="26" column="26" />
       </file>
@@ -1079,7 +1086,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="29" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" />
       <jump line="101" column="31" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" />
       <jump line="33" column="32" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" />
       <jump line="83" column="32" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" />
@@ -1179,6 +1185,7 @@
       <jump line="210" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" />
       <jump line="10" column="4" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/items_controller.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/items_controller.rb" />
+      <jump line="39" column="27" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/kpi_logger/log_schema/ranking_match_battle_result.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1197,29 +1204,34 @@
       <register name="/" type="4">
         <text>cart_item_</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGFkZF9jb2x1bW4gOnVzZXJzLCA6Z2VuZGVyLCA6aW50ZWdlciwgZGVmYXVsdDogMCwgbnVsbDogZmFsc2UK</text>
+      <register name="0" type="8">
+        <text>diff_rank
+before_rank
+after_rank
+gain_ranking_score
+before_ranking_scor
+after_ranking_score</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBAc2xvdCA9IG1hdGNoX21ha2luZ19yZXN1bHQuc2xvdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgYXR0cl9hY2Nlc3NvciA6YWZ0ZXJfeWVsbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgoKCgo=</text>
+        <text encoding="base64">ICAgICAgYXR0cl9hY2Nlc3NvciA6YWZ0ZXJfeWVsbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYXR0cl9hY2Nlc3NvciA6YWZ0ZXJfeWwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgoKCgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
