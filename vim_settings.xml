@@ -345,6 +345,12 @@
         <mark key="]" line="6" column="46" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/kpi_logger/log_schema.rb" timestamp="1500946065135">
+        <mark key="[" line="73" column="58" />
+        <mark key="]" line="73" column="56" />
+        <mark key="^" line="73" column="56" />
+        <mark key="." line="73" column="56" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/mailers/application_mailer.rb" timestamp="1481598580322">
         <mark key="[" line="1" column="29" />
         <mark key="]" line="3" column="3" />
