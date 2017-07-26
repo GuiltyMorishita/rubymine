@@ -80,13 +80,12 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/ranking/match.rb" timestamp="1501030446508">
-        <mark key="[" line="60" column="72" />
-        <mark key="]" line="61" column="9" />
-        <mark key="^" line="61" column="9" />
-        <mark key="." line="61" column="9" />
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/ranking/match.rb" timestamp="1501030846697">
+        <mark key="[" line="69" column="43" />
+        <mark key="]" line="69" column="55" />
+        <mark key="^" line="69" column="55" />
+        <mark key="." line="69" column="55" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user/ranking/point_record.rb" timestamp="1500973075277" />
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/sessions/new.html.erb" timestamp="1499384495933">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="26" column="5" />
@@ -450,7 +449,6 @@
         <mark key="." line="16" column="24" />
         <mark key="^" line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/match/result.rb" timestamp="1500972795037" />
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/api/routes_controller.rb" timestamp="1478408972906">
         <mark key="[" line="19" column="26" />
         <mark key="]" line="19" column="26" />
@@ -668,7 +666,6 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/kpi_logger/log_schema/cinderella_match_battle_result.rb" timestamp="1500962319565" />
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/layouts/_header.html.erb" timestamp="1496128493012">
         <mark key="[" line="32" column="84" />
         <mark key="]" line="32" column="76" />
@@ -1016,7 +1013,6 @@
         <mark key="^" line="55" column="35" />
         <mark key="." line="55" column="35" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/kpi_logger/log_schema/event_match_battle_result.rb" timestamp="1500962253595" />
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/factories/news_releases.rb" timestamp="1477755887646">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
@@ -1212,13 +1208,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>cart_item_</text>
       </register>
-      <register name="0" type="4">
-        <text>before(before_rank, ranking_score)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJhbmtpbmdfbWF0Y2hfYmF0dGxlX3Jlc3VsdC5iZWZvcmUoYmVmb3JlX3JhbmssIHJhbmtpbmdfc2NvcmUpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIGJlZm9yZShiZWZvcmVfcmFuaywgcmFua2luZ19zY29yZSkK</text>
