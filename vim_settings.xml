@@ -80,11 +80,16 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/ranking/match.rb" timestamp="1501034221764">
-        <mark key="[" line="59" column="30" />
-        <mark key="]" line="60" column="27" />
-        <mark key="." line="60" column="27" />
-        <mark key="^" line="60" column="27" />
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/ranking/match.rb" timestamp="1501035480350">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="59" column="9" />
+      </file>
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user/ranking/point_record.rb" timestamp="1501035070989">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="6" />
+        <mark key="." line="25" column="6" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/sessions/new.html.erb" timestamp="1499384495933">
         <mark key="[" line="0" column="0" />
@@ -191,11 +196,11 @@
         <mark key="^" line="2" column="65" />
         <mark key="." line="3" column="49" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/kpi_logger/log_schema/ranking_match_battle_result.rb" timestamp="1501033068132">
-        <mark key="[" line="38" column="8" />
-        <mark key="]" line="38" column="8" />
-        <mark key="^" line="38" column="8" />
-        <mark key="." line="38" column="8" />
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/kpi_logger/log_schema/ranking_match_battle_result.rb" timestamp="1501035955337">
+        <mark key="[" line="39" column="35" />
+        <mark key="]" line="39" column="30" />
+        <mark key="^" line="39" column="30" />
+        <mark key="." line="39" column="30" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/models/phone_spec.rb" timestamp="1477542517402">
         <mark key="[" line="36" column="39" />
@@ -1208,46 +1213,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>cart_item_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICMgVE9ETywg6Kmm5ZCI5YmN44Gu44Op44Oz44Kt44Oz44Kw44K544Kz44Ki44KS5Y+W5b6XCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJlc3VsdC5yYW5rZWQgPSA6OlJhbmtpbmc6OlNjb3JlOjpVc2VyUmFuay5yYW5rKHJhbmtpbmcuaWQsIG5ld19yYW5raW5nX3Njb3JlKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICMgVE9ETywg6Kmm5ZCI5YmN44Gu44Op44Oz44Kt44Oz44Kw44KS5Y+W5b6XCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJlc3VsdC5yYW5rZWQgPSA6OlJhbmtpbmc6OlNjb3JlOjpVc2VyUmFuay5yYW5rKHJhbmtpbmcuaWQsIG5ld19yYW5raW5nX3Njb3JlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICMgVE9ETywg6Kmm5ZCI5YmN44Gu44Op44Oz44Kt44Oz44Kw44K544Kz44Ki44KS5Y+W5b6XCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGJlZm9yZV9yYW5rID0gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICMgVE9ETywg6Kmm5ZCI5YmN44Gu44Op44Oz44Kt44Oz44Kw44K544Kz44Ki44KS5Y+W5b6XCg==</text>
       </register>
-      <register name="6" type="8">
-        <text>self.
-self.</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgaWYgaGlnaF9wb2ludF9yZWNvcmRzLmNvdW50IDwgcmFua2luZy5oaWdoX3JlY29yZF9udW1iZXIK</text>
       </register>
-      <register name="7" type="8">
-        <text>self.
-self.</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
-      <register name="8" type="8">
-        <text>self.
-self.
-self.</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="8">
-        <text>self.
-self.
-self.</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgZWxzZQo=</text>
       </register>
       <register name=":" type="4">
         <text>redo</text>
