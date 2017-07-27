@@ -464,6 +464,12 @@
         <mark key="^" line="16" column="44" />
         <mark key="." line="16" column="44" />
       </file>
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/kpi_logger/log_schema/ranking_match_battle_result_spec.rb" timestamp="1501138279882">
+        <mark key="[" line="2" column="37" />
+        <mark key="]" line="2" column="60" />
+        <mark key="." line="2" column="60" />
+        <mark key="^" line="2" column="60" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/users_controller.rb" timestamp="1499339983976">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="52" />
@@ -508,6 +514,12 @@
         <mark key="]" line="2" column="29" />
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="28" />
+      </file>
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/ranking/match_spec.rb" timestamp="1501138089857">
+        <mark key="[" line="111" column="75" />
+        <mark key="]" line="111" column="91" />
+        <mark key="^" line="111" column="91" />
+        <mark key="." line="111" column="91" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/orders/show.html.erb" timestamp="1499363691055">
         <mark key="[" line="0" column="0" />
@@ -1074,11 +1086,6 @@
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/.gitignore_global" timestamp="1500881976167">
-        <mark key="]" line="2" column="7" />
-        <mark key="^" line="2" column="7" />
-        <mark key="." line="2" column="7" />
-      </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/controllers/news_releases_controller_spec.rb" timestamp="1477756357399">
         <mark key="[" line="2" column="46" />
         <mark key="]" line="2" column="47" />
@@ -1263,7 +1270,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ranking_match_battle_result</text>
+        <text>GachaResult</text>
       </register>
       <register name="/" type="4">
         <text>cart_item_</text>
