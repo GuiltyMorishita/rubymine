@@ -80,7 +80,12 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/ranking/match.rb" timestamp="1501124400393" />
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/ranking/match.rb" timestamp="1501133833554">
+        <mark key="[" line="73" column="23" />
+        <mark key="]" line="73" column="22" />
+        <mark key="^" line="73" column="22" />
+        <mark key="." line="73" column="22" />
+      </file>
       <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user/ranking/point_record.rb" timestamp="1501043470900">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -113,11 +118,11 @@
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/models/cart_items_information.rb" timestamp="1498614972957">
         <mark key="[" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/requests/rankings/matches/playballs_spec.rb" timestamp="1501124028820">
-        <mark key="[" line="9" column="35" />
-        <mark key="]" line="9" column="33" />
-        <mark key="." line="9" column="33" />
-        <mark key="^" line="9" column="33" />
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/requests/rankings/matches/playballs_spec.rb" timestamp="1501133218040">
+        <mark key="[" line="42" column="34" />
+        <mark key="]" line="46" column="34" />
+        <mark key="." line="46" column="34" />
+        <mark key="^" line="46" column="34" />
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/config/boot.rb" timestamp="1489479399988">
         <mark key="[" line="0" column="5" />
@@ -200,12 +205,12 @@
         <mark key="^" line="2" column="65" />
         <mark key="." line="3" column="49" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/kpi_logger/log_schema/ranking_match_battle_result.rb" timestamp="1501122476728">
-        <mark key="'" line="99" column="0" />
-        <mark key="[" line="21" column="47" />
-        <mark key="]" line="21" column="46" />
-        <mark key="^" line="21" column="46" />
-        <mark key="." line="21" column="46" />
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/kpi_logger/log_schema/ranking_match_battle_result.rb" timestamp="1501133734923">
+        <mark key="'" line="89" column="0" />
+        <mark key="[" line="50" column="35" />
+        <mark key="]" line="50" column="34" />
+        <mark key="^" line="50" column="34" />
+        <mark key="." line="50" column="34" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/models/phone_spec.rb" timestamp="1477542517402">
         <mark key="[" line="36" column="39" />
@@ -447,7 +452,7 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="/Ruby Console" timestamp="1501124330955">
+      <file name="/Ruby Console" timestamp="1501132201844">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -465,8 +470,12 @@
         <mark key="." line="16" column="24" />
         <mark key="^" line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/match/result.rb" timestamp="1501121760190">
-        <mark key="'" line="153" column="0" />
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/match/result.rb" timestamp="1501133750378">
+        <mark key="'" line="148" column="0" />
+        <mark key="[" line="122" column="32" />
+        <mark key="]" line="122" column="26" />
+        <mark key="." line="122" column="26" />
+        <mark key="^" line="122" column="26" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/api/routes_controller.rb" timestamp="1478408972906">
         <mark key="[" line="19" column="26" />
@@ -515,7 +524,7 @@
       <file name="/dummy.sql" timestamp="1500367032170">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501121017301">
+      <file name="/Dummy.txt" timestamp="1501133848386">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/bin/spring" timestamp="1489542452462">
@@ -1243,43 +1252,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, result, ranking</text>
+        <text>new_ranking_score</text>
       </register>
       <register name="/" type="4">
         <text>cart_item_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlc3VsdC5iZWZvcmVfZnJlZV90aWNrZXQgPSB1c2VyX3Jhbmtpbmdfc3RhdHVzLmZyZWVfdGlja2V0X2Ftb3VudAogICAgICAgICAgcmVzdWx0LmJlZm9yZV9pdGVtX3RpY2tldCA9IHVzZXJfcmFua2luZ190aWNrZXQuYW1vdW50Cg==</text>
+        <text encoding="base64">ICAgICAgYXR0cl9hY2Nlc3NvciA6eWVsbF9iZWZvcmUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYXR0cl9hY2Nlc3NvciA6YWZ0ZXJfdG90YWxfc2NvcmUK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYXR0cl9hY2Nlc3NvciA6YWZ0ZXJfY2x1Yl9idWRnZXQK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgYXR0cl9hY2Nlc3NvciA6YmVmb3JlX2ZyZWVfdGlja2V0CiAgICAgIGF0dHJfYWNjZXNzb3IgOmFmdGVyX2ZyZWVfdGlja2V0CiAgICAgIGF0dHJfYWNjZXNzb3IgOmJlZm9yZV9pdGVtX3RpY2tldAogICAgICBhdHRyX2FjY2Vzc29yIDphZnRlcl9pdGVtX3RpY2tldAo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGVmIGJlZm9yZSh1c2VyLCByZXN1bHQsIGJlZm9yZV9yYW5rLCBiZWZvcmVfcmFua2luZ19zY29yZSwgYmVmb3JlX3RpY2tldHMpCiAgICAgIGVuZAoKICAgICAgZGVmIGFmdGVyKHJlc3VsdCwgYWZ0ZXJfcmFua2luZ19zY29yZSwgYWZ0ZXJfdGlja2V0cykKICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgYXR0cl9hY2Nlc3NvciA6YmVmb3JlX3RvdGFsX3Njb3JlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYXR0cl9hY2Nlc3NvciA6YmVmb3JlX3llbGwK</text>
+        <text encoding="base64">ICAgICAgYXR0cl9hY2Nlc3NvciA6YWZ0ZXJfdG90YWxfc2NvcmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlc3VsdC51c2VkX3RpY2tldF90eXBlID0gdGlja2V0X3R5cGUK</text>
+        <text encoding="base64">ICAgICAgYXR0cl9hY2Nlc3NvciA6YWZ0ZXJfY2x1Yl9idWRnZXQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBAYWZ0ZXJfcmFua2luZ19zY29yZSA9IGFmdGVyX3Jhbmtpbmdfc2NvcmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBAYWZ0ZXJfcmFuayA9IHJlc3VsdC5yYW5rZWQK</text>
+        <text encoding="base64">ICAgICAgZGVmIGJlZm9yZSh1c2VyLCByZXN1bHQsIGJlZm9yZV9yYW5rLCBiZWZvcmVfcmFua2luZ19zY29yZSwgYmVmb3JlX3RpY2tldHMpCiAgICAgIGVuZAoKICAgICAgZGVmIGFmdGVyKHJlc3VsdCwgYWZ0ZXJfcmFua2luZ19zY29yZSwgYWZ0ZXJfdGlja2V0cykKICAgICAgZW5kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBAYWZ0ZXJfY2x1Yl9idWRnZXQgPSBAYmVmb3JlX2NsdWJfYnVkZ2V0ICsgcmVzdWx0LmdhaW5lZF9jbHViX2J1ZGdldAo=</text>
+        <text encoding="base64">ICAgICAgYXR0cl9hY2Nlc3NvciA6YmVmb3JlX3llbGwK</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseContent</text>
+        <text>redo</text>
       </register>
     </registers>
     <search>
@@ -1325,8 +1334,8 @@
         <entry>action RecentFiles</entry>
         <entry>action GotoClass</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>redo</entry>
         <entry>action CloseContent</entry>
+        <entry>redo</entry>
       </history-cmd>
       <history-expr />
       <history-input />
