@@ -80,7 +80,7 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/ranking/match.rb" timestamp="1501135885506">
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/ranking/match.rb" timestamp="1501146638754">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="38" column="6" />
         <mark key="^" line="38" column="6" />
@@ -118,9 +118,9 @@
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/models/cart_items_information.rb" timestamp="1498614972957">
         <mark key="[" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/requests/rankings/matches/playballs_spec.rb" timestamp="1501133218040">
-        <mark key="[" line="42" column="34" />
-        <mark key="]" line="46" column="34" />
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/requests/rankings/matches/playballs_spec.rb" timestamp="1501144077395">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="53" />
         <mark key="." line="46" column="34" />
         <mark key="^" line="46" column="34" />
       </file>
@@ -205,7 +205,7 @@
         <mark key="^" line="2" column="65" />
         <mark key="." line="3" column="49" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/kpi_logger/log_schema/ranking_match_battle_result.rb" timestamp="1501135807639">
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/kpi_logger/log_schema/ranking_match_battle_result.rb" timestamp="1501143860094">
         <mark key="'" line="89" column="0" />
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -464,11 +464,11 @@
         <mark key="^" line="16" column="44" />
         <mark key="." line="16" column="44" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/kpi_logger/log_schema/ranking_match_battle_result_spec.rb" timestamp="1501143033533">
-        <mark key="[" line="16" column="13" />
-        <mark key="]" line="2" column="60" />
-        <mark key="." line="2" column="60" />
-        <mark key="^" line="2" column="60" />
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/kpi_logger/log_schema/ranking_match_battle_result_spec.rb" timestamp="1501146448730">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="20" column="70" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/users_controller.rb" timestamp="1499339983976">
         <mark key="[" line="16" column="0" />
@@ -476,11 +476,12 @@
         <mark key="." line="16" column="24" />
         <mark key="^" line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/match/result.rb" timestamp="1501135724098">
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/match/result.rb" timestamp="1501145845744">
         <mark key="'" line="147" column="0" />
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="39" />
-        <mark key="." line="127" column="0" />
+        <mark key="[" line="134" column="20" />
+        <mark key="]" line="134" column="23" />
+        <mark key="." line="134" column="23" />
+        <mark key="^" line="134" column="23" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/api/routes_controller.rb" timestamp="1478408972906">
         <mark key="[" line="19" column="26" />
@@ -515,9 +516,9 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/ranking/match_spec.rb" timestamp="1501138089857">
-        <mark key="[" line="111" column="75" />
-        <mark key="]" line="111" column="91" />
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/ranking/match_spec.rb" timestamp="1501146099952">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="45" />
         <mark key="^" line="111" column="91" />
         <mark key="." line="111" column="91" />
       </file>
@@ -535,7 +536,7 @@
       <file name="/dummy.sql" timestamp="1500367032170">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501135356872">
+      <file name="/Dummy.txt" timestamp="1501146319412">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/bin/spring" timestamp="1489542452462">
@@ -858,6 +859,10 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="6" column="24" />
       </file>
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/user_spec.rb" timestamp="1501145019783">
+        <mark key="[" line="462" column="0" />
+        <mark key="]" line="462" column="27" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/partial/_navbar.html.erb" timestamp="1481376654792">
         <mark key="[" line="36" column="20" />
         <mark key="]" line="36" column="65" />
@@ -914,11 +919,6 @@
         <mark key="]" line="12" column="37" />
         <mark key="." line="12" column="37" />
         <mark key="^" line="12" column="37" />
-      </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/requests/cinderella_matches/playballs_spec.rb" timestamp="1501042973546">
-        <mark key="'" line="45" column="21" />
-        <mark key="[" line="239" column="0" />
-        <mark key="]" line="242" column="96" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/assets/stylesheets/orders.scss" timestamp="1499418768022">
         <mark key="[" line="7" column="0" />
@@ -1045,6 +1045,9 @@
         <mark key="]" line="21" column="17" />
         <mark key="." line="5" column="65" />
       </file>
+      <file name="$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activesupport-5.0.3/lib/active_support/core_ext/module/delegation.rb" timestamp="1501146710176">
+        <mark key="'" line="112" column="6" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/Gemfile" timestamp="1478404611590">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="52" />
@@ -1157,7 +1160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" />
       <jump line="180" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" />
       <jump line="169" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" />
       <jump line="164" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" />
@@ -1257,6 +1259,7 @@
       <jump line="64" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/ranking.rb" />
       <jump line="66" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/ranking.rb" />
       <jump line="70" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/ranking.rb" />
+      <jump line="112" column="6" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activesupport-5.0.3/lib/active_support/core_ext/module/delegation.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1270,40 +1273,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>GachaResult</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>cart_item_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYXR0cl9hY2Nlc3NvciA6YmVmb3JlX3JhbmsK</text>
+        <text encoding="base64">ICBsZXQoOnVzZXIpIHsgY3JlYXRlX3VzZXJfd2l0aF9vcmRlcigxMDAwKSB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXQoOmdhbWUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QWN0aXZlUmVjb3JkOjpCYXNlLmxvZ2dlciA9IExvZ2dlci5uZXcoU1RET1VUKQo=</text>
+        <text encoding="base64">ICBsZXQoOm1hdGNoX21ha2luZ19yZXN1bHQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXQoOm1hdGNoX21ha2luZ19yZXN1bHQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJhbmtpbmdfbWF0Y2hfYmF0dGxlX3Jlc3VsdCA9IAo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJhbmtpbmdfbWF0Y2hfYmF0dGxlX3Jlc3VsdCA9IEtwaUxvZ2dlcjo6TG9nU2NoZW1hOjpSYW5raW5nTWF0Y2hCYXR0bGVSZXN1bHQubmV3KHVzZXIsIGdhbWUsIHJlc3VsdCwgbWF0Y2hfbWFraW5nX3Jlc3VsdCwgcmFua2luZykK</text>
+        <text encoding="base64">ICBsZXQoOnJhbmtpbmcpIHsgY3JlYXRlIDpyYW5raW5nLCA6aXNfYXZhaWxhYmxlIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJhbmtpbmdfbWF0Y2hfYmF0dGxlX3Jlc3VsdC5iZWZvcmUocmVzdWx0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJhbmtpbmdfbWF0Y2hfYmF0dGxlX3Jlc3VsdC5hZnRlcihyZXN1bHQpCg==</text>
+        <text encoding="base64">ICBsZXQoOnJhbmtpbmcpIHsgY3JlYXRlIDpyYW5raW5nLCA6aXNfYXZhaWxhYmxlIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGVmIGJlZm9yZShyZXN1bHQpCiAgICAgIGVuZAoKICAgICAgZGVmIGFmdGVyKHJlc3VsdCkKICAgICAgZW5kCgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBAYWZ0ZXJfcmFua2luZ19zY29yZSA9IHJlc3VsdC5hZnRlcl9yYW5raW5nX3Njb3JlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>redo</text>
