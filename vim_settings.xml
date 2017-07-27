@@ -80,10 +80,11 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/ranking/match.rb" timestamp="1501121866479">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="47" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/ranking/match.rb" timestamp="1501123332889">
+        <mark key="[" line="51" column="58" />
+        <mark key="]" line="51" column="86" />
+        <mark key="." line="51" column="86" />
+        <mark key="^" line="51" column="86" />
       </file>
       <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user/ranking/point_record.rb" timestamp="1501043470900">
         <mark key="[" line="23" column="0" />
@@ -204,12 +205,12 @@
         <mark key="^" line="2" column="65" />
         <mark key="." line="3" column="49" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/kpi_logger/log_schema/ranking_match_battle_result.rb" timestamp="1501121723494">
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/kpi_logger/log_schema/ranking_match_battle_result.rb" timestamp="1501122476728">
         <mark key="'" line="99" column="0" />
-        <mark key="[" line="41" column="76" />
-        <mark key="]" line="41" column="52" />
-        <mark key="^" line="41" column="52" />
-        <mark key="." line="41" column="52" />
+        <mark key="[" line="21" column="47" />
+        <mark key="]" line="21" column="46" />
+        <mark key="^" line="21" column="46" />
+        <mark key="." line="21" column="46" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/models/phone_spec.rb" timestamp="1477542517402">
         <mark key="[" line="36" column="39" />
@@ -451,7 +452,7 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="/Ruby Console" timestamp="1501121870928">
+      <file name="/Ruby Console" timestamp="1501123085526">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -1250,7 +1251,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHVzZXIuc3RhdHVzLmNsdWJfYnVkZ2V0</text>
+        <text>, result, ranking</text>
       </register>
       <register name="/" type="4">
         <text>cart_item_</text>
