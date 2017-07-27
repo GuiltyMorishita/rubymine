@@ -464,8 +464,8 @@
         <mark key="^" line="16" column="44" />
         <mark key="." line="16" column="44" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/kpi_logger/log_schema/ranking_match_battle_result_spec.rb" timestamp="1501138279882">
-        <mark key="[" line="2" column="37" />
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/kpi_logger/log_schema/ranking_match_battle_result_spec.rb" timestamp="1501143033533">
+        <mark key="[" line="16" column="13" />
         <mark key="]" line="2" column="60" />
         <mark key="." line="2" column="60" />
         <mark key="^" line="2" column="60" />
