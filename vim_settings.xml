@@ -472,11 +472,11 @@
         <mark key="^" line="16" column="44" />
         <mark key="." line="16" column="44" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/kpi_logger/log_schema/ranking_match_battle_result_spec.rb" timestamp="1501151651419">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="0" />
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/kpi_logger/log_schema/ranking_match_battle_result_spec.rb" timestamp="1501153229837">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="82" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/users_controller.rb" timestamp="1499339983976">
         <mark key="[" line="16" column="0" />
@@ -524,9 +524,9 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/ranking/match_spec.rb" timestamp="1501151623389">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="35" column="6" />
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/ranking/match_spec.rb" timestamp="1501153223267">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="82" />
         <mark key="^" line="111" column="91" />
         <mark key="." line="6" column="2" />
       </file>
@@ -1288,34 +1288,34 @@
         <text>admin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFsbG93KFNoYXJkKS50byByZWNlaXZlKDp3aXRoX3NoYXJkKS5hbmRfd3JhcF9vcmlnaW5hbCBkbyB8XywgJmJsb2NrfAogICAgICBibG9jay5jYWxsCiAgICBlbmQK</text>
+        <text encoding="base64">ICBsZXQhKDplbmVteV9zY29yZV9ib251cykgeyBjcmVhdGUgOnJhbmtpbmdfZW5lbXlfc2NvcmVfYm9udXMsIHJhbmtpbmc6IHJhbmtpbmcgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAjIGxldCg6dXNlcikgeyBjcmVhdGUgOnVzZXIsIDp3aXRoX3N0YXR1cyB9Cg==</text>
+        <text encoding="base64">ICBsZXQoOm9wcG9uZW50KSB7IGNyZWF0ZV91c2VyX3dpdGhfb3JkZXIoMTAwMDApIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsZXQoOm9wcG9uZW50MykgeyBjcmVhdGVfdXNlcl93aXRoX29yZGVyKDMwMDAwKSB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBsZXQoOm9wcG9uZW50MikgeyBjcmVhdGVfdXNlcl93aXRoX29yZGVyKDIwMDAwKSB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBsZXQoOnJhbmtpbmcpIHsgY3JlYXRlIDpyYW5raW5nLCA6aXNfYXZhaWxhYmxlIH0K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAjIGxldCg6dXNlcikgeyBjcmVhdGUgOnVzZXIsIDp3aXRoX3N0YXR1cyB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBsZXQoOm9wcG9uZW50MykgeyBjcmVhdGVfdXNlcl93aXRoX29yZGVyKDMwMDAwKSB9Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsZXQoOm9wcG9uZW50KSB7IGNyZWF0ZV91c2VyX3dpdGhfb3JkZXIoMTAwMDApIH0K</text>
+        <text encoding="base64">ICBsZXQoOm9wcG9uZW50MikgeyBjcmVhdGVfdXNlcl93aXRoX29yZGVyKDIwMDAwKSB9Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICBsZXQoOnJhbmtpbmcpIHsgY3JlYXRlIDpyYW5raW5nLCA6aXNfYXZhaWxhYmxlIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsZXQoOm9wcG9uZW50KSB7IGNyZWF0ZV91c2VyX3dpdGhfb3JkZXIoMTAwMDApIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>redo</text>
