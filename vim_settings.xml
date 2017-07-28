@@ -125,7 +125,7 @@
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/models/cart_items_information.rb" timestamp="1498614972957">
         <mark key="[" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/requests/rankings/matches/playballs_spec.rb" timestamp="1501220081439">
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/requests/rankings/matches/playballs_spec.rb" timestamp="1501222448687">
         <mark key="'" line="65" column="14" />
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
@@ -213,12 +213,12 @@
         <mark key="^" line="2" column="65" />
         <mark key="." line="3" column="49" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/kpi_logger/log_schema/ranking_match_battle_result.rb" timestamp="1501218410711">
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/kpi_logger/log_schema/ranking_match_battle_result.rb" timestamp="1501222420248">
         <mark key="'" line="89" column="0" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="87" column="85" />
-        <mark key="^" line="55" column="47" />
-        <mark key="." line="86" column="0" />
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="21" />
+        <mark key="^" line="3" column="21" />
+        <mark key="." line="3" column="21" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/models/phone_spec.rb" timestamp="1477542517402">
         <mark key="[" line="36" column="39" />
@@ -1295,35 +1295,67 @@
       <register name="/" type="4">
         <text>admin</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpc19leHBlY3RlZC50byBoYXZlX2h0dHBfc3RhdHVzKDIwMCkK</text>
+      <register name="0" type="8">
+        <text>- opponent_id
+- opponent_team_grade_score
+- ranking_id
+- outcome
+- used_ticket_type
+- before_free_ticket
+- after_free_ticket
+- before_item_ticket
+- after_item_ticket
+- before_total_score
+- after_total_score
+- before_club_budget
+- after_club_budget
+- before_rank
+- after_rank
+- before_ranking_score
+- after_ranking_score</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgIyB1c2VyX3RvdGFsX2JpbGxpbmc6IHVzZXIuc3RhdHVzLnRvdGFsX2JpbGxpbmcsCiAgICAgICAgIyB1c2VyX2xvZ2luX2RheXNfY291bnQ6IHVzZXIuc3RhdHVzLmxvZ2luX2RheXNfY291bnQsCg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">LSAKLSAKLSAKLSAKLSAKLSAKLSAKLSAKLSAKLSAKLSAKLSAKLSAKLSAKLSAKLSAKLSA=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="8">
+        <text>- opponent_id
+- opponent_team_grade_score
+- ranking_id
+- outcome
+- used_ticket_type
+- before_free_ticket
+- after_free_ticket
+- before_item_ticket
+- after_item_ticket
+- before_total_score
+- after_total_score
+- before_club_budget
+- after_club_budget
+- before_rank
+- after_rank
+- before_ranking_score
+- after_ranking_score</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgIyB1c2VyX3RvdGFsX2JpbGxpbmc6IHVzZXIuc3RhdHVzLnRvdGFsX2JpbGxpbmcsCiAgICAgICAgIyB1c2VyX2xvZ2luX2RheXNfY291bnQ6IHVzZXIuc3RhdHVzLmxvZ2luX2RheXNfY291bnQsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlzX2V4cGVjdGVkLnRvIGhhdmVfaHR0cF9zdGF0dXMoMjAwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGlzX2V4cGVjdGVkLnRvIGhhdmVfaHR0cF9zdGF0dXMoMjAwKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxvd19hbnlfaW5zdGFuY2Vfb2YoRmx1ZW50OjpMb2dnZXI6Ok51bGxMb2dnZXIpLnRvIHJlY2VpdmUoOnBvc3QpLndpdGgoOmN1cnJlbmNpZXMsIEhhc2gpCiAgICAgICAgYWxsb3dfYW55X2luc3RhbmNlX29mKEZsdWVudDo6TG9nZ2VyOjpOdWxsTG9nZ2VyKS50byByZWNlaXZlKDpwb3N0KS53aXRoKDpnaWZ0LCBIYXNoKQogICAgICAgIGFsbG93X2FueV9pbnN0YW5jZV9vZihGbHVlbnQ6OkxvZ2dlcjo6TnVsbExvZ2dlcikudG8gcmVjZWl2ZSg6cG9zdCkud2l0aCg6c3RhciwgSGFzaCkKICAgICAgICBleHBlY3RfYW55X2luc3RhbmNlX29mKEZsdWVudDo6TG9nZ2VyOjpOdWxsTG9nZ2VyKS50byByZWNlaXZlKDpwb3N0KS53aXRoKDpyYW5raW5nX21hdGNoX3Jlc3VsdCwgYmF0dGxlX2xvZ19zY2hlbWEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxvd19hbnlfaW5zdGFuY2Vfb2YoRmx1ZW50OjpMb2dnZXI6Ok51bGxMb2dnZXIpLnRvIHJlY2VpdmUoOnBvc3QpLndpdGgoOmN1cnJlbmNpZXMsIEhhc2gpCiAgICAgICAgYWxsb3dfYW55X2luc3RhbmNlX29mKEZsdWVudDo6TG9nZ2VyOjpOdWxsTG9nZ2VyKS50byByZWNlaXZlKDpwb3N0KS53aXRoKDpnaWZ0LCBIYXNoKQogICAgICAgIGFsbG93X2FueV9pbnN0YW5jZV9vZihGbHVlbnQ6OkxvZ2dlcjo6TnVsbExvZ2dlcikudG8gcmVjZWl2ZSg6cG9zdCkud2l0aCg6c3RhciwgSGFzaCkKICAgICAgICBhbGxvd19hbnlfaW5zdGFuY2Vfb2YoUmFua2luZzo6TWF0Y2hNYWtlcjo6UmVzdWx0KS50byByZWNlaXZlKDpvcHBvbmVudF91c2VyX2lkKS5hbmRfcmV0dXJuKG9wcG9uZW50MS5pZCkKICAgICAgICBhbGxvd19hbnlfaW5zdGFuY2Vfb2YoUmFua2luZzo6TWF0Y2hNYWtlcjo6UmVzdWx0KS50byByZWNlaXZlKDp0ZWFtX2dyYWRlX3Njb3JlKS5hbmRfcmV0dXJuKG9wcG9uZW50X3RlYW1fZ3JhZGVfc2NvcmUpCiAgICAgICAgYWxsb3dfYW55X2luc3RhbmNlX29mKE1hdGNoOjpHYW1lKS50byByZWNlaXZlKDpwbGF5ZXJfd29uPykuYW5kX3JldHVybih0cnVlKQogICAgICAgIGV4cGVjdF9hbnlfaW5zdGFuY2Vfb2YoRmx1ZW50OjpMb2dnZXI6Ok51bGxMb2dnZXIpLnRvIHJlY2VpdmUoOnBvc3QpLndpdGgoOnJhbmtpbmdfbWF0Y2hfcmVzdWx0LCBiYXR0bGVfbG9nX3NjaGVtYSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbGxvd19hbnlfaW5zdGFuY2Vfb2YoRmx1ZW50OjpMb2dnZXI6Ok51bGxMb2dnZXIpLnRvIHJlY2VpdmUoOnBvc3QpLndpdGgoOmN1cnJlbmNpZXMsIEhhc2gpCiAgICAgICAgYWxsb3dfYW55X2luc3RhbmNlX29mKEZsdWVudDo6TG9nZ2VyOjpOdWxsTG9nZ2VyKS50byByZWNlaXZlKDpwb3N0KS53aXRoKDpnaWZ0LCBIYXNoKQogICAgICAgIGFsbG93X2FueV9pbnN0YW5jZV9vZihGbHVlbnQ6OkxvZ2dlcjo6TnVsbExvZ2dlcikudG8gcmVjZWl2ZSg6cG9zdCkud2l0aCg6c3RhciwgSGFzaCkKICAgICAgICBleHBlY3RfYW55X2luc3RhbmNlX29mKEZsdWVudDo6TG9nZ2VyOjpOdWxsTG9nZ2VyKS50byByZWNlaXZlKDpwb3N0KS53aXRoKDpyYW5raW5nX21hdGNoX3Jlc3VsdCwgYmF0dGxlX2xvZ19zY2hlbWEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
