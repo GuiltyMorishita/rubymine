@@ -80,11 +80,11 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/ranking/match.rb" timestamp="1501149196879">
-        <mark key="[" line="5" column="29" />
-        <mark key="]" line="6" column="20" />
-        <mark key="^" line="6" column="20" />
-        <mark key="." line="6" column="20" />
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/ranking/match.rb" timestamp="1501207825692">
+        <mark key="[" line="74" column="25" />
+        <mark key="]" line="74" column="51" />
+        <mark key="^" line="74" column="51" />
+        <mark key="." line="74" column="51" />
       </file>
       <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/.env" timestamp="1501148903410">
         <mark key="'" line="76" column="0" />
@@ -125,12 +125,12 @@
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/models/cart_items_information.rb" timestamp="1498614972957">
         <mark key="[" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/requests/rankings/matches/playballs_spec.rb" timestamp="1501206460232">
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/requests/rankings/matches/playballs_spec.rb" timestamp="1501207660996">
         <mark key="'" line="65" column="14" />
-        <mark key="[" line="15" column="7" />
-        <mark key="]" line="16" column="3" />
-        <mark key="." line="16" column="3" />
-        <mark key="^" line="16" column="3" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
+        <mark key="^" line="107" column="5" />
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/config/boot.rb" timestamp="1489479399988">
         <mark key="[" line="0" column="5" />
@@ -461,7 +461,7 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="/Ruby Console" timestamp="1501150396857">
+      <file name="/Ruby Console" timestamp="1501207846847">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -545,7 +545,7 @@
       <file name="/dummy.sql" timestamp="1500367032170">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501149466513">
+      <file name="/Dummy.txt" timestamp="1501206612139">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/bin/spring" timestamp="1489542452462">
@@ -1283,43 +1283,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Integer</text>
       </register>
       <register name="/" type="4">
         <text>admin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBsZXQoOnVzZXJfdGVhbV9ncmFkZV9zY29yZSkgeyBjcmVhdGUgOnVzZXJfdGVhbV9ncmFkZV9zY29yZSwgdXNlcl9pZDogdXNlci5pZCwgc2NvcmU6IDEwMDAgfQo=</text>
+        <text encoding="base64">ICAgICAgYWdncmVnYXRlX2ZhaWx1cmVzIGRvCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyX2lkOiB1c2VyLmlkLAogICAgICAgIHVzZXJfeW91dGhfcmFuazogSW50ZWdlciwKICAgICAgICB1c2VyX3RlYW1fZ3JhZGVfc2NvcmU6IEludGVnZXIsCiAgICAgICAgdXNlcl90b3RhbF9iaWxsaW5nOiBGbG9hdCwKICAgICAgICB1c2VyX2xvZ2luX2RheXNfY291bnQ6IEludGVnZXIsCiAgICAgICAgYWZ0ZXJfcHVyY2hhc2VkX3N0YXI6IEludGVnZXIsCiAgICAgICAgYWZ0ZXJfZnJlZV9zdGFyOiBJbnRlZ2VyLAogICAgICAgIG1hc3Rlcl92ZXJzaW9uOiAidW5rbm93biIsCiAgICAgICAgc2VydmVyX3RpbWVzdGFtcDogU3RyaW5nLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbGV0KDpiYXR0bGVfbG9nX3NjaGVtYSkgZG8KICAgICAgICB7CiAgICAgICAgICAgIG9wcG9uZW50X2lkOiBJbnRlZ2VyLAogICAgICAgICAgICBvcHBvbmVudF90ZWFtX2dyYWRlX3Njb3JlOiBJbnRlZ2VyLAogICAgICAgICAgICByYW5raW5nX2lkOiBJbnRlZ2VyLAogICAgICAgICAgICBvdXRjb21lOiBTdHJpbmcsCiAgICAgICAgICAgIHVzZWRfdGlja2V0X3R5cGU6IEludGVnZXIsCiAgICAgICAgICAgIGJlZm9yZV9mcmVlX3RpY2tldDogSW50ZWdlciwKICAgICAgICAgICAgYWZ0ZXJfZnJlZV90aWNrZXQ6IEludGVnZXIsCiAgICAgICAgICAgIGJlZm9yZV9pdGVtX3RpY2tldDogSW50ZWdlciwKICAgICAgICAgICAgYWZ0ZXJfaXRlbV90aWNrZXQ6IEludGVnZXIsCiAgICAgICAgICAgIGJlZm9yZV90b3RhbF9zY29yZTogSW50ZWdlciwKICAgICAgICAgICAgYWZ0ZXJfdG90YWxfc2NvcmU6IEludGVnZXIsCiAgICAgICAgICAgIGJlZm9yZV9jbHViX2J1ZGdldDogSW50ZWdlciwKICAgICAgICAgICAgYWZ0ZXJfY2x1Yl9idWRnZXQ6IEludGVnZXIsCiAgICAgICAgICAgIGJlZm9yZV9yYW5rOiBJbnRlZ2VyLAogICAgICAgICAgICBhZnRlcl9yYW5rOiBJbnRlZ2VyLAogICAgICAgICAgICBiZWZvcmVfcmFua2luZ19zY29yZTogSW50ZWdlciwKICAgICAgICAgICAgYWZ0ZXJfcmFua2luZ19zY29yZTogSW50ZWdlciwKICAgICAgICAgICAgdXNlcl9pZDogdXNlci5pZCwKICAgICAgICAgICAgdXNlcl95b3V0aF9yYW5rOiBJbnRlZ2VyLAogICAgICAgICAgICB1c2VyX3RlYW1fZ3JhZGVfc2NvcmU6IEludGVnZXIsCiAgICAgICAgICAgIHVzZXJfdG90YWxfYmlsbGluZzogRmxvYXQsCiAgICAgICAgICAgIHVzZXJfbG9naW5fZGF5c19jb3VudDogSW50ZWdlciwKICAgICAgICAgICAgYWZ0ZXJfcHVyY2hhc2VkX3N0YXI6IEludGVnZXIsCiAgICAgICAgICAgIGFmdGVyX2ZyZWVfc3RhcjogSW50ZWdlciwKICAgICAgICAgICAgbWFzdGVyX3ZlcnNpb246ICJ1bmtub3duIiwKICAgICAgICAgICAgc2VydmVyX3RpbWVzdGFtcDogU3RyaW5nLAogICAgICAgICAgICAKICAgICAgICAgICAgdXNlcl9pZDogdXNlci5pZCwKICAgICAgICAgICAgdXNlcl95b3V0aF9yYW5rOiB1c2VyLnlvdXRoX3JhbmssCiAgICAgICAgICAgIHVzZXJfdGVhbV9ncmFkZV9zY29yZTogdXNlcl90ZWFtX2dyYWRlX3Njb3JlLnNjb3JlLAogICAgICAgICAgICB1c2VyX3RvdGFsX2JpbGxpbmc6IHVzZXIuc3RhdHVzLnRvdGFsX2JpbGxpbmcsCiAgICAgICAgICAgIHVzZXJfbG9naW5fZGF5c19jb3VudDogdXNlci5zdGF0dXMubG9naW5fZGF5c19jb3VudCwKICAgICAgICAgICAgYWZ0ZXJfcHVyY2hhc2VkX3N0YXI6IEludGVnZXIsCiAgICAgICAgICAgIGFmdGVyX2ZyZWVfc3RhcjogSW50ZWdlciwKICAgICAgICAgICAgbWFzdGVyX3ZlcnNpb246ICJ1bmtub3duIiwKICAgICAgICAgICAgc2VydmVyX3RpbWVzdGFtcDogU3RyaW5nCiAgICAgICAgfQogICAgICBlbmQKICAgICAgbGV0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHVzZXJfaWQ6IHVzZXIuaWQsCg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VyX2lkOiB1c2VyLmlkLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VyX3lvdXRoX3Jhbms6IHVzZXIueW91dGhfcmFuaywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsZXQoOm9wcG9uZW50KSB7IGNyZWF0ZV91c2VyX3dpdGhfb3JkZXIoMTAwMDApIH0K</text>
+        <text encoding="base64">ICAgICAgICBhZnRlcl9wdXJjaGFzZWRfc3RhcjogSW50ZWdlciwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhZnRlcl9mcmVlX3N0YXI6IEludGVnZXIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXN0ZXJfdmVyc2lvbjogInVua25vd24iLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAjIGxldCg6dXNlcikgeyBjcmVhdGUgOnVzZXIsIDp3aXRoX3N0YXR1cyB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>redo</text>
+        <text>action CloseContent</text>
       </register>
     </registers>
     <search>
@@ -1365,8 +1365,8 @@
         <entry>action RecentFiles</entry>
         <entry>action GotoClass</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action CloseContent</entry>
         <entry>redo</entry>
+        <entry>action CloseContent</entry>
       </history-cmd>
       <history-expr />
       <history-input />
