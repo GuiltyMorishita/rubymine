@@ -9,10 +9,8 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/Gemfile" timestamp="1501480889187">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="22" />
-        <mark key="." line="78" column="0" />
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/Gemfile" timestamp="1501481628510">
+        <mark key="[" line="77" column="40" />
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/disabled.yml" timestamp="1489539908455">
         <mark key="[" line="124" column="16" />
@@ -68,11 +66,6 @@
         <mark key="^" line="33" column="24" />
         <mark key="." line="482" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/orders/password_confirmation.html.erb" timestamp="1499935446268">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="74" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/models/item.rb" timestamp="1499361846010">
         <mark key="[" line="1" column="22" />
         <mark key="]" line="2" column="47" />
@@ -97,11 +90,6 @@
         <mark key="]" line="76" column="1" />
         <mark key="." line="76" column="1" />
         <mark key="^" line="76" column="1" />
-      </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user/ranking/point_record.rb" timestamp="1501043470900">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/sessions/new.html.erb" timestamp="1499384495933">
         <mark key="[" line="0" column="0" />
@@ -179,11 +167,6 @@
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/user_mailer/account_activation.html.erb" timestamp="1481596404584">
         <mark key="[" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/controllers/announcements_controller.rb" timestamp="1500881917586">
-        <mark key="[" line="8" column="52" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/models/news_release_spec.rb" timestamp="1477756999187">
         <mark key="[" line="2" column="34" />
         <mark key="]" line="2" column="46" />
@@ -196,21 +179,11 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/Gemfile.lock" timestamp="1495680255438">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-      </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/factories/cart_items_informations.rb" timestamp="1499068844592">
         <mark key="[" line="3" column="18" />
         <mark key="]" line="3" column="18" />
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
-      </file>
-      <file name="$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.4/lib/ruby/gems/2.3.0/gems/actionpack-5.0.0.1/lib/action_controller/metal/instrumentation.rb" timestamp="1499933438354">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/db/migrate/20170530061024_add_details_to_cart_items.rb" timestamp="1496124661735">
         <mark key="[" line="3" column="49" />
@@ -237,37 +210,17 @@
         <mark key="." line="0" column="55" />
         <mark key="^" line="0" column="55" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.3.4/lib/ruby/gems/2.3.0/gems/rspec-core-3.6.0/lib/rspec/core/example.rb" timestamp="1495508106587">
-        <mark key="[" line="276" column="33" />
-        <mark key="]" line="276" column="33" />
-        <mark key="." line="276" column="33" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/db/migrate/20170718004503_add_gender_to_users.rb" timestamp="1500366469956">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="65" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/orders/_order_item.html.erb" timestamp="1499419541224">
         <mark key="[" line="9" column="36" />
         <mark key="]" line="12" column="7" />
         <mark key="." line="6" column="9" />
         <mark key="^" line="6" column="9" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1500356601943">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/db/migrate/20170628015920_add_lock_version_to_cart_items_infomation.rb" timestamp="1498616084616">
         <mark key="[" line="2" column="63" />
         <mark key="]" line="0" column="41" />
         <mark key="^" line="0" column="41" />
         <mark key="." line="0" column="41" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/config/environments/test.rb" timestamp="1499307280661">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/items/index.html.erb" timestamp="1482040885712">
         <mark key="[" line="15" column="17" />
@@ -287,7 +240,7 @@
         <mark key="^" line="2" column="8" />
         <mark key="." line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/config/database.yml" timestamp="1501480841631">
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/config/database.yml" timestamp="1501481663758">
         <mark key="[" line="10" column="36" />
         <mark key="]" line="10" column="64" />
         <mark key="^" line="10" column="64" />
@@ -386,11 +339,6 @@
         <mark key="." line="102" column="57" />
         <mark key="^" line="102" column="57" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/models/cart_item_spec.rb" timestamp="1499045755162">
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="6" column="46" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/kpi_logger/log_schema.rb" timestamp="1501054878600">
         <mark key="[" line="73" column="57" />
         <mark key="]" line="73" column="57" />
@@ -411,11 +359,6 @@
         <mark key="]" line="41" column="6" />
         <mark key="^" line="41" column="6" />
         <mark key="." line="41" column="6" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/config/routes.rb" timestamp="1499692152184">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/items/edit.html.erb" timestamp="1482086038605">
         <mark key="[" line="27" column="0" />
@@ -541,11 +484,6 @@
         <mark key="^" line="111" column="91" />
         <mark key="." line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/orders/show.html.erb" timestamp="1499363691055">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/app/views/cart_items/_cart_item.html.erb" timestamp="1490681284108">
         <mark key="[" line="11" column="18" />
         <mark key="]" line="11" column="17" />
@@ -600,26 +538,11 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="25" column="3" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/spec_helper.rb" timestamp="1501136170834">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/db/migrate/20161129100603_create_users.rb" timestamp="1500366438647">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/payments_controller.rb" timestamp="1499692005756">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="39" column="6" />
         <mark key="." line="21" column="8" />
         <mark key="^" line="21" column="8" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/order_completions/index.html.erb" timestamp="1499222408219">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/app/views/items/index.html.erb" timestamp="1489724983560">
         <mark key="[" line="0" column="26" />
@@ -843,21 +766,6 @@
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/assets/javascripts/items.coffee" timestamp="1498703812151">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/db/migrate/20161129100642_create_items.rb" timestamp="1498639189359">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/cart_items_controller.rb" timestamp="1500351417840">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/Gemfile" timestamp="1494474780232">
         <mark key="[" line="40" column="30" />
         <mark key="]" line="41" column="28" />
@@ -1062,11 +970,6 @@
       <file name="/JavaScript Console" timestamp="1481364814156">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/sessions_controller.rb" timestamp="1499384865460">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="21" column="17" />
-        <mark key="." line="5" column="65" />
-      </file>
       <file name="$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activesupport-5.0.3/lib/active_support/core_ext/module/delegation.rb" timestamp="1501146710176">
         <mark key="'" line="112" column="6" />
       </file>
@@ -1093,11 +996,6 @@
         <mark key="]" line="13" column="26" />
         <mark key="." line="13" column="63" />
         <mark key="^" line="13" column="26" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/.gitignore" timestamp="1495594686849">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/caps/copipe.rb" timestamp="1496988744792">
         <mark key="[" line="55" column="38" />
