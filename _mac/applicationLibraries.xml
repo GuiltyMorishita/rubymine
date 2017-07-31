@@ -3236,6 +3236,16 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/parallel-1.11.2/lib" />
       </SOURCES>
     </library>
+    <library name="parallel_tests (v2.14.2, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/parallel_tests-2.14.2/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/parallel_tests-2.14.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/parallel_tests-2.14.2/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/parallel_tests-2.14.2/lib" />
+      </SOURCES>
+    </library>
     <library name="parser (v2.4.0.0, rbenv: 2.3.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.4/lib/ruby/gems/2.3.0/gems/parser-2.4.0.0/bin" />
@@ -4620,6 +4630,18 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.4/lib/ruby/gems/2.3.0/gems/terminal-notifier-1.8.0/bin" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.4/lib/ruby/gems/2.3.0/gems/terminal-notifier-1.8.0/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.4/lib/ruby/gems/2.3.0/gems/terminal-notifier-1.8.0/vendor" />
+      </SOURCES>
+    </library>
+    <library name="terminal-notifier (v1.8.0, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/terminal-notifier-1.8.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/terminal-notifier-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/terminal-notifier-1.8.0/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/terminal-notifier-1.8.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/terminal-notifier-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/terminal-notifier-1.8.0/vendor" />
       </SOURCES>
     </library>
     <library name="terminal-notifier-guard (v1.7.0, rbenv: 2.3.4) [gem]">
