@@ -9,8 +9,11 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/Gemfile" timestamp="1501481628510">
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/Gemfile" timestamp="1501482840138">
         <mark key="[" line="77" column="40" />
+        <mark key="]" line="78" column="20" />
+        <mark key="^" line="78" column="20" />
+        <mark key="." line="78" column="20" />
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/disabled.yml" timestamp="1489539908455">
         <mark key="[" line="124" column="16" />
@@ -240,7 +243,7 @@
         <mark key="^" line="2" column="8" />
         <mark key="." line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/config/database.yml" timestamp="1501481663758">
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/config/database.yml" timestamp="1501482830426">
         <mark key="[" line="10" column="36" />
         <mark key="]" line="10" column="64" />
         <mark key="^" line="10" column="64" />
