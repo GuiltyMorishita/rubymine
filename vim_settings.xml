@@ -460,7 +460,7 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="/Ruby Console" timestamp="1501218979925">
+      <file name="/Ruby Console" timestamp="1501465123926">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -861,6 +861,9 @@
         <mark key="." line="41" column="28" />
         <mark key="^" line="41" column="28" />
       </file>
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/lib/rack_middlewares/error_handler.rb" timestamp="1501465354108">
+        <mark key="'" line="76" column="0" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/spec/features/about_us_spec.rb" timestamp="1477753771751">
         <mark key="[" line="3" column="68" />
         <mark key="]" line="6" column="24" />
@@ -998,6 +1001,13 @@
         <mark key="]" line="45" column="32" />
         <mark key="." line="45" column="32" />
         <mark key="^" line="45" column="31" />
+      </file>
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/config/constants.yml" timestamp="1501465823367">
+        <mark key="'" line="83" column="0" />
+        <mark key="[" line="429" column="31" />
+        <mark key="]" line="429" column="26" />
+        <mark key="^" line="429" column="26" />
+        <mark key="." line="429" column="26" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/exercise_app/app/models/user.rb" timestamp="1493355476817">
         <mark key="[" line="1" column="39" />
@@ -1173,23 +1183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" />
-      <jump line="147" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" />
-      <jump line="160" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" />
-      <jump line="173" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" />
-      <jump line="184" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" />
-      <jump line="202" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" />
-      <jump line="190" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" />
-      <jump line="191" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" />
-      <jump line="204" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" />
-      <jump line="210" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" />
-      <jump line="10" column="4" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/items_controller.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/items_controller.rb" />
-      <jump line="39" column="27" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/kpi_logger/log_schema/ranking_match_battle_result.rb" />
-      <jump line="45" column="21" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/requests/cinderella_matches/playballs_spec.rb" />
-      <jump line="89" column="6" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user.rb" />
-      <jump line="91" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user.rb" />
-      <jump line="93" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user.rb" />
       <jump line="130" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user.rb" />
       <jump line="133" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user.rb" />
       <jump line="136" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user.rb" />
@@ -1273,6 +1266,23 @@
       <jump line="16" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/match/result.rb" />
       <jump line="3" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/match/result.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/match/result.rb" />
+      <jump line="22" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/lib/rack_middlewares/error_handler.rb" />
+      <jump line="26" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/lib/rack_middlewares/error_handler.rb" />
+      <jump line="28" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/lib/rack_middlewares/error_handler.rb" />
+      <jump line="31" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/lib/rack_middlewares/error_handler.rb" />
+      <jump line="34" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/lib/rack_middlewares/error_handler.rb" />
+      <jump line="38" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/lib/rack_middlewares/error_handler.rb" />
+      <jump line="42" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/lib/rack_middlewares/error_handler.rb" />
+      <jump line="47" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/lib/rack_middlewares/error_handler.rb" />
+      <jump line="51" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/lib/rack_middlewares/error_handler.rb" />
+      <jump line="60" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/lib/rack_middlewares/error_handler.rb" />
+      <jump line="63" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/lib/rack_middlewares/error_handler.rb" />
+      <jump line="76" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/lib/rack_middlewares/error_handler.rb" />
+      <jump line="64" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/config/constants.yml" />
+      <jump line="65" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/config/constants.yml" />
+      <jump line="71" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/config/constants.yml" />
+      <jump line="77" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/config/constants.yml" />
+      <jump line="83" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/config/constants.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1289,7 +1299,7 @@
         <text>column_type(Match::Result::RankingMatch, &quot;ranked&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text>admin</text>
+        <text>FreeTicket</text>
       </register>
       <register name="0" type="8">
         <text>- opponent_id
@@ -1358,15 +1368,14 @@
       </register>
     </registers>
     <search>
-      <last-search>admin</last-search>
+      <last-search>FreeTicket</last-search>
       <last-offset />
-      <last-pattern>admin</last-pattern>
+      <last-pattern>FreeTicket</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Location</entry>
         <entry encoding="base64">XDzov73liqBcPg==</entry>
         <entry encoding="base64">XDxzdWNjZXNzXD4=</entry>
         <entry encoding="base64">XDxfY29tcHV0ZV9yZWRpcmVjdF90b19sb2NhdGlvblw+</entry>
@@ -1386,6 +1395,7 @@
         <entry>cart_item_qunatity_param</entry>
         <entry>cart_item_</entry>
         <entry>admin</entry>
+        <entry>FreeTicket</entry>
       </history-search>
       <history-cmd>
         <entry>action FindNext</entry>
