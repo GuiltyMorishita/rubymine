@@ -208,10 +208,10 @@
         <mark key="^" line="0" column="55" />
       </file>
       <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user_status/star_cache.rb" timestamp="1501586721845">
-        <mark key="[" line="22" column="10" />
-        <mark key="]" line="22" column="15" />
-        <mark key="^" line="22" column="15" />
-        <mark key="." line="22" column="15" />
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="9" column="15" />
+        <mark key="^" line="9" column="15" />
+        <mark key="." line="9" column="15" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/orders/_order_item.html.erb" timestamp="1499419541224">
         <mark key="[" line="9" column="36" />
@@ -280,10 +280,10 @@
         <mark key="." line="2" column="9" />
       </file>
       <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user/main_story/chapter/read_mark.rb" timestamp="1501586814380">
-        <mark key="[" line="35" column="94" />
-        <mark key="]" line="35" column="93" />
-        <mark key="." line="35" column="93" />
-        <mark key="^" line="35" column="93" />
+        <mark key="[" line="0" column="94" />
+        <mark key="]" line="0" column="93" />
+        <mark key="." line="0" column="93" />
+        <mark key="^" line="0" column="93" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/books_app/app/views/books/index.html.erb" timestamp="1494222260454">
         <mark key="[" line="20" column="35" />
@@ -371,12 +371,6 @@
         <mark key="]" line="41" column="6" />
         <mark key="^" line="41" column="6" />
         <mark key="." line="41" column="6" />
-      </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user_character/skill_grade_cache.rb" timestamp="1501586560546">
-        <mark key="[" line="24" column="11" />
-        <mark key="]" line="24" column="11" />
-        <mark key="^" line="24" column="11" />
-        <mark key="." line="24" column="11" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/items/edit.html.erb" timestamp="1482086038605">
         <mark key="[" line="27" column="0" />
@@ -560,12 +554,6 @@
       <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/user_status/star_cache_spec.rb" timestamp="1501575949012">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="21" />
-      </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/ranking/score/user_cache.rb" timestamp="1501587065127">
-        <mark key="[" line="16" column="10" />
-        <mark key="]" line="16" column="13" />
-        <mark key="." line="16" column="13" />
-        <mark key="^" line="16" column="13" />
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/app/views/items/index.html.erb" timestamp="1489724983560">
         <mark key="[" line="0" column="26" />
@@ -766,10 +754,10 @@
         <mark key="." line="1" column="30" />
       </file>
       <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/ranking/score/user_rank.rb" timestamp="1501587298718">
-        <mark key="[" line="25" column="23" />
-        <mark key="]" line="25" column="26" />
-        <mark key="." line="25" column="26" />
-        <mark key="^" line="25" column="26" />
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="26" />
+        <mark key="." line="6" column="26" />
+        <mark key="^" line="6" column="26" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/assets/stylesheets/custom.css.scss" timestamp="1481716043798">
         <mark key="[" line="5" column="0" />
@@ -1092,12 +1080,6 @@
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/order_completions_controller.rb" timestamp="1499137106663">
         <mark key="[" line="0" column="56" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user/main_story/read_mark.rb" timestamp="1501586076245">
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="6" column="17" />
-        <mark key="." line="6" column="17" />
-        <mark key="^" line="6" column="17" />
-      </file>
       <file name="$USER_HOME$/Ebios/Ruby/helloworld/app/views/hello/index.html.erb" timestamp="1493345578479">
         <mark key="[" line="1" column="21" />
         <mark key="]" line="1" column="28" />
@@ -1114,10 +1096,10 @@
         <mark key="[" line="19" column="14" />
       </file>
       <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user_status.rb" timestamp="1501586918878">
-        <mark key="[" line="313" column="36" />
-        <mark key="]" line="313" column="41" />
-        <mark key="." line="313" column="41" />
-        <mark key="^" line="313" column="41" />
+        <mark key="[" line="312" column="36" />
+        <mark key="]" line="312" column="41" />
+        <mark key="." line="312" column="41" />
+        <mark key="^" line="312" column="41" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/Gemfile" timestamp="1481374884401">
         <mark key="[" line="26" column="18" />
@@ -1128,7 +1110,6 @@
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/config/environments/development.rb" timestamp="1489478991003">
         <mark key="[" line="30" column="69" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/support/factory_girl_ext.rb" timestamp="1501580534209" />
     </filemarks>
     <jumps>
       <jump line="58" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/cinderella_match/match_spec.rb" />
