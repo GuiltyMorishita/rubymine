@@ -689,11 +689,11 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user/event_story/chapter/read_mark.rb" timestamp="1501563269212">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="26" column="0" />
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user/event_story/chapter/read_mark.rb" timestamp="1501563977498">
+        <mark key="[" line="23" column="6" />
+        <mark key="]" line="23" column="6" />
         <mark key="^" line="0" column="104" />
-        <mark key="." line="15" column="0" />
+        <mark key="." line="23" column="6" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/static_pages_controller_spec.rb" timestamp="1494920660513">
         <mark key="[" line="20" column="12" />
@@ -1073,10 +1073,10 @@
         <mark key="^" line="17" column="17" />
         <mark key="." line="17" column="17" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/event_story/section.rb" timestamp="1501563208905">
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/event_story/section.rb" timestamp="1501564006421">
         <mark key="[" line="49" column="59" />
-        <mark key="]" line="49" column="63" />
-        <mark key="." line="49" column="63" />
+        <mark key="]" line="49" column="59" />
+        <mark key="." line="49" column="59" />
         <mark key="^" line="49" column="63" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/devise/passwords/edit.html.erb" timestamp="1481374274344">
