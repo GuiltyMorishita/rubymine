@@ -78,6 +78,10 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/lib/tasks/dummy_user.rake" timestamp="1501551040951">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="33" />
+      </file>
       <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/ranking/match.rb" timestamp="1501217860931">
         <mark key="[" line="74" column="25" />
         <mark key="]" line="74" column="51" />
@@ -151,6 +155,12 @@
         <mark key="]" line="71" column="66" />
         <mark key="^" line="71" column="66" />
         <mark key="." line="71" column="66" />
+      </file>
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/lib/tasks/admin_user.rake" timestamp="1501551866791">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="12" />
+        <mark key="." line="7" column="12" />
+        <mark key="^" line="7" column="12" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/.rspec" timestamp="1477539401021">
         <mark key="[" line="2" column="0" />
@@ -438,6 +448,11 @@
         <mark key="." line="16" column="24" />
         <mark key="^" line="16" column="24" />
       </file>
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/db/seeds.rb" timestamp="1501551181035">
+        <mark key="[" line="211" column="0" />
+        <mark key="]" line="211" column="0" />
+        <mark key="." line="211" column="0" />
+      </file>
       <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/match/result.rb" timestamp="1501226887899">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="134" column="20" />
@@ -490,10 +505,10 @@
         <mark key="." line="11" column="17" />
         <mark key="^" line="11" column="17" />
       </file>
-      <file name="/dummy.sql" timestamp="1500367032170">
+      <file name="/dummy.sql" timestamp="1501551860759">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501484094289">
+      <file name="/Dummy.txt" timestamp="1501551348534">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/bin/spring" timestamp="1489542452462">
@@ -873,6 +888,10 @@
         <mark key="^" line="86" column="46" />
         <mark key="." line="86" column="46" />
       </file>
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/lib/tasks/ridgepole.rake" timestamp="1501550974868">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="16" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/books_app/app/models/book.rb" timestamp="1494231497447">
         <mark key="[" line="0" column="30" />
         <mark key="]" line="1" column="33" />
@@ -952,6 +971,7 @@
         <mark key="^" line="2" column="36" />
         <mark key="." line="2" column="36" />
       </file>
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/lib/tasks/seed.rake" timestamp="1501550753507" />
       <file name="$USER_HOME$/Ebios/Ruby/sample_app/app/models/entry.rb" timestamp="1493344603839">
         <mark key="[" line="0" column="31" />
       </file>
@@ -1198,70 +1218,38 @@
       <register name="/" type="4">
         <text>FreeTicket</text>
       </register>
-      <register name="0" type="8">
-        <text>- opponent_id
-- opponent_team_grade_score
-- ranking_id
-- outcome
-- used_ticket_type
-- before_free_ticket
-- after_free_ticket
-- before_item_ticket
-- after_item_ticket
-- before_total_score
-- after_total_score
-- before_club_budget
-- after_club_budget
-- before_rank
-- after_rank
-- before_ranking_score
-- after_ranking_score</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICB0YXNrIDpjcmVhdGUgPT4gOmVudmlyb25tZW50IGRvCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBnZW0gJ3BhcmFsbGVsX3Rlc3RzJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">LSAKLSAKLSAKLSAKLSAKLSAKLSAKLSAKLSAKLSAKLSAKLSAKLSAKLSAKLSAKLSAKLSA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text>- opponent_id
-- opponent_team_grade_score
-- ranking_id
-- outcome
-- used_ticket_type
-- before_free_ticket
-- after_free_ticket
-- before_item_ticket
-- after_item_ticket
-- before_total_score
-- after_total_score
-- before_club_budget
-- after_club_budget
-- before_rank
-- after_rank
-- before_ranking_score
-- after_ranking_score</text>
+      <register name="3" type="2">
+        <text encoding="base64">VGFrby5zaGFyZCg6c2hhcmVkKSBkbwogIGlmIEFkbWluVXNlci5maW5kX2J5KGVtYWlsOiAnYWRtaW5AYWt0c2suanAnKS5ibGFuaz8KICAgIEFkbWluVXNlci5jcmVhdGUhKGVtYWlsOiAnYWRtaW5AYWt0c2suanAnLCBwYXNzd29yZDogJ3Bhc3N3b3JkJywgcGFzc3dvcmRfY29uZmlybWF0aW9uOiAncGFzc3dvcmQnLCByb2xlOiA6YWRtaW4pCiAgZW5kCmVuZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgIyB1c2VyX3RvdGFsX2JpbGxpbmc6IHVzZXIuc3RhdHVzLnRvdGFsX2JpbGxpbmcsCiAgICAgICAgIyB1c2VyX2xvZ2luX2RheXNfY291bnQ6IHVzZXIuc3RhdHVzLmxvZ2luX2RheXNfY291bnQsCg==</text>
+        <text encoding="base64">VGFrby5zaGFyZCg6c2hhcmVkKSBkbwogIGlmIEFkbWluVXNlci5maW5kX2J5KGVtYWlsOiAnYWRtaW5AYWt0c2suanAnKS5ibGFuaz8KICAgIEFkbWluVXNlci5jcmVhdGUhKGVtYWlsOiAnYWRtaW5AYWt0c2suanAnLCBwYXNzd29yZDogJ3Bhc3N3b3JkJywgcGFzc3dvcmRfY29uZmlybWF0aW9uOiAncGFzc3dvcmQnLCByb2xlOiA6YWRtaW4pCiAgZW5kCmVuZAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlzX2V4cGVjdGVkLnRvIGhhdmVfaHR0cF9zdGF0dXMoMjAwKQo=</text>
+        <text encoding="base64">bmFtZXNwYWNlIDpkYiBkbwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBuYW1lc3BhY2UgOnNlZWQgZG8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseContent</text>
+        <text>action FileStructurePopup</text>
       </register>
     </registers>
     <search>
@@ -1306,9 +1294,9 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>action RecentFiles</entry>
         <entry>action GotoClass</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>redo</entry>
         <entry>action CloseContent</entry>
+        <entry>action FileStructurePopup</entry>
       </history-cmd>
       <history-expr />
       <history-input />
