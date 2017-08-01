@@ -87,6 +87,12 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="33" />
       </file>
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/enemy/order/team_grade_score_cache.rb" timestamp="1501579162215">
+        <mark key="[" line="2" column="29" />
+        <mark key="]" line="2" column="29" />
+        <mark key="^" line="4" column="70" />
+        <mark key="." line="2" column="29" />
+      </file>
       <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/ranking/match.rb" timestamp="1501217860931">
         <mark key="[" line="74" column="25" />
         <mark key="]" line="74" column="51" />
@@ -291,6 +297,12 @@
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/enemy/order.rb" timestamp="1501579341883">
+        <mark key="[" line="67" column="36" />
+        <mark key="]" line="67" column="41" />
+        <mark key="." line="67" column="41" />
+        <mark key="^" line="67" column="41" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/layouts/application.html.erb" timestamp="1481374379740">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -365,12 +377,6 @@
         <mark key="]" line="41" column="6" />
         <mark key="^" line="41" column="6" />
         <mark key="." line="41" column="6" />
-      </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user_character/skill_grade_cache.rb" timestamp="1501577594571">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="6" column="3" />
-        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/items/edit.html.erb" timestamp="1482086038605">
         <mark key="[" line="27" column="0" />
@@ -503,7 +509,7 @@
       <file name="/dummy.sql" timestamp="1501573614544">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501570262638">
+      <file name="/Dummy.txt" timestamp="1501578720226">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/bin/spring" timestamp="1489542452462">
@@ -557,6 +563,13 @@
       <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/user_status/star_cache_spec.rb" timestamp="1501575949012">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="21" />
+      </file>
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/ranking/score/user_cache.rb" timestamp="1501579045914">
+        <mark key="'" line="14" column="28" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="18" column="37" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/app/views/items/index.html.erb" timestamp="1489724983560">
         <mark key="[" line="0" column="26" />
@@ -1089,9 +1102,9 @@
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/order_completions_controller.rb" timestamp="1499137106663">
         <mark key="[" line="0" column="56" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user/main_story/read_mark.rb" timestamp="1501577483587">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="20" column="4" />
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user/main_story/read_mark.rb" timestamp="1501578928974">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="34" />
         <mark key="." line="0" column="31" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/helloworld/app/views/hello/index.html.erb" timestamp="1493345578479">
@@ -1120,7 +1133,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/cinderella_match/match_spec.rb" />
       <jump line="58" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/cinderella_match/match_spec.rb" />
       <jump line="61" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/cinderella_match/match_spec.rb" />
       <jump line="65" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/cinderella_match/match_spec.rb" />
@@ -1220,6 +1232,7 @@
       <jump line="56" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user/main_story/section.rb" />
       <jump line="48" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user/main_story/section.rb" />
       <jump line="44" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user/main_story/section.rb" />
+      <jump line="14" column="28" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/ranking/score/user_cache.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1233,40 +1246,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>delete</text>
       </register>
       <register name="/" type="4">
         <text>FreeTicket</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgcmVhZAogICAgUmFpbHMuY2FjaGUucmVhZChAa2V5KQogIGVuZAoKICBkZWYgd3JpdGUodmFsdWUpCiAgICBSYWlscy5jYWNoZS53cml0ZShAa2V5LCB2YWx1ZSkKICBlbmQKCiAgZGVmIGRlbGV0ZQogICAgUmFpbHMuY2FjaGUuZGVsZXRlKEBrZXkpCiAgZW5kCg==</text>
+        <text encoding="base64">ICAgIFJhaWxzLmNhY2hlLndyaXRlKEBrZXksIHZhbHVlKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiByZWFkCiAgICAgIFJhaWxzLmNhY2hlLnJlYWQoQGtleSkKICAgIGVuZAoKICAgIGRlZiB3cml0ZSh2YWx1ZSkKICAgICAgUmFpbHMuY2FjaGUud3JpdGUoQGtleSwgdmFsdWUpCiAgICBlbmQKCiAgICBkZWYgZGVsZXRlCiAgICAgIFJhaWxzLmNhY2hlLmRlbGV0ZShAa2V5KQogICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgZGVmIHJlZGlzCiAgICAgICAgQHJlZGlzIHx8PSBSZWRpc0NvbmYuY29ubigncmFua2luZycpCiAgICAgIGVuZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiByZWRpc19rZXkodXNlcl9jaGFyYWN0ZXIpCiAgICAgICJ1c2VyX2NoYXJhY3Rlcjpza2lsbF9ncmFkZV9jYWNoZToje3VzZXJfY2hhcmFjdGVyLmlkfSIKICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICBAa2V5ID0ga2V5KHVzZXIuaWQpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWRpcy5zZXRleChrZXkodXNlci5pZCksIENBQ0hFX1RUTCwgdmFsdWUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBiZWZvcmUgeyBSZWRpc0NvbmYuY29ubigiY29tbW9uIikuZmx1c2hkYiB9CiAgYWZ0ZXIgIHsgUmVkaXNDb25mLmNvbm4oImNvbW1vbiIpLmZsdXNoZGIgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyOjpNYWluU3Rvcnk6OlJlYWRNYXJrLm5ldyh1c2VyKS51bnJlYWRfY291bnQK</text>
+        <text encoding="base64">ICAgICAgZGVmIGtleShvcmRlcikKICAgICAgICAiZW5lbXlfdGVhbV9ncmFkZV9zY29yZToje29yZGVyLmlkfSIKICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYga2V5KHVzZXIpCiAgICAibWFpbl9zdG9yeTpyZWFkX21hcms6I3t1c2VyLmlkfSIKICBlbmQK</text>
+        <text encoding="base64">ICAgICAgZGVmIGNsZWFyCiAgICAgICAgc2VsZi52YWx1ZSA9IG5pbAogICAgICBlbmQK</text>
       </register>
       <register name=":" type="4">
         <text>redo</text>
