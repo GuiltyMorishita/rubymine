@@ -66,6 +66,12 @@
         <mark key="^" line="33" column="24" />
         <mark key="." line="482" column="0" />
       </file>
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user/event_story/read_mark.rb" timestamp="1501571213613">
+        <mark key="[" line="28" column="6" />
+        <mark key="]" line="28" column="6" />
+        <mark key="." line="28" column="6" />
+        <mark key="^" line="25" column="74" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/models/item.rb" timestamp="1499361846010">
         <mark key="[" line="1" column="22" />
         <mark key="]" line="2" column="47" />
@@ -289,6 +295,12 @@
         <mark key="]" line="2" column="9" />
         <mark key="^" line="2" column="9" />
         <mark key="." line="2" column="9" />
+      </file>
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user/main_story/chapter/read_mark.rb" timestamp="1501571078871">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="10" />
+        <mark key="^" line="2" column="10" />
+        <mark key="." line="2" column="10" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/books_app/app/views/books/index.html.erb" timestamp="1494222260454">
         <mark key="[" line="20" column="35" />
@@ -515,7 +527,7 @@
       <file name="/dummy.sql" timestamp="1501562317627">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501563441190">
+      <file name="/Dummy.txt" timestamp="1501570262638">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/bin/spring" timestamp="1489542452462">
@@ -689,11 +701,11 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user/event_story/chapter/read_mark.rb" timestamp="1501563977498">
-        <mark key="[" line="23" column="6" />
-        <mark key="]" line="23" column="6" />
-        <mark key="^" line="0" column="104" />
-        <mark key="." line="23" column="6" />
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user/event_story/chapter/read_mark.rb" timestamp="1501571188949">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="25" column="5" />
+        <mark key="^" line="35" column="93" />
+        <mark key="." line="35" column="93" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/static_pages_controller_spec.rb" timestamp="1494920660513">
         <mark key="[" line="20" column="12" />
@@ -985,7 +997,6 @@
         <mark key="^" line="2" column="36" />
         <mark key="." line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/lib/tasks/seed.rake" timestamp="1501550753507" />
       <file name="$USER_HOME$/Ebios/Ruby/sample_app/app/models/entry.rb" timestamp="1493344603839">
         <mark key="[" line="0" column="31" />
       </file>
@@ -1091,9 +1102,14 @@
         <mark key="^" line="2" column="62" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/giftable/receiver_spec.rb" timestamp="1501562222262" />
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/order_completions_controller.rb" timestamp="1499137106663">
         <mark key="[" line="0" column="56" />
+      </file>
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user/main_story/read_mark.rb" timestamp="1501571145749">
+        <mark key="[" line="28" column="6" />
+        <mark key="]" line="28" column="6" />
+        <mark key="^" line="25" column="73" />
+        <mark key="." line="28" column="6" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/helloworld/app/views/hello/index.html.erb" timestamp="1493345578479">
         <mark key="[" line="1" column="21" />
@@ -1234,13 +1250,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>clear</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>FreeTicket</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZGVmIHdyaXRlKG51bSkKICAgICAgICBSYWlscy5jYWNoZS53cml0ZShAa2V5LCBudW0pCiAgICAgIGVuZAoKICAgICAgZGVmIHJlYWQKICAgICAgICB2YWx1ZSA9IFJhaWxzLmNhY2hlLnJlYWQoQGtleSkKICAgICAgICByZXR1cm4gdmFsdWUgaWYgdmFsdWUucHJlc2VudD8KCiAgICAgICAgbnVtID0gc3Rhcl9zdW0KICAgICAgICBzZWxmLndyaXRlKG51bSkKICAgICAgICBudW0KICAgICAgZW5kCgogICAgICBkZWYgY2xlYXIKICAgICAgICBSYWlscy5jYWNoZS5kZWxldGUoQGtleSkKICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICBkZWYgcmVhZAogICAgUmFpbHMuY2FjaGUucmVhZChAa2V5KQogIGVuZAoKICBkZWYgd3JpdGUodmFsdWUpCiAgICBSYWlscy5jYWNoZS53cml0ZShAa2V5LCB2YWx1ZSkKICBlbmQKCiAgZGVmIGRlbGV0ZQogICAgUmFpbHMuY2FjaGUuZGVsZXRlKEBrZXkpCiAgZW5kCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBkZWYgcmVhZAogICAgUmFpbHMuY2FjaGUucmVhZChAa2V5KQogIGVuZAoKICBkZWYgd3JpdGUodmFsdWUpCiAgICBSYWlscy5jYWNoZS53cml0ZShAa2V5LCB2YWx1ZSkKICBlbmQKCiAgZGVmIGNsZWFyCiAgICBSYWlscy5jYWNoZS5kZWxldGUoQGtleSkKICBlbmQKCg==</text>
