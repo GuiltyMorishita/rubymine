@@ -84,12 +84,12 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/enemy/order/team_grade_score_cache.rb" timestamp="1501648825199">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="17" column="8" />
-        <mark key="]" line="17" column="8" />
-        <mark key="." line="17" column="8" />
-        <mark key="^" line="26" column="19" />
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/enemy/order/team_grade_score_cache.rb" timestamp="1501649072164">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="17" column="11" />
       </file>
       <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/ranking/match.rb" timestamp="1501217860931">
         <mark key="[" line="74" column="25" />
@@ -516,7 +516,7 @@
       <file name="/dummy.sql" timestamp="1501573614544">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501647547697">
+      <file name="/Dummy.txt" timestamp="1501649061903">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/bin/spring" timestamp="1489542452462">
@@ -1144,7 +1144,6 @@
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/config/environments/development.rb" timestamp="1489478991003">
         <mark key="[" line="30" column="69" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/support/factory_girl_ext.rb" timestamp="1501638516721" />
     </filemarks>
     <jumps>
       <jump line="15" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user/main_story/section.rb" />
@@ -1269,31 +1268,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZGVmIGNsZWFyCiAgICAgIGVuZAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBSYWlscy5jYWNoZS5kZWxldGUoQGtleSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBuaWwgdW5sZXNzIFJhaWxzLmNhY2hlLmRlbGV0ZShAa2V5KQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB0cnVlCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgZGVmIGNsZWFyCiAgICAgIGVuZAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBSYWlscy5jYWNoZS5kZWxldGUoQGtleSkK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFJhaWxzLmNhY2hlLmNsZWFyCg==</text>
+        <text encoding="base64">ICAgICAgICBuaWwgdW5sZXNzIFJhaWxzLmNhY2hlLmRlbGV0ZShAa2V5KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFJhaWxzLmNhY2hlLmNsZWFyCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnVlCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIFJhaWxzLmNhY2hlLmNsZWFyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAoc3VtICogQ29uc3RhbnRzLnRlYW1fZ3JhZGVfc2NvcmUudG90YWxfY29ycmVjdGlvbikudG9faQo=</text>
+        <text encoding="base64">ICAgIFJhaWxzLmNhY2hlLmNsZWFyCg==</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
