@@ -84,11 +84,12 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/enemy/order/team_grade_score_cache.rb" timestamp="1501639352610">
-        <mark key="[" line="26" column="9" />
-        <mark key="]" line="26" column="11" />
-        <mark key="." line="26" column="11" />
-        <mark key="^" line="26" column="11" />
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/enemy/order/team_grade_score_cache.rb" timestamp="1501640454939">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="26" column="19" />
       </file>
       <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/ranking/match.rb" timestamp="1501217860931">
         <mark key="[" line="74" column="25" />
@@ -117,9 +118,10 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="4" column="47" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/cinderella_match/match_spec.rb" timestamp="1501637711866">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/cinderella_match/match_spec.rb" timestamp="1501640623548">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
@@ -300,8 +302,8 @@
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/enemy/order.rb" timestamp="1501639006558">
-        <mark key="[" line="67" column="36" />
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/enemy/order.rb" timestamp="1501640636598">
+        <mark key="[" line="67" column="41" />
         <mark key="]" line="67" column="41" />
         <mark key="." line="67" column="41" />
         <mark key="^" line="67" column="41" />
@@ -435,7 +437,7 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="/Ruby Console" timestamp="1501639355025">
+      <file name="/Ruby Console" timestamp="1501639753470">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/models/user.rb" timestamp="1500364516195">
@@ -510,7 +512,7 @@
       <file name="/dummy.sql" timestamp="1501573614544">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501638822821">
+      <file name="/Dummy.txt" timestamp="1501640071652">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/bin/spring" timestamp="1489542452462">
@@ -638,6 +640,12 @@
         <mark key="]" line="9" column="25" />
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
+      </file>
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/enemy/order/team_grade_score_cache_spec.rb" timestamp="1501640555445">
+        <mark key="[" line="28" column="67" />
+        <mark key="]" line="28" column="72" />
+        <mark key="." line="28" column="72" />
+        <mark key="^" line="28" column="72" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/items/show.html.erb" timestamp="1500012452689">
         <mark key="[" line="24" column="0" />
@@ -1132,32 +1140,6 @@
       <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/support/factory_girl_ext.rb" timestamp="1501638516721" />
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/match/result.rb" />
-      <jump line="16" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/match/result.rb" />
-      <jump line="3" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/match/result.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/match/result.rb" />
-      <jump line="22" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/lib/rack_middlewares/error_handler.rb" />
-      <jump line="26" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/lib/rack_middlewares/error_handler.rb" />
-      <jump line="28" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/lib/rack_middlewares/error_handler.rb" />
-      <jump line="31" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/lib/rack_middlewares/error_handler.rb" />
-      <jump line="34" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/lib/rack_middlewares/error_handler.rb" />
-      <jump line="38" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/lib/rack_middlewares/error_handler.rb" />
-      <jump line="42" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/lib/rack_middlewares/error_handler.rb" />
-      <jump line="47" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/lib/rack_middlewares/error_handler.rb" />
-      <jump line="51" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/lib/rack_middlewares/error_handler.rb" />
-      <jump line="60" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/lib/rack_middlewares/error_handler.rb" />
-      <jump line="63" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/lib/rack_middlewares/error_handler.rb" />
-      <jump line="76" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/lib/rack_middlewares/error_handler.rb" />
-      <jump line="64" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/config/constants.yml" />
-      <jump line="65" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/config/constants.yml" />
-      <jump line="71" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/config/constants.yml" />
-      <jump line="77" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/config/constants.yml" />
-      <jump line="83" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/config/constants.yml" />
-      <jump line="1" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/Gemfile" />
-      <jump line="4" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/Gemfile" />
-      <jump line="9" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/Gemfile" />
-      <jump line="11" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/Gemfile" />
-      <jump line="14" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/Gemfile" />
       <jump line="18" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/Gemfile" />
       <jump line="25" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/Gemfile" />
       <jump line="31" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/Gemfile" />
@@ -1232,6 +1214,32 @@
       <jump line="1" column="8" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/enemy/order/team_grade_score_cache.rb" />
       <jump line="3" column="21" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/enemy/order/team_grade_score_cache.rb" />
       <jump line="4" column="19" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/enemy/order/team_grade_score_cache.rb" />
+      <jump line="23" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/enemy/order/team_grade_score_cache.rb" />
+      <jump line="110" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/cinderella_match/match_spec.rb" />
+      <jump line="105" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/cinderella_match/match_spec.rb" />
+      <jump line="101" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/cinderella_match/match_spec.rb" />
+      <jump line="95" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/cinderella_match/match_spec.rb" />
+      <jump line="93" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/cinderella_match/match_spec.rb" />
+      <jump line="86" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/cinderella_match/match_spec.rb" />
+      <jump line="80" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/cinderella_match/match_spec.rb" />
+      <jump line="77" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/cinderella_match/match_spec.rb" />
+      <jump line="71" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/cinderella_match/match_spec.rb" />
+      <jump line="67" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/cinderella_match/match_spec.rb" />
+      <jump line="65" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/cinderella_match/match_spec.rb" />
+      <jump line="61" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/cinderella_match/match_spec.rb" />
+      <jump line="58" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/cinderella_match/match_spec.rb" />
+      <jump line="50" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/cinderella_match/match_spec.rb" />
+      <jump line="48" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/cinderella_match/match_spec.rb" />
+      <jump line="45" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/cinderella_match/match_spec.rb" />
+      <jump line="40" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/cinderella_match/match_spec.rb" />
+      <jump line="33" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/cinderella_match/match_spec.rb" />
+      <jump line="28" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/cinderella_match/match_spec.rb" />
+      <jump line="16" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/cinderella_match/match_spec.rb" />
+      <jump line="14" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/cinderella_match/match_spec.rb" />
+      <jump line="11" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/cinderella_match/match_spec.rb" />
+      <jump line="4" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/cinderella_match/match_spec.rb" />
+      <jump line="1" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/cinderella_match/match_spec.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/cinderella_match/match_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1245,40 +1253,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>clear</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcmRlclw+</text>
       </register>
-      <register name="0" type="4">
-        <text>(sum * Constants.team_grade_score.total_correction).to_i</text>
+      <register name="0" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFJhaWxzLmNhY2hlLmNsZWFyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFJhaWxzLmNhY2hlLmNsZWFyCg==</text>
+        <text encoding="base64">ICAgICAgZGVmIGNsZWFyCiAgICAgIGVuZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFJhaWxzLmNhY2hlLmNsZWFyCg==</text>
+        <text encoding="base64">ICAgICAgICBSYWlscy5jYWNoZS5kZWxldGUoQGtleSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAoc3VtICogQ29uc3RhbnRzLnRlYW1fZ3JhZGVfc2NvcmUudG90YWxfY29ycmVjdGlvbikudG9faQo=</text>
+        <text encoding="base64">ICAgICAgICBuaWwgdW5sZXNzIFJhaWxzLmNhY2hlLmRlbGV0ZShAa2V5KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnZhbHVlID0gbmlsCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnVlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFJhaWxzLmNhY2hlLmNsZWFyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG9vbwo=</text>
+        <text encoding="base64">ICAgIFJhaWxzLmNhY2hlLmNsZWFyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFJhaWxzLmNhY2hlLmNsZWFyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGVmIHJlZGlzCiAgICAgICAgQHJlZGlzIHx8PSBSZWRpc0NvbmYuY29ubigncmFua2luZycpCiAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICAoc3VtICogQ29uc3RhbnRzLnRlYW1fZ3JhZGVfc2NvcmUudG90YWxfY29ycmVjdGlvbikudG9faQo=</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
