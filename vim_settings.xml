@@ -96,6 +96,9 @@
         <mark key="^" line="74" column="51" />
         <mark key="." line="74" column="51" />
       </file>
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/.env" timestamp="1501726289616">
+        <mark key="'" line="31" column="20" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/sessions/new.html.erb" timestamp="1499384495933">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="26" column="5" />
@@ -1165,11 +1168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="496" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activesupport-5.0.3/lib/active_support/callbacks.rb" />
-      <jump line="490" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activesupport-5.0.3/lib/active_support/callbacks.rb" />
-      <jump line="485" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activesupport-5.0.3/lib/active_support/callbacks.rb" />
-      <jump line="480" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activesupport-5.0.3/lib/active_support/callbacks.rb" />
-      <jump line="476" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activesupport-5.0.3/lib/active_support/callbacks.rb" />
       <jump line="465" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activesupport-5.0.3/lib/active_support/callbacks.rb" />
       <jump line="463" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activesupport-5.0.3/lib/active_support/callbacks.rb" />
       <jump line="459" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activesupport-5.0.3/lib/active_support/callbacks.rb" />
@@ -1265,6 +1263,11 @@
       <jump line="373" column="17" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/Gemfile.lock" />
       <jump line="426" column="11" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/Gemfile.lock" />
       <jump line="427" column="6" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/Gemfile.lock" />
+      <jump line="0" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/.env" />
+      <jump line="32" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/.env" />
+      <jump line="33" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/.env" />
+      <jump line="27" column="27" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/.env" />
+      <jump line="31" column="20" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/.env" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1281,7 +1284,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>rails</text>
+        <text>RECOR</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZGVmIGRpc3BsYXlfZGVwcmVjYXRpb25fd2FybmluZ19mb3JfZmFsc2VfdGVybWluYXRvcgogICAgICAgIEFjdGl2ZVN1cHBvcnQ6OkRlcHJlY2F0aW9uLndhcm4oPDwtTVNHLnNxdWlzaCkKICAgICAgICAgIFJldHVybmluZyBgZmFsc2VgIGluIEFjdGl2ZSBSZWNvcmQgYW5kIEFjdGl2ZSBNb2RlbCBjYWxsYmFja3Mgd2lsbCBub3QgaW1wbGljaXRseSBoYWx0IGEgY2FsbGJhY2sgY2hhaW4gaW4gUmFpbHMgNS4xLgogICAgICAgICAgVG8gZXhwbGljaXRseSBoYWx0IHRoZSBjYWxsYmFjayBjaGFpbiwgcGxlYXNlIHVzZSBgdGhyb3cgOmFib3J0YCBpbnN0ZWFkLgogICAgICAgIE1TRwogICAgICBlbmQK</text>
@@ -1318,16 +1321,14 @@
       </register>
     </registers>
     <search>
-      <last-search>rails</last-search>
+      <last-search>RECOR</last-search>
       <last-offset />
-      <last-pattern>rails</last-pattern>
+      <last-pattern>RECOR</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>seccond</entry>
-        <entry>create</entry>
         <entry>.now</entry>
         <entry>count</entry>
         <entry>cart_item_qunatity_param</entry>
@@ -1346,6 +1347,8 @@
         <entry>abort</entry>
         <entry>term</entry>
         <entry>rails</entry>
+        <entry>record</entry>
+        <entry>RECOR</entry>
       </history-search>
       <history-cmd>
         <entry>action FindNext</entry>
