@@ -63,7 +63,6 @@
         <mark key="^" line="12" column="36" />
         <mark key="." line="12" column="36" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/config/initializers/oauth2_mac_rails.rb" timestamp="1501736945408" />
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/cart_items_controller_spec.rb" timestamp="1500017077470">
         <mark key="[" line="482" column="0" />
         <mark key="]" line="482" column="0" />
@@ -183,10 +182,10 @@
         <mark key="^" line="28" column="61" />
       </file>
       <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/client_asset_version_spec.rb" timestamp="1501840588328">
-        <mark key="[" line="26" column="10" />
-        <mark key="]" line="26" column="10" />
-        <mark key="." line="26" column="10" />
-        <mark key="^" line="26" column="10" />
+        <mark key="[" line="22" column="10" />
+        <mark key="]" line="22" column="10" />
+        <mark key="." line="22" column="10" />
+        <mark key="^" line="22" column="10" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/user_mailer/account_activation.html.erb" timestamp="1481596404584">
         <mark key="[" line="0" column="19" />
@@ -763,7 +762,6 @@
         <mark key="." line="3" column="43" />
         <mark key="^" line="3" column="43" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/requests/sample_users_spec.rb" timestamp="1501835748055" />
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/application_controller.rb" timestamp="1500365630339">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
