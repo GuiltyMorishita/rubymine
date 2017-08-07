@@ -84,13 +84,6 @@
         <mark key="^" line="2" column="47" />
         <mark key="." line="2" column="47" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/client_version_spec.rb" timestamp="1501840031799">
-        <mark key="'" line="53" column="34" />
-        <mark key="[" line="16" column="10" />
-        <mark key="]" line="16" column="26" />
-        <mark key="^" line="27" column="17" />
-        <mark key="." line="27" column="17" />
-      </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/.ruby-version" timestamp="1477756678891">
         <mark key="[" line="0" column="4" />
         <mark key="]" line="0" column="4" />
@@ -150,12 +143,6 @@
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/exercise_app/db/migrate/20170428043333_create_users.rb" timestamp="1493354791280">
         <mark key="[" line="3" column="20" />
-      </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/client_version.rb" timestamp="1501839660756">
-        <mark key="[" line="46" column="12" />
-        <mark key="]" line="46" column="15" />
-        <mark key="." line="46" column="15" />
-        <mark key="^" line="46" column="15" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/books_app/app/controllers/books_controller.rb" timestamp="1494222188953">
         <mark key="[" line="71" column="58" />
