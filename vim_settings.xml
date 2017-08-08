@@ -99,6 +99,7 @@
       <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/.env" timestamp="1502088664651">
         <mark key="'" line="41" column="9" />
       </file>
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/db/migrate/20151217091144_create_iap_rails_funds_transfer_logs.iap_rails.rb" timestamp="1502161136919" />
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/sessions/new.html.erb" timestamp="1499384495933">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="26" column="5" />
@@ -836,6 +837,7 @@
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="41" />
       </file>
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/db/migrate/20151217091145_create_iap_rails_points.iap_rails.rb" timestamp="1502161108678" />
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/Gemfile" timestamp="1494474780232">
         <mark key="[" line="40" column="30" />
         <mark key="]" line="41" column="28" />
@@ -967,11 +969,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="7" column="28" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user/ranking/information.rb" timestamp="1502103369092">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/cinderella_match/match_maker/result.rb" timestamp="1501653714461">
         <mark key="'" line="0" column="0" />
@@ -1147,10 +1144,6 @@
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/order_completions_controller.rb" timestamp="1499137106663">
         <mark key="[" line="0" column="56" />
-      </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user/main_story/read_mark.rb" timestamp="1501837636688">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="20" column="4" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/helloworld/app/views/hello/index.html.erb" timestamp="1493345578479">
         <mark key="[" line="1" column="21" />
