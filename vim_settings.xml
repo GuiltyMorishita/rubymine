@@ -208,6 +208,7 @@
       <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/kpi_logger/log_schema/ranking_match_battle_result.rb" timestamp="1501653736037">
         <mark key="'" line="2" column="40" />
       </file>
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/lib/tasks/bq_schema.rake" timestamp="1502175018441" />
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/models/phone_spec.rb" timestamp="1477542517402">
         <mark key="[" line="36" column="39" />
         <mark key="]" line="37" column="4" />
@@ -530,7 +531,7 @@
       <file name="/dummy.sql" timestamp="1501839467527">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502102639261">
+      <file name="/Dummy.txt" timestamp="1502174939766">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/bin/spring" timestamp="1489542452462">
