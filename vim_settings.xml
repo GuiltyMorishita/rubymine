@@ -91,10 +91,10 @@
         <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/ranking/match.rb" timestamp="1502674830993">
-        <mark key="[" line="74" column="38" />
-        <mark key="]" line="74" column="38" />
-        <mark key="^" line="74" column="38" />
-        <mark key="." line="74" column="38" />
+        <mark key="[" line="72" column="38" />
+        <mark key="]" line="72" column="38" />
+        <mark key="^" line="72" column="38" />
+        <mark key="." line="72" column="38" />
       </file>
       <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/.env" timestamp="1502088664651">
         <mark key="'" line="41" column="9" />
@@ -528,7 +528,7 @@
       <file name="/dummy.sql" timestamp="1501839467527">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502674050915">
+      <file name="/Dummy.txt" timestamp="1502678223879">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/bin/spring" timestamp="1489542452462">
