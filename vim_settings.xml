@@ -90,6 +90,9 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/user_status_spec.rb" timestamp="1502847092045">
+        <mark key="'" line="18" column="12" />
+      </file>
       <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/ranking/match.rb" timestamp="1502674830993">
         <mark key="[" line="72" column="38" />
         <mark key="]" line="72" column="38" />
@@ -206,6 +209,12 @@
       </file>
       <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/kpi_logger/log_schema/ranking_match_battle_result.rb" timestamp="1501653736037">
         <mark key="'" line="2" column="40" />
+      </file>
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/lib/tasks/bq_schema.rake" timestamp="1502846394802">
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="15" column="2" />
+        <mark key="^" line="15" column="2" />
+        <mark key="." line="15" column="2" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/app/models/phone_spec.rb" timestamp="1477542517402">
         <mark key="[" line="36" column="39" />
@@ -447,7 +456,7 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="/Ruby Console" timestamp="1501727245605">
+      <file name="/Ruby Console" timestamp="1502847236120">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/models/user.rb" timestamp="1500364516195">
@@ -514,9 +523,9 @@
         <mark key="." line="2" column="28" />
       </file>
       <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/ranking/match_spec.rb" timestamp="1501216762406">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="84" />
-        <mark key="^" line="113" column="91" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="84" />
+        <mark key="^" line="111" column="91" />
         <mark key="." line="6" column="2" />
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/app/views/cart_items/_cart_item.html.erb" timestamp="1490681284108">
@@ -662,6 +671,12 @@
         <mark key="]" line="24" column="0" />
         <mark key="^" line="37" column="78" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/services/user_status_log.rb" timestamp="1502847649986">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="18" column="79" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/controllers/concerns/timewarpable_spec.rb" timestamp="1500880068009">
         <mark key="[" line="26" column="26" />
@@ -1152,7 +1167,8 @@
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/app/controllers/items_controller.rb" timestamp="1489477063089">
         <mark key="[" line="19" column="14" />
       </file>
-      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user_status.rb" timestamp="1502091956651">
+      <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user_status.rb" timestamp="1502846854755">
+        <mark key="'" line="203" column="44" />
         <mark key="[" line="210" column="0" />
         <mark key="]" line="210" column="0" />
         <mark key="." line="210" column="0" />
@@ -1169,20 +1185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="219" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activesupport-5.0.3/lib/active_support/callbacks.rb" />
-      <jump line="213" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activesupport-5.0.3/lib/active_support/callbacks.rb" />
-      <jump line="208" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activesupport-5.0.3/lib/active_support/callbacks.rb" />
-      <jump line="204" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activesupport-5.0.3/lib/active_support/callbacks.rb" />
-      <jump line="198" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activesupport-5.0.3/lib/active_support/callbacks.rb" />
-      <jump line="181" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activesupport-5.0.3/lib/active_support/callbacks.rb" />
-      <jump line="175" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activesupport-5.0.3/lib/active_support/callbacks.rb" />
-      <jump line="170" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activesupport-5.0.3/lib/active_support/callbacks.rb" />
-      <jump line="166" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activesupport-5.0.3/lib/active_support/callbacks.rb" />
-      <jump line="160" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activesupport-5.0.3/lib/active_support/callbacks.rb" />
-      <jump line="155" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activesupport-5.0.3/lib/active_support/callbacks.rb" />
-      <jump line="147" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activesupport-5.0.3/lib/active_support/callbacks.rb" />
-      <jump line="141" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activesupport-5.0.3/lib/active_support/callbacks.rb" />
-      <jump line="134" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activesupport-5.0.3/lib/active_support/callbacks.rb" />
       <jump line="130" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activesupport-5.0.3/lib/active_support/callbacks.rb" />
       <jump line="121" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activesupport-5.0.3/lib/active_support/callbacks.rb" />
       <jump line="118" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activesupport-5.0.3/lib/active_support/callbacks.rb" />
@@ -1269,6 +1271,20 @@
       <jump line="39" column="3" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/.env" />
       <jump line="40" column="3" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/.env" />
       <jump line="41" column="9" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/.env" />
+      <jump line="154" column="4" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user_status.rb" />
+      <jump line="156" column="14" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user_status.rb" />
+      <jump line="157" column="20" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user_status.rb" />
+      <jump line="159" column="6" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user_status.rb" />
+      <jump line="162" column="15" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user_status.rb" />
+      <jump line="163" column="17" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user_status.rb" />
+      <jump line="164" column="25" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user_status.rb" />
+      <jump line="168" column="14" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user_status.rb" />
+      <jump line="169" column="8" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user_status.rb" />
+      <jump line="170" column="18" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user_status.rb" />
+      <jump line="176" column="11" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user_status.rb" />
+      <jump line="203" column="44" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user_status.rb" />
+      <jump line="271" column="14" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/user_status_spec.rb" />
+      <jump line="18" column="12" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/user_status_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1285,10 +1301,10 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>cache</text>
+        <text>upgrade</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZGVmIGhpZ2hfc2NvcmVzCiAgICAgICAgQHJhbmtpbmdfaGlnaF9zY29yZXMgfHw9IHVzZXIucmFua2luZ19wb2ludF9yZWNvcmRzLndoZXJlKHJhbmtpbmdfaWQ6IHJhbmtpbmdfaWQpLnBsdWNrKDpwb2ludCkuc29ydC5yZXZlcnNlCiAgICAgIGVuZAoKICAgICAgZGVmIHJhbmtpbmdfc2NvcmUKICAgICAgICBAcmFua2luZ19zY29yZSB8fD0gaWYgaGlnaF9zY29yZXMuYmxhbms/CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmlsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoaWdoX3Njb3Jlcy5zdW0KICAgICAgICAgICAgICAgICAgICAgICAgICAgZW5kCiAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIEZsdWVudExvZy5wb3N0KDp1c2VyX3N0YXR1cywKICAgICAgICAgICAgICAgICAgIHVzZXJfaWQ6IDEyMzQ1Njc4OSwKICAgICAgICAgICAgICAgICAgIHJlYXNvbjogOnJlY292ZXJfYWN0LAogICAgICAgICAgICAgICAgICAgYmVmb3JlOiAie1wiYWN0XCI6MCxcImFjdF9tYXhcIjoyMCxcImNhcGFjaXR5X3VwZ3JhZGVkXCI6MH0iLAogICAgICAgICAgICAgICAgICAgYWZ0ZXI6ICJ7XCJhY3RcIjoyMCxcImFjdF9tYXhcIjoyMCxcImNhcGFjaXR5X3VwZ3JhZGVkXCI6MH0iKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICMgS3BpTG9nZ2VyLnBvc3QoS3BpTG9nZ2VyOjpMb2dTY2hlbWE6OlJhbmtpbmdNYXRjaEJhdHRsZVJlc3VsdC5uZXcodXNlciwgZ2FtZSwgcmVzdWx0LCBtYXRjaF9tYWtpbmdfcmVzdWx0LCByYW5raW5nKSkK</text>
@@ -1322,9 +1338,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cache</last-search>
+      <last-search>upgrade</last-search>
       <last-offset />
-      <last-pattern>cache</last-pattern>
+      <last-pattern>upgrade</last-pattern>
       <last-replace>set_cache</last-replace>
       <last-substitute>write_cache</last-substitute>
       <last-dir>1</last-dir>
@@ -1332,8 +1348,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxrZXlcPg==</entry>
-        <entry encoding="base64">XDxPcmRlclw+</entry>
         <entry encoding="base64">XDxvcmRlclw+</entry>
         <entry encoding="base64">XDxjbGVhcl90ZWFtX2dyYWRlX3Njb3JlX2NhY2hlXD4=</entry>
         <entry>before_save</entry>
@@ -1352,6 +1366,8 @@
         <entry encoding="base64">XDxwcm9kdWN0XD4=</entry>
         <entry encoding="base64">XDxQcm9kdWN0XD4=</entry>
         <entry>cache</entry>
+        <entry>log</entry>
+        <entry>upgrade</entry>
       </history-search>
       <history-cmd>
         <entry>action FindNext</entry>
