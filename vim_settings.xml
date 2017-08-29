@@ -604,10 +604,7 @@
         <mark key="^" line="25" column="3" />
       </file>
       <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/send_masterdata_to_bq.sh" timestamp="1503996565227">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="15" column="20" />
-        <mark key="^" line="3" column="22" />
-        <mark key="." line="4" column="0" />
+        <mark key="]" line="0" column="20" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/payments_controller.rb" timestamp="1499692005756">
         <mark key="[" line="21" column="0" />
