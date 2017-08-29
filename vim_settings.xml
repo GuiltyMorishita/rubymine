@@ -568,12 +568,12 @@
         <mark key="." line="8" column="36" />
         <mark key="^" line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq_schema.rake" timestamp="1503993617432">
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq_schema.rake" timestamp="1503995498610">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="25" column="52" />
-        <mark key="]" line="25" column="57" />
-        <mark key="^" line="25" column="57" />
-        <mark key="." line="25" column="57" />
+        <mark key="[" line="26" column="20" />
+        <mark key="]" line="26" column="44" />
+        <mark key="^" line="26" column="44" />
+        <mark key="." line="26" column="44" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/helloworld/app/controllers/hello_controller.rb" timestamp="1493345589247">
         <mark key="[" line="1" column="11" />
@@ -598,6 +598,11 @@
         <mark key="]" line="20" column="38" />
         <mark key="." line="20" column="0" />
         <mark key="^" line="25" column="3" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/send_masterdata_to_bq.sh" timestamp="1503995654757">
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/payments_controller.rb" timestamp="1499692005756">
         <mark key="[" line="21" column="0" />
@@ -1373,7 +1378,7 @@
         <text encoding="base64">ICAgIG1hc3Rlcl9jbGFzc2VzID0gQWN0aXZlUmVjb3JkOjpCYXNlLnN1YmNsYXNzZXMuc2VsZWN0IHsgfGtsYXNzfCBzZWVkX3RhYmxlcy5pbmNsdWRlPyhrbGFzcy50YWJsZV9uYW1lKSB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseContent</text>
+        <text>redo</text>
       </register>
     </registers>
     <search>
@@ -1419,13 +1424,13 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>action RecentFiles</entry>
         <entry>action GotoClass</entry>
-        <entry>redo</entry>
         <entry>%s/set/write/g</entry>
         <entry>%s/write_cache/set_cache/g</entry>
         <entry>w</entry>
         <entry>action FileStructurePopup</entry>
         <entry>q</entry>
         <entry>action CloseContent</entry>
+        <entry>redo</entry>
       </history-cmd>
       <history-expr />
       <history-input />
