@@ -572,12 +572,12 @@
         <mark key="." line="8" column="36" />
         <mark key="^" line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq_schema.rake" timestamp="1503995498610">
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq_schema.rake" timestamp="1504059580188">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="26" column="20" />
-        <mark key="]" line="26" column="44" />
-        <mark key="^" line="26" column="44" />
-        <mark key="." line="26" column="44" />
+        <mark key="[" line="26" column="66" />
+        <mark key="]" line="26" column="95" />
+        <mark key="^" line="26" column="95" />
+        <mark key="." line="26" column="95" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/helloworld/app/controllers/hello_controller.rb" timestamp="1493345589247">
         <mark key="[" line="1" column="11" />
@@ -868,6 +868,12 @@
         <mark key="^" line="0" column="41" />
         <mark key="." line="0" column="41" />
       </file>
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/seed.rake" timestamp="1504061859136">
+        <mark key="[" line="21" column="9" />
+        <mark key="]" line="21" column="33" />
+        <mark key="." line="21" column="33" />
+        <mark key="^" line="21" column="33" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/.env" timestamp="1494824863775">
         <mark key="[" line="0" column="32" />
         <mark key="]" line="0" column="41" />
@@ -1042,6 +1048,10 @@
         <mark key="]" line="5" column="2" />
         <mark key="^" line="5" column="2" />
         <mark key="." line="5" column="2" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/app/models/kpi_logger/log_schema.rb" timestamp="1504058624314">
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="11" column="62" />
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/app/controllers/account_activations_controller.rb" timestamp="1489542245742">
         <mark key="[" line="6" column="25" />
@@ -1332,16 +1342,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/.env.readonly.prod</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDYXBhY2l0eU1hbmFnZW1lbnRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>MYSQL_USER_NAME</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHNlZWRfdGFibGVzID0gUmVjb3JkS2VlcGVyOjpDb25maWcudGFibGVzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c291cmNlICcvaG9tZS9kZXBsb3llci9nb29nbGUtY2xvdWQtc2RrL3BhdGguenNoLmluYycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1355,31 +1365,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcHV0cyAiLS0tICN7bWFzdGVyX2NsYXNzLm5hbWV9IC0tLSIK</text>
+        <text encoding="base64">I2pyZXF1aXJlICdzaGVsbHdvcmRzJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHAgc2VlZF90YWJsZXMgLSBBcHBsaWNhdGlvblJlY29yZC5zdWJjbGFzc2VzLm1hcCgmOnRhYmxlX25hbWUpCiAgICBwIG1hc3Rlcl9jbGFzc2VzLmNvdW50Cg==</text>
+        <text encoding="base64">ICAgICAgICBwIHRhYmxlX25hbWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHAgc2VlZF90YWJsZXMgLSBBcHBsaWNhdGlvblJlY29yZC5zdWJjbGFzc2VzLm1hcCgmOnRhYmxlX25hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgUmVjb3JkS2VlcGVyOjpDb25maWcudGFibGVzLmVhY2ggZG8gfHRhYmxlX25hbWV8CiAgICAjICAgbW9kZWxfbmFtZSA9IHRhYmxlX25hbWUuY2FwaXRhbGl6ZS5zaW5ndWxhcml6ZS5jYW1lbGl6ZQogICAgIyAgICMgcHAgT2JqZWN0LmNvbnN0X2dldChtb2RlbF9uYW1lKQogICAgIyAgIHBwIG1vZGVsX25hbWUKICAgICMgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1hc3Rlcl9jbGFzc2VzIDw8IElhcFJhaWxzOjpHb29nbGVwbGF5UHJvZHVjdAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIElhcFJhaWxzOjpHb29nbGVwbGF5UHJvZHVjdC50YWJsZV9uYW1lCiAgICBJYXBSYWlsczo6SXR1bmVzUHJvZHVjdC50YWJsZV9uYW1lCg==</text>
+        <text encoding="base64">ICAgICAgcCA6Ok1hc3RlckRhdGFWZXJzaW9uLmN1cnJlbnRfdmVyc2lvbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmUgJ2lhcF9yYWlscycK</text>
+        <text encoding="base64">ICAgICAgOjpNYXN0ZXJEYXRhVmVyc2lvbi5jdXJyZW50X3ZlcnNpb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHAgSWFwUmFpbHM6Okdvb2dsZXBsYXlQcm9kdWN0LnRhYmxlX25hbWUK</text>
+        <text encoding="base64">c291cmNlICcvaG9tZS9kZXBsb3llci9nb29nbGUtY2xvdWQtc2RrL3BhdGguenNoLmluYycK</text>
       </register>
       <register name=":" type="4">
-        <text>redo</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1427,11 +1437,11 @@
         <entry>action GotoClass</entry>
         <entry>%s/set/write/g</entry>
         <entry>%s/write_cache/set_cache/g</entry>
-        <entry>w</entry>
         <entry>action FileStructurePopup</entry>
         <entry>q</entry>
         <entry>action CloseContent</entry>
         <entry>redo</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
