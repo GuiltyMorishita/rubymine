@@ -572,12 +572,12 @@
         <mark key="." line="8" column="36" />
         <mark key="^" line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq_schema.rake" timestamp="1504082159251">
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq_schema.rake" timestamp="1504088651841">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="29" column="80" />
-        <mark key="]" line="29" column="90" />
-        <mark key="^" line="29" column="90" />
-        <mark key="." line="29" column="90" />
+        <mark key="[" line="3" column="37" />
+        <mark key="]" line="3" column="37" />
+        <mark key="^" line="3" column="37" />
+        <mark key="." line="3" column="37" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/helloworld/app/controllers/hello_controller.rb" timestamp="1493345589247">
         <mark key="[" line="1" column="11" />
