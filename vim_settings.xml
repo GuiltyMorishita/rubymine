@@ -30,8 +30,14 @@
       <file name="$USER_HOME$/Ebios/Ruby/exercise_app/app/models/address.rb" timestamp="1493354405490">
         <mark key="[" line="0" column="33" />
       </file>
-      <file name="/a.dummy" timestamp="1489552275425">
+      <file name="/a.dummy" timestamp="1504258469161">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/common.sh" timestamp="1504256855104">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="14" />
+        <mark key="." line="1" column="14" />
+        <mark key="^" line="1" column="14" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/assets/javascripts/application.js" timestamp="1481373425616">
         <mark key="[" line="14" column="12" />
@@ -185,6 +191,12 @@
         <mark key="]" line="2" column="46" />
         <mark key="." line="2" column="46" />
         <mark key="^" line="2" column="46" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/tmp/helps" timestamp="1504262105725">
+        <mark key="[" line="44" column="25" />
+        <mark key="]" line="44" column="52" />
+        <mark key="^" line="44" column="52" />
+        <mark key="." line="44" column="25" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/spec/requests/routes_spec.rb" timestamp="1478409313917">
         <mark key="[" line="10" column="8" />
@@ -486,6 +498,12 @@
         <mark key="]" line="12" column="94" />
         <mark key="." line="22" column="0" />
         <mark key="^" line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq.rake" timestamp="1504262536959">
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="14" column="46" />
+        <mark key="." line="14" column="46" />
+        <mark key="^" line="14" column="46" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/users_controller.rb" timestamp="1499339983976">
         <mark key="[" line="16" column="0" />
@@ -811,6 +829,13 @@
       <file name="/Ruby19RegExp Fragment (bq_schema.rake:846).regexp" timestamp="1503987745028">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/tmp/awakenings.tsv" timestamp="1504256563636">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="0" column="38" />
+        <mark key="^" line="0" column="38" />
+        <mark key="." line="0" column="38" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/helpers/sessions_helper.rb" timestamp="1499385318076">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="60" />
@@ -874,11 +899,11 @@
         <mark key="^" line="0" column="41" />
         <mark key="." line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/seed.rake" timestamp="1504083230859">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/seed.rake" timestamp="1504259775035">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="8" column="20" />
         <mark key="^" line="19" column="69" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/.env" timestamp="1494824863775">
         <mark key="[" line="0" column="32" />
@@ -927,6 +952,12 @@
         <mark key="]" line="8" column="21" />
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/transfer_masterdata_to_bq.sh" timestamp="1504262510400">
+        <mark key="[" line="7" column="57" />
+        <mark key="]" line="7" column="55" />
+        <mark key="." line="7" column="55" />
+        <mark key="^" line="7" column="55" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/assets/stylesheets/cart_items.scss" timestamp="1499418776397">
         <mark key="[" line="5" column="12" />
@@ -1235,8 +1266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="6" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/Gemfile.lock" />
-      <jump line="100" column="6" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/Gemfile.lock" />
       <jump line="106" column="6" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/Gemfile.lock" />
       <jump line="107" column="6" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/Gemfile.lock" />
       <jump line="112" column="6" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/Gemfile.lock" />
@@ -1335,6 +1364,8 @@
       <jump line="19" column="62" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq_schema.rake" />
       <jump line="16" column="10" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq_schema.rake" />
       <jump line="0" column="0" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq_schema.rake" />
+      <jump line="148" column="4" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/tmp/awakenings.tsv" />
+      <jump line="284" column="0" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/tmp/awakenings.tsv" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1348,16 +1379,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgImhvZ2Vob2dlIg==</text>
+        <text encoding="base64">ICAtZSAicy9cdC8sL2ci</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDYXBhY2l0eU1hbmFnZW1lbnRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>pluralize</text>
+      <register name="0" type="2">
+        <text encoding="base64">bXlzcWxfY21kICJTRUxFQ1QgKiBGUk9NICR7VEFCTEVfTkFNRX0iIHwgc2VkICAtZSAicy9cdC8sL2ciIC1lICJzLyQvLCR7TUFTVEVSX1ZFUlNJT059L2ciIC1lICJzL05VTEwvL2ciID4gJHtUU1ZfRklMRX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIyBzeXN0ZW0oIlRBQkxFX05BTUU9aGVscHMgIlwKICAgICAgIyAgICAgICAgIk1BU1RFUl9WRVJTSU9OPSN7bWFzdGVyX3ZlcnNpb259ICJcCiAgICAgICMgICAgICAgICIuL3NjcmlwdC9zZW5kX21hc3RlcmRhdGFfdG9fYnEuc2giKQo=</text>
+        <text encoding="base64">I215c3FsX2NtZCAiU0VMRUNUICogRlJPTSAke1RBQkxFX05BTUV9IiB8IHNlZCAtZSAicy8kLywke01BU1RFUl9WRVJTSU9OfS9nIiAtZSAicy9OVUxMLy9nIiA+ICR7VFNWX0ZJTEV9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1371,25 +1402,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdoZW4gOnRpbWUKICAgICAgIlRJTUUiCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdoZW4gCiAgICAgICJEQVRFVElNRSIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdoZW4gOmRhdGUKICAgICAgIkRBVEUiCg==</text>
+        <text encoding="base64">ICAgICAgICBwdXRzICJUYWJsZTogI3t0YWJsZV9uYW1lfSIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgIHB1dHMgIiMjIyBMb2EgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIEVOVlsiVEFSR0VUX0RJUiJdLmJsYW5rCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdoZW4gOnRpbWUKICAgICAgIlRJTUUiCg==</text>
+        <text encoding="base64">Z3pmaWxlPSIke1RBQkxFX05BTUV9Lmd6Igo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdoZW4gOmRhdGV0aW1lCiAgICAgICJEQVRFVElNRSIK</text>
+        <text encoding="base64">Z3pmaWxlPSIke1RBQkxFX05BTUV9Lmd6Igo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1488,6 +1519,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
