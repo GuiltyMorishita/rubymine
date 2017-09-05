@@ -575,7 +575,7 @@
       <file name="/dummy.sql" timestamp="1501839467527">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504175150085">
+      <file name="/Dummy.txt" timestamp="1504587393146">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/bin/spring" timestamp="1489542452462">
@@ -596,12 +596,12 @@
         <mark key="." line="8" column="36" />
         <mark key="^" line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq_schema.rake" timestamp="1504580197020">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="14" column="9" />
-        <mark key="]" line="14" column="66" />
-        <mark key="^" line="26" column="5" />
-        <mark key="." line="26" column="5" />
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq_schema.rake" timestamp="1504587776425">
+        <mark key="'" line="46" column="35" />
+        <mark key="[" line="40" column="35" />
+        <mark key="]" line="40" column="22" />
+        <mark key="." line="40" column="22" />
+        <mark key="^" line="40" column="22" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/helloworld/app/controllers/hello_controller.rb" timestamp="1493345589247">
         <mark key="[" line="1" column="11" />
@@ -1266,22 +1266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="6" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/Gemfile.lock" />
-      <jump line="107" column="6" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/Gemfile.lock" />
-      <jump line="112" column="6" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/Gemfile.lock" />
-      <jump line="113" column="6" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/Gemfile.lock" />
-      <jump line="186" column="11" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/Gemfile.lock" />
-      <jump line="213" column="11" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/Gemfile.lock" />
-      <jump line="218" column="13" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/Gemfile.lock" />
-      <jump line="227" column="17" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/Gemfile.lock" />
-      <jump line="373" column="17" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/Gemfile.lock" />
-      <jump line="426" column="11" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/Gemfile.lock" />
-      <jump line="427" column="6" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/Gemfile.lock" />
-      <jump line="0" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/.env" />
-      <jump line="32" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/.env" />
-      <jump line="33" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/.env" />
-      <jump line="27" column="27" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/.env" />
-      <jump line="31" column="20" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/.env" />
       <jump line="36" column="2" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/.env" />
       <jump line="37" column="2" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/.env" />
       <jump line="38" column="2" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/.env" />
@@ -1361,11 +1345,27 @@
       <jump line="212" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user.rb" />
       <jump line="218" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user.rb" />
       <jump line="225" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/user.rb" />
-      <jump line="19" column="62" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq_schema.rake" />
       <jump line="16" column="10" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq_schema.rake" />
       <jump line="0" column="0" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq_schema.rake" />
       <jump line="148" column="4" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/tmp/awakenings.tsv" />
       <jump line="284" column="0" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/tmp/awakenings.tsv" />
+      <jump line="39" column="23" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq_schema.rake" />
+      <jump line="41" column="35" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq_schema.rake" />
+      <jump line="42" column="32" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq_schema.rake" />
+      <jump line="47" column="59" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq_schema.rake" />
+      <jump line="53" column="6" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq_schema.rake" />
+      <jump line="44" column="4" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq_schema.rake" />
+      <jump line="14" column="14" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq_schema.rake" />
+      <jump line="15" column="11" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq_schema.rake" />
+      <jump line="18" column="4" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq_schema.rake" />
+      <jump line="19" column="4" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq_schema.rake" />
+      <jump line="20" column="4" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq_schema.rake" />
+      <jump line="21" column="28" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq_schema.rake" />
+      <jump line="22" column="23" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq_schema.rake" />
+      <jump line="25" column="35" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq_schema.rake" />
+      <jump line="27" column="50" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq_schema.rake" />
+      <jump line="29" column="43" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq_schema.rake" />
+      <jump line="45" column="35" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq_schema.rake" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1379,16 +1379,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>master</text>
+        <text>master_class</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDYXBhY2l0eU1hbmFnZW1lbnRcPg==</text>
+        <text>master</text>
       </register>
-      <register name="0" type="4">
-        <text>transfers master data to BigQuery</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBkZXNjICV7cHV0cyBtYXN0ZXIgZGF0YSBjbGFzcyBicV9zY2hlbWEganNvbiB0byBFTlZbIlRBUkdFVF9ESVIiXX0KICB0YXNrIHB1dF9tYXN0ZXJfc2NoZW1hOiA6ZW52aXJvbm1lbnQgZG8KICAgIFJhaWxzLmFwcGxpY2F0aW9uLmVhZ2VyX2xvYWQhCiAgICBzZWVkX3RhYmxlcyA9IFJlY29yZEtlZXBlcjo6Q29uZmlnLnRhYmxlcwogICAgbWFzdGVyX2NsYXNzZXMgPSBBcHBsaWNhdGlvblJlY29yZC5zdWJjbGFzc2VzLnNlbGVjdCB7IHxrbGFzc3wgc2VlZF90YWJsZXMuaW5jbHVkZT8oa2xhc3MudGFibGVfbmFtZSkgfQogICAgbWFzdGVyX2NsYXNzZXMgPDwgSWFwUmFpbHM6Okdvb2dsZXBsYXlQcm9kdWN0CiAgICBtYXN0ZXJfY2xhc3NlcyA8PCBJYXBSYWlsczo6SXR1bmVzUHJvZHVjdAogICAgbWFzdGVyX2NsYXNzZXMuZWFjaCBkbyB8bWFzdGVyX2NsYXNzfAogICAgICBicV9zY2hlbWFfaGFzaCA9IG1hc3Rlcl9jbGFzcy5jb2x1bW5zLm1hcCBkbyB8Y29sdW1ufAogICAgICAgIGJxX2NvbHVtbihjb2x1bW4ubmFtZSwgY29sdW1uLnR5cGUpCiAgICAgIGVuZAogICAgICBicV9zY2hlbWFfaGFzaCA8PCBicV9jb2x1bW4oOm1hc3Rlcl92ZXJzaW9uLCA6c3RyaW5nKQogICAgICBmaWxlbmFtZSA9IGlmIEVOVlsiVEFSR0VUX0RJUiJdLmJsYW5rPwogICAgICAgICAgICAgICAgICAgIiN7UmFpbHMucm9vdH0vdG1wL2JxX3NjaGVtYS8je21hc3Rlcl9jbGFzcy5uYW1lLnVuZGVyc2NvcmUuZG93bmNhc2UucGx1cmFsaXplLmdzdWIoL1wvLywgJ18nKX0uanNvbiIKICAgICAgICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgICAgICAiI3tFTlZbJ1RBUkdFVF9ESVInXX0vI3ttYXN0ZXJfY2xhc3MubmFtZS51bmRlcnNjb3JlLmRvd25jYXNlLnBsdXJhbGl6ZS5nc3ViKC9cLy8sICdfJyl9Lmpzb24iCiAgICAgICAgICAgICAgICAgZW5kCgogICAgICBGaWxlLndyaXRlKGZpbGVuYW1lLCBKU09OLnByZXR0eV9nZW5lcmF0ZShicV9zY2hlbWFfaGFzaCkpCiAgICBlbmQKICBlbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1hc3Rlcl9jbGFzc2VzIDw8IElhcFJhaWxzOjpJdHVuZXNQcm9kdWN0Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1402,37 +1402,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBSZWNvcmRLZWVwZXI6OkNvbmZpZy50YWJsZXMuZWFjaCBkbyB8dGFibGVfbmFtZXwKICAgICAgICAgIHB1dHMgJyMnICogODAKICAgICAgICAgIHB1dHMgIiMjIyBUYWJsZTogI3t0YWJsZV9uYW1lfSIKICAgICAgICAgIHB1dHMgJyMnICogODAKICAgICAgICAgIHN5c3RlbSgiVEFCTEVfTkFNRT0je3RhYmxlX25hbWV9ICJcCiAgICAgICAgICAgICAgICAgIk1BU1RFUl9WRVJTSU9OPSN7bWFzdGVyX3ZlcnNpb259ICJcCiAgICAgICAgICAgICAgICAgIi4vc2NyaXB0L3RyYW5zZmVyX21hc3RlcmRhdGFfdG9fYnEuc2giKQogICAgICAgICAgcHV0cwogICAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIG1hc3Rlcl9jbGFzc2VzIDw8IElhcFJhaWxzOjpHb29nbGVwbGF5UHJvZHVjdAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBFTlZbJ1VQREFURURfVEFCTEVTJ10udG9fcy5zcGxpdCgnLCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBSZWNvcmRLZWVwZXI6OkNvbmZpZy50YWJsZXMuZWFjaCBkbyB8dGFibGVfbmFtZXwKICAgICAgICAgIHB1dHMgJyMnICogODAKICAgICAgICAgIHB1dHMgIiMjIyBUYWJsZTogI3t0YWJsZV9uYW1lfSIKICAgICAgICAgIHB1dHMgJyMnICogODAKICAgICAgICAgIHN5c3RlbSgiVEFCTEVfTkFNRT0je3RhYmxlX25hbWV9ICJcCiAgICAgICAgICAgICAgICAgIk1BU1RFUl9WRVJTSU9OPSN7bWFzdGVyX3ZlcnNpb259ICJcCiAgICAgICAgICAgICAgICAgIi4vc2NyaXB0L3RyYW5zZmVyX21hc3RlcmRhdGFfdG9fYnEuc2giKQogICAgICAgICAgcHV0cwogICAgICAgIGVuZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBFTlZbJ1VQREFURURfVEFCTEVTJ10udG9fcy5zcGxpdCgnLCcpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgRU5WW10K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action FileStructurePopup</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDYXBhY2l0eU1hbmFnZW1lbnRcPg==</last-search>
+      <last-search>master</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDYXBhY2l0eU1hbmFnZW1lbnRcPg==</last-pattern>
+      <last-pattern>master</last-pattern>
       <last-replace>set_cache</last-replace>
       <last-substitute>write_cache</last-substitute>
       <last-dir>1</last-dir>
@@ -1440,8 +1440,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjbGVhcl90ZWFtX2dyYWRlX3Njb3JlX2NhY2hlXD4=</entry>
-        <entry>before_save</entry>
         <entry>abort</entry>
         <entry>term</entry>
         <entry>rails</entry>
@@ -1460,6 +1458,8 @@
         <entry>log</entry>
         <entry>upgrade</entry>
         <entry encoding="base64">XDxDYXBhY2l0eU1hbmFnZW1lbnRcPg==</entry>
+        <entry>master_class</entry>
+        <entry>master</entry>
       </history-search>
       <history-cmd>
         <entry>action FindNext</entry>
