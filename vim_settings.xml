@@ -479,11 +479,11 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq.rake" timestamp="1504682448819">
-        <mark key="[" line="52" column="25" />
-        <mark key="]" line="52" column="25" />
-        <mark key="^" line="52" column="25" />
-        <mark key="." line="52" column="25" />
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq.rake" timestamp="1504686421917">
+        <mark key="[" line="27" column="33" />
+        <mark key="]" line="27" column="7" />
+        <mark key="^" line="27" column="7" />
+        <mark key="." line="27" column="7" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/users_controller.rb" timestamp="1499339983976">
         <mark key="[" line="16" column="0" />
@@ -551,7 +551,7 @@
       <file name="/dummy.sql" timestamp="1501839467527">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504587393146">
+      <file name="/Dummy.txt" timestamp="1504686620658">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/bin/spring" timestamp="1489542452462">
@@ -1338,7 +1338,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>N</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text>master</text>
