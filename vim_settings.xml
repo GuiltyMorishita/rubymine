@@ -31,11 +31,11 @@
       <file name="/a.dummy" timestamp="1504258469161">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/common.sh" timestamp="1504256855104">
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="1" column="14" />
-        <mark key="." line="1" column="14" />
-        <mark key="^" line="1" column="14" />
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/common.sh" timestamp="1504681402718">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/assets/javascripts/application.js" timestamp="1481373425616">
         <mark key="[" line="14" column="12" />
@@ -479,11 +479,11 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq.rake" timestamp="1504579858786">
-        <mark key="[" line="22" column="21" />
-        <mark key="]" line="22" column="24" />
-        <mark key="^" line="22" column="24" />
-        <mark key="." line="22" column="24" />
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq.rake" timestamp="1504682448819">
+        <mark key="[" line="52" column="25" />
+        <mark key="]" line="52" column="25" />
+        <mark key="^" line="52" column="25" />
+        <mark key="." line="52" column="25" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/users_controller.rb" timestamp="1499339983976">
         <mark key="[" line="16" column="0" />
@@ -571,6 +571,10 @@
         <mark key="]" line="8" column="36" />
         <mark key="." line="8" column="36" />
         <mark key="^" line="8" column="36" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq_schema.rake" timestamp="1504681869522">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="48" column="36" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/helloworld/app/controllers/hello_controller.rb" timestamp="1493345589247">
         <mark key="[" line="1" column="11" />
@@ -748,6 +752,12 @@
         <mark key="^" line="35" column="94" />
         <mark key="." line="35" column="94" />
       </file>
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/transfer_userdata_to_bq.sh" timestamp="1504681654137">
+        <mark key="[" line="4" column="60" />
+        <mark key="]" line="4" column="37" />
+        <mark key="." line="4" column="37" />
+        <mark key="^" line="4" column="37" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/controllers/static_pages_controller_spec.rb" timestamp="1494920660513">
         <mark key="[" line="20" column="12" />
         <mark key="]" line="21" column="34" />
@@ -908,11 +918,11 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/transfer_masterdata_to_bq.sh" timestamp="1504579517805">
-        <mark key="[" line="12" column="25" />
-        <mark key="]" line="12" column="25" />
-        <mark key="." line="12" column="25" />
-        <mark key="^" line="12" column="20" />
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/transfer_masterdata_to_bq.sh" timestamp="1504682357822">
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="4" column="37" />
+        <mark key="." line="4" column="37" />
+        <mark key="^" line="4" column="37" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/assets/stylesheets/cart_items.scss" timestamp="1499418776397">
         <mark key="[" line="5" column="12" />
@@ -1328,16 +1338,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>test_dataset</text>
+        <text>N</text>
       </register>
       <register name="/" type="4">
         <text>master</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVzZXJfY2xhc3NlcyA8PCBVc2VyOjpPcmRlcgo=</text>
+        <text encoding="base64">ICAgICAgIyAgIHN5c3RlbSgiVEFCTEVfTkFNRT0je3RhYmxlX25hbWV9ICJcCiAgICAgICMgICAgICAgICAgICAiTUFTVEVSX1ZFUlNJT049I3ttYXN0ZXJfdmVyc2lvbn0gIlwKICAgICAgIyAgICAgICAgICAgICIuL3NjcmlwdC90cmFuc2Zlcl91c2VyZGF0YV90b19icS5zaCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcHAgdXNlcl9jbGFzcwo=</text>
+        <text encoding="base64">ICAgIHN5c3RlbSgiVEFCTEVfTkFNRT0je3RhYmxlX25hbWV9ICJcCiAgICAgICAgICAgICAiTUFTVEVSX1ZFUlNJT049I3ttYXN0ZXJfdmVyc2lvbn0gIlwKICAgICAgICAgICAgICIuL3NjcmlwdC90cmFuc2Zlcl91c2VyZGF0YV90b19icS5zaCIpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1350,32 +1360,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHVzZXJfY2xhc3NlcyA8PCBJYXBSYWlsczo6R29vZ2xlcGxheVByb2R1Y3QK</text>
+      <register name="2" type="8">
+        <text encoding="base64">IyAgIAojICAgCiMgICA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1hc3Rlcl9jbGFzc2VzIDw8IElhcFJhaWxzOjpJdHVuZXNQcm9kdWN0Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIG1hc3Rlcl9jbGFzc2VzIDw8IElhcFJhaWxzOjpHb29nbGVwbGF5UHJvZHVjdAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIFJlY29yZEtlZXBlcjo6Q29uZmlnLnRhYmxlcwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBSZWNvcmRLZWVwZXI6OkNvbmZpZy50YWJsZXMuZWFjaCBkbyB8dGFibGVfbmFtZXwKICAgICAgICAgIHB1dHMgJyMnICogODAKICAgICAgICAgIHB1dHMgIiMjIyBUYWJsZTogI3t0YWJsZV9uYW1lfSIKICAgICAgICAgIHB1dHMgJyMnICogODAKICAgICAgICAgIHN5c3RlbSgiVEFCTEVfTkFNRT0je3RhYmxlX25hbWV9ICJcCiAgICAgICAgICAgICAgICAgIk1BU1RFUl9WRVJTSU9OPSN7bWFzdGVyX3ZlcnNpb259ICJcCiAgICAgICAgICAgICAgICAgIi4vc2NyaXB0L3RyYW5zZmVyX21hc3RlcmRhdGFfdG9fYnEuc2giKQogICAgICAgICAgcHV0cwogICAgICAgIGVuZAo=</text>
+        <text encoding="base64">CiNnemlwIC1mICIke09VVFBVVF9GSUxFX1BBVEh9IgojZ3N1dGlsIGNwICIke09VVFBVVF9GSUxFX1BBVEh9Lmd6IiAiJHtHU19VUkx9IgojYnEgbG9hZCAtLWZpZWxkX2RlbGltaXRlcj0nXHQnICIke0JRX0RBVEFTRVR9LiR7VEFCTEVfTkFNRX0iICIke0dTX1VSTH0ke09VVFBVVF9GSUxFX05BTUV9Lmd6Igojcm0gLWYgIiR7T1VUUFVUX0ZJTEVfUEFUSH0uZ3oiCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBFTlZbJ1VQREFURURfVEFCTEVTJ10udG9fcy5zcGxpdCgnLCcpCg==</text>
+        <text encoding="base64">Z3ppcCAtZiAiJHtPVVRQVVRfRklMRV9QQVRIfSIKZ3N1dGlsIGNwICIke09VVFBVVF9GSUxFX1BBVEh9Lmd6IiAiJHtHU19VUkx9IgpicSBsb2FkIC0tZmllbGRfZGVsaW1pdGVyPSJcdCIgIiR7QlFfREFUQVNFVH0uJHtUQUJMRV9OQU1FfSIgIiR7R1NfVVJMfSR7T1VUUFVUX0ZJTEVfTkFNRX0uZ3oiCnJtIC1mICIke09VVFBVVF9GSUxFX1BBVEh9Lmd6Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action FileStructurePopup</text>
+        <text>action CloseContent</text>
       </register>
     </registers>
     <search>
@@ -1425,9 +1435,9 @@
         <entry>%s/write_cache/set_cache/g</entry>
         <entry>q</entry>
         <entry>redo</entry>
+        <entry>action FileStructurePopup</entry>
         <entry>w</entry>
         <entry>action CloseContent</entry>
-        <entry>action FileStructurePopup</entry>
       </history-cmd>
       <history-expr />
       <history-input />
