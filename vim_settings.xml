@@ -524,9 +524,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/.env" timestamp="1503996529567">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/.env" timestamp="1504680442687">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="2" />
+        <mark key="." line="80" column="2" />
+        <mark key="^" line="80" column="2" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/models/order.rb" timestamp="1499342533725">
         <mark key="[" line="2" column="0" />
@@ -1326,7 +1328,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>test_dataset</text>
       </register>
       <register name="/" type="4">
         <text>master</text>
