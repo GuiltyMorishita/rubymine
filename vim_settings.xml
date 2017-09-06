@@ -127,6 +127,7 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/shard.rb" timestamp="1504687673626" />
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/migrate/20161105091846_create_regions.rb" timestamp="1478338361750">
         <mark key="[" line="2" column="32" />
         <mark key="]" line="4" column="33" />
@@ -551,7 +552,7 @@
       <file name="/dummy.sql" timestamp="1501839467527">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504686620658">
+      <file name="/Dummy.txt" timestamp="1504687714521">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/bin/spring" timestamp="1489542452462">
@@ -960,6 +961,10 @@
         <mark key="." line="12" column="37" />
         <mark key="^" line="12" column="37" />
       </file>
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/app/models/user/ranking/status.rb" timestamp="1504687739768">
+        <mark key="[" line="19" column="6" />
+        <mark key="]" line="19" column="26" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/assets/stylesheets/orders.scss" timestamp="1499418768022">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="4" column="8" />
@@ -1343,8 +1348,8 @@
       <register name="/" type="4">
         <text>master</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIyAgIHN5c3RlbSgiVEFCTEVfTkFNRT0je3RhYmxlX25hbWV9ICJcCiAgICAgICMgICAgICAgICAgICAiTUFTVEVSX1ZFUlNJT049I3ttYXN0ZXJfdmVyc2lvbn0gIlwKICAgICAgIyAgICAgICAgICAgICIuL3NjcmlwdC90cmFuc2Zlcl91c2VyZGF0YV90b19icS5zaCIpCg==</text>
+      <register name="0" type="4">
+        <text>User::Ranking::Status</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHN5c3RlbSgiVEFCTEVfTkFNRT0je3RhYmxlX25hbWV9ICJcCiAgICAgICAgICAgICAiTUFTVEVSX1ZFUlNJT049I3ttYXN0ZXJfdmVyc2lvbn0gIlwKICAgICAgICAgICAgICIuL3NjcmlwdC90cmFuc2Zlcl91c2VyZGF0YV90b19icS5zaCIpCg==</text>
