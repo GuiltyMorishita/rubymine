@@ -571,7 +571,7 @@
       <file name="/dummy.sql" timestamp="1501839467527">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504862929035">
+      <file name="/Dummy.txt" timestamp="1504863860011">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/bin/spring" timestamp="1489542452462">
@@ -817,6 +817,9 @@
       </file>
       <file name="/Ruby19RegExp Fragment (bq_schema.rake:846).regexp" timestamp="1503987745028">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/Gemfile" timestamp="1504863974090">
+        <mark key="'" line="15" column="11" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/helpers/sessions_helper.rb" timestamp="1499385318076">
         <mark key="[" line="4" column="0" />
@@ -1248,7 +1251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="2" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/.env" />
       <jump line="1" column="10" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/cinderella_match/ghost.rb" />
       <jump line="50" column="38" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/cinderella_match/ghost/order_cache.rb" />
       <jump line="48" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/cinderella_match/ghost/order_cache.rb" />
@@ -1348,6 +1350,7 @@
       <jump line="45" column="35" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq_schema.rake" />
       <jump line="1" column="18" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/admin/announcement_picture.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/admin/announcement_picture.rb" />
+      <jump line="15" column="11" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
