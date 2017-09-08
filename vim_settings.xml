@@ -12,7 +12,6 @@
       <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/Gemfile" timestamp="1501482840138">
         <mark key="[" line="77" column="40" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/app/models/login_bonus/sheet.rb" timestamp="1504667861159" />
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/disabled.yml" timestamp="1489539908455">
         <mark key="[" line="124" column="16" />
         <mark key="]" line="3" column="0" />
@@ -127,7 +126,6 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/shard.rb" timestamp="1504687673626" />
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/db/migrate/20161105091846_create_regions.rb" timestamp="1478338361750">
         <mark key="[" line="2" column="32" />
         <mark key="]" line="4" column="33" />
@@ -480,12 +478,6 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq.rake" timestamp="1504689242364">
-        <mark key="[" line="32" column="22" />
-        <mark key="]" line="32" column="27" />
-        <mark key="." line="32" column="27" />
-        <mark key="^" line="32" column="27" />
-      </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/users_controller.rb" timestamp="1499339983976">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="52" />
@@ -716,7 +708,6 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="4" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/db/seeds.rb" timestamp="1504659454953" />
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/app/controllers/application_controller.rb" timestamp="1478331379158">
         <mark key="[" line="0" column="50" />
         <mark key="]" line="0" column="51" />
@@ -918,12 +909,6 @@
         <mark key="]" line="8" column="21" />
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/transfer_masterdata_to_bq.sh" timestamp="1504682357822">
-        <mark key="[" line="4" column="38" />
-        <mark key="]" line="4" column="37" />
-        <mark key="." line="4" column="37" />
-        <mark key="^" line="4" column="37" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/assets/stylesheets/cart_items.scss" timestamp="1499418776397">
         <mark key="[" line="5" column="12" />
