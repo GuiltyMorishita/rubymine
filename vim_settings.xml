@@ -90,11 +90,11 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/admin/announcement.rb" timestamp="1504852109370">
-        <mark key="[" line="7" column="42" />
-        <mark key="]" line="16" column="9" />
-        <mark key="^" line="16" column="9" />
-        <mark key="." line="16" column="9" />
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/admin/announcement.rb" timestamp="1504854566982">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="28" />
+        <mark key="." line="7" column="28" />
+        <mark key="^" line="7" column="28" />
       </file>
       <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/ranking/match.rb" timestamp="1502674830993">
         <mark key="[" line="72" column="38" />
@@ -197,6 +197,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/promote_announcement_pictures.sh" timestamp="1504854485122">
+        <mark key="[" line="3" column="88" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/factories/cart_items_informations.rb" timestamp="1499068844592">
         <mark key="[" line="3" column="18" />
@@ -494,6 +500,10 @@
         <mark key="]" line="11" column="29" />
         <mark key="." line="11" column="29" />
         <mark key="^" line="11" column="29" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq.rake" timestamp="1504853126517">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="17" column="56" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/controllers/users_controller.rb" timestamp="1499339983976">
         <mark key="[" line="16" column="0" />
@@ -916,6 +926,10 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/transfer_masterdata_to_bq.sh" timestamp="1504853030599">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="6" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/assets/stylesheets/cart_items.scss" timestamp="1499418776397">
         <mark key="[" line="5" column="12" />
         <mark key="]" line="5" column="13" />
@@ -980,12 +994,12 @@
         <mark key="^" line="3" column="17" />
         <mark key="." line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/admin/announcement_picture.rb" timestamp="1504852147907">
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/admin/announcement_picture.rb" timestamp="1504854559600">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="38" column="2" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="47" />
+        <mark key="." line="3" column="49" />
+        <mark key="^" line="3" column="49" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/config/environments/production.rb" timestamp="1481368594685">
         <mark key="[" line="85" column="2" />
@@ -1084,6 +1098,12 @@
         <mark key="]" line="2" column="36" />
         <mark key="^" line="2" column="36" />
         <mark key="." line="2" column="36" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/promote_banners.sh" timestamp="1504854497619">
+        <mark key="[" line="3" column="126" />
+        <mark key="]" line="3" column="133" />
+        <mark key="^" line="3" column="94" />
+        <mark key="." line="3" column="126" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/sample_app/app/models/entry.rb" timestamp="1493344603839">
         <mark key="[" line="0" column="31" />
@@ -1341,16 +1361,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Apology</text>
+        <text>announcement_pictures</text>
       </register>
       <register name="/" type="4">
         <text>master</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bW9kdWxlIEFkbWluQXBvbG9neQogIGNsYXNzIDw8IHNlbGYKICAgIGRlZiBleHRlbmRlZChiYXNlKQogICAgICBleHRlbmRfbWVudV90byhiYXNlKQogICAgICBleHRlbmRfZm9ybV90byhiYXNlKQogICAgZW5kCgogICAgcHJpdmF0ZQoKICAgIGRlZiBleHRlbmRfbWVudV90byhiYXNlKQogICAgICBiYXNlLmluc3RhbmNlX2V2YWwgZG8KICAgICAgICBtZW51IHBhcmVudDogJ+OBiuipq+OBs+OAgeiomOW/teezuycKICAgICAgICBwZXJtaXRfcGFyYW1zIDp0aXRsZSwgOmNhdGVnb3J5LCA6cGxhdGZvcm0sIDpzdGFydF9hdCwgOmVuZF9hdCwgOmRlc2NyaXB0aW9uLAogICAgICAgICAgICAgICAgICAgICAgaXRlbXNfYXR0cmlidXRlczogWzppZCwgOmdpZnRhYmxlX3R5cGUsIDpnaWZ0YWJsZV9pZCwgOmFtb3VudCwgOmRlc2NyaXB0aW9uXQoKICAgICAgICBpbmRleCBkbwogICAgICAgICAgc2VsZWN0YWJsZV9jb2x1bW4KICAgICAgICAgIGNvbHVtbiA6aWQKICAgICAgICAgIGNvbHVtbiA6dGl0bGUKICAgICAgICAgIGNvbHVtbiA6Y2F0ZWdvcnkKICAgICAgICAgIGNvbHVtbiA6cGxhdGZvcm0KICAgICAgICAgIGNvbHVtbiA6c3RhcnRfYXQKICAgICAgICAgIGNvbHVtbiA6ZW5kX2F0CiAgICAgICAgICBjb2x1bW4gOmNyZWF0ZWRfYXQKICAgICAgICAgIGNvbHVtbiA6aXRlbXMgZG8gfGV8CiAgICAgICAgICAgIGUuaXRlbXMubWFwIGRvIHxmfAogICAgICAgICAgICAgICIje2YuZ2lmdGFibGVfdHlwZX0jI3tmLmdpZnRhYmxlX2lkfXgje2YuYW1vdW50fSIKICAgICAgICAgICAgZW5kCiAgICAgICAgICBlbmQKICAgICAgICAgIGFjdGlvbnMKICAgICAgICBlbmQKICAgICAgZW5kCiAgICBlbmQKCiAgICBkZWYgZXh0ZW5kX2Zvcm1fdG8oYmFzZSkKICAgICAgYmFzZS5pbnN0YW5jZV9ldmFsIGRvCiAgICAgICAgZm9ybSBkbyB8ZnwKICAgICAgICAgIGYuaW5wdXRzIGRvCiAgICAgICAgICAgIGYub2JqZWN0LnN0YXJ0X2F0IHx8PSBUaW1lLmN1cnJlbnQKICAgICAgICAgICAgZi5vYmplY3QuZW5kX2F0IHx8PSBUaW1lLmN1cnJlbnQKICAgICAgICAgICAgZi5pbnB1dCA6dGl0bGUsIGxhYmVsOiAi44K/44Kk44OI44OrIgogICAgICAgICAgICBmLmlucHV0IDpjYXRlZ29yeSwgYXM6IDpzZWxlY3QsIGNvbGxlY3Rpb246IEFwb2xvZ3kuY2F0ZWdvcmllcy5rZXlzLCBsYWJlbDogIuOCq+ODhuOCtOODqiIKICAgICAgICAgICAgaWYgZi5vYmplY3QuaXNfYT8oQXBvbG9neTo6RXZlcnlvbmUpCiAgICAgICAgICAgICAgZi5pbnB1dCA6cGxhdGZvcm0sIGFzOiA6c2VsZWN0LCBjb2xsZWN0aW9uOiBBcG9sb2d5LnBsYXRmb3Jtcy5rZXlzCiAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICBmLmlucHV0IDpwbGF0Zm9ybSwgYXM6IDpoaWRkZW4sIGlucHV0X2h0bWw6IHsgdmFsdWU6IDpldmVyeSB9CiAgICAgICAgICAgIGVuZAogICAgICAgICAgICBmLmlucHV0IDpzdGFydF9hdCwgYXM6IDpkYXRldGltZV9waWNrZXIKICAgICAgICAgICAgZi5pbnB1dCA6ZW5kX2F0LCBhczogOmRhdGV0aW1lX3BpY2tlcgogICAgICAgICAgICBmLmlucHV0IDpkZXNjcmlwdGlvbiwgbGFiZWw6ICLjg4DjgqTjgqLjg63jgrDmlofoqIAiCiAgICAgICAgICAgIGYuaGFzX21hbnkgOml0ZW1zIGRvIHxnfAogICAgICAgICAgICAgIGcuaW5wdXQgOmdpZnRhYmxlX3R5cGUsIGFzOiA6c2VsZWN0LCBjb2xsZWN0aW9uOiBHaWZ0OjpHSUZUQUJMRV9UWVBFUwogICAgICAgICAgICAgIGcuaW5wdXQgOmdpZnRhYmxlX2lkLCBsYWJlbDogIkdpZnRhYmxlIGlkIgogICAgICAgICAgICAgIGcuaW5wdXQgOmFtb3VudAogICAgICAgICAgICAgIGcuaW5wdXQgOmRlc2NyaXB0aW9uLCBsYWJlbDogIkdpZnRJdGVt5paH6KiAIgogICAgICAgICAgICBlbmQKICAgICAgICAgIGVuZAogICAgICAgICAgZi5hY3Rpb25zCiAgICAgICAgZW5kCiAgICAgIGVuZAogICAgZW5kCiAgZW5kCmVuZAo=</text>
+        <text encoding="base64">ICAgIGAuL3NjcmlwdC9wcm9tb3RlX2Fubm91bmNlbWVudF9waWN0dXJlcy5zaGAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgogIGFjdGlvbl9pdGVtKGluZGV4KSBkbwogICAgbGlua190bygnU3RhZ2luZyDjga4gQW5ub3VuY2VtZW50IOOCkuODl+ODreODouODvOODiOOBmeOCiycsIHsgYWN0aW9uOiA6cHJvbW90ZV9zdGFnaW5nIH0sCiAgICAgICAgICAgIG1ldGhvZDogOnBvc3QsIGRhdGE6IHsgY29uZmlybTogJ+acrOW9k+OBq+Wun+ihjOOBl+OBvuOBmeOBi++8nyd9ICkKICBlbmQK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1364,28 +1384,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBBY3RpdmVBZG1pbi5yZWdpc3RlciBCYW5uZXIgZG8KIyAgIHBlcm1pdF9wYXJhbXMgOnRpdGxlLCA6ZmlsZV9uYW1lCiMKIyAgIGNvbGxlY3Rpb25fYWN0aW9uIDpwcm9tb3RlX3N0YWdpbmcsIG1ldGhvZDogOnBvc3QgZG8KIyAgICAgcmVkaXJlY3RfdG8gYWRtaW5fYW5ub3VuY2VtZW50X3BpY3R1cmVzX3BhdGgsIG5vdGljZTogJ+ODl+ODreODouODvOODiOOCkuWun+ihjOOBl+OBvuOBl+OBnycKIyAgIGVuZAojCiMgICBhY3Rpb25faXRlbShpbmRleCkgZG8KIyAgICAgbGlua190bygnU3RhZ2luZyDjgpLjg5fjg63jg6Ljg7zjg4jjgZnjgosnLCB7IGFjdGlvbjogOnByb21vdGVfc3RhZ2luZyB9LAojICAgICAgICAgICAgIG1ldGhvZDogOnBvc3QsIGRhdGE6IHsgY29uZmlybTogJ+acrOW9k+OBq+Wun+ihjOOBl+OBvuOBmeOBi++8nyd9ICkKIyAgIGVuZAojIGVuZAo=</text>
+        <text encoding="base64">ICBhY3Rpb25faXRlbShpbmRleCkgZG8KICAgIGxpbmtfdG8oJ1N0YWdpbmcg44GuIEFubm91bmNlbWVudHMg44KS44OX44Ot44Oi44O844OI44GZ44KLJywgeyBhY3Rpb246IDpwcm9tb3RlX2Fubm91bmNlbWVudF9waWN0dXJlcyB9LAogICAgICAgICAgICBtZXRob2Q6IDpwb3N0LCBkYXRhOiB7IGNvbmZpcm06ICfmnKzlvZPjgavlrp/ooYzjgZfjgb7jgZnjgYvvvJ8nfSApCiAgZW5kCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGAuL3NjcmlwdC9wcm9tb3RlX2Fubm91bmNlbWVudF9waWN0dXJlcy5zaGAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbmRleCBkbwogICAgc2VsZWN0YWJsZV9jb2x1bW4KICAgIGNvbHVtbiA6aWQKICAgIGNvbHVtbiA6dGl0bGUKICAgIGNvbHVtbiA6ZmlsZV9uYW1lCiAgICBjb2x1bW4gOmNyZWF0ZWRfYXQKICAgIGFjdGlvbnMKICBlbmQKCiAgZm9ybSBkbyB8ZnwKICAgIGYuaW5wdXRzICJEZXRhaWxzIiBkbwogICAgICBmLmlucHV0IDp0aXRsZQogICAgICBmLmlucHV0IDpmaWxlX25hbWUsIGxhYmVsOiAiRmlsZSIKICAgIGVuZAogICAgZi5hY3Rpb25zCiAgZW5kCg==</text>
+        <text encoding="base64">ICBjb2xsZWN0aW9uX2FjdGlvbiA6cHJvbW90ZV9zdGFnaW5nLCBtZXRob2Q6IDpwb3N0IGRvCiAgICByZWRpcmVjdF90byBhZG1pbl9hbm5vdW5jZW1lbnRzX3BhdGgsIG5vdGljZTogJ+ODl+ODreODouODvOODiOOCkuWun+ihjOOBl+OBvuOBl+OBnycKICBlbmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzaG93IGRvCiAgICBhdHRyaWJ1dGVzX3RhYmxlIGRvCiAgICAgIHJvdyA6dGl0bGUKICAgICAgcm93IDpmaWxlX25hbWUKICAgICAgcm93IDpwaWN0dXJlIGRvCiAgICAgICAgaW1hZ2VfdGFnIGFubm91bmNlbWVudF9waWN0dXJlLmZpbGVfbmFtZS51cmwKICAgICAgZW5kCiAgICBlbmQKICBlbmQK</text>
+        <text encoding="base64">ICBhY3Rpb25faXRlbShpbmRleCkgZG8KICAgIGxpbmtfdG8oJ1N0YWdpbmcg44GuIEFubm91bmNlbWVudCDjgpLjg5fjg63jg6Ljg7zjg4jjgZnjgosnLCB7IGFjdGlvbjogOnByb21vdGVfc3RhZ2luZyB9LAogICAgICAgICAgICBtZXRob2Q6IDpwb3N0LCBkYXRhOiB7IGNvbmZpcm06ICfmnKzlvZPjgavlrp/ooYzjgZfjgb7jgZnjgYvvvJ8nfSApCiAgZW5kCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1dHMgJ2hnb2Vob2dlJwo=</text>
+        <text encoding="base64">ICBhY3Rpb25faXRlbShpbmRleCkgZG8KICAgIGxpbmtfdG8oJ1N0YWdpbmcg44GuIEFubm91bmNlbWVudCDjgpLjg5fjg63jg6Ljg7zjg4jjgZnjgosnLCB7IGFjdGlvbjogOnByb21vdGVfc3RhZ2luZyB9LAogICAgICAgICAgICBtZXRob2Q6IDpwb3N0LCBkYXRhOiB7IGNvbmZpcm06ICfmnKzlvZPjgavlrp/ooYzjgZfjgb7jgZnjgYvvvJ8nfSApCiAgZW5kCgogIGFjdGlvbl9pdGVtKGluZGV4KSBkbwogICAgbGlua190bygnU3RhZ2luZyDjga4gQmFubmVyIOOCkuODl+ODreODouODvOODiOOBmeOCiycsIHsgYWN0aW9uOiA6cHJvbW90ZV9zdGFnaW5nIH0sCiAgICAgICAgICAgIG1ldGhvZDogOnBvc3QsIGRhdGE6IHsgY29uZmlybTogJ+acrOW9k+OBq+Wun+ihjOOBl+OBvuOBmeOBi++8nyd9ICkKICBlbmQK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IlRBQkxFX05BTUU9I3t0YWJsZV9uYW1lfSAiXAogICAgICAgICAgICAgICAgICJNQVNURVJfVkVSU0lPTj0je21hc3Rlcl92ZXJzaW9ufSAiXAogICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
