@@ -282,7 +282,6 @@
         <mark key="^" line="2" column="8" />
         <mark key="." line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/config/routes.rb" timestamp="1504845166428" />
       <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/config/database.yml" timestamp="1501482830426">
         <mark key="[" line="10" column="36" />
         <mark key="]" line="10" column="64" />
@@ -571,7 +570,7 @@
       <file name="/dummy.sql" timestamp="1501839467527">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504863860011">
+      <file name="/Dummy.txt" timestamp="1505039031598">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/bin/spring" timestamp="1489542452462">
