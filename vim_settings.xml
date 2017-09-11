@@ -94,11 +94,11 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/admin/announcement.rb" timestamp="1505109760418">
-        <mark key="[" line="23" column="63" />
-        <mark key="]" line="23" column="67" />
-        <mark key="." line="23" column="67" />
-        <mark key="^" line="23" column="67" />
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/admin/announcement.rb" timestamp="1505111443721">
+        <mark key="[" line="27" column="61" />
+        <mark key="]" line="27" column="61" />
+        <mark key="." line="27" column="61" />
+        <mark key="^" line="27" column="61" />
       </file>
       <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/ranking/match.rb" timestamp="1502674830993">
         <mark key="[" line="72" column="38" />
@@ -1375,7 +1375,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>0</text>
@@ -1384,7 +1384,7 @@
         <text encoding="base64">ICAgIHJlZGlyZWN0X3RvIGFkbWluX2Fubm91bmNlbWVudHNfcGF0aCwgbm90aWNlOiAnQW5ub3VuY2VtZW50cyDjgpLjgrPjg5Tjg7zjgZfjgb7jgZfjgZ8nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpcmVjdF90byBhZG1pbl9hbm5vdW5jZW1lbnRzX3BhdGgsIG5vdGljZTogJ0Vycm9y44GM55m655Sf44GX44G+44GX44GfJwogICAgICAgIHJldHVybgogICAgICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1398,13 +1398,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWRpcmVjdF90byBhZG1pbl9hbm5vdW5jZW1lbnRzX3BhdGgsIG5vdGljZTogJ0Vycm9y44GM55m655Sf44GX44G+44GX44GfJwogICAgICAgIHJldHVybgogICAgICBlbmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIyAgaWQgICAgICAgICAgICAgICAgOmludGVnZXIgICAgICAgICAgbm90IG51bGwsIHByaW1hcnkga2V5CiAgICAgICMgIHRpdGxlICAgICAgICAgICAgIDpzdHJpbmcoMjU1KSAgICAgIG5vdCBudWxsCiAgICAgICMgIGNhdGVnb3J5ICAgICAgICAgIDpzdHJpbmcoMjU1KSAgICAgIG5vdCBudWxsCiAgICAgICMgIHBsYXRmb3JtICAgICAgICAgIDppbnRlZ2VyICAgICAgICAgIG5vdCBudWxsCiAgICAgICMgIGJhbm5lcl9pbWFnZV9wYXRoIDpzdHJpbmcoMjU1KQogICAgICAjICBjb250ZW50ICAgICAgICAgICA6dGV4dCg2NTUzNSkgICAgICBub3QgbnVsbAogICAgICAjICBwcmlvcml0eSAgICAgICAgICA6aW50ZWdlciAgICAgICAgICBub3QgbnVsbAogICAgICAjICBzdGFydF9hdCAgICAgICAgICA6ZGF0ZXRpbWUgICAgICAgICBub3QgbnVsbAogICAgICAjICBlbmRfYXQgICAgICAgICAgICA6ZGF0ZXRpbWUgICAgICAgICBub3QgbnVsbAogICAgICAjICBjcmVhdGVkX2F0ICAgICAgICA6ZGF0ZXRpbWUKICAgICAgIyAgdXBkYXRlZF9hdCAgICAgICAgOmRhdGV0aW1lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAog</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgIyAgaWQgICAgICAgICAgICAgICAgOmludGVnZXIgICAgICAgICAgbm90IG51bGwsIHByaW1hcnkga2V5CiAgICAgICMgIHRpdGxlICAgICAgICAgICAgIDpzdHJpbmcoMjU1KSAgICAgIG5vdCBudWxsCiAgICAgICMgIGNhdGVnb3J5ICAgICAgICAgIDpzdHJpbmcoMjU1KSAgICAgIG5vdCBudWxsCiAgICAgICMgIHBsYXRmb3JtICAgICAgICAgIDppbnRlZ2VyICAgICAgICAgIG5vdCBudWxsCiAgICAgICMgIGJhbm5lcl9pbWFnZV9wYXRoIDpzdHJpbmcoMjU1KQogICAgICAjICBjb250ZW50ICAgICAgICAgICA6dGV4dCg2NTUzNSkgICAgICBub3QgbnVsbAogICAgICAjICBwcmlvcml0eSAgICAgICAgICA6aW50ZWdlciAgICAgICAgICBub3QgbnVsbAogICAgICAjICBzdGFydF9hdCAgICAgICAgICA6ZGF0ZXRpbWUgICAgICAgICBub3QgbnVsbAogICAgICAjICBlbmRfYXQgICAgICAgICAgICA6ZGF0ZXRpbWUgICAgICAgICBub3QgbnVsbAogICAgICAjICBjcmVhdGVkX2F0ICAgICAgICA6ZGF0ZXRpbWUKICAgICAgIyAgdXBkYXRlZF9hdCAgICAgICAgOmRhdGV0aW1lCg==</text>
       </register>
       <register name="5" type="8">
         <text encoding="base64">IAogCiAKIAogCiAKIAog</text>
@@ -1419,13 +1419,7 @@
         <text encoding="base64">IAogCiAKIAogCiAKIAog</text>
       </register>
       <register name="9" type="8">
-        <text>:string(255)      not null
-:integer          not null
-:string(255)
-:text(65535)      not null
-:integer          not null
-:datetime         not null
-:datetime         not null</text>
+        <text encoding="base64">IAogCiAKIAogCiAKIAog</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
