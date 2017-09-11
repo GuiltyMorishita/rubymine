@@ -30,11 +30,11 @@
       <file name="/a.dummy" timestamp="1504258469161">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/common.sh" timestamp="1505106421306">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/common.sh" timestamp="1505108687220">
+        <mark key="[" line="8" column="161" />
+        <mark key="]" line="8" column="160" />
+        <mark key="." line="8" column="160" />
+        <mark key="^" line="8" column="160" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/assets/javascripts/application.js" timestamp="1481373425616">
         <mark key="[" line="14" column="12" />
@@ -84,11 +84,21 @@
         <mark key="^" line="2" column="47" />
         <mark key="." line="2" column="47" />
       </file>
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/app/models/announcement.rb" timestamp="1505108843279">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="14" column="29" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/rails-4-1-rspec-3-0/.ruby-version" timestamp="1477756678891">
         <mark key="[" line="0" column="4" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/admin/announcement.rb" timestamp="1505109760418">
+        <mark key="[" line="23" column="63" />
+        <mark key="]" line="23" column="67" />
+        <mark key="." line="23" column="67" />
+        <mark key="^" line="23" column="67" />
       </file>
       <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/ranking/match.rb" timestamp="1502674830993">
         <mark key="[" line="72" column="38" />
@@ -883,11 +893,11 @@
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/copy_announcements.sh" timestamp="1505106484063">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="0" />
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/copy_announcements.sh" timestamp="1505109995307">
+        <mark key="[" line="8" column="61" />
+        <mark key="]" line="8" column="60" />
+        <mark key="." line="8" column="60" />
+        <mark key="^" line="8" column="60" />
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/Gemfile" timestamp="1494474780232">
         <mark key="[" line="40" column="30" />
@@ -1252,13 +1262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="38" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/cinderella_match/ghost/order_cache.rb" />
-      <jump line="48" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/cinderella_match/ghost/order_cache.rb" />
-      <jump line="35" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/cinderella_match/ghost/order_cache.rb" />
-      <jump line="30" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/cinderella_match/ghost/order_cache.rb" />
-      <jump line="23" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/cinderella_match/ghost/order_cache.rb" />
-      <jump line="21" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/cinderella_match/ghost/order_cache.rb" />
-      <jump line="17" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/cinderella_match/ghost/order_cache.rb" />
       <jump line="13" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/cinderella_match/ghost/order_cache.rb" />
       <jump line="7" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/cinderella_match/ghost/order_cache.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/cinderella_match/ghost/order_cache.rb" />
@@ -1352,6 +1355,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/admin/announcement_picture.rb" />
       <jump line="15" column="11" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/Gemfile" />
       <jump line="9" column="22" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/.env" />
+      <jump line="18" column="52" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/admin/announcement.rb" />
+      <jump line="19" column="62" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/admin/announcement.rb" />
+      <jump line="20" column="62" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/admin/announcement.rb" />
+      <jump line="21" column="71" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/admin/announcement.rb" />
+      <jump line="22" column="61" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/admin/announcement.rb" />
+      <jump line="23" column="62" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/admin/announcement.rb" />
+      <jump line="24" column="62" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/admin/announcement.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1365,16 +1375,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>3305</text>
+        <text>0</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cm0gLWYgJHtUU1ZfRklMRV9QQVRIfS5nego=</text>
+        <text encoding="base64">ICAgIHJlZGlyZWN0X3RvIGFkbWluX2Fubm91bmNlbWVudHNfcGF0aCwgbm90aWNlOiAnQW5ub3VuY2VtZW50cyDjgpLjgrPjg5Tjg7zjgZfjgb7jgZfjgZ8nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWRpcmVjdF90byBhZG1pbl9hbm5vdW5jZW1lbnRzX3BhdGgsIG5vdGljZTogJ0Vycm9y44GM55m655Sf44GX44G+44GX44GfJwogICAgICAgIHJldHVybgogICAgICBlbmQK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1388,37 +1398,43 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bXlzcWxpbXBvcnQgLXUg44Om44O844K244O85ZCNIC0tcGFzc3dvcmQ944OR44K544Ov44O844OJIC0tbG9jYWwg44OH44O844K/44OZ44O844K55ZCNIOODhuODvOODluODq+WQjS50eHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bXlzcWxfY21kICIiCg==</text>
+        <text encoding="base64">ICAgICAgIyAgaWQgICAgICAgICAgICAgICAgOmludGVnZXIgICAgICAgICAgbm90IG51bGwsIHByaW1hcnkga2V5CiAgICAgICMgIHRpdGxlICAgICAgICAgICAgIDpzdHJpbmcoMjU1KSAgICAgIG5vdCBudWxsCiAgICAgICMgIGNhdGVnb3J5ICAgICAgICAgIDpzdHJpbmcoMjU1KSAgICAgIG5vdCBudWxsCiAgICAgICMgIHBsYXRmb3JtICAgICAgICAgIDppbnRlZ2VyICAgICAgICAgIG5vdCBudWxsCiAgICAgICMgIGJhbm5lcl9pbWFnZV9wYXRoIDpzdHJpbmcoMjU1KQogICAgICAjICBjb250ZW50ICAgICAgICAgICA6dGV4dCg2NTUzNSkgICAgICBub3QgbnVsbAogICAgICAjICBwcmlvcml0eSAgICAgICAgICA6aW50ZWdlciAgICAgICAgICBub3QgbnVsbAogICAgICAjICBzdGFydF9hdCAgICAgICAgICA6ZGF0ZXRpbWUgICAgICAgICBub3QgbnVsbAogICAgICAjICBlbmRfYXQgICAgICAgICAgICA6ZGF0ZXRpbWUgICAgICAgICBub3QgbnVsbAogICAgICAjICBjcmVhdGVkX2F0ICAgICAgICA6ZGF0ZXRpbWUKICAgICAgIyAgdXBkYXRlZF9hdCAgICAgICAgOmRhdGV0aW1lCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBlY2hvICJRdWVyeTogJDIiID4mMgo=</text>
+      <register name="4" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAog</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAog</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="6" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAog</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">U1RBR0lOR19NWVNRTF9VU0VSX05BTUU9cmVhZG9ubHkKU1RBR0lOR19NWVNRTF9ST09UX1BBU1NXT1JEPSdrYWVyaXRhaScKU1RBR0lOR19NWVNRTF9IT1NUPTEyNy4wLjAuMQpTVEFHSU5HX01ZU1FMX1BPUlQ9MzMwNQo=</text>
+      <register name="7" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAog</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAog</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="8">
+        <text>:string(255)      not null
+:integer          not null
+:string(255)
+:text(65535)      not null
+:integer          not null
+:datetime         not null
+:datetime         not null</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
       </register>
     </registers>
     <search>
-      <last-search>3305</last-search>
+      <last-search>0</last-search>
       <last-offset />
-      <last-pattern>3305</last-pattern>
+      <last-pattern>0</last-pattern>
       <last-replace>set_cache</last-replace>
       <last-substitute>write_cache</last-substitute>
       <last-dir>1</last-dir>
@@ -1426,7 +1442,6 @@
     </search>
     <history>
       <history-search>
-        <entry>term</entry>
         <entry>rails</entry>
         <entry>record</entry>
         <entry>RECOR</entry>
@@ -1446,6 +1461,7 @@
         <entry>master_class</entry>
         <entry>master</entry>
         <entry>3305</entry>
+        <entry>0</entry>
       </history-search>
       <history-cmd>
         <entry>action FindNext</entry>
