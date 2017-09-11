@@ -894,11 +894,11 @@
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/copy_announcements.sh" timestamp="1505115973268">
-        <mark key="[" line="8" column="74" />
-        <mark key="]" line="8" column="77" />
-        <mark key="." line="8" column="77" />
-        <mark key="^" line="8" column="77" />
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/copy_announcements.sh" timestamp="1505134316069">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/Gemfile" timestamp="1494474780232">
         <mark key="[" line="40" column="30" />
@@ -1370,7 +1370,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>appoint_annoucements_admin_announcements_path</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>ANNOUNCEMENT_IDS</text>
