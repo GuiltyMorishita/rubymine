@@ -99,12 +99,12 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/admin/announcement.rb" timestamp="1505116153240">
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/admin/announcement.rb" timestamp="1505116723071">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="0" />
+        <mark key="[" line="20" column="12" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
-        <mark key="^" line="32" column="74" />
+        <mark key="^" line="33" column="74" />
       </file>
       <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/ranking/match.rb" timestamp="1502674830993">
         <mark key="[" line="72" column="38" />
