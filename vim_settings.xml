@@ -30,11 +30,11 @@
       <file name="/a.dummy" timestamp="1504258469161">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/common.sh" timestamp="1504681402718">
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/common.sh" timestamp="1505106421306">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
-        <mark key="^" line="11" column="0" />
+        <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/assets/javascripts/application.js" timestamp="1481373425616">
         <mark key="[" line="14" column="12" />
@@ -89,12 +89,6 @@
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/admin/announcement.rb" timestamp="1505095434562">
-        <mark key="[" line="12" column="18" />
-        <mark key="]" line="12" column="30" />
-        <mark key="." line="12" column="30" />
-        <mark key="^" line="12" column="30" />
       </file>
       <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/ranking/match.rb" timestamp="1502674830993">
         <mark key="[" line="72" column="38" />
@@ -542,11 +536,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/.env" timestamp="1504680442687">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="2" />
-        <mark key="." line="80" column="2" />
-        <mark key="^" line="80" column="2" />
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/.env" timestamp="1505104277689">
+        <mark key="'" line="8" column="22" />
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="28" />
+        <mark key="." line="6" column="28" />
+        <mark key="^" line="8" column="22" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/models/order.rb" timestamp="1499342533725">
         <mark key="[" line="2" column="0" />
@@ -888,10 +883,11 @@
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/copy_announcements.sh" timestamp="1505095165760">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/copy_announcements.sh" timestamp="1505106484063">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/Gemfile" timestamp="1494474780232">
         <mark key="[" line="40" column="30" />
@@ -932,9 +928,9 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/transfer_masterdata_to_bq.sh" timestamp="1504853030599">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="6" />
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/transfer_masterdata_to_bq.sh" timestamp="1505106457491">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="24" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/assets/stylesheets/cart_items.scss" timestamp="1499418776397">
         <mark key="[" line="5" column="12" />
@@ -1002,10 +998,6 @@
       </file>
       <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/admin/announcement_picture.rb" timestamp="1505095272091">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="4" column="17" />
-        <mark key="." line="4" column="17" />
-        <mark key="^" line="4" column="17" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/config/environments/production.rb" timestamp="1481368594685">
         <mark key="[" line="85" column="2" />
@@ -1201,6 +1193,12 @@
         <mark key="^" line="17" column="17" />
         <mark key="." line="17" column="17" />
       </file>
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/copy_announcement_pictures.sh" timestamp="1505104145716">
+        <mark key="[" line="3" column="161" />
+        <mark key="]" line="3" column="15" />
+        <mark key="^" line="3" column="15" />
+        <mark key="." line="3" column="15" />
+      </file>
       <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/event_story/section.rb" timestamp="1501564006421">
         <mark key="[" line="49" column="59" />
         <mark key="]" line="49" column="59" />
@@ -1254,7 +1252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="10" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/cinderella_match/ghost.rb" />
       <jump line="50" column="38" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/cinderella_match/ghost/order_cache.rb" />
       <jump line="48" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/cinderella_match/ghost/order_cache.rb" />
       <jump line="35" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/cinderella_match/ghost/order_cache.rb" />
@@ -1354,6 +1351,7 @@
       <jump line="1" column="18" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/admin/announcement_picture.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/admin/announcement_picture.rb" />
       <jump line="15" column="11" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/Gemfile" />
+      <jump line="9" column="22" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/.env" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1367,13 +1365,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>promote_announcement_pictures</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>master</text>
+        <text>3305</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGAuL3NjcmlwdC9jb3B5X2Jhbm5lcnMuc2hgCg==</text>
+        <text encoding="base64">cm0gLWYgJHtUU1ZfRklMRV9QQVRIfS5nego=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1390,37 +1388,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
+        <text encoding="base64">bXlzcWxpbXBvcnQgLXUg44Om44O844K244O85ZCNIC0tcGFzc3dvcmQ944OR44K544Ov44O844OJIC0tbG9jYWwg44OH44O844K/44OZ44O844K55ZCNIOODhuODvOODluODq+WQjS50eHQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3NoIC1mIC1OIC1MIDMzMDU6c3RhZ2luZy1tYXN0ZXJkYmF1cm9yYWNsdXN0ZXItMWw4bmxuZjVkcjZ3Mi5jbHVzdGVyLWN4empmenI5d3hneS5hcC1ub3J0aGVhc3QtMS5yZHMuYW1hem9uYXdzLmNvbTozMzA2IC1pIH4vLnNzaC90c3ViYXNhLWRldmVsb3BtZW50LnBlbSBlYzItdXNlckBhZG1pbi5zdGFnaW5nLnRzdWJhc2EuZGV2LWFrdHNrLm5ldAo=</text>
+        <text encoding="base64">bXlzcWxfY21kICIiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgogIGFjdGlvbl9pdGVtKGluZGV4KSBkbwogICAgbGlua190bygnU3RhZ2luZyDjga4gQW5ub3VuY2VtZW50IOOCkuODl+ODreODouODvOODiOOBmeOCiycsIHsgYWN0aW9uOiA6cHJvbW90ZV9zdGFnaW5nIH0sCiAgICAgICAgICAgIG1ldGhvZDogOnBvc3QsIGRhdGE6IHsgY29uZmlybTogJ+acrOW9k+OBq+Wun+ihjOOBl+OBvuOBmeOBi++8nyd9ICkKICBlbmQK</text>
+        <text encoding="base64">ICBlY2hvICJRdWVyeTogJDIiID4mMgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhY3Rpb25faXRlbShpbmRleCkgZG8KICAgIGxpbmtfdG8oJ1N0YWdpbmcg44GuIEFubm91bmNlbWVudHMg44KS44OX44Ot44Oi44O844OI44GZ44KLJywgeyBhY3Rpb246IDpwcm9tb3RlX2Fubm91bmNlbWVudF9waWN0dXJlcyB9LAogICAgICAgICAgICBtZXRob2Q6IDpwb3N0LCBkYXRhOiB7IGNvbmZpcm06ICfmnKzlvZPjgavlrp/ooYzjgZfjgb7jgZnjgYvvvJ8nfSApCiAgZW5kCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGAuL3NjcmlwdC9wcm9tb3RlX2Fubm91bmNlbWVudF9waWN0dXJlcy5zaGAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBjb2xsZWN0aW9uX2FjdGlvbiA6cHJvbW90ZV9zdGFnaW5nLCBtZXRob2Q6IDpwb3N0IGRvCiAgICByZWRpcmVjdF90byBhZG1pbl9hbm5vdW5jZW1lbnRzX3BhdGgsIG5vdGljZTogJ+ODl+ODreODouODvOODiOOCkuWun+ihjOOBl+OBvuOBl+OBnycKICBlbmQK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">U1RBR0lOR19NWVNRTF9VU0VSX05BTUU9cmVhZG9ubHkKU1RBR0lOR19NWVNRTF9ST09UX1BBU1NXT1JEPSdrYWVyaXRhaScKU1RBR0lOR19NWVNRTF9IT1NUPTEyNy4wLjAuMQpTVEFHSU5HX01ZU1FMX1BPUlQ9MzMwNQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhY3Rpb25faXRlbShpbmRleCkgZG8KICAgIGxpbmtfdG8oJ1N0YWdpbmcg44GuIEFubm91bmNlbWVudCDjgpLjg5fjg63jg6Ljg7zjg4jjgZnjgosnLCB7IGFjdGlvbjogOnByb21vdGVfc3RhZ2luZyB9LAogICAgICAgICAgICBtZXRob2Q6IDpwb3N0LCBkYXRhOiB7IGNvbmZpcm06ICfmnKzlvZPjgavlrp/ooYzjgZfjgb7jgZnjgYvvvJ8nfSApCiAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
       </register>
     </registers>
     <search>
-      <last-search>master</last-search>
+      <last-search>3305</last-search>
       <last-offset />
-      <last-pattern>master</last-pattern>
+      <last-pattern>3305</last-pattern>
       <last-replace>set_cache</last-replace>
       <last-substitute>write_cache</last-substitute>
       <last-dir>1</last-dir>
@@ -1428,7 +1426,6 @@
     </search>
     <history>
       <history-search>
-        <entry>abort</entry>
         <entry>term</entry>
         <entry>rails</entry>
         <entry>record</entry>
@@ -1448,6 +1445,7 @@
         <entry encoding="base64">XDxDYXBhY2l0eU1hbmFnZW1lbnRcPg==</entry>
         <entry>master_class</entry>
         <entry>master</entry>
+        <entry>3305</entry>
       </history-search>
       <history-cmd>
         <entry>action FindNext</entry>
