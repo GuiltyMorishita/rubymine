@@ -99,12 +99,11 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/admin/announcement.rb" timestamp="1505116723071">
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/admin/announcement.rb" timestamp="1505119987188">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="20" column="12" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="33" column="74" />
+        <mark key="[" line="38" column="125" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/app/models/ranking/match.rb" timestamp="1502674830993">
         <mark key="[" line="72" column="38" />
@@ -452,11 +451,11 @@
         <mark key="^" line="68" column="54" />
         <mark key="." line="68" column="54" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/app/views/admin/announcements/appoint_announcements.html.erb" timestamp="1505115350130">
-        <mark key="[" line="2" column="55" />
-        <mark key="]" line="4" column="37" />
-        <mark key="." line="4" column="37" />
-        <mark key="^" line="4" column="37" />
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/app/views/admin/announcements/appoint_announcements.html.erb" timestamp="1505119121539">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="25" />
+        <mark key="." line="3" column="25" />
+        <mark key="^" line="3" column="25" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/views/users/show.html.erb" timestamp="1481376777174">
         <mark key="[" line="0" column="0" />
@@ -1395,16 +1394,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>appoint_annoucements_admin_announcements_path</text>
       </register>
       <register name="/" type="4">
         <text>ANNOUNCEMENT_IDS</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBhY3Rpb25faXRlbShpbmRleCkgZG8KICAgIGxpbmtfdG8oJ1N0YWdpbmcg44GuIEFubm91bmNlbWVudHMg44KS44Kz44OU44O844GZ44KLJywgeyBhY3Rpb246IDphcHBvaW50X2Fubm91bmNlbWVudHMgfSwgbWV0aG9kOiA6Z2V0KQogIGVuZAo=</text>
+        <text encoding="base64">ICAgIHJlZGlyZWN0X3RvIGFkbWluX2Fubm91bmNlbWVudHNfcGF0aCwgbm90aWNlOiAnQW5ub3VuY2VtZW50cyDjgpLjgrPjg5Tjg7zjgZfjgb7jgZfjgZ8nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb2xsZWN0aW9uX2FjdGlvbiA6cHVzaF9hbm5vdW5jZW1lbnRzLCBtZXRob2Q6IDpwb3N0IGRvCiAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1418,31 +1417,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhY3Rpb25faXRlbShpbmRleCkgZG8KICAgIGxpbmtfdG8oJ1N0YWdpbmcg44GuIEFubm91bmNlbWVudHMg44KScHVzaOOBmeOCiycsIHsgYWN0aW9uOiA6cHVzaF9hbm5vdW5jZW1lbnRzIH0sIG1ldGhvZDogOnBvc3QpCiAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICByZWRpcmVjdF90byBhcHBvaW50X2Fubm91Y2VtZW50c19hZG1pbl9hbm5vdW5jZW1lbnRzX3BhdGgsIGZsYXNoOiB7IHdhcm5pbmc6ICJJRDogI3thbm5vdW5jZW1lbnRfZGF0YVs6aWRdfSDjga/ml6LjgavlrZjlnKjjgZfjgb7jgZkiIH0KICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlZGlyZWN0X3RvIGFkbWluX2Fubm91bmNlbWVudHNfcGF0aCwgbm90aWNlOiAnQW5ub3VuY2VtZW50cyDjgpLjgrPjg5Tjg7zjgZfjgb7jgZfjgZ8nCg==</text>
+        <text encoding="base64">ICAgICAgICBhbm5vdW5jZW1lbnQudXBkYXRlX2F0dHJpYnV0ZXMoYW5ub3VuY2VtZW50X2RhdGEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFubm91bmNlbWVudF9pZHMgPSAnMTg3LDE4NSwxODQnCg==</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1dHMgaWRzCg==</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFubm91bmNlbWVudF9pZHMgPSAnMTg3LDE4NSwxODQnCiAgICBgQU5OT1VOQ0VNRU5UX0lEUz0je2Fubm91bmNlbWVudF9pZHN9IC4vc2NyaXB0L2NvcHlfYW5ub3VuY2VtZW50cy5zaGAKICAgIG91dHB1dF9maWxlX3BhdGggPSAiLi90bXAvYW5ub3VuY2VtZW50cy50c3YiCiAgICBDU1YuZm9yZWFjaChvdXRwdXRfZmlsZV9wYXRoLCBjb2xfc2VwOiAiXHQiKSBkbyB8cm93fAogICAgICBwcCByb3cKICAgICAgaW5kZXggPSAwCiAgICAgIGFubm91bmNlbWVudCA9IEFubm91bmNlbWVudC5uZXcoaWQ6IHJvd1tpbmRleF0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGU6IHJvd1tpbmRleCArPSAxXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYXRlZ29yeTogcm93W2luZGV4ICs9IDFdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBsYXRmb3JtOiByb3dbaW5kZXggKz0gMV0udG9faSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBiYW5uZXJfaW1hZ2VfcGF0aDogcm93W2luZGV4ICs9IDFdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRlbnQ6IHJvd1tpbmRleCArPSAxXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcmlvcml0eTogcm93W2luZGV4ICs9IDFdLnRvX2ksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RhcnRfYXQ6IHJvd1tpbmRleCArPSAxXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbmRfYXQ6IHJvd1tpbmRleCArPSAxXSkKICAgICAgdW5sZXNzIGFubm91bmNlbWVudC5zYXZlCiAgICAgICAgcmVkaXJlY3RfdG8gYWRtaW5fYW5ub3VuY2VtZW50c19wYXRoLCBmbGFzaDogeyB3YXJuaW5nOiAn44Kz44OU44O85aSx5pWXJyB9CiAgICAgICAgcmV0dXJuCiAgICAgIGVuZAogICAgZW5kCiAgICByZWRpcmVjdF90byBhZG1pbl9hbm5vdW5jZW1lbnRzX3BhdGgsIG5vdGljZTogJ0Fubm91bmNlbWVudHMg44KS44Kz44OU44O844GX44G+44GX44GfJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGAuL3NjcmlwdC9jb3B5X2Fubm91bmNlbWVudHMuc2hgCiAgICBvdXRwdXRfZmlsZV9wYXRoID0gIi4vdG1wL2Fubm91bmNlbWVudHMudHN2IgogICAgQ1NWLmZvcmVhY2gob3V0cHV0X2ZpbGVfcGF0aCwgY29sX3NlcDogIlx0IikgZG8gfHJvd3wKICAgICAgcHAgcm93CiAgICAgIGluZGV4ID0gMAogICAgICBhbm5vdW5jZW1lbnQgPSBBbm5vdW5jZW1lbnQubmV3KGlkOiByb3dbaW5kZXhdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRpdGxlOiByb3dbaW5kZXggKz0gMV0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2F0ZWdvcnk6IHJvd1tpbmRleCArPSAxXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwbGF0Zm9ybTogcm93W2luZGV4ICs9IDFdLnRvX2ksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYmFubmVyX2ltYWdlX3BhdGg6IHJvd1tpbmRleCArPSAxXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250ZW50OiByb3dbaW5kZXggKz0gMV0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJpb3JpdHk6IHJvd1tpbmRleCArPSAxXS50b19pLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXJ0X2F0OiByb3dbaW5kZXggKz0gMV0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZW5kX2F0OiByb3dbaW5kZXggKz0gMV0pCiAgICAgIHVubGVzcyBhbm5vdW5jZW1lbnQuc2F2ZQogICAgICAgIHJlZGlyZWN0X3RvIGFkbWluX2Fubm91bmNlbWVudHNfcGF0aCwgZmxhc2g6IHsgd2FybmluZzogJ+OCs+ODlOODvOWkseaVlycgfQogICAgICAgIHJldHVybgogICAgICBlbmQKICAgIGVuZAogICAgcmVkaXJlY3RfdG8gYWRtaW5fYW5ub3VuY2VtZW50c19wYXRoLCBub3RpY2U6ICdBbm5vdW5jZW1lbnRzIOOCkuOCs+ODlOODvOOBl+OBvuOBl+OBnycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5ub3VuY2VtZW50LnVwZGF0ZV9hdHRyaWJ1dGVzKGFubm91bmNlbWVudF9kYXRhKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1dHMgaWRzCg==</text>
+        <text encoding="base64">ICAgIHB1dHMgcGFyYW1zWzpjb3B5X2Fubm91bmNlbWVudHNdWzpvdmVyd3JpdGVdCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseContent</text>
+        <text>redo</text>
       </register>
     </registers>
     <search>
@@ -1491,10 +1490,10 @@
         <entry>%s/set/write/g</entry>
         <entry>%s/write_cache/set_cache/g</entry>
         <entry>q</entry>
-        <entry>redo</entry>
         <entry>action FileStructurePopup</entry>
         <entry>w</entry>
         <entry>action CloseContent</entry>
+        <entry>redo</entry>
       </history-cmd>
       <history-expr />
       <history-input />
