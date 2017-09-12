@@ -127,11 +127,10 @@
       <file name="/fragment.rb" timestamp="1501638085924">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/copy_announcements.sh" timestamp="1505194399312">
-        <mark key="[" line="7" column="113" />
-        <mark key="]" line="7" column="83" />
-        <mark key="." line="7" column="83" />
-        <mark key="^" line="7" column="83" />
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/copy_announcements.sh" timestamp="1505195665405">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/spec/spec_helper.rb" timestamp="1498813539521">
         <mark key="[" line="93" column="26" />
@@ -306,7 +305,7 @@
         <text>staging-masterdbauroracluster-1l8nlnf5dr6w2.cluster-cxzjfzr9wxgy.ap-northeast-1.rds.amazonaws.com</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I3JtIC1mICR7T1VUUFVUX0ZJTEVfUEFUSH0K</text>
+        <text encoding="base64">CgoKCgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -323,28 +322,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">IyEvYmluL2Jhc2gKc2V0IC1ldQpzb3VyY2UgL2FwcC9zY3JpcHQvY29tbW9uLnNoCgpPVVRQVVRfRklMRV9OQU1FPSJhbm5vdW5jZW1lbnRzLnRzdiIKT1VUUFVUX0ZJTEVfUEFUSD0iL2FwcC90bXAvJHtPVVRQVVRfRklMRV9OQU1FfSIKCnNzaCAtZiAtTiAtTCAke0xPQ0FMX01ZU1FMX1BPUlR9OiR7U1RBR0lOR19NWVNRTF9IT1NUfToke1NUQUdJTkdfTVlTUUxfUE9SVH0gXAotaSAvYXBwLy5zc2gvdHN1YmFzYS1kZXZlbG9wbWVudC5wZW0gXAotb1N0cmljdEhvc3RLZXlDaGVja2luZz1ubyBcCmVjMi11c2VyQGFkbWluLnN0YWdpbmcudHN1YmFzYS5kZXYtYWt0c2submV0CnN0YWdpbmdfbXlzcWxfY21kICJTRUxFQ1QgKiBGUk9NIGFubm91bmNlbWVudHMgV0hFUkUgaWQgaW4gKCR7QU5OT1VOQ0VNRU5UX0lEU30pIiB8IHRyIC1kICdccicgPiAke09VVFBVVF9GSUxFX1BBVEh9CnBzIGF1eCB8IGdyZXAgJ3NzaCAtZicgfCBncmVwIC12IGdyZXAgfCBhd2sgJ3sgcHJpbnQgImtpbGwgLTkiLCAkMiB9JyB8IHNoCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">I3JtIC1mICR7T1VUUFVUX0ZJTEVfUEFUSH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpcmVjdF90byBhcHBvaW50X2Fubm91Y2VtZW50c19hZG1pbl9hbm5vdW5jZW1lbnRzX3BhdGgsIGZsYXNoOiB7IHdhcm5pbmc6ICJJRDogI3thbm5vdW5jZW1lbnRfZGF0YVs6aWRdfSDjga/ml6LjgavlrZjlnKjjgZfjgb7jgZkiIH0KICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbm5vdW5jZW1lbnQudXBkYXRlX2F0dHJpYnV0ZXMoYW5ub3VuY2VtZW50X2RhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICByZWRpcmVjdF90byBhcHBvaW50X2Fubm91Y2VtZW50c19hZG1pbl9hbm5vdW5jZW1lbnRzX3BhdGgsIGZsYXNoOiB7IHdhcm5pbmc6ICJJRDogI3thbm5vdW5jZW1lbnRfZGF0YVs6aWRdfSDjga/ml6LjgavlrZjlnKjjgZfjgb7jgZkiIH0KICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBhbm5vdW5jZW1lbnQudXBkYXRlX2F0dHJpYnV0ZXMoYW5ub3VuY2VtZW50X2RhdGEpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>redo</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -394,9 +393,9 @@
         <entry>%s/write_cache/set_cache/g</entry>
         <entry>q</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>w</entry>
         <entry>action CloseContent</entry>
         <entry>redo</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
