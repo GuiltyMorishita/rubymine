@@ -13,7 +13,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/app/views/admin/user_statuses/debug_utilities.html.erb" timestamp="1505115051258" />
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/common.sh" timestamp="1505179100500">
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/common.sh" timestamp="1505184783178">
         <mark key="[" line="8" column="64" />
         <mark key="]" line="8" column="61" />
         <mark key="." line="8" column="61" />
@@ -80,10 +80,10 @@
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/config/environments/production.rb" timestamp="1489542314284">
         <mark key="[" line="77" column="10" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/.env" timestamp="1505180669092">
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/.env" timestamp="1505184839780">
         <mark key="'" line="9" column="22" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="10" column="22" />
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="115" />
         <mark key="." line="7" column="4" />
         <mark key="^" line="7" column="4" />
       </file>
@@ -302,8 +302,8 @@
       <register name="/" type="4">
         <text>ANNOUNCEMENT_IDS</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">U1RBR0lOR19NWVNRTF9VU0VSX05BTUU9cmVhZG9ubHkKU1RBR0lOR19NWVNRTF9ST09UX1BBU1NXT1JEPWthZXJpdGFpCkxPQ0FMX01ZU1FMX0hPU1Q9MTI3LjAuMC4xClNUQUdJTkdfTVlTUUxfSE9TVD1zdGFnaW5nLW1hc3RlcmRiYXVyb3JhY2x1c3Rlci0xbDhubG5mNWRyNncyLmNsdXN0ZXItY3h6amZ6cjl3eGd5LmFwLW5vcnRoZWFzdC0xLnJkcy5hbWF6b25hd3MuY29tCkxPQ0FMX01ZU1FMX1BPUlQ9MzMwNQpTVEFHSU5HX01ZU1FMX1BPUlQ9MzMwNgo=</text>
+      <register name="0" type="4">
+        <text>staging-masterdbauroracluster-1l8nlnf5dr6w2.cluster-cxzjfzr9wxgy.ap-northeast-1.rds.amazonaws.com</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">I3JtIC1mICR7T1VUUFVUX0ZJTEVfUEFUSH0K</text>
