@@ -99,7 +99,7 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/admin/announcement.rb" timestamp="1505135079531">
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/admin/announcement.rb" timestamp="1505177311051">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="35" column="51" />
         <mark key="]" line="35" column="55" />
@@ -895,11 +895,11 @@
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/copy_announcements.sh" timestamp="1505134316069">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="0" />
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/copy_announcements.sh" timestamp="1505177854810">
+        <mark key="[" line="9" column="72" />
+        <mark key="]" line="9" column="72" />
+        <mark key="." line="9" column="72" />
+        <mark key="^" line="9" column="72" />
       </file>
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/Gemfile" timestamp="1494474780232">
         <mark key="[" line="40" column="30" />
@@ -1371,7 +1371,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>ANNOUNCEMENT_IDS</text>
@@ -1380,7 +1380,7 @@
         <text encoding="base64">ICAgIHJlZGlyZWN0X3RvIGFkbWluX2Fubm91bmNlbWVudHNfcGF0aCwgbm90aWNlOiAnQW5ub3VuY2VtZW50cyDjgpLjgrPjg5Tjg7zjgZfjgb7jgZfjgZ8nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">I3JtIC1mICR7T1VUUFVUX0ZJTEVfUEFUSH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1394,28 +1394,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpcmVjdF90byBhcHBvaW50X2Fubm91Y2VtZW50c19hZG1pbl9hbm5vdW5jZW1lbnRzX3BhdGgsIGZsYXNoOiB7IHdhcm5pbmc6ICJJRDogI3thbm5vdW5jZW1lbnRfZGF0YVs6aWRdfSDjga/ml6LjgavlrZjlnKjjgZfjgb7jgZkiIH0KICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbm5vdW5jZW1lbnQudXBkYXRlX2F0dHJpYnV0ZXMoYW5ub3VuY2VtZW50X2RhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICByZWRpcmVjdF90byBhcHBvaW50X2Fubm91Y2VtZW50c19hZG1pbl9hbm5vdW5jZW1lbnRzX3BhdGgsIGZsYXNoOiB7IHdhcm5pbmc6ICJJRDogI3thbm5vdW5jZW1lbnRfZGF0YVs6aWRdfSDjga/ml6LjgavlrZjlnKjjgZfjgb7jgZkiIH0KICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICBhbm5vdW5jZW1lbnQudXBkYXRlX2F0dHJpYnV0ZXMoYW5ub3VuY2VtZW50X2RhdGEpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5ub3VuY2VtZW50LnVwZGF0ZV9hdHRyaWJ1dGVzKGFubm91bmNlbWVudF9kYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1dHMgcGFyYW1zWzpjb3B5X2Fubm91bmNlbWVudHNdWzpvdmVyd3JpdGVdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>redo</text>
