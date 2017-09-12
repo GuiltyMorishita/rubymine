@@ -240,7 +240,10 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/sync_announcement_pictures.sh" timestamp="1505214745156" />
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/sync_announcement_pictures.sh" timestamp="1505215607000">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="160" />
+      </file>
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/db/migrate/20170628015920_add_lock_version_to_cart_items_infomation.rb" timestamp="1498616084616">
         <mark key="[" line="2" column="63" />
         <mark key="]" line="0" column="41" />
@@ -1278,8 +1281,8 @@
       <register name="/" type="4">
         <text>ANNOUNCEMENT_IDS</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">fCBoZWFkIC1uIDEg</text>
+      <register name="0" type="2">
+        <text encoding="base64">YXdzIHMzIHN5bmMgLS1yZWdpb24gYXAtbm9ydGhlYXN0LTEgLS1hY2wgcHVibGljLXJlYWQgczM6Ly90c3ViYXNhLXdlYmFzc2V0LWRldmVsb3BtZW50L2Fubm91bmNlbWVudF9waWN0dXJlcyBzMzovL3RzdWJhc2Etd2ViYXNzZXQtc2FuZGJveC9hbm5vdW5jZW1lbnRfcGljdHVyZXMK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c3NoIC1vIFN0cmljdEhvc3RLZXlDaGVja2luZz1ubyAke1NUQUdJTkdfSE9TVH0gJ2Jhc2gnIDwgJHtTQ1JJUFRfRklMRV9QQVRIfSB8IGhlYWQgLW4gMSA+ICR7T1VUUFVUX0ZJTEVfUEFUSH0K</text>
