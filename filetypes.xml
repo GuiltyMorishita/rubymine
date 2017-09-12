@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="helps" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
+      <mapping ext="tsv" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

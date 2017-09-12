@@ -4,11 +4,10 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/app/views/admin/user_statuses/debug_utilities.html.erb" timestamp="1505115051258" />
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/common.sh" timestamp="1505200366716">
-        <mark key="[" line="8" column="51" />
-        <mark key="]" line="8" column="50" />
-        <mark key="." line="8" column="50" />
-        <mark key="^" line="8" column="50" />
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/common.sh" timestamp="1505212492110">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/app/models/announcement.rb" timestamp="1505108843279">
         <mark key="[" line="4" column="0" />
@@ -18,17 +17,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="8" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/admin/announcement.rb" timestamp="1505199566580">
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/admin/announcement.rb" timestamp="1505212437749">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="27" column="80" />
-        <mark key="]" line="27" column="69" />
-        <mark key="." line="27" column="69" />
-        <mark key="^" line="27" column="69" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/promote_announcement_pictures.sh" timestamp="1505095160175">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="6" />
-        <mark key="." line="3" column="0" />
+        <mark key="[" line="29" column="45" />
+        <mark key="]" line="29" column="52" />
+        <mark key="." line="29" column="52" />
+        <mark key="^" line="29" column="52" />
       </file>
       <file name="$USER_HOME$/Ebios/Akatsuki/RPG/wiz-birthday-bot/birthday_bot.rb" timestamp="1505126497184">
         <mark key="[" line="88" column="4" />
@@ -49,22 +43,26 @@
         <mark key="^" line="3" column="25" />
       </file>
       <file name="$USER_HOME$/Ebios/Akatsuki/RPG/wiz-birthday-bot/config.json" timestamp="1505123182844" />
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/.env" timestamp="1505184839780">
-        <mark key="'" line="9" column="22" />
-        <mark key="[" line="8" column="19" />
-        <mark key="]" line="8" column="115" />
-        <mark key="." line="7" column="4" />
-        <mark key="^" line="7" column="4" />
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/.env" timestamp="1505212743362">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="11" />
+        <mark key="." line="80" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/tmp/announcements.tsv" timestamp="1505208479895">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/admin/user_status.rb" timestamp="1505114309701">
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="48" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/copy_announcements.sh" timestamp="1505200457632">
-        <mark key="[" line="7" column="81" />
-        <mark key="]" line="7" column="80" />
-        <mark key="." line="7" column="80" />
-        <mark key="^" line="7" column="80" />
+      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/copy_announcements.sh" timestamp="1505212757217">
+        <mark key="[" line="11" column="47" />
+        <mark key="]" line="11" column="47" />
+        <mark key="^" line="11" column="46" />
+        <mark key="." line="11" column="47" />
       </file>
       <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/transfer_masterdata_to_bq.sh" timestamp="1505112510586">
         <mark key="[" line="7" column="40" />
@@ -87,8 +85,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/config/routes.rb" />
-      <jump line="18" column="32" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/client_version_spec.rb" />
       <jump line="14" column="16" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/client_version_spec.rb" />
       <jump line="60" column="13" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/client_version_spec.rb" />
       <jump line="27" column="18" filename="$USER_HOME$/Ebios/TSUBASA/tsubasa-server/spec/models/client_version_spec.rb" />
@@ -187,6 +183,8 @@
       <jump line="51" column="0" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/admin/announcement.rb" />
       <jump line="39" column="7" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/admin/announcement.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/admin/announcement.rb" />
+      <jump line="14" column="67" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/script/copy_announcements.sh" />
+      <jump line="5" column="0" filename="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/.env" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -200,13 +198,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>SETTING</text>
+        <text>admin.staging.tsubasa.dev-aktsk.net</text>
       </register>
       <register name="/" type="4">
         <text>ANNOUNCEMENT_IDS</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">c3RhZ2luZ19teXNxbF9jbWQgIlNFTEVDVCAqIEZST00gYW5ub3VuY2VtZW50cyBXSEVSRSBpZCBpbiAoJHtBTk5PVU5DRU1FTlRfSURTfSkiIHwgdHIgLWQgJ1xyJyA+ICR7T1VUUFVUX0ZJTEVfUEFUSH0K</text>
+      <register name="0" type="4">
+        <text>STAGING_HOST</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -223,31 +221,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyMjIE1ZU1FMIENMSUVOVCBGT1IgQURNSU4gQU5OT1VOQ0VNRU5UUyAjIyMKUlVOIHNlZCAtaSAtZSAicy9cKFxbY2xpZW50XF1cKS9cMVxuZGVmYXVsdC1jaGFyYWN0ZXItc2V0ID0gdXRmOC9nIiAvZXRjL215c3FsL215LmNuZgo=</text>
+        <text encoding="base64">U1RBR0lOR19IT1NUPWFkbWluLnN0YWdpbmcudHN1YmFzYS5kZXYtYWt0c2submV0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UlVOIHNlZCAtaSAtZSAicy9cKFxbbXlzcWxkdW1wXF1cKS9cMVxuZGVmYXVsdC1jaGFyYWN0ZXItc2V0ID0gdXRmOC9nIiAvZXRjL215c3FsL215LmNuZgpSVU4gc2VkIC1pIC1lICJzL1woXFtteXNxbFxdXCkvXDFcbmRlZmF1bHQtY2hhcmFjdGVyLXNldCA9IHV0ZjgvZyIgL2V0Yy9teXNxbC9teS5jbmYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UlVOIHNlZCAtaSAtZSAicy9cKFxbbXlzcWxkXF1cKS9cMVxuY2hhcmFjdGVyLXNldC1zZXJ2ZXIgPSB1dGY4L2ciIC9ldGMvbXlzcWwvbXkuY25mCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UlVOIHNlZCAtaSAtZSAicy9cKFxbbXlzcWxkdW1wXF1cKS9cMVxuZGVmYXVsdC1jaGFyYWN0ZXItc2V0ID0gdXRmOC9nIiAvZXRjL215c3FsL215LmNuZgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UlVOIHNlZCAtaSAtZSAicy9cKFxbbXlzcWxkXF1cKS9cMVxuY2hhcmFjdGVyLXNldC1zZXJ2ZXIgPSB1dGY4L2ciIC9ldGMvbXlzcWwvbXkuY25mCg==</text>
+        <text encoding="base64">I3BzIGF1eCB8IGdyZXAgJ3NzaCAtZicgfCBncmVwIC12IGdyZXAgfCBhd2sgJ3sgcHJpbnQgImtpbGwgLTkiLCAkMiB9JyB8IHNoCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyMjIE1ZU1FMIFNFVFRJTkcgIyMjClJVTiBzZWQgLWkgLWUgInMvXChcW215c3FsZFxdXCkvXDFcbmNoYXJhY3Rlci1zZXQtc2VydmVyID0gdXRmOC9nIiAvZXRjL215c3FsL215LmNuZgpSVU4gc2VkIC1pIC1lICJzL1woXFtjbGllbnRcXVwpL1wxXG5kZWZhdWx0LWNoYXJhY3Rlci1zZXQgPSB1dGY4L2ciIC9ldGMvbXlzcWwvbXkuY25mClJVTiBzZWQgLWkgLWUgInMvXChcW215c3FsZHVtcFxdXCkvXDFcbmRlZmF1bHQtY2hhcmFjdGVyLXNldCA9IHV0ZjgvZyIgL2V0Yy9teXNxbC9teS5jbmYKUlVOIHNlZCAtaSAtZSAicy9cKFxbbXlzcWxcXVwpL1wxXG5kZWZhdWx0LWNoYXJhY3Rlci1zZXQgPSB1dGY4L2ciIC9ldGMvbXlzcWwvbXkuY25mCg==</text>
+        <text encoding="base64">c3RhZ2luZ19teXNxbF9jbWQoKSB7CiAgZWNobyAiUXVlcnk6ICQxIiA+JjIKICBNWVNRTF9QV0Q9IiRTVEFHSU5HX01ZU1FMX1JPT1RfUEFTU1dPUkQiIG15c3FsIC1CIC1oICIkTE9DQUxfTVlTUUxfSE9TVCIgLXUgIiRTVEFHSU5HX01ZU1FMX1VTRVJfTkFNRSIgLVAgIiRMT0NBTF9NWVNRTF9QT1JUIiAidHN1YmFzYV9wcm9kdWN0aW9uIiAtZSAiJDEiIHwgdGFpbCAtbiArMgogIFsgJHtQSVBFU1RBVFVTWzBdfSA9IDAgXSB8fCBleGl0IDEKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3RhZ2luZ19teXNxbF9jbWQgIlNFTEVDVCAqIEZST00gYW5ub3VuY2VtZW50cyBXSEVSRSBpZCBpbiAoJHtBTk5PVU5DRU1FTlRfSURTfSkiIHwgdHIgLWQgJ1xyJyA+ICR7T1VUUFVUX0ZJTEVfUEFUSH0K</text>
+        <text encoding="base64">U1RBR0lOR19NWVNRTF9VU0VSX05BTUU9cmVhZG9ubHkKU1RBR0lOR19NWVNRTF9ST09UX1BBU1NXT1JEPWthZXJpdGFpCkxPQ0FMX01ZU1FMX0hPU1Q9MTI3LjAuMC4xCg==</text>
       </register>
       <register name=":" type="4">
-        <text>redo</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -298,8 +296,8 @@
         <entry>q</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action CloseContent</entry>
-        <entry>w</entry>
         <entry>redo</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
