@@ -30,7 +30,6 @@
       <file name="/a.dummy" timestamp="1504258469161">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/app/views/admin/user_statuses/debug_utilities.html.erb" timestamp="1505115051258" />
       <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/app/assets/javascripts/application.js" timestamp="1481373425616">
         <mark key="[" line="14" column="12" />
         <mark key="]" line="14" column="17" />
@@ -439,7 +438,6 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="4" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/RPG/wiz-birthday-bot/functions.rb" timestamp="1505124401603" />
       <file name="$USER_HOME$/Ebios/Ruby/training2017-masataka.morishita/ec_site/app/views/payments/payment_choosing.html.erb" timestamp="1499361434437">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="45" column="10" />
@@ -458,7 +456,6 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/RPG/wiz-birthday-bot/config.json" timestamp="1505123182844" />
       <file name="$USER_HOME$/Ebios/Ruby/ruby-on-rails-g/PetsHuggy/config/environments/development.rb" timestamp="1481368518126">
         <mark key="[" line="52" column="63" />
         <mark key="]" line="52" column="1" />
@@ -598,8 +595,8 @@
         <mark key="^" line="8" column="36" />
       </file>
       <file name="$USER_HOME$/Ebios/Akatsuki/TSUBASA/tsubasa-server/lib/tasks/bq_schema.rake" timestamp="1505295711630">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="49" column="36" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="76" column="36" />
       </file>
       <file name="$USER_HOME$/Ebios/Ruby/helloworld/app/controllers/hello_controller.rb" timestamp="1493345589247">
         <mark key="[" line="1" column="11" />
@@ -971,7 +968,6 @@
       <file name="$USER_HOME$/Ebios/Ruby/exercise_app/db/migrate/20170428045343_create_user_clubs.rb" timestamp="1493357713923">
         <mark key="[" line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/RPG/wiz-birthday-bot/Gemfile" timestamp="1505123375031" />
       <file name="$USER_HOME$/Ebios/training2017-masataka.morishita/ec_site/config/puma.rb" timestamp="1489542324731">
         <mark key="[" line="6" column="27" />
       </file>
@@ -1149,7 +1145,6 @@
       <file name="/JavaScript Console" timestamp="1481364814156">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Akatsuki/RPG/wiz-birthday-bot/clock.rb" timestamp="1505123148765" />
       <file name="$USER_HOME$/Ebios/Ruby/tourhythm_api/Gemfile" timestamp="1478404611590">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="52" />
